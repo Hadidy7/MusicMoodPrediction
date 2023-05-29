@@ -1,0 +1,1000 @@
+id,name,artist,popularity,duration_ms,album,release_date,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,mood
+3NZJlJemX3mzjf56MqC5ML,Forever,Chris Brown,78,278573,Forever,4/29/2008,0.672,0.82,-4.456,0.0459,0.0368,0.000188,0.184,0.438,120.005,4,energetic
+6BePGk3eCan4FqaW2X8Qy3,10:35,Tiësto,89,172252,10:35,11/3/2022,0.696,0.793,-5.733,0.097,0.0683,3.78E-06,0.18,0.698,120.003,4,energetic
+3tyPOhuVnt5zd5kGfxbCyL,Where Have You Been,Rihanna,76,242680,Talk That Talk,11/19/2011,0.719,0.847,-6.34,0.0916,0.00201,0.0204,0.223,0.444,127.963,4,energetic
+2bJvI42r8EF3wxjOuDav4r,Time of Our Lives,Pitbull,82,229360,Globalization,11/21/2014,0.721,0.802,-5.797,0.0583,0.0921,0,0.694,0.724,124.022,4,energetic
+7ef4DlsgrMEH11cDZd32M6,One Kiss (with Dua Lipa),Calvin Harris,87,214846,One Kiss (with Dua Lipa),4/6/2018,0.791,0.862,-3.24,0.11,0.037,2.19E-05,0.0814,0.592,123.994,4,energetic
+190jyVPHYjAqEaOGmMzdyk,Beauty And A Beat,Justin Bieber,77,227986,Believe (Deluxe Edition),6/15/2012,0.602,0.843,-4.831,0.0593,0.000688,5.27E-05,0.0682,0.526,128.003,4,energetic
+21RzyxY3EFaxVy6K4RqaU9,Body,Loud Luxury,77,163216,Body,10/27/2017,0.752,0.764,-4.399,0.038,0.0476,9.44E-05,0.0543,0.582,121.958,4,energetic
+18asYwWugKjjsihZ0YvRxO,The Motto,Tiësto,84,164818,The Motto,11/4/2021,0.754,0.763,-4.627,0.0435,0.0301,2.23E-05,0.0901,0.464,117.953,4,energetic
+4TsmezEQVSZNNPv5RJ65Ov,Pon de Replay,Rihanna,81,246960,Music Of The Sun,8/29/2005,0.779,0.64,-8.415,0.159,0.000155,0.00077,0.101,0.498,99.019,4,energetic
+5YdnOm5990Kfq1Jodws98B,Call It Love,Felix Jaehn,83,154560,Call It Love,9/16/2022,0.616,0.841,-4.779,0.076,0.0559,0.00217,0.417,0.714,110.029,4,energetic
+0k1qJaNhF5yTZvd4E8NgKL,Never Forget You,Zara Larsson,37,213427,So Good,3/17/2017,0.583,0.732,-5.728,0.0457,0.00312,9.86E-06,0.269,0.276,145.992,4,energetic
+6ft4hAq6yde8jPZY2i5zLr,Paradise (feat. Dermot Kennedy),MEDUZA,78,167903,Paradise,10/30/2020,0.632,0.595,-7.644,0.0401,0.0689,0,0.209,0.435,124.114,4,energetic
+1D2ZNECRd7KIlA4pyOUGsv,What Would You Do?,Joel Corry,71,174215,What Would You Do?,3/18/2022,0.687,0.895,-2.983,0.0474,0.149,0.00592,0.121,0.686,124.041,4,energetic
+5YaskwnGDZFDRipaqzbwQx,Your Love (9PM),ATB,78,150052,Your Love (9PM),1/15/2021,0.669,0.784,-5.603,0.112,0.194,6.28E-06,0.115,0.517,125.993,4,energetic
+1vvNmPOiUuyCbgWmtc6yfm,My Way,Calvin Harris,79,219159,My Way,9/16/2016,0.818,0.913,-3.06,0.0426,0.093,3.69E-05,0.161,0.536,119.986,4,energetic
+2ENexcMEMsYk0rVJigVD3i,Only Girl (In The World),Rihanna,83,235493,Loud (Japan Version),1/1/2010,0.789,0.706,-4.233,0.0429,0.112,1.71E-05,0.0586,0.638,125.911,4,energetic
+48QmG1dfvMuYLxMPt7KSRA,No Lie,Sean Paul,83,221176,Mad Love The Prequel,6/29/2018,0.742,0.882,-2.862,0.117,0.0466,0,0.206,0.463,102.04,4,energetic
+4kte3OcW800TPvOVgrLLj8,Let Me Love You (Until You Learn To Love Yourself),Ne-Yo,69,251626,R.E.D. (Deluxe Edition),1/1/2012,0.658,0.677,-6.628,0.0393,0.248,0,0.368,0.248,124.91,4,energetic
+5TbzAWWc5eJaANpA9kfGCd,Love Me Again,John Newman,78,239894,Tribute,1/1/2013,0.495,0.894,-4.814,0.0441,0.00453,0.000596,0.103,0.213,126.03,4,energetic
+4uUG5RXrOk84mYEfFvj3cK,I'm Good (Blue),David Guetta,94,175238,I'm Good (Blue),8/26/2022,0.561,0.965,-3.673,0.0343,0.00383,7.07E-06,0.371,0.304,128.04,4,energetic
+6ic8OlLUNEATToEFU3xmaH,Gimme More,Britney Spears,81,251240,Blackout,10/25/2007,0.788,0.844,-3.131,0.0334,0.25,0.000678,0.0723,0.382,113.324,4,energetic
+0siYMEsGrzzzlWLXK5zJfS,BED,Joel Corry,75,178087,BED,2/26/2021,0.671,0.782,-4.593,0.0341,0.0142,0.00221,0.333,0.618,123.989,4,energetic
+2VOomzT6VavJOGBeySqaMc,Disturbia,Rihanna,80,238626,Good Girl Gone Bad: Reloaded,6/2/2008,0.707,0.813,-4.515,0.0571,0.0863,0,0.168,0.722,124.921,4,energetic
+0qaWEvPkts34WF68r8Dzx9,Turn Me On (feat. Vula),Riton,72,208473,Turn Me On (feat. Vula),9/13/2019,0.737,0.828,-4.711,0.0396,0.0149,0.000588,0.0862,0.517,124.051,4,energetic
+0azC730Exh71aQlOt9Zj3y,This Is What You Came For,Calvin Harris,84,222160,This Is What You Came For,4/29/2016,0.631,0.927,-2.787,0.0332,0.199,0.119,0.148,0.465,123.962,4,energetic
+3w3y8KPTfNeOKPiqUTakBh,Locked out of Heaven,Bruno Mars,88,233478,Unorthodox Jukebox,12/7/2012,0.726,0.698,-4.165,0.0431,0.049,0,0.309,0.867,143.994,4,energetic
+0e8nrvls4Qqv5Rfa2UhqmO,THATS WHAT I WANT,Lil Nas X,84,143901,MONTERO,9/17/2021,0.737,0.846,-4.51,0.22,0.00614,0,0.0486,0.546,87.981,4,energetic
+4LRPiXqCikLlN15c3yImP7,As It Was,Harry Styles,92,167303,As It Was,3/31/2022,0.52,0.731,-5.338,0.0557,0.342,0.00101,0.311,0.662,173.93,4,energetic
+0ByMNEPAPpOR5H69DVrTNy,Don't Stop The Music,Rihanna,82,267080,Good Girl Gone Bad: Reloaded,6/2/2008,0.835,0.669,-5.582,0.0643,0.0336,6.92E-05,0.0535,0.542,122.668,4,energetic
+4gbVRS8gloEluzf0GzDOFc,Maps,Maroon 5,85,189960,V,9/2/2014,0.742,0.713,-5.522,0.0303,0.0205,0,0.059,0.879,120.032,4,energetic
+2Sh4sAOfnSHEVKFyysxzat,Can't Remember to Forget You (feat. Rihanna),Shakira,71,206866,Shakira. (Expanded Edition),3/14/2014,0.694,0.81,-3.556,0.0661,0.122,0,0.141,0.824,137.968,4,energetic
+3bidbhpOYeV4knp8AIu8Xn,Can't Hold Us (feat. Ray Dalton),Macklemore & Ryan Lewis,83,258342,The Heist,10/9/2012,0.641,0.922,-4.457,0.0786,0.0291,0,0.0862,0.847,146.078,4,energetic
+76FZM38RC8XaAjJ77CVTNe,Into You,Ariana Grande,79,244453,Dangerous Woman,4/1/2016,0.623,0.734,-5.95,0.107,0.0162,1.90E-06,0.145,0.372,107.853,4,energetic
+3H7ihDc1dqLriiWXwsc2po,Breaking Me,Topic,78,166793,Breaking Me,12/19/2019,0.789,0.72,-5.652,0.218,0.223,0,0.129,0.664,122.031,4,energetic
+4356Typ82hUiFAynbLYbPn,DJ Got Us Fallin' In Love (feat. Pitbull),Usher,81,220800,Raymond v Raymond (Expanded Edition),3/30/2010,0.663,0.861,-3.398,0.109,0.0338,0,0.082,0.654,119.963,4,energetic
+2oENJa1T33GJ0w8dC167G4,Fire Burning,Sean Kingston,72,239986,Tomorrow,9/7/2009,0.839,0.804,-2.513,0.0329,0.0192,0,0.331,0.888,122.973,4,energetic
+1NpW5kyvO4XrNJ3rnfcNy3,Wild Ones (feat. Sia),Flo Rida,80,232946,Wild Ones,6/22/2012,0.608,0.86,-5.324,0.0554,0.0991,0,0.262,0.437,127.075,4,energetic
+5NyS3oxTlos3Agl2YtZwrC,RITMO (Bad Boys For Life),Black Eyed Peas,65,214854,TRANSLATION,11/2/2020,0.732,0.716,-6.968,0.0561,0.0295,0.000758,0.73,0.666,105.093,4,energetic
+6cx06DFPPHchuUAcTxznu9,Head & Heart (feat. MNEK),Joel Corry,80,166028,Head & Heart (feat. MNEK),7/3/2020,0.734,0.874,-3.158,0.0662,0.168,1.14E-05,0.0489,0.905,122.953,4,energetic
+2iJuuzV8P9Yz0VSurttIV5,Scream & Shout,will.i.am,79,283400,#willpower,1/1/2013,0.772,0.685,-6.849,0.0696,0.019,8.96E-05,0.131,0.501,130.033,4,energetic
+5HCyWlXZPP0y6Gqq8TgA20,STAY (with Justin Bieber),The Kid LAROI,87,141805,STAY (with Justin Bieber),7/9/2021,0.591,0.764,-5.484,0.0483,0.0383,0,0.103,0.478,169.928,4,energetic
+3C0nOe05EIt1390bVABLyN,On The Floor,Jennifer Lopez,80,284866,Love?,1/1/2011,0.73,0.777,-5.194,0.0496,0.105,0.000478,0.0691,0.575,130,4,energetic
+3Dzso9Q2WwupEclqgxBZht,Pumped Up Kicks,Madism,73,145161,Pumped Up Kicks,8/21/2020,0.669,0.687,-4.753,0.043,0.152,1.60E-05,0.308,0.386,123.903,4,energetic
+5WHTFyqSii0lmT9R21abT8,Don't Call Me Up,Mabel,77,178480,Ivy To Roses (Mixtape),1/18/2019,0.674,0.881,-2.853,0.147,0.296,3.01E-06,0.0793,0.234,98.994,4,energetic
+14uKsvPJ0quzQvdB6f7Dur,Call on Me (Ryan Riback Remix),Starley,64,222040,Call on Me (Remixes),9/23/2016,0.67,0.839,-4.023,0.036,0.0607,0.000764,0.159,0.726,105.002,4,energetic
+6ebkx7Q5tTxrCxKq4GYj0Y,Club Can't Handle Me (feat. David Guetta),Flo Rida,78,234560,Only One Flo (Part 1),11/24/2010,0.616,0.869,-3.911,0.0327,0.0283,0,0.064,0.473,127.966,4,energetic
+4uQY80TKE1u4ZQZQKHzVEi,The One That Got Away,Katy Perry,78,227333,Teenage Dream,8/24/2010,0.691,0.795,-4.021,0.0355,0.000812,1.02E-06,0.156,0.876,133.971,4,energetic
+5N4erncE7kuUccm7zEmwzk,Electricity (with Dua Lipa),Silk City,73,238173,Electricity (with Dua Lipa),9/6/2018,0.588,0.67,-6.439,0.0473,0.0104,3.33E-06,0.338,0.505,118.159,4,energetic
+2bL2gyO6kBdLkNSkxXNh6x,Animals,Maroon 5,82,231013,V,9/2/2014,0.279,0.742,-6.46,0.0898,0.000185,0,0.593,0.328,189.868,4,energetic
+0VjIjW4GlUZAMYd2vXMi3b,Blinding Lights,The Weeknd,92,200040,After Hours,3/20/2020,0.514,0.73,-5.934,0.0598,0.00146,9.54E-05,0.0897,0.334,171.005,4,energetic
+2LEF1A8DOZ9wRYikWgVlZ8,Good Feeling,Flo Rida,78,248133,Wild Ones,6/22/2012,0.706,0.89,-4.444,0.0688,0.0588,0.00286,0.306,0.684,128.011,4,energetic
+6h5PAsRni4IRlxWr6uDPTP,More Than You Know,Axwell /\ Ingrosso,81,203000,More Than You Know,7/28/2017,0.646,0.741,-4.973,0.034,0.0275,0,0.312,0.571,123.077,4,energetic
+6kopmMZiyLmw7h66uXcXR7,Valerie (feat. Amy Winehouse) - Version Revisited,Mark Ronson,77,219413,Version,4/16/2007,0.699,0.83,-4.898,0.0633,0.00243,0.00024,0.0995,0.889,105.809,4,energetic
+3mbaod7ARSaS3fr5mOMkk1,One Last Time,Ariana Grande,50,197266,My Everything,8/25/2014,0.628,0.593,-5.036,0.0323,0.093,1.65E-06,0.096,0.104,125.026,4,energetic
+7nZUNopZZQX1PhfuvrXTWN,Body Talk,Ofenbach,73,139422,Body Talk,2/24/2023,0.708,0.662,-4.34,0.065,0.0169,2.47E-05,0.122,0.625,121.975,4,energetic
+3f7gYMirBEKuc57218BjOY,California Gurls,Katy Perry,72,234653,Teenage Dream,8/24/2010,0.788,0.753,-3.71,0.0536,0.0038,0,0.18,0.403,125.005,4,energetic
+4w8niZpiMy6qz1mntFA5uM,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",DJ Snake,78,212500,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",9/28/2018,0.842,0.801,-4.167,0.228,0.157,4.82E-06,0.0642,0.617,95.881,4,energetic
+2CEgGE6aESpnmtfiZwYlbV,Dynamite,Taio Cruz,82,202613,The Rokstarr Hits Collection,1/1/2010,0.751,0.783,-3.724,0.0859,0.00379,0,0.036,0.816,119.975,4,energetic
+4DX82Vc8qAH4jJPvKxvwg6,Move Your Feet,Junior Senior,69,181826,D-D-Don't Don't Stop the Beat,4/3/2002,0.747,0.904,-2.623,0.0803,0.046,0.106,0.203,0.846,118.877,4,energetic
+5X8kkUaUlAyAUr9TYqDFTH,All For You,Janet Jackson,65,329933,All For You,1/1/2001,0.753,0.934,-3.011,0.0736,0.0174,0.065,0.128,0.73,113.525,3,energetic
+0FEk8LwY8h4rAR63ggfhV0,Ritual,Tiësto,64,198995,The London Sessions,5/15/2020,0.647,0.726,-4.389,0.0552,0.157,0,0.0844,0.769,114.998,4,energetic
+6b8Be6ljOzmkOmFslEb23P,24K Magic,Bruno Mars,80,225983,24K Magic,11/17/2016,0.818,0.803,-4.282,0.0797,0.034,0,0.153,0.632,106.97,4,energetic
+16Ewo7JVhuAUdEKozIQEgT,The Other Side,Jason Derulo,51,226986,Tattoos (Deluxe Edition),9/10/2013,0.561,0.836,-3.939,0.1,0.0525,0,0.136,0.517,127.923,4,energetic
+0gb1J5UrTpzaU1s3nupgCd,No Money,Galantis,69,189126,No Money,4/1/2016,0.671,0.916,-4.014,0.0397,0.0282,0.00762,0.24,0.803,126.01,4,energetic
+0z8hI3OPS8ADPWtoCjjLl6,Summer of Love (Shawn Mendes & Tainy),Shawn Mendes,79,184104,Summer Of Love,8/20/2021,0.776,0.808,-4.501,0.117,0.0297,0.000127,0.103,0.494,123.988,4,energetic
+5ZSV1Y3Cq2HkGOYOwxpClP,FU In My Head,Cloudy June,64,167248,FU In My Head,2/4/2022,0.819,0.487,-8.447,0.157,0.485,0.000144,0.0965,0.345,137.938,4,energetic
+1jmJHtqll7OoGktgsuENWY,Die For Someone,Sam Tompkins,57,168597,Die For Someone,1/19/2023,0.687,0.696,-6.952,0.04,0.051,3.77E-05,0.18,0.416,136.056,4,energetic
+5itOtNx0WxtJmi1TQ3RuRd,Giant (with Rag'n'Bone Man),Calvin Harris,74,229184,Giant (with Rag'n'Bone Man),1/11/2019,0.807,0.887,-4.311,0.0361,0.016,0.000503,0.0811,0.606,122.015,4,energetic
+55S2PQgSMYAhgoTCcGCDfw,Youngblood,5 Seconds of Summer,69,203417,Youngblood,4/12/2018,0.596,0.854,-5.114,0.463,0.0169,0,0.124,0.152,120.274,4,energetic
+5w9c2J52mkdntKOmRLeM2m,Con Calma,Daddy Yankee,80,193226,Con Calma,1/24/2019,0.737,0.86,-2.652,0.0593,0.11,1.94E-06,0.0574,0.656,93.989,4,energetic
+5ri4zqtWhG07hIuNNDWP76,Fly Away,Tones And I,68,178156,Fly Away,11/13/2020,0.806,0.513,-6.208,0.0685,0.217,0,0.217,0.503,124.988,4,energetic
+6xsEAm6w9oMQYYg3jkEkMT,Bad Blood,Taylor Swift,73,200106,Bad Blood,5/17/2015,0.654,0.655,-7.388,0.106,0.0294,0,0.139,0.221,170.16,4,energetic
+4kLLWz7srcuLKA7Et40PQR,I Gotta Feeling,Black Eyed Peas,83,289133,THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version],1/1/2009,0.743,0.766,-6.375,0.0265,0.0873,0,0.509,0.61,127.96,4,energetic
+0Hf4aIJpsN4Os2f0y0VqWl,Feel This Moment (feat. Christina Aguilera),Pitbull,79,229506,Global Warming: Meltdown (Deluxe Version),2012,0.673,0.758,-3.632,0.158,0.039,0,0.341,0.542,135.956,4,energetic
+288EJf2Hyv0vFtyYlcP9zN,Dancing Feet (feat. DNCE),Kygo,66,215200,Thrill Of The Chase,11/11/2022,0.746,0.78,-4.892,0.102,0.319,0,0.411,0.569,105.931,4,energetic
+3pPN20syOYvbUuEiBpbenI,Million Dollar Baby,Ava Max,70,184294,Million Dollar Baby,9/1/2022,0.667,0.858,-2.268,0.0926,0.0367,1.47E-05,0.325,0.641,133.039,4,energetic
+7hzlzoOwCZ4D3Ow5YZK4kj,Insomnia,Daya,64,179745,Insomnia,3/8/2019,0.754,0.653,-5.095,0.0611,0.0944,0,0.383,0.379,123.084,4,energetic
+3850dYVgOFIXJh5U4BFEWH,Hung Up,Madonna,76,337733,Confessions on a Dance Floor,11/11/2005,0.649,0.647,-7.695,0.0452,0.0039,0.161,0.0686,0.405,125.02,4,energetic
+4QTuyRQshEZYurtIDfE6g0,By Your Side,Jonas Blue,66,201254,Blue,11/9/2018,0.695,0.743,-3.85,0.0329,0.0786,0,0.0587,0.634,123.007,4,energetic
+0FDzzruyVECATHXKHFs9eJ,A Sky Full of Stars,Coldplay,85,267866,Ghost Stories,5/19/2014,0.545,0.675,-6.474,0.0279,0.00617,0.00197,0.209,0.162,124.97,4,energetic
+3kGfazcbVvVkuZunzlLgTD,Came Here for Love,Sigala,64,202999,Came Here for Love,6/9/2017,0.708,0.868,-3.287,0.0431,0.0313,0,0.122,0.72,124.994,4,energetic
+5yDL13y5giogKs2fSNf7sj,Glad You Came,The Wanted,79,197935,Battleground (Deluxe Edition),1/1/2011,0.722,0.851,-3.873,0.0639,0.0319,0,0.108,0.452,126.885,4,energetic
+6a8GbQIlV8HBUW3c6Uk9PH,I Know You Want Me (Calle Ocho),Pitbull,61,237120,Pitbull Starring In Rebelution,10/23/2009,0.825,0.743,-5.995,0.149,0.0142,2.12E-05,0.237,0.8,127.045,4,energetic
+6h9AH81lpDbjcsBz2ClqAE,The Time Is Now,Moloko,56,318280,Things to Make and Do,10/31/2000,0.682,0.743,-10.644,0.165,0.35,0.000129,0.277,0.546,127.962,4,energetic
+1MDEvpaFk2Ins7N8hGfFlA,One Day,Martin Jensen,69,152990,One Day,4/22/2022,0.605,0.834,-5.879,0.286,0.204,0,0.214,0.503,126.277,4,energetic
+0DmAvNCAK08oCi7miSZUIY,Lasting Lover,Sigala,71,218358,Lasting Lover,9/4/2020,0.676,0.786,-4.529,0.0478,0.197,0,0.0943,0.483,125.983,4,energetic
+7cQFJzxIchGwLF2Dc4e0Pg,Big (feat. Gunna),Rita Ora,40,156781,Big (feat. Gunna),2/12/2021,0.781,0.843,-3.445,0.0349,0.0672,1.27E-06,0.0637,0.616,111.992,4,energetic
+0b18g3G5spr4ZCkz7Y6Q0Q,Rasputin,Majestic,80,186209,Rasputin,2/26/2021,0.758,0.913,-2.926,0.113,0.00364,6.92E-05,0.193,0.658,128.04,4,energetic
+66xn6tB8s3l8uhj02OGneE,For You (Fifty Shades Freed) (& Rita Ora),Liam Payne,62,245453,Fifty Shades Freed (Original Motion Picture Soundtrack),2/9/2018,0.541,0.787,-4.618,0.0331,0.0167,0,0.157,0.2,113,4,energetic
+360UM2DaiHZPRu0EsrOvMp,If We Ever Meet Again (Featuring Katy Perry),Timbaland,70,292706,Shock Value II,1/1/2009,0.652,0.605,-7.371,0.0393,0.00481,0,0.0605,0.394,126.091,4,energetic
+2VEsmoek0sol9MnJFyoG9e,Burnin' Up,Jonas Brothers,72,175093,A Little Bit Longer,8/12/2008,0.667,0.954,-3.462,0.0817,0.0296,0,0.331,0.807,114.03,4,energetic
+1nZzRJbFvCEct3uzu04ZoL,Part Of Me,Katy Perry,76,216160,Teenage Dream: The Complete Confection,3/12/2012,0.678,0.918,-4.63,0.0355,0.000417,0,0.0744,0.769,130.028,4,energetic
+5ZSl6gDoV6bPPxzmLeneV9,Rise,Jonas Blue,74,194407,Blue,11/9/2018,0.687,0.785,-4.65,0.0333,0.327,0,0.203,0.655,106.046,4,energetic
+0jeK7B6dUDfSb8F9fZW6XP,Break Free,Ariana Grande,40,214840,My Everything,8/25/2014,0.687,0.702,-5.324,0.0455,0.0064,4.35E-05,0.204,0.284,129.956,4,energetic
+3zkWCteF82vJwv0hRLba76,Stitches,Shawn Mendes,82,206880,Handwritten,4/14/2015,0.746,0.754,-6.684,0.0676,0.0152,0,0.0486,0.746,149.882,4,energetic
+0ct6r3EGTcMLPtrXHDvVjc,The Nights,Avicii,87,176658,The Days / Nights,1/1/2014,0.527,0.835,-5.298,0.0433,0.0166,0,0.249,0.654,125.983,4,energetic
+2ekn2ttSfGqwhhate0LSR0,New Rules,Dua Lipa,81,209320,Dua Lipa (Deluxe),6/2/2017,0.762,0.7,-6.021,0.0694,0.00261,1.56E-05,0.153,0.608,116.073,4,energetic
+1qrpoAMXodY6895hGKoUpA,You Belong With Me (Taylor’s Version),Taylor Swift,83,231124,Fearless (Taylor's Version),4/9/2021,0.632,0.773,-4.856,0.0346,0.0623,0,0.0885,0.474,130.033,4,energetic
+3TahdwXB4gJRWVAI00Ejqa,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",Maroon 5,67,201493,Hands All Over (Revised Asia Standard Version),2010,0.722,0.761,-4.459,0.0475,0.0117,0,0.315,0.624,128.044,4,energetic
+1V6gIisPpYqgFeWbMLI0bA,Heart Attack,Demi Lovato,79,210840,Demi,1/1/2013,0.504,0.785,-4.802,0.104,0.0738,0,0.239,0.502,173.968,4,energetic
+6VIYEyjNW71NnIGEduf8D8,Remind Me,Tom Grennan,70,211167,Remind Me,3/18/2022,0.599,0.831,-4.188,0.0439,0.0603,0,0.204,0.624,132.019,4,energetic
+3P3pw6C19j31Rnzgo3JG7o,Perfect Strangers,Jonas Blue,77,196613,Blue,11/9/2018,0.73,0.861,-4.1,0.0451,0.39,0,0.213,0.704,117.965,4,energetic
+0sb8ClU3CLoNblxkpmOKzA,Maybe You’re The Problem,Ava Max,72,190318,Maybe You’re The Problem,4/28/2022,0.53,0.835,-3.69,0.11,0.0453,0,0.0637,0.471,166.02,4,energetic
+1058fW9H3fZA6QjYCdOBad,Don't Go Yet,Camila Cabello,74,164842,Don't Go Yet,7/23/2021,0.666,0.796,-6.967,0.103,0.0492,0,0.0442,0.61,110.108,4,energetic
+2GyA33q5rti5IxkMQemRDH,I Know What You Did Last Summer,Shawn Mendes,73,223853,Handwritten,4/14/2015,0.687,0.761,-4.582,0.0876,0.102,0,0.147,0.743,113.939,4,energetic
+2GgxS8bUT5G25QJTsfSv0R,Burn,Ellie Goulding,68,231211,Halcyon Days,1/1/2014,0.559,0.777,-5.031,0.0432,0.31,0,0.105,0.329,87.016,4,energetic
+5eTNdkstwKaNahHf41fJ9u,Hotter Than Hell,Dua Lipa,68,187957,Dua Lipa (Deluxe),6/2/2017,0.532,0.868,-4.23,0.0908,0.011,0,0.0584,0.529,110.127,4,energetic
+5K6Ssv4Z3zRvxt0P6EKUAP,Heartbreak Anthem (with David Guetta & Little Mix),Galantis,78,183725,Heartbreak Anthem (with David Guetta & Little Mix),5/20/2021,0.595,0.784,-4.878,0.102,0.216,0,0.0608,0.479,124.111,4,energetic
+1KixkQVDUHggZMU9dUobgm,My Head & My Heart,Ava Max,78,174760,Heaven & Hell,9/18/2020,0.614,0.934,-3.709,0.07,0.0697,0,0.121,0.436,116.001,4,energetic
+4Y7XAxTANhu3lmnLAzhWJW,Fireball (feat. John Ryan),Pitbull,76,236200,Globalization,11/21/2014,0.761,0.933,-5.38,0.056,0.0908,8.53E-05,0.0607,0.836,122.959,4,energetic
+1mvZErZBp7WZT3HfGBykao,Cry for You,September,68,209800,Dancing Shoes,3/8/2007,0.767,0.881,-3.988,0.0301,0.00133,0.000139,0.0551,0.961,130.018,4,energetic
+7JJmb5XwzOO8jgpou264Ml,There's Nothing Holdin' Me Back,Shawn Mendes,87,199440,Illuminate (Deluxe),4/20/2017,0.866,0.813,-4.063,0.0554,0.38,0,0.0779,0.969,121.998,4,energetic
+7EQGXaVSyEDsCWKmUcfpLk,Die Young,Kesha,79,211920,Warrior (Expanded Edition),11/30/2012,0.711,0.7,-4.805,0.046,0.00498,0.000125,0.215,0.801,128.001,4,energetic
+6HZ9VeI5IRFCNQLXhpF4bq,I Love It (feat. Charli XCX),Icona Pop,72,157152,THIS IS... ICONA POP,8/27/2013,0.711,0.906,-2.671,0.0284,0.00952,1.64E-05,0.153,0.824,125.916,4,energetic
+4y5bvROuBDPr5fuwXbIBZR,Paper Rings,Taylor Swift,84,222400,Lover,8/23/2019,0.811,0.719,-6.553,0.0497,0.0129,1.36E-05,0.0742,0.865,103.979,4,energetic
+3AzjcOeAmA57TIOr9zF1ZW,Physical,Dua Lipa,78,193829,Future Nostalgia,3/27/2020,0.647,0.844,-3.756,0.0457,0.0137,0.000658,0.102,0.746,146.967,4,energetic
+67lbzVADsqJJ6tyVk0XCgn,Chain My Heart,Topic,69,146880,Chain My Heart,6/11/2021,0.663,0.849,-4.462,0.0334,0.0791,1.20E-06,0.192,0.722,123.992,4,energetic
+0l4AReW2LuX0yStPfgQgSR,Giants,Dermot Kennedy,61,177173,Giants,6/24/2020,0.579,0.839,-5.409,0.0703,0.0145,3.04E-05,0.201,0.589,158.141,4,energetic
+6I9VzXrHxO9rA9A5euc8Ak,Toxic,Britney Spears,83,198800,In The Zone,11/13/2003,0.774,0.838,-3.914,0.114,0.0249,0.025,0.242,0.924,143.04,4,energetic
+1CQ2cMfrmFM1YdfmjENKVE,She Looks So Perfect,5 Seconds of Summer,75,202496,5 Seconds Of Summer,6/27/2014,0.494,0.951,-4.237,0.132,0.000569,0,0.327,0.441,160.025,4,energetic
+6WrI0LAC5M1Rw2MnX2ZvEg,Don't Start Now,Dua Lipa,79,183290,Don't Start Now,10/31/2019,0.794,0.793,-4.521,0.0842,0.0125,0,0.0952,0.677,123.941,4,energetic
+2hgzdQdnfWwtdpZbhZlV72,Ain't Your Mama,Jennifer Lopez,73,218234,Ain't Your Mama,4/7/2016,0.757,0.678,-5.529,0.233,0.0472,9.14E-06,0.0654,0.82,120.075,4,energetic
+0KAiuUOrLTIkzkpfpn9jb9,Drive By,Train,79,195973,California 37,4/17/2012,0.765,0.837,-3.113,0.032,0.00107,1.06E-05,0.0801,0.721,122.028,4,energetic
+0NCEyOzVW7FF5nL1MBecM7,Problem,Ariana Grande,39,193920,My Everything,8/25/2014,0.66,0.805,-5.352,0.153,0.0192,8.83E-06,0.159,0.625,103.009,4,energetic
+5knuzwU65gJK7IF5yJsuaW,Rockabye (feat. Sean Paul & Anne-Marie),Clean Bandit,76,251088,Rockabye (feat. Sean Paul & Anne-Marie),10/21/2016,0.72,0.763,-4.068,0.0523,0.406,0,0.18,0.742,101.965,4,energetic
+66zHUNLpXsG6rRL3yeAYSj,Misery,Maroon 5,36,216200,Hands All Over (Revised Asia Standard Version),2010,0.703,0.81,-4.874,0.0424,0.000315,0,0.216,0.726,102.978,4,energetic
+2kqAtjOtQPAR0OiYUJR43k,Can We Dance,The Vamps,65,192710,Meet The Vamps,1/1/2014,0.64,0.82,-4.729,0.0464,0.00312,0,0.189,0.583,130.108,4,energetic
+6SKwQghsR8AISlxhcwyA9R,Marry You,Bruno Mars,78,230192,Doo-Wops & Hooligans,10/5/2010,0.621,0.82,-4.865,0.0367,0.332,0,0.104,0.452,144.905,4,energetic
+4btFHqumCO31GksfuBLLv3,Overpass Graffiti,Ed Sheeran,76,236906,=,10/29/2021,0.52,0.849,-3.794,0.186,0.00253,0,0.119,0.774,175.908,4,energetic
+3iw6V4LH7yPj1ESORX9RIN,Wellerman - Sea Shanty / 220 KID x Billen Ted Remix,Nathan Evans,73,116750,Wellerman (Sea Shanty / 220 KID x Billen Ted Remix),1/21/2021,0.722,0.893,-3.255,0.0475,0.0441,0.000937,0.0673,0.439,119.932,4,energetic
+0sUyqewVzwv0e5tK3hS6vJ,Don't Be so Hard on Yourself,Jess Glynne,65,211460,I Cry When I Laugh,2015,0.571,0.815,-3.267,0.0321,0.0608,0,0.163,0.664,120.008,4,energetic
+2bT1PH7Cw3J9p3t7nlXCdh,If I Can't Have You,Shawn Mendes,74,191466,Shawn Mendes (Deluxe),6/19/2019,0.691,0.823,-4.197,0.0623,0.487,0,0.134,0.87,123.935,4,energetic
+7dOeiXeTSfA1ixaYmQcWu7,Rich Love (with Seeb),OneRepublic,66,201256,Rich Love,7/14/2017,0.401,0.872,-3.641,0.314,0.167,0,0.362,0.472,104.592,4,energetic
+1yvMUkIOTeUNtNWlWRgANS,Unstoppable,Sia,83,217746,This Is Acting (Deluxe Version),10/21/2016,0.468,0.779,-4.839,0.0779,0.112,0.000373,0.101,0.26,173.799,4,energetic
+6kPJZM97LwdG9QIsT7khp6,Solo (feat. Demi Lovato),Clean Bandit,71,222653,Solo (feat. Demi Lovato),5/17/2018,0.737,0.636,-4.546,0.0437,0.0441,6.66E-05,0.35,0.565,105.005,4,energetic
+3rmo8F54jFF8OgYsqTxm5d,Bad Habits,Ed Sheeran,86,230746,=,10/29/2021,0.807,0.893,-3.745,0.0347,0.0451,2.79E-05,0.366,0.537,126.011,4,energetic
+06VsoIC668pU516T6qrgkJ,Instruction (feat. Demi Lovato & Stefflon Don),Jax Jones,64,165906,Snacks,7/12/2019,0.763,0.923,-3.108,0.191,0.103,0,0.105,0.934,121.074,4,energetic
+4LiJE6pqgsTX3FtukW6bNh,Release Me,Agnes,66,256213,Dance Love Pop (The Love Love Love Edition),4/1/2009,0.621,0.923,-3.124,0.0321,0.00645,7.28E-05,0.108,0.716,127.973,4,energetic
+6aJVSu9oPmRIgw8xPT66wV,Euphoria,Loreen,56,212640,Heal (2013 Edition),5/31/2013,0.475,0.667,-5.477,0.0358,0.1,0.000105,0.0513,0.0995,132.126,4,energetic
+5xzCzOAOfRi4DOttSzvznR,Lullaby,Sigala,59,204022,Lullaby,2/23/2018,0.725,0.834,-3.913,0.037,0.0784,1.27E-05,0.0834,0.859,120.026,4,energetic
+0HPD5WQqrq7wPWR7P7Dw1i,TiK ToK,Kesha,83,199693,Animal (Expanded Edition),1/1/2010,0.755,0.837,-2.718,0.142,0.0991,0,0.289,0.714,120.028,4,energetic
+6PCUP3dWmTjcTtXY02oFdT,Castle on the Hill,Ed Sheeran,80,261153,÷ (Deluxe),3/3/2017,0.461,0.834,-4.868,0.0989,0.0232,1.14E-05,0.14,0.471,135.007,4,energetic
+1TEjSXPdAakDotj2Wji3PU,Hot N Cold,Katy Perry,74,220226,One Of The Boys,6/17/2008,0.706,0.841,-3.956,0.0418,7.95E-05,0,0.0688,0.861,132.032,4,energetic
+4NSW0Km5ZG60L8FthUebPJ,What I Like About You (feat. Theresa Rex),Jonas Blue,64,220396,What I Like About You (feat. Theresa Rex),3/22/2019,0.46,0.8,-3.584,0.05,0.289,6.16E-06,0.121,0.553,102.46,4,energetic
+557un1HgwYMuqfWGSTmnxw,Single Ladies (Put a Ring on It),Beyoncé,69,192586,I AM...SASHA FIERCE - Platinum Edition,2008,0.426,0.584,-5.293,0.296,0.0383,0,0.192,0.272,193.438,4,energetic
+2UbVnbE5FH6008mAm6Mmgw,Run,OneRepublic,75,169010,Run,5/5/2021,0.682,0.72,-8.173,0.0381,0.326,0,0.148,0.673,117.003,4,energetic
+4cH7XOPBjVUD5Mwo9F2TVz,Love Myself,Hailee Steinfeld,59,218773,HAIZ,11/13/2015,0.617,0.759,-6.785,0.0677,0.0026,0,0.419,0.324,122.925,4,energetic
+583xVl0Sbj93uU4ceixgU8,I'm Outta Love - Radio Edit,Anastacia,65,245400,Pieces Of A Dream,1999,0.761,0.716,-5.8,0.056,0.396,0,0.0771,0.649,119.41,4,energetic
+4XPWKmy05Rcff6TLHNoNF8,Ghost,Ella Henderson,65,213213,Chapter One (Deluxe Version),10/13/2014,0.68,0.84,-3.823,0.0414,0.0457,8.66E-06,0.143,0.468,104.975,4,energetic
+6Qn5zhYkTa37e91HC1D7lb,Whatever It Takes,Imagine Dragons,82,201240,Evolve,6/23/2017,0.672,0.655,-5.021,0.0311,0.0362,0,0.117,0.556,134.945,4,energetic
+3WRXW64cLmy1WSHEs9zgUZ,TAKUTÁ,Shay Lia,51,158525,TAKUTÁ,3/28/2023,0.79,0.888,-4.643,0.0476,0.00216,0.664,0.101,0.485,127.977,4,energetic
+6vXb4B2xZTNXPFJGaOMO5q,Millions - Jumbo Sounds Mix,Tierra Whack,52,158400,Millions (Jumbo Sounds Mix),3/31/2023,0.672,0.875,-5.219,0.0475,0.0217,0.000782,0.164,0.619,149.96,4,energetic
+3Id1GGYvLSSM1E9KbgfHMW,AOT,dialE,45,115041,AOT,11/4/2022,0.881,0.703,-8.145,0.0718,0.0847,0.502,0.137,0.587,121.088,4,energetic
+6RZXC8TU0PvdcDfPbtkV10,Father Figure,Bliss Samsa,39,169533,Father Figure,6/24/2022,0.759,0.475,-7.708,0.119,0.186,7.80E-05,0.0846,0.216,100.008,4,energetic
+5cSfpxEu2PCA6PQaV8iRWi,Hard To Fall - Liam Mockridge Remix,Ancient Deep,37,279200,Soul Clap Records 11th Anniversary Remix Compilation (Remixes),2/3/2023,0.822,0.524,-10.992,0.0963,0.0158,0.627,0.137,0.421,121.996,4,energetic
+7MJc1Z7tTRVCCw63JhWyAv,Float - Coco & Breezy Remix,Janelle Monáe,49,148884,Float (Coco & Breezy Remix),4/14/2023,0.702,0.79,-4.716,0.294,0.147,0.000806,0.0806,0.638,121.188,4,energetic
+0SmyaVrzL7j3R9k3pkJgUh,Dummy – Chris Lake Remix,Portugal. The Man,56,173001,Dummy – Chris Lake Remix,3/31/2023,0.789,0.867,-6.925,0.0539,0.000608,0.691,0.0733,0.699,127.016,4,energetic
+5tQY4C3Q5llfPmejBhutCL,phases (feat. Kojey Radical) - P-rallel Remix,SOLOMON,34,188066,phases (feat. Kojey Radical) [P-rallel Remix],4/21/2023,0.689,0.695,-8.998,0.0637,0.0999,0.833,0.577,0.168,127.016,4,energetic
+6XYRcTy8R1Ps3YVfcnQKo1,Bulletproof - Radio Edit,CLiQ,30,166965,Bulletproof (Radio Edit),3/17/2023,0.857,0.714,-6.491,0.188,0.00997,0.000149,0.195,0.549,123.03,4,energetic
+0MT6YCuenEN29coSMCWGQU,Unusual,KDYN,5,197095,What U Need,12/2/2022,0.805,0.701,-8.415,0.056,0.0811,0.868,0.179,0.602,118.018,4,energetic
+2K6qq0V7jXSlhucLr8R74Z,Hawt,TIBASKO,59,157836,Hawt,11/18/2022,0.751,0.834,-7.018,0.0713,0.0749,0.000505,0.149,0.563,133.972,4,energetic
+3EwIoIWAxxIy8wcD6qvelB,Waiting,Matt Jam Lamont,21,235000,Waiting,2/10/2023,0.829,0.701,-5.124,0.108,0.0677,6.99E-05,0.273,0.961,134.041,4,energetic
+4Uz7te06snSlkmcIwwAvkw,Hungry (For Love),LF SYSTEM,60,129375,Hungry (For Love),10/7/2022,0.605,0.973,-3.214,0.0806,0.00063,0.0995,0.455,0.49,128.014,4,energetic
+2G0pIL19syX70AXLc9ykPj,Deny It,Jasper Tygner,50,242250,Deny It,11/17/2022,0.765,0.738,-6.152,0.239,0.218,0.0263,0.311,0.161,129.991,4,energetic
+6l9ajg8LKqxLYae1PUqhPJ,Too Big,Kosmo Kint,27,158606,Too Big,3/6/2023,0.758,0.555,-9.433,0.0783,0.325,0.0026,0.381,0.26,112.066,4,energetic
+5o3sxlnEcM5M9lnav6DAiZ,Changes,Harvey Sutherland,26,212949,Changes,2/14/2023,0.768,0.612,-12.064,0.266,0.0538,0.123,0.0924,0.641,132.056,4,energetic
+7EhyQaYpbpUlI9CkTqCN07,THE HOOD,SwuM,38,115384,THE HOOD,12/30/2022,0.792,0.856,-6.577,0.176,0.0435,3.67E-05,0.0887,0.48,129.975,4,energetic
+6IAlsmmCZ0AonpJUioEFJH,Breaking Up,Wallace,31,338987,Breaking Up,3/30/2023,0.795,0.973,-7.188,0.0681,0.00504,0.871,0.0283,0.484,124.01,4,energetic
+3Yx1bEoML1ZqmvlRJJyS9O,Big World (feat. KIRBY),Ni'jah,49,160653,Swarm,3/17/2023,0.828,0.718,-7.652,0.215,0.515,0.0822,0.109,0.559,118.025,4,energetic
+7zKxtnySNLcwsvo7MgEXhn,Takes Me to You - Seb Wildblood Remix,Boxed In,23,302000,Takes Me to You (Seb Wildblood Remix),2/10/2023,0.709,0.759,-4.866,0.0411,0.000443,0.794,0.0475,0.591,130.012,4,energetic
+6pK9hM5pXGSDifL7oKzyRe,Done Talkin' (Toddla T Steeze Factory Remix),Toddla T,15,197250,"Steeze Factory, Vol. 1 - Remixes",12/9/2022,0.853,0.633,-5.626,0.0534,0.0123,0.00666,0.0239,0.724,128.026,4,energetic
+5nNlZr313BQHVEWjA1cJmy,Lakitu,Oppidan,29,239500,Lakitu,11/18/2022,0.908,0.793,-4.338,0.279,0.0846,0.578,0.0891,0.439,129.995,4,energetic
+6oeXbbUxfp6HazPAAANSKp,Sunset Ride,Shuko,16,156539,Sunset Ride,9/9/2022,0.752,0.644,-9.423,0.415,0.123,2.71E-05,0.291,0.682,109.012,4,energetic
+2B67hW6XshoWOIpHjDeVVI,São Paulo,Tropkillaz,31,164457,São Paulo,1/25/2023,0.786,0.739,-8.073,0.0522,0.0889,0.624,0.248,0.473,112.932,4,energetic
+1nga9f11uUQS6mSz427Jrz,Rhythm,Bodysync,37,152493,Rhythm,2/17/2023,0.679,0.948,-5.387,0.0997,0.0145,0.0618,0.0982,0.807,129.936,4,energetic
+0KynSPlg3g8OdZq6irgMH2,Nobody Khan (Ain't Nobody),Austin Millz,54,181052,Nobody Khan (Ain't Nobody),1/27/2023,0.953,0.905,-6.519,0.0906,0.407,0.506,0.135,0.523,113.988,4,energetic
+5mNZCZkOaWiSFgp4AR4mYs,Angel,Magic Flowers,38,166678,Angel,2/3/2023,0.874,0.484,-8.016,0.213,0.166,0.114,0.151,0.432,120.947,4,energetic
+11TSZcCco9oHmpTv3TRS9M,For What It's Worth,Tayla Parx,27,151239,For What It's Worth,11/18/2022,0.857,0.743,-8.085,0.122,0.033,5.18E-05,0.113,0.539,120.915,4,energetic
+1poa3266sVq4mnVbgocKda,Down With Me,lau.ra,43,192000,Down With Me,2/17/2023,0.84,0.874,-7.112,0.0843,0.058,0.000109,0.134,0.263,130.022,4,energetic
+5GHJVPrAErTk5Diuu7oVBt,Don't Fight It,happytree,24,94275,Don't Fight It,7/1/2022,0.827,0.54,-10.681,0.267,0.334,4.11E-05,0.162,0.944,135.119,4,energetic
+7dYCexMyeIX4gikhil1mV6,Earn It,Surya Sen,18,149976,Earn It,2/16/2022,0.819,0.647,-6.577,0.0709,0.0178,5.05E-06,0.29,0.729,130.011,4,energetic
+0HLwNoF5RjPlm2YkoDvrAQ,You Make My Days Better - Bondax Remix,Pablo Nouvelle,34,276649,You Make My Days Better (Bondax Remix),12/9/2022,0.819,0.821,-5.342,0.0396,0.000845,0.825,0.0782,0.763,125.004,4,energetic
+776grW44oGnbUTBhxpF1jy,Closer,Sebb Junior,11,195750,Feel So Fine EP,12/2/2022,0.911,0.736,-6.836,0.153,0.00341,0.704,0.0711,0.674,125.006,4,energetic
+4W1VDzvrBBG0lZvC221Qh5,Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres),SG Lewis,51,310340,Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres),1/10/2023,0.751,0.691,-6.738,0.103,0.102,0.463,0.097,0.531,127.014,4,energetic
+6pCmup4ZtZH6DrBf2PnVhs,Special Edition,Simen Sez,33,304483,Special Edition,9/16/2022,0.758,0.818,-5.678,0.155,0.00112,0.0492,0.183,0.615,123.039,4,energetic
+62KALcwchTq4TS3cngcB7U,Wind Up Hero (Never Dull Remix),Skofee,29,188951,Wind Up Hero (Never Dull Remix),10/21/2022,0.768,0.776,-7.615,0.0549,0.0205,0.0206,0.147,0.797,123.975,4,energetic
+7qwANeGQWPg1I2oYsYmGja,Mercury (Hutcher Remix),Max Glyde,15,218012,Mercury (Hutcher Remix),12/16/2022,0.859,0.744,-6.169,0.13,0.0241,4.96E-05,0.0292,0.73,128.04,4,energetic
+63la1G25v3hyba5kXVnecN,Lets Work,Jarv Dee,17,200753,Lets Work,11/4/2022,0.92,0.828,-6.564,0.153,0.0706,4.68E-05,0.0638,0.673,114.985,4,energetic
+3oGy260x9Rpc80VErMf6u3,Turning - Radio Edit,Footshooter,17,171940,Afterglow FM,11/18/2022,0.265,0.756,-6.147,0.0431,0.0766,0.912,0.0713,0.362,166.455,5,energetic
+0KgDKuaHnbZOzz8adnnfxd,Sway (feat. Dope Earth Alien),HoneyLuv,56,167619,Sway (feat. Dope Earth Alien),12/9/2022,0.836,0.878,-8.714,0.0472,0.00342,0.26,0.0775,0.626,126.014,4,energetic
+1lx452Y4CLMvIois88vwBr,6am,Channel Tres,56,221748,6am,11/9/2022,0.873,0.685,-6.52,0.0609,0.0176,0.00172,0.0483,0.918,124.025,4,energetic
+0JH0HwpTp0U0XCFWlNVTEF,IT WON’T DO,Mild Minds,41,250649,IT WON’T DO,9/21/2022,0.699,0.786,-6.318,0.0369,0.169,0.00786,0.244,0.29,125.04,4,energetic
+6p0zlqr8vVPUXfrAj2g62G,Howl,Elderbrook,23,257430,Beautiful Morning (TIBASKO Remix),12/16/2022,0.634,0.659,-7.143,0.0263,0.373,0.00325,0.161,0.38,126.977,4,energetic
+4s3xXkjGYSwI01zTp5f1by,Don't Let Go,Supershy,56,269799,Don't Let Go,11/24/2022,0.815,0.748,-8.74,0.0438,0.00102,0.936,0.0945,0.612,121.002,4,energetic
+6GJVvN7zZdtB5Ymz2Ylnqw,Lights Come On,Slow Motion,30,202500,Lights Come On,7/29/2022,0.837,0.76,-7.212,0.0743,0.0577,0.135,0.0901,0.395,128.008,4,energetic
+1vcn1B5GCrVAGxZ01xCaIB,I See You - Junior Simba Remix,lau.ra,26,164554,I See You (Junior Simba Remix),12/9/2022,0.721,0.87,-7.314,0.0602,0.0195,0.00532,0.35,0.635,130.022,4,energetic
+6bhqnnTOHVIGsQL47S3w4N,ATK,Bonobo,31,245208,Defender,10/19/2022,0.705,0.882,-8.886,0.0626,0.0048,0.851,0.0511,0.583,127.983,4,energetic
+39JofJHEtg8I4fSyo7Imft,B.O.T.A. (Baddest Of Them All) - Edit,Eliza Rose,82,226626,B.O.T.A. (Baddest Of Them All),8/12/2022,0.736,0.906,-7.589,0.048,0.164,0.585,0.106,0.698,137.001,4,energetic
+1iV2awZB7fKegkMmgbhHaV,SUEÑO,MATVEÏ,26,146660,SUEÑO,10/5/2022,0.837,0.881,-5.106,0.0563,0.0465,0.21,0.602,0.205,125.065,4,energetic
+1nuk4SN4aGkCHNcsMWcI8m,A Gentleman In Paris,JADED,27,216459,Work / A Gentleman In Paris,11/18/2022,0.598,0.961,-6.055,0.0512,0.00636,0.841,0.394,0.178,128.014,4,energetic
+0hKa1iXJRQMcpMELUojgTI,Zorro,JADED,57,216981,Zorro,9/2/2022,0.69,0.881,-5.924,0.0463,0.00196,0.811,0.218,0.662,125.019,4,energetic
+4wYWYoGPHDaG4k8g70SnuR,Ready,Bad Colours,12,138282,Always With U,11/11/2022,0.882,0.737,-10.182,0.213,0.00916,7.95E-05,0.0967,0.637,118.012,4,energetic
+2NZg38IMIBQh1aP5dvAk5d,Dance Machine,Brasstracks,25,170818,Dance Machine,10/19/2022,0.673,0.696,-8.047,0.411,0.225,0,0.599,0.481,119.731,4,energetic
+7DRDufzLV8vbLRPdkJIqWq,All Eyes On Me,VALORANT,57,160500,All Eyes On Me,11/8/2022,0.732,0.777,-5.253,0.111,0.00202,0.667,0.268,0.536,160.061,4,energetic
+6wWCtq74zDnHwSclgA39ND,show you how i feel,warner case,14,217920,"dance music for dancing, vol. 3",11/4/2022,0.723,0.794,-9.136,0.0522,0.288,0.793,0.106,0.386,125.039,4,energetic
+137F69wHTarTcbumEz1ztc,I Wish It Was Me - Louke Man Remix,Obongjayar,40,260410,I Wish It Was Me (Louke Man Remix),8/25/2022,0.694,0.581,-14.265,0.0479,0.0946,0.336,0.151,0.237,134.011,4,energetic
+4bwSiql3RcbvDaq2vUeOU0,Nether Portal,boys be kko,26,378670,Monnaka,9/9/2022,0.718,0.846,-9.661,0.0422,0.08,0.833,0.115,0.125,127.993,4,energetic
+6vOXXLWbCQGLrVdnHYHWce,Hollow,MAFRO,5,276367,Hollow,12/2/2022,0.656,0.784,-8.147,0.0336,0.0226,0.714,0.107,0.411,130.994,4,energetic
+6j2AojKOLW867QDk2hEO5j,DREAMER,The Blaze,56,339013,DREAMER,11/9/2022,0.666,0.518,-11.449,0.115,0.51,0.0269,0.0924,0.218,122.97,4,energetic
+4EOJcEEf9rLNdr2InmsTxu,Black Oak,Joe Hertz,20,232059,Black Oak,5/18/2022,0.678,0.589,-8.565,0.0324,0.00202,0.774,0.0791,0.22,122.032,4,energetic
+4pwpNLiNAUEVpK8qnedwTB,Textures,Hagan,19,273866,Textures,10/7/2022,0.586,0.843,-6.805,0.0585,0.0142,0.884,0.116,0.386,123.995,4,energetic
+6wKGITKmAaPk2FKwDTLhQx,Motor City Madness - Edit,Waajeed,4,203323,Motor City Madness,8/23/2022,0.808,0.93,-9.287,0.0717,0.0117,0.82,0.0481,0.911,125.01,4,energetic
+1ddOicXy9m44Rt8sfva0bZ,Just Wanna,Mason Maynard,20,204044,Just Wanna,7/1/2022,0.784,0.777,-7.773,0.0723,0.000347,0.75,0.091,0.676,126.973,4,energetic
+4xZM992nx39laRVwCVpbop,Downtown (feat. Annette Bowen & Nikki-O),Honey Dijon,17,235067,Show Me Some Love (feat. Sadie Walker),9/27/2022,0.824,0.632,-8.974,0.221,0.0168,0.0101,0.0873,0.531,126.023,4,energetic
+5Sa5QDU9rOmR6KZv87wEgD,Coming Over,June Jissle,7,151034,Still Doing House Music,8/26/2022,0.727,0.805,-6.804,0.0713,0.000235,0.101,0.0881,0.562,115.964,4,energetic
+5UzTcF6IsUVFSzNjLPWojm,Break It Bought It,Confidence Man,27,222866,TILT,4/1/2022,0.804,0.884,-9.024,0.0419,0.0046,0.0271,0.305,0.79,120.011,4,energetic
+2TYjPIYOSoQ3Mu3ojzL0uD,Magic,Coco & Breezy,40,159187,Magic,10/14/2022,0.805,0.863,-8.107,0.0514,0.0096,0.79,0.641,0.497,120.021,4,energetic
+40SBS57su9xLiE1WqkXOVr,Afraid To Feel,LF SYSTEM,81,177524,Afraid To Feel,5/2/2022,0.578,0.912,-3.929,0.114,0.0166,0.00362,0.273,0.68,127.87,4,energetic
+00ncxi6KW6Ly1Ts0pOH8si,FOMO,Amber Mark,43,231987,Three Dimensions Deep,1/28/2022,0.758,0.703,-6.736,0.394,0.211,0,0.0715,0.565,110.063,4,energetic
+6nb57vP4sMYeeU2mfzVgr6,Love Songs,Boston Bun,37,188307,Love Songs,9/30/2022,0.801,0.829,-8.695,0.0997,0.0342,0.0145,0.0975,0.658,130.02,4,energetic
+0pWn3bA7mOP38Vmx1lQNco,Good Morning Gorgeous (Emmaculate Remix),Mary J. Blige,23,270033,Good Morning Gorgeous (Emmaculate Remix),8/12/2022,0.829,0.825,-5.392,0.158,0.00469,0.0307,0.142,0.689,124.011,4,energetic
+0OaHp02KrOuQmThMfspIKK,RABONA,MATVEÏ,8,170184,TALES FOR NIGHTCLUBS II,7/20/2022,0.812,0.781,-5.189,0.124,0.00918,0.000199,0.0863,0.523,126.03,4,energetic
+1PI8MfAVLS9VMvz54w20Lh,Ama Waltz (U Make Me High),Breaka,8,346481,Breaka 005,7/22/2022,0.803,0.873,-4.792,0.0813,0.0015,0.834,0.259,0.509,117.002,3,energetic
+5EaL52RxTRkEkNIxMN50tc,The Way You Say,Carlita,29,241654,The Way You Say,7/8/2022,0.724,0.616,-8.001,0.045,0.000226,0.715,0.0931,0.491,127.014,4,energetic
+4OSS2eDxVmkG13O7MXPxul,Feel About You - Edit,Melle Brown,42,216480,Feel About You,6/9/2022,0.746,0.775,-4.018,0.0857,0.0241,0.0796,0.152,0.689,122.02,4,energetic
+1Wu9EjGPifgj9Mzm1P8C03,Big Bad Mood (feat. Miraa May),Jordan Stephens,50,229090,Let Me Die Inside You,2/11/2022,0.834,0.728,-8.096,0.0641,0.00211,0.000729,0.24,0.54,120.995,4,energetic
+7dSQHfnJSK0SzmPpiuNrlC,What's Next,Austin Millz,43,159107,What's Next,5/5/2022,0.848,0.744,-4.316,0.3,0.0846,0,0.142,0.957,112.037,4,energetic
+1PIIZlcQIHW6vbxMojGATs,Two Takes It (feat. Carmen Castro),Mr. Oizo,5,141986,Two Takes It,2/9/2009,0.781,0.813,-4.735,0.122,0.0265,1.79E-05,0.283,0.612,115.012,4,energetic
+4p98R0tJcOUwyfB2uQRsJE,I'm On It,Baccus,10,304460,Got To Do,7/1/2022,0.796,0.968,-8.301,0.0637,0.112,0.676,0.0729,0.939,130.009,4,energetic
+2SlZsV3sXc69uhUNBQNgkD,Just Can't Get Enough,Channel Tres,0,303124,Just Can't Get Enough,7/21/2022,0.757,0.874,-5.697,0.0597,0.0293,5.98E-05,0.741,0.578,120.995,4,energetic
+6aBCiLVV7I8QjxQOLdtYT6,Something Got Between Us - Harvey Sutherland Remix,The Jungle Giants,22,298333,Something Got Between Us (Harvey Sutherland Remix),6/24/2022,0.716,0.837,-5.595,0.0992,0.0131,0.875,0.38,0.735,131.005,4,energetic
+7cMAJ0HETLaFeZpUywLrUt,My Fear,Wittyboy,25,218769,My Fear,6/10/2022,0.696,0.94,-5.87,0.0599,0.0227,0.384,0.0879,0.244,130.013,4,energetic
+7IasAOphluLSAmgMtg9jYA,Slow Down - James Cole Remix,Maverick Sabre,51,417999,Slow Down (James Cole Remix),6/17/2022,0.802,0.651,-9.438,0.0578,0.0374,0.66,0.1,0.332,126.004,4,energetic
+1z7OTBNuWwZrxWVjeKRU9V,Kings for a Minute,Digital Afrika,29,346524,Heart of Drums,4/22/2022,0.779,0.907,-9.261,0.0542,0.00606,0.764,0.105,0.881,124.011,4,energetic
+2WlsJY9K4b51l7aMIeaSA9,Vibe,Atilla Ural,11,212350,Vibe,4/15/2022,0.778,0.742,-8.381,0.109,0.00603,0.0441,0.0489,0.489,119.998,4,energetic
+5RsQSWL2T4NDSrpNrHc9vq,Goodnight,Bodysync,0,201493,Radio Active,4/15/2022,0.628,0.806,-8.748,0.0469,0.0181,0.9,0.633,0.42,125.964,4,energetic
+0bHyslF1DSnm9eyYQOQUtE,On The Move,Arno Faraji,42,194547,On the Move,3/24/2022,0.837,0.748,-5.231,0.108,0.152,5.95E-06,0.0622,0.862,115.004,4,energetic
+2F4D0GabM8Zijk7MU150ZI,Stuck - Mixed,Peven Everett,17,127996,DJ-Kicks (Kamaal Williams) [DJ Mix],11/8/2019,0.842,0.894,-9.601,0.055,0.179,0.0482,0.12,0.89,127.511,4,energetic
+16Y3IuWraX46DMtrATcIaY,"Rollout (feat. Jay Prince, Scrufizzer & Close Counters)",Young Franco,43,184952,Rollout,3/17/2022,0.746,0.596,-9.804,0.196,0.189,2.96E-06,0.234,0.62,119.989,4,energetic
+2w7c0l6JzqeCqxoEXrSRp2,WE CAME TO MOVE,The Pocket Queen,14,224546,"Groove Theory, Vol. 1",7/16/2021,0.79,0.852,-4.984,0.244,0.0227,3.27E-06,0.0699,0.812,114.993,4,energetic
+0Fl4eWzVaMUOdXcOrj6F1q,VIRGO'S GROOVE,Beyoncé,70,368758,RENAISSANCE,7/29/2022,0.683,0.85,-5.042,0.0699,0.0781,1.09E-06,0.741,0.598,107.988,4,energetic
+1AMjlgMPiepOmSXtVPlqtx,Do Me Wrong,Roska,5,223697,Do Me Wrong,6/22/2022,0.823,0.637,-3.934,0.0997,0.00574,0.000282,0.0672,0.711,129.976,4,energetic
+5nx3ZrUDWGjPBIIUNlVbcw,All I Want - Edit,Dam Swindle,10,236402,Keep On Swindling Pt. 1,6/10/2022,0.738,0.839,-7.617,0.0365,0.0328,0.786,0.238,0.867,123.989,4,energetic
+1L5eVkQE10XK5jCwmxhIVg,Everyday Struggle,Dera Meelan,47,152074,Everyday Struggle,6/24/2022,0.839,0.911,-5.335,0.104,0.152,7.07E-05,0.376,0.86,127.477,4,energetic
+2i6VaacrVkJR4hU0oSbXHc,Confidence.,Hyphen,36,128571,Confidence.,5/13/2022,0.475,0.894,-3.299,0.243,0.000895,1.58E-06,0.486,0.753,112.456,4,energetic
+4ZNhYJ1LLd4m6ZZ6aZ2eFn,Unusual,KDYN,16,197095,Unusual,7/8/2022,0.804,0.658,-8.474,0.0537,0.13,0.839,0.127,0.517,118.045,4,energetic
+3rQiCMMnKtyqvxMP9IuEXD,shake our bones,Jean Tonique,0,191311,shake our bones,7/8/2022,0.859,0.604,-10.742,0.195,0.162,0.0163,0.182,0.765,121.973,4,energetic
+411RWOOUp6WUqoJ0lof45R,Blow Your Whistle '21,DJ Duke,13,191612,Blow Your Whistle '21,6/11/2021,0.697,0.967,-4.8,0.048,0.00103,0.398,0.0916,0.899,123.992,4,energetic
+7qgAaH3I9JYWXkyDMCma08,Faded,Vindata,29,277500,Faded,5/13/2022,0.776,0.87,-6.989,0.0633,0.00143,0.0723,0.0945,0.232,119.976,4,energetic
+2lsrjp3iCPhboCTjRdU86s,I Knee'd,Osunlade,6,392550,I Knee'd U,3/11/2022,0.876,0.848,-10.03,0.0487,0.0165,0.937,0.0475,0.964,120.007,4,energetic
+7gVBHLfhOacNfcSya2aHYB,My Life - Kyle Watson Remix,ZHU,29,343802,My Life (Kyle Watson Remix),6/29/2018,0.843,0.57,-9.29,0.0985,0.000433,0.789,0.139,0.396,123.018,4,energetic
+3k0WeMv6SMh3IX9avsTaUT,No Dough,Fly Anakin,25,91171,Frank,3/11/2022,0.616,0.914,-7.224,0.201,0.15,0,0.637,0.598,94.349,4,energetic
+5UtiLa6t9ImkGj9u0OyEiO,Ayekouma,Falle Nioke,25,238114,Ayekouma,9/29/2021,0.66,0.727,-9.287,0.0501,0.177,0.296,0.0982,0.282,125.012,4,energetic
+32YlBIj8qDpyXgsLJ4MfwR,Got Me,Laura Mvula,40,206733,Pink Noise,7/2/2021,0.432,0.661,-5.959,0.0692,0.00717,0.0561,0.0871,0.466,184.119,3,energetic
+0ZzVTrUIU7zqNJMFZoQryN,Cry (with Aluna),Louis The Child,0,169433,To Believe - EP,4/22/2022,0.916,0.766,-5.503,0.0542,0.0101,0.0648,0.128,0.686,119.996,4,energetic
+20JBEfXcfOoqTtR6CgoDlM,These Things Will Come To Be,DJ Seinfeld,11,296360,Lost Island,5/25/2022,0.669,0.748,-9.124,0.0506,0.511,0.822,0.319,0.14,125.976,4,energetic
+7cYbuvxygTguDCMuvoJO3w,Need Ya,HOLOW,26,154998,Need Ya,4/1/2022,0.79,0.685,-6.32,0.342,0.201,0.0305,0.325,0.575,128.09,4,energetic
+4pi1G1x8tl9VfdD9bL3maT,Big Energy,Latto,69,172540,777,3/25/2022,0.937,0.793,-4.431,0.115,0.0453,0,0.341,0.794,106.022,4,energetic
+5rSc4cCcJ2nk8CsAGrHpfn,Nighty Four Again,June Jissle,34,115247,Donut Soulection,12/23/2021,0.764,0.817,-6.942,0.0422,0.00795,0.284,0.0475,0.699,110.036,4,energetic
+2uHJZpjdWrRGpqTEsbZudW,Suenos Bravos,Bodysync,17,210440,Radio Active,4/15/2022,0.764,0.654,-8.372,0.0385,0.205,0.386,0.148,0.579,120.036,4,energetic
+0f9OfaLdUqShtEUo3MVnZa,Far from Broken,The Yard,3,225477,Far from Broken,2/25/2022,0.626,0.788,-4.899,0.0282,0.0557,0.892,0.294,0.686,130.019,4,energetic
+3tonxLkyXJhTbY76oYuMqz,Waterslide,Relaye,16,200925,Waterslide,3/25/2022,0.73,0.662,-7.572,0.0454,0.0257,0.000611,0.0902,0.781,91.992,4,energetic
+6WzgGl7ZEU4H6Dsd47x8CG,Hit The Brakes,Bad Colours,12,174121,Hit The Brakes,4/22/2022,0.809,0.896,-7.937,0.0874,0.00704,0.899,0.064,0.821,125.017,4,energetic
+3rh495Z2rIRwD316blea4f,Happy Music,Supershy,4,232625,Happy Music / Something on My Mind,4/8/2022,0.777,0.738,-5.861,0.0352,0.0411,0.37,0.0265,0.887,123.991,4,energetic
+2pwBQc6hPiMlwfqlkVM0jJ,Don't Waste My Time (feat. JessB),lau.ra,8,181378,Vol. 1 - The Mixtape,4/15/2022,0.621,0.956,-3.951,0.114,0.0347,0.000141,0.39,0.626,128.862,4,energetic
+5MQrExx5Xt8xin5jGpEdLc,Won't Beat Me,Ejeca,28,162461,Keep Climbing EP,4/29/2022,0.643,0.932,-9.221,0.059,0.00132,0.423,0.311,0.247,130.02,4,energetic
+56UNoQz1kXeBZeqmQbFpYe,Body Groove - Mix Mc Version,Architechs,56,315533,Body Groove,1/1/2000,0.872,0.707,-7.911,0.0513,0.0362,5.59E-06,0.27,0.92,132.955,4,energetic
+6EZAn1Xsd6x15qvEcGI1oE,All My Love (feat. Robyn),Louie Vega,30,358719,Expansions In The NYC,4/29/2022,0.742,0.842,-10.248,0.0399,0.0174,0.45,0.0936,0.744,126.985,4,energetic
+72EaWichAXl7tTulGwxCKO,Waterfall,Disclosure,5,232120,Waterfall,3/22/2022,0.691,0.733,-6.887,0.0572,0.0212,5.61E-05,0.0894,0.834,128.038,4,energetic
+06eFWpksA3M9qg8GeOGGBX,LET’S DO IT AGAIN - Radio Edit,Jamie xx,58,225494,LET’S DO IT AGAIN,4/12/2022,0.66,0.837,-7.415,0.0294,0.242,0.876,0.0704,0.302,123.991,4,energetic
+5JS5RA67DvWo47YXhBHvSB,Making Dough,Sam O.B.,2,292300,Just A Slice,4/15/2022,0.749,0.759,-6.296,0.088,0.0112,0.827,0.056,0.627,118.943,4,energetic
+41nHP6usLiuUS3vg9haEnq,One More Day,Gatsby Global,2,150073,Social Gathering,4/22/2020,0.65,0.814,-5.862,0.105,0.109,0,0.114,0.436,83.911,4,energetic
+0bA4xeezZfNlNwiGibOMTI,FREEDOM - Big Freedia Remix,Jon Batiste,28,172664,WE ARE (The Deluxe Edition),10/15/2021,0.799,0.93,-4.812,0.0811,0.0297,0.00424,0.213,0.287,107.027,4,energetic
+49mjo9rQeizqhxpKbQzf0Q,EASE YOUR MIND,Darius,29,237368,EASE YOUR MIND,4/21/2022,0.744,0.736,-4.269,0.156,0.0132,0.145,0.06,0.559,113.982,4,energetic
+4yJT6qpGZphb51jiTu4zFO,come thru,Jackson Homer,24,207042,'99,3/25/2022,0.893,0.53,-8.355,0.232,0.0612,2.19E-05,0.0796,0.592,111.577,4,energetic
+6e1id4vHQHd57s9PYYlUse,Emmanuel's Groove,Azuro,14,308160,Chapter Four Edits,4/17/2020,0.927,0.884,-5.694,0.137,0.0782,0.000319,0.0609,0.765,124.979,4,energetic
+5itvQOmuMdL8jOYidLGmca,Keep On Moving (with NEZ feat. Theophilus London),Louis The Child,22,188166,Euphoria,10/15/2021,0.862,0.814,-3.465,0.125,0.00656,0.000264,0.101,0.558,127.989,4,energetic
+6mXHny2juo7dA14aGPfMpM,One of One,Keith Harris Experience,11,236129,One of One,3/24/2022,0.651,0.65,-6.181,0.0784,0.217,0,0.362,0.301,95.111,4,energetic
+4huBDGP4I3S0pYI0EaRN1c,City of Gods,Fivio Foreign,66,256000,City of Gods,2/11/2022,0.474,0.801,-5.978,0.375,0.102,0,0.322,0.497,147.356,4,energetic
+5S2bqP5cdeW7S1B0Q0jn98,Soared Straight Through Me - Kareem Ali Remix,Tom VR,40,316256,Soared Straight Through Me,6/9/2021,0.8,0.696,-12.13,0.085,0.45,0.788,0.104,0.182,128.006,4,energetic
+4b6WRfxJRY40RBpl3TMQVq,Heartbreak,Bonobo,49,265017,Heartbreak,9/23/2020,0.636,0.961,-5.644,0.0491,0.000168,0.9,0.095,0.398,126.997,4,energetic
+2XPIbFYLBxepERwKByizRG,NOSTALGIA*,MATVEÏ,7,145000,TALES FOR NIGHTCLUBS,3/25/2022,0.902,0.516,-6.493,0.368,0.284,0.00104,0.097,0.276,125.942,4,energetic
+2My6YlbRNsQ6EhetznIqIc,Forever,Bodysync,0,242546,Japan,10/14/2021,0.726,0.861,-3.875,0.0614,0.0319,0.132,0.632,0.582,119.991,4,energetic
+56qbsa1bGoANMilMefaQi3,Ganzfeld Experiment,Channel Tres,24,257722,Acid / Ganzfeld 12”,3/25/2022,0.505,0.786,-8.902,0.0601,0.0948,0.44,0.0657,0.269,129.996,4,energetic
+35xTeDQMiFuq6zfWRm9Qp3,Too Much to Taste,Crystal Murray,33,178921,Too Much to Taste,10/14/2021,0.811,0.575,-6.047,0.109,0.0533,6.46E-05,0.172,0.672,120.031,4,energetic
+6tYkbfNwNKbRD1pweoANHf,Dancehall Damager,Y U QT,18,304459,SLP004,9/10/2021,0.883,0.684,-7.185,0.311,0.0197,0,0.0294,0.568,133.06,4,energetic
+56tNMHvbcFPvYiDxA7xROH,You Could Be,Anz,47,218024,You Could Be,8/31/2021,0.712,0.818,-5.162,0.0368,0.0123,0.141,0.0499,0.52,124.012,4,energetic
+6SChFrEcNTwOXBCdUgeuLE,Infinite,Sam Sparro,19,291576,"Quantum Physical, Vol. 1",10/1/2013,0.712,0.787,-5.105,0.0315,0.000102,0.498,0.0471,0.824,125.972,4,energetic
+6ZbJz7FWWa3m5QbTudts8K,Back Seat - Chris Lorenzo Remix,Anna Lunoe,42,286874,Back Seat (Chris Lorenzo Remix),1/13/2022,0.783,0.939,-6.577,0.0515,0.00272,0.877,0.327,0.797,128.017,4,energetic
+2w8jk4NAkqURAJ7WvTI98W,So Fine (Franc Moody Remix),Pat Lok,29,238714,So Fine (Franc Moody Remix),8/4/2021,0.755,0.749,-9.395,0.0895,0.21,0.711,0.117,0.653,124.99,4,energetic
+5OKuigqDZttO0FSkKVF3tB,Fruit Punch,Jay Faded,43,170375,Fruit Punch,7/9/2021,0.68,0.488,-9.4,0.0806,0.182,0.0218,0.2,0.289,127.027,4,energetic
+3OZUrZBtQCiMmpoZquu0BS,"Work (feat. Dave Giles II, Cor.Ece & Mike Dunn)",Honey Dijon,47,181801,"Work (feat. Dave Giles II, Cor.Ece & Mike Dunn)",1/21/2022,0.762,0.707,-7.306,0.0437,0.00251,0.00685,0.073,0.717,124.956,4,energetic
+1uRkLJG9sdMFIB8Hb18uGx,Lost Myself Again,JADED,48,172826,Lost Myself Again,1/21/2022,0.803,0.823,-5.968,0.0598,0.00596,0.0012,0.336,0.769,124.998,4,energetic
+3J9aXNO8X87HBhhTWjVVE0,AA 24 7 - Noob Remix,Dance Area,2,450708,AA 24/7,2/2/2009,0.797,0.761,-7.884,0.0595,0.000147,0.845,0.0518,0.481,127.018,4,energetic
+0uSf7jyXtAUZuSy41jTJrW,Werk,The Deepshakerz,8,191133,Werk EP,11/19/2021,0.881,0.836,-6.663,0.119,0.0478,0.22,0.153,0.711,126.032,4,energetic
+3BDa9cp9tw3PJnxd07ztuV,Frankie & Levan,Zach Witness,33,221008,Sing the Dance Electric,8/25/2021,0.742,0.793,-4.616,0.0746,0.00528,0.0557,0.448,0.725,126.972,4,energetic
+4gcO8PD4skPOBneayOCBdE,Weekend Love,Jafunk,0,219280,Weekend Love,5/7/2021,0.739,0.623,-5.593,0.0738,0.254,0.000212,0.129,0.821,115.139,4,energetic
+2TETqexWXvMdhbYy7kJrZa,Nonchalant,Duck Sauce,1,190645,Nonchalant,8/13/2021,0.833,0.895,-3.861,0.126,0.0055,0.132,0.183,0.78,123.991,4,energetic
+41H2fON7xrNirxSmbEgPVR,Jessica (feat. LILO LI),Surya Sen,29,201884,Jessica (feat. LILO LI),7/16/2021,0.845,0.855,-5.655,0.0553,0.00649,3.78E-05,0.397,0.961,119.974,4,energetic
+5FIRCztpLYutxxmzUEgXZc,FEELS RIGHT,Darius,44,269653,FEELS RIGHT,6/15/2021,0.79,0.591,-6.696,0.0478,0.178,0.0174,0.113,0.464,123.045,4,energetic
+3u9HjeTRf00U09CV5cLjDz,Hildegard,Dusky,30,281840,JOY,11/5/2021,0.655,0.857,-7.872,0.0362,0.0264,0.857,0.105,0.188,123.996,4,energetic
+45bKjztDANvG8KmrJZHUKv,Freeze (feat. Ymtk & Amal Marie),Kari Faux,21,187826,Freeze (feat. Ymtk & Amal Marie),10/31/2021,0.779,0.57,-9.119,0.0592,0.113,0,0.084,0.634,114.904,4,energetic
+5zOPtrHceMJO6ydtLPvObb,Bangene,Gregor Salto,0,165853,Bangene,6/25/2021,0.905,0.856,-4.726,0.131,0.0426,0.0639,0.0743,0.68,122.96,4,energetic
+0ouFThIkQRyW52ELPVjtdQ,All Of The Time - DJ Streaks Remix,Jungle,0,286312,All Of The Time (DJ Streaks Remix),10/6/2021,0.83,0.674,-7.886,0.0694,0.00199,0.9,0.122,0.748,123.992,4,energetic
+6UlHZ5xhJNf06AqOKXX20p,Antibodies - Dombresky & Boston Bun Remix,Tensnake,27,175281,Antibodies (Dombresky & Boston Bun Remix),8/20/2021,0.734,0.897,-4.915,0.0463,0.013,0.0701,0.0167,0.648,123.01,4,energetic
+66E7szgK8QnDkvw5NmNKa5,Rampampam (partywithray Remix),Minelli,11,189450,Rampampam (partywithray Extended Remix),11/5/2021,0.882,0.839,-5.654,0.0583,0.0114,0.0263,0.0904,0.916,123.018,4,energetic
+2StmBgb1tIVUK5xysDHAUM,Voyage,Prospa,27,344516,Voyage,10/8/2021,0.645,0.87,-6.974,0.0366,0.00129,0.827,0.102,0.0808,124.022,4,energetic
+2iCkWaXZ4XcwvLDcN2bwnO,Masala - Pablo Fierro Remix,Floyd Lavine,45,418468,Masala EP,6/30/2017,0.799,0.646,-10.318,0.0591,0.00218,0.799,0.0613,0.131,125.032,4,energetic
+5IAqJdv7OZkeZcUf1tZN8t,True Say,Chris Malinchak,34,165616,Night Work,7/9/2021,0.788,0.874,-7.147,0.0389,7.95E-05,0.00029,0.38,0.967,121.055,4,energetic
+6pzOMZfXrDZFMuGEZjxRzz,Up Close,Roland Tings,6,309799,Up Close,10/4/2019,0.595,0.867,-7.762,0.0693,0.136,0.745,0.13,0.0705,119.967,4,energetic
+74usZNReO4g4j5aZ0yAmBw,You Can Do It,Caribou,44,228807,You Can Do It,8/24/2021,0.676,0.652,-9.539,0.0613,0.752,0.137,0.115,0.894,128.046,4,energetic
+5YzBL3vkQnp3JbeDRRSbSQ,Pick Up,DJ Koze,54,398150,Knock Knock,5/4/2018,0.712,0.601,-8.968,0.062,1.09E-05,0.802,0.0982,0.513,124.912,4,energetic
+1JDS6yAk0wCsfkFLN9Tr7i,Thinking,Louis Cole,48,111428,Thinking,4/13/2017,0.9,0.703,-5.615,0.117,0.544,0.0817,0.263,0.81,111.976,4,energetic
+2iPy5ICdpC54s5HkLPL4xm,Seduction - Edit,Disclosure,24,228280,Never Enough,8/20/2021,0.692,0.734,-7.505,0.146,0.173,0.891,0.123,0.196,125.977,4,energetic
+2YAWc1YeaASqg8GNWTjvV3,Fire (Edit) - Mixed,Onipa,26,341545,DJ-Kicks: Disclosure,10/15/2021,0.481,0.916,-7.753,0.0955,0.0231,0.488,0.111,0.444,132.985,4,energetic
+4zsU7DvUrD0Y20KbOje7GT,Pull Up,Keys N Krates,26,215254,Pull Up,10/8/2021,0.811,0.711,-5.225,0.141,0.19,0.000322,0.0792,0.781,128.977,4,energetic
+2BnoxYpCeEiDQSUNx1TZpf,See-Line Woman - Riton Remix,Nina Simone,38,244413,See-Line Woman (Riton Remix),9/24/2021,0.745,0.907,-4.426,0.0705,0.0542,0.0631,0.0756,0.35,123.961,4,energetic
+22g7DVOp4ifTv0GL5WRVzX,Never Enough - Edit,Disclosure,25,215760,Never Enough,8/20/2021,0.706,0.913,-7.046,0.0974,0.00865,0.834,0.0856,0.596,132.989,4,energetic
+6EEHeR2ZxPISdgAMCkmCLF,Go,The Chemical Brothers,34,260696,Born In The Echoes (Deluxe Edition),7/17/2015,0.751,0.897,-3.598,0.0468,0.00957,2.88E-05,0.329,0.482,119.97,4,energetic
+3iAlkAWJ4yF7zkcWwi5GAV,"Love and Hate in a Different Time - Kerri Chandler Remix, Edit",Gabriels,37,269043,Love and Hate in a Different Time (Kerri Chandler Remix),7/16/2021,0.803,0.836,-6.703,0.0385,0.0603,0.718,0.102,0.677,124.026,4,energetic
+4ATV1wMIJW160xZaeMyVNA,"BLOW YA TRUMPET (feat. Knucks, Ghetts, Akala & Kojey Radical)",Swindle,21,243626,THE NEW WORLD,10/29/2021,0.61,0.786,-6.753,0.194,0.00996,9.04E-05,0.44,0.182,130.179,4,energetic
+1CE0qHhs1ptJg01dGROO2c,Cheque,Don Diablo,48,165245,Cheque,10/15/2021,0.816,0.796,-4.393,0.148,0.202,1.66E-06,0.137,0.702,122.028,4,energetic
+2jA8yMroWTkrEzdd35sTZR,Takeaway Pints,49th & Main,17,213331,GOOD LUCK,6/17/2021,0.713,0.724,-13.448,0.12,0.000993,0.817,0.0362,0.753,126.003,4,energetic
+21RCik7kfIcrYjBfFFx1Op,Love Vibration - Yuksek Remix,Sentimental Animals,34,230764,Love Vibration (Yuksek Remix),7/2/2021,0.736,0.82,-8.792,0.0524,0.0178,0.0227,0.598,0.773,118.999,4,energetic
+5zi2XGi61XI1JMjVVYY2Pp,Body Wrap - Radio Edit,TIBASKO,22,201290,Body Wrap,5/17/2019,0.782,0.971,-6.731,0.0503,0.000972,0.739,0.116,0.623,123.984,4,energetic
+5V55t8Ss6n1zU9ScKrdYwP,Armaghetton,Marco Faraone,37,241866,Armaghetton,11/6/2020,0.885,0.775,-7.298,0.0459,0.00437,2.44E-05,0.0171,0.786,130.007,4,energetic
+657LepmCQ8ceoKeeksChAj,Bun Dat - Xtra Brux Inflammable Remix,EVM128,3,281250,Bun Dat Remixes,4/9/2021,0.632,0.596,-8.388,0.363,0.0033,0.491,0.375,0.698,127.549,4,energetic
+7pz0mKknMDOTwB7n753vxY,Lookin',Afriqua,0,399134,AFREEKWUH,12/4/2020,0.775,0.61,-6.859,0.04,0.00482,0.598,0.0932,0.787,127.009,4,energetic
+4C2ohxfUodwGkMN67lxGbs,Beat Freak (ft. lau.ra),Chris Lake,49,214309,Beat Freak (ft. lau.ra),3/26/2021,0.886,0.694,-5.322,0.0448,0.0123,0.44,0.13,0.962,126.018,4,energetic
+3FylbEIMEP0OyZcfINUDgf,"Work (feat. DUCKWRTH, Saint Bodhi)",NEZ,23,146019,"Work (feat. DUCKWRTH, Saint Bodhi)",8/14/2020,0.948,0.504,-5.751,0.0667,0.0175,0.00108,0.152,0.0643,119.986,4,energetic
+4NRblzcB6oD5hMMKdE483x,Tengo Eso,Heidy Brown,7,168189,Tengo Eso,8/27/2021,0.838,0.955,-2.924,0.118,0.011,0.00868,0.321,0.909,127.043,4,energetic
+5KiHYDYEFYJ7LzuwEujp2W,Like This - Volt Mix,Pangaea,7,265391,Like This,7/10/2020,0.795,0.699,-8.173,0.136,1.01E-05,0.945,0.247,0.601,131.987,4,energetic
+1JzR3gMX8hHNT9aOj05h0O,Rose Tinted,Crate Classics,1,200793,Rose Tinted,7/23/2021,0.714,0.858,-7.517,0.0917,0.064,0.112,0.121,0.764,144.965,4,energetic
+6d9ZfUJYnB6TQ2TNzNRW9n,Bubble,DJ Zinc,23,141500,Friends and Fam,11/27/2020,0.819,0.962,-2.822,0.0543,0.0568,0.000796,0.0891,0.923,127.013,4,energetic
+6MomDISbOEnUQARwoiBPgF,Let's Go!,Dance System,28,174000,Where's the Party At?,11/19/2020,0.603,0.971,-4.418,0.0735,0.000384,0.268,0.314,0.494,130.018,4,energetic
+5QJwvpgZXdMD9lDtdczCVy,Conga Mode - Edit,Melé,41,224761,Conga Mode EP,7/17/2020,0.756,0.868,-7.485,0.0458,0.0225,0.858,0.113,0.187,126.012,4,energetic
+2gZUPNdnz5Y45eiGxpHGSc,POWER,Kanye West,79,292093,My Beautiful Dark Twisted Fantasy,11/22/2010,0.542,0.914,-4.747,0.113,0.0161,0,0.744,0.576,153.993,4,energetic
+3j35UwERMOYiu7v8IxjeWo,Get Creative,lau.ra,0,179081,Get Creative,6/12/2020,0.581,0.86,-5.077,0.28,0.00169,0.00039,0.114,0.86,123.126,4,energetic
+73TnEKiVHuZFNxZr1JiGxJ,BOOM,Tiësto,36,178536,BOOM,1/26/2018,0.883,0.824,-3.523,0.0506,0.0178,0.0137,0.325,0.295,123.053,4,energetic
+5W3cjX2J3tjhG8zb6u0qHn,"Harder, Better, Faster, Stronger",Daft Punk,73,224693,Discovery,3/12/2001,0.817,0.716,-8.898,0.144,0.0427,0.00263,0.358,0.692,123.474,4,energetic
+2Mpj1Ul5OFPyyP4wB62Rvi,Survivor,Destiny's Child,72,254026,Survivor,5/1/2001,0.514,0.911,-2.027,0.41,0.0559,0,0.775,0.619,161.109,4,energetic
+4ylwhtHT57G5VbpVMyUIBR,Never Grow Old - Re-Plant,Floorplan,42,439929,Never Grow Old (Re-Plant) / Phobia (Re-Plant),6/16/2014,0.674,0.724,-8.373,0.0556,0.00198,0.83,0.153,0.388,132.108,4,energetic
+3ia3dJETSOllPsv3LJkE35,California Love - Original Version,2Pac,81,284906,Greatest Hits,1/1/1998,0.763,0.85,-3.052,0.0417,0.0304,1.21E-06,0.371,0.761,91.519,4,energetic
+0CokSRCu5hZgPxcZBaEzVE,Glorious (feat. Skylar Grey),Macklemore,77,220454,GEMINI,9/22/2017,0.731,0.794,-5.126,0.0522,0.0323,2.59E-05,0.112,0.356,139.994,4,energetic
+1E8WiCruTiJgwFUTCuhSIh,Faster Please,seeyousoon,33,183093,Faster Please,6/10/2021,0.858,0.833,-4.474,0.163,0.000978,0.0124,0.27,0.372,109.957,4,energetic
+7whh4iNy8QMZs9ad9bJ6q7,Every,Redlight,16,217142,Every,5/21/2021,0.601,0.937,-4.314,0.0495,0.00349,0.908,0.0509,0.755,126.013,4,energetic
+3bJwiNmreZkHXjeuFmW8bG,Heater,Hot Since 82,34,426000,Heater,6/18/2021,0.679,0.73,-10.444,0.046,0.00277,0.864,0.608,0.563,126.014,4,energetic
+1ydVJBv3N3MHIkOYtuNsT7,Don't Hit My Line,Aluna,29,219563,Don't Hit My Line,6/17/2021,0.864,0.57,-6.224,0.0605,0.00262,0.371,0.0781,0.543,127.988,4,energetic
+11awLtpvm2oVdbY5KJHTAV,Sinaloa,Monkey Wrench,3,374880,Loco / Sinaloa,4/29/2021,0.771,0.879,-6.369,0.0524,0.00303,0.858,0.0792,0.301,125,4,energetic
+1Gtee3Pg4D0Ey2UqEVbTJV,Pash,Dampé,4,303655,Sleet,6/7/2021,0.8,0.646,-9.364,0.0733,0.014,0.89,0.108,0.284,126.983,4,energetic
+0CdXVtDuGEHSqwkeeNRvlg,Fanfa,Athlete Whippet,0,290740,Fanfa,5/21/2021,0.66,0.925,-9.596,0.045,0.00315,0.805,0.0634,0.862,122.522,4,energetic
+2cF3poyUsLAYzRniPYEJUm,Riddick Bowe,808INK,31,172725,Riddick Bowe,6/26/2020,0.817,0.934,-3.667,0.203,0.0667,0.000747,0.171,0.692,124.525,4,energetic
+6EJdMfuTTtkT3ODpuT0MyP,Get up on It!,Dance System,22,241899,Where's the Party At?,11/19/2020,0.73,0.799,-5.859,0.0387,2.62E-05,0.22,0.0767,0.876,129.97,4,energetic
+1vN5J57n7VLg6H3Jm44w5w,Watchin’ Out - The Deepshakerz Extended Mix,Federico Scavo,4,315000,Watchin’ Out (The Deepshakerz Remix),5/21/2021,0.723,0.888,-5.793,0.0957,0.0331,0.671,0.0686,0.328,123.004,4,energetic
+3j2HYjcIlxVhUT5Ioi1owY,Empower,Steam Down,18,285040,Empower,5/19/2021,0.732,0.782,-5.88,0.265,0.0125,0,0.287,0.586,156.053,4,energetic
+18nvHOj7aLMfzARYPri1x8,For You,Friend Within,9,185806,Hope,3/12/2021,0.659,0.866,-7.563,0.0378,0.0146,0.721,0.134,0.398,123.99,4,energetic
+54u2L91mRw4Gxd7TkYvuTx,Azaa - Branko Edit,Gafacci,26,164350,Branko Presents: Enchufada Na Zona Vol. 2,7/10/2020,0.87,0.623,-7.114,0.0831,0.328,0.546,0.107,0.407,130.024,4,energetic
+7rGxWoUyNno5ztljshnN7o,Do This Forever,Lxury,39,300000,No Real Rush,5/20/2020,0.689,0.874,-8.228,0.0631,0.000301,0.623,0.41,0.154,121.5,4,energetic
+4Lr6O3fvBqtMrm9pWwNszv,Over & Over,Champion,0,230879,Over & Over,3/6/2020,0.83,0.676,-4.514,0.124,0.00688,0.827,0.0795,0.521,133.986,3,energetic
+5kzrBAsrJLkFJuKLh7Dn5y,Frontline - Yussef Dayes Remix,Pa Salieu,30,193715,Frontline (Yussef Dayes Remix),4/8/2020,0.543,0.781,-5.961,0.322,0.00662,3.14E-05,0.216,0.35,130.13,4,energetic
+6RTPtfLwayobBAVccAoBXC,Fudge - Extended,Idris Elba,18,168198,Fudge,6/17/2021,0.85,0.818,-8.392,0.168,0.0248,0.0845,0.0752,0.686,124.034,4,energetic
+657VKliKlekLio3kYfCto7,Only for Tonight,Bklava,27,158150,Only for Tonight,6/18/2021,0.721,0.937,-5.696,0.0461,0.0066,0.623,0.0485,0.258,127.964,4,energetic
+6gwwsp3Yta4K6yCr3HRwKN,We Got Together,Róisín Murphy,35,310924,Róisín Machine,10/2/2020,0.63,0.908,-6.964,0.0368,0.000552,0.727,0.112,0.238,112.005,4,energetic
+4B198MePwFugAG1iadl7yr,Get Down,Warwick,2,274477,"Breaks 'N' Pieces, Vol. 4",4/9/2021,0.739,0.925,-11.245,0.111,0.0267,0.832,0.0697,0.438,133.942,4,energetic
+5Q4DWU7jIvugFxhjKt2tm9,No Touch,Raz & Afla,11,361914,No Touch,1/10/2020,0.829,0.829,-10.308,0.102,0.464,0.78,0.0912,0.627,123.016,4,energetic
+7d2Viw3CPExe5TZeKFLbeP,Sunny's Time - Logic1000 Remix,Caribou,25,237586,Suddenly Remixes,3/12/2021,0.735,0.6,-6.782,0.0467,0.00849,0.915,0.104,0.446,132.004,4,energetic
+5xhCzZTiMMNoDy87RVFEUa,Mustard,Junktion,5,302613,24 Carrot #2,12/4/2020,0.791,0.778,-9.949,0.0568,0.01,0.888,0.113,0.736,131.99,4,energetic
+3enhwNFECQX6psc1uqprYV,ELASTIC,ZDBT,37,219508,ELASTIC,1/29/2021,0.808,0.932,-7.102,0.076,0.02,4.30E-06,0.0856,0.81,139.993,4,energetic
+2aEHD8OX2gMFYLS8HQl6Ev,Snowing Throw – The Folly Of Pangloss,Throwing Snow,18,184320,Snowing Throw – The Folly Of Pangloss,7/1/2020,0.703,0.837,-7.027,0.0361,0.00289,0.916,0.17,0.484,124.991,4,energetic
+1krM3hznCz5acNk9g2Sog6,Collage (KDA vs Lady Blackbird) - Banger Dub Edit,KDA,9,241983,Collage (KDA vs Lady Blackbird) [Banger Dub Edit],3/12/2021,0.78,0.91,-6.019,0.0534,0.000269,0.106,0.0625,0.621,121.005,4,energetic
+06dw9zz1DSaYVR6Wcy0OuS,Alligator - Punctual Remix,Truman,15,215299,Alligator (Punctual Remix),4/16/2021,0.836,0.821,-5.554,0.0629,0.0322,0.00476,0.315,0.826,124.956,4,energetic
+2QVjf5UrQuoDt3aI0XRh6x,No Drama,Neon Steve,9,212598,No Drama,4/2/2021,0.787,0.954,-5.878,0.1,0.056,0.00296,0.0373,0.449,126.994,4,energetic
+6s5fztn7rjtRs2gGdP9n7t,IN IN IN,Zebra Katz,0,197882,LESS IS MOOR,3/20/2020,0.756,0.699,-6.416,0.0427,0.0107,0.0277,0.224,0.226,125.98,4,energetic
+5w9lJPtVqj283UglX5Aysw,I Woke Up - PBR Streetgang Italo Dromo Dub,Monki,3,510476,I Woke Up feat. Wayne Hernandez,11/22/2019,0.784,0.897,-9.627,0.0975,0.00796,0.895,0.0601,0.19,126.009,4,energetic
+3qM2JMFglqjPfhRoSXmYaZ,Legend,Demuir,4,276191,Legend,11/6/2020,0.801,0.818,-6.983,0.085,0.00057,0.568,0.335,0.466,126.003,4,energetic
+2oyYTfp3uoqY9Z4CJeia8c,Sixteen,Ben Caldwell,3,364800,NNN02 - Ben Caldwell,6/21/2019,0.767,0.699,-9.769,0.037,6.32E-05,0.942,0.048,0.112,128.002,4,energetic
+50NLqLWGxZGamyGpURxjx4,The Rope (feat. POLIÇA) - Geotheory Remix,Lane 8,20,281036,Brightest Lights Remixed,9/24/2020,0.726,0.856,-4.964,0.185,0.135,0.00309,0.102,0.0602,117.008,4,energetic
+00bT4YJS4eJV4zHoKOudaq,Silent (Tuff Culture Remix),Tigs,5,292330,Silent,2/26/2021,0.791,0.975,-4.69,0.177,0.0281,0.0413,0.0871,0.7,133.01,4,energetic
+19jYNfhsYSYX8vt3v7bvuJ,Running Man - Main,Footsie,37,206626,Running Man,9/6/2019,0.849,0.484,-12.794,0.325,0.0833,0.000539,0.0815,0.532,127.016,4,energetic
+5YtJCl83jA1ZlXtjWcCLys,The Step (with Nabiha),Punctual,37,182986,The Step (with Nabiha),1/29/2021,0.796,0.698,-7.617,0.0675,0.0226,0.000454,0.081,0.64,124.991,4,energetic
+37GO0s56KsPYaVaNcftCJ9,Alexandra - Edit,Elkka,9,265454,Alexandra,4/21/2021,0.688,0.828,-9.471,0.0403,0.00636,0.887,0.104,0.527,132.019,4,energetic
+4ZrNrvAnMne57IKquUlkss,Modern Romance - Dusky Remix,Catz 'n Dogz,28,212488,Modern Romance (Dusky Remix),4/9/2021,0.621,0.899,-11.092,0.0484,0.0141,0.82,0.202,0.704,128.03,4,energetic
+5KGn7C4GflN0EFMNqDmUY9,Hold Up,Late Replies,40,228571,Hold Up,11/13/2020,0.805,0.904,-6.717,0.0507,0.00785,0.9,0.0396,0.501,126,4,energetic
+2A1xjiJ05BvBsPkG6dxCb3,Blow Your Cool - Raumakustik Extended Remix,Moonbootica,3,422831,Blow Your Cool (Extended Mixes),3/18/2021,0.793,0.846,-6.622,0.0778,0.000157,0.758,0.828,0.718,128.014,4,energetic
+68wxozkJTSVBbQwpz96oyV,Falling,Prozak,4,227730,Make Me Feel,3/19/2021,0.776,0.978,-5.856,0.0528,0.0418,0.675,0.0713,0.942,136.006,4,energetic
+5CzFQFJvJiNj5L13Xvmdtz,Game Face On - Original Mix,Magugu,0,137674,Game Face On,2/27/2021,0.885,0.924,-2.997,0.115,0.0445,0.328,0.23,0.879,129.006,4,energetic
+572erRbd6XonsETgPVcRti,Gimme,Ibranovski,0,183333,Gimme,3/11/2021,0.828,0.886,-3.53,0.0793,0.000684,0.111,0.215,0.331,126.021,4,energetic
+26MaoSFD2xq5KVr55NY2Cb,Live the Dream (Rosie Kate Remix),Wildfire,2,200924,Live the Dream (Rosie Kate Remix),3/5/2021,0.755,0.928,-7.492,0.106,0.0576,0.0795,0.0736,0.169,128.035,4,energetic
+2AZo3hWWkaJjfSLcHRxG41,Gold,Bleu Clair,34,215290,Gold,3/26/2021,0.783,0.938,-5.935,0.0628,0.0025,0.584,0.0944,0.455,125.019,4,energetic
+18XaSQTiVylPUq0uSyWZAh,Groove La Afrika,Melé,40,169133,Soul on Ice EP PT1,3/26/2021,0.873,0.886,-4.53,0.357,0.0241,0.864,0.0347,0.274,127.061,4,energetic
+1HhJV181soS32NvP7FfSXF,Off The Hook - Hitch.93 Remix,Smasher,4,311493,Off The Hook,3/23/2021,0.8,0.975,-3.119,0.308,0.0215,0.000217,0.0234,0.853,131.125,4,energetic
+1TkJTS4V23IjVDUxaMWhyf,Spice Run,Dam Swindle,0,349972,Spice Run,2/19/2021,0.795,0.765,-9.492,0.0998,0.00562,0.781,0.0622,0.295,127.01,4,energetic
+2pKKqvqmW3Uc8dBVjtUCld,technobody,wev,0,323809,technobody,3/10/2021,0.804,0.781,-6.136,0.0689,0.0152,0.809,0.0694,0.301,126.014,4,energetic
+0XhFy7NAFb8b1grm26Xwh2,Keep Her Close,ODESZA,47,214153,My Friends Never Die,9/17/2013,0.484,0.844,-6.096,0.0479,0.0332,0.0319,0.22,0.49,130.062,4,energetic
+2vd80J0RxcnI2ERq24ahB0,See Me Thru - Sarah Farina Remix,Madame Gandhi,8,174993,See Me Thru (Sarah Farina Remix),3/6/2020,0.563,0.633,-10.821,0.0448,0.137,0.707,0.102,0.31,162.867,4,energetic
+4MY7HmER9rXGPMV7nJldzZ,Disco Drum,Black Caviar,0,176718,Disco Drum,6/24/2016,0.876,0.71,-7.341,0.105,0.00188,0.00981,0.0587,0.367,120.021,4,energetic
+0y1iW3VACMq9MlsXdfwVgC,Waiting For Me,Madame Gandhi,16,206156,Visions,10/25/2019,0.749,0.723,-6.813,0.0374,0.00161,0.413,0.801,0.225,124.039,4,energetic
+5rpbH7nkYanzWJejjTmggF,Swing,Sofi Tukker,53,179658,Swing,7/12/2019,0.775,0.717,-5.348,0.114,0.0064,0.265,0.112,0.282,122.994,3,energetic
+3lQJOB8Mwjmx8MpaKmqBhl,You Can't Stop Me feat. Messiah - Remix,Andy Mineo,42,179723,You Can't Stop Me (Remix),4/11/2018,0.7,0.812,-7.614,0.227,0.0651,4.64E-06,0.255,0.836,146.1,4,energetic
+3kZoay4ANo86ehb6s4RwS9,Ridin',Chamillionaire,70,303053,The Sound of Revenge,1/1/2005,0.787,0.799,-4.68,0.0993,0.189,0,0.3,0.835,143.052,4,energetic
+7xQYVjs4wZNdCwO0EeAWMC,Born Slippy (Nuxx),Underworld,67,456480,1992 - 2012,1/1/2014,0.576,0.953,-8.968,0.0362,0.00106,0.49,0.474,0.303,140.042,4,energetic
+722tgOgdIbNe3BEyLnejw4,Black Skinhead,Kanye West,75,188013,Yeezus,6/18/2013,0.766,0.809,-6.123,0.279,0.0011,0,0.168,0.325,130.127,4,energetic
+3mPhsCDSs2ydBJIxD0ncjM,Powerless (feat. Becky Hill),Rudimental,41,235746,Home (Deluxe Edition),4/29/2013,0.53,0.657,-7.978,0.0356,0.00765,0.000116,0.108,0.251,149.959,4,energetic
+625n29EHWOs071W0xqg6zn,ENERGY,Disclosure,43,293880,ENERGY (Deluxe),8/28/2020,0.708,0.967,-6.685,0.0701,0.0217,0.62,0.0552,0.123,127.014,4,energetic
+73X9X7kDgsm4YeHpc8prf6,Apricots,Bicep,53,246506,Apricots,10/6/2020,0.819,0.599,-6.778,0.039,0.347,0.824,0.083,0.489,127.986,4,energetic
+3uMB82o0qa7erhiZBW9KQC,Big For Your Boots,Stormzy,41,238418,Gang Signs & Prayer,2/24/2017,0.515,0.902,-4.729,0.383,0.0313,0,0.093,0.628,174.589,5,energetic
+5YpZh8wfS4moRBk0ijNcXr,Harder Than You Think,Public Enemy,63,249521,How You Sell Soul to a Soulless People Who Sold Their Soul?,8/7/2007,0.484,0.852,-4.442,0.274,0.0317,0,0.0547,0.766,103.578,4,energetic
+4PpuH4mxL0rD35mOWaLoKS,Lemon,N.E.R.D,61,219706,NO ONE EVER REALLY DIES,12/15/2017,0.916,0.727,-6.556,0.0861,0.00214,0.000145,0.118,0.201,94.997,4,energetic
+3zr8Da3HzbwEzxPTs9PgqO,All This,Jay Pryor,0,187692,All This,6/21/2018,0.598,0.955,-5.219,0.244,0.11,0.000138,0.934,0.503,126.002,4,energetic
+2F1ZC6Z0pAqfvPqsNwqr7D,Running - Disclosure 2021 VIP,Jessie Ware,27,392383,Workout Energy,1/22/2021,0.817,0.677,-7.194,0.0975,0.0259,0.0384,0.382,0.157,124.988,4,energetic
+4BggEwLhGfrbrl7JBhC8EC,Butterfly,Crazy Town,74,216733,The Gift Of Game,11/4/1999,0.736,0.811,-4.17,0.081,0.00132,0.000142,0.107,0.609,103.502,4,energetic
+6btyEL6NwUa97Nex9cZFvo,Pump It,Black Eyed Peas,71,213066,Monkey Business,1/1/2005,0.649,0.931,-3.15,0.181,0.0093,0,0.751,0.744,153.645,4,energetic
+21REQ1bCUWphT2QK3bLWYQ,Sure Shot,Beastie Boys,62,199666,Ill Communication,5/23/1994,0.692,0.799,-7.924,0.164,0.388,0,0.301,0.549,97.978,4,energetic
+6BbINUfGabVyiNFJpQXn3x,Wicked,Future,62,173346,EVOL,4/13/2016,0.718,0.679,-5.899,0.0706,0.00191,0.0104,0.385,0.205,157.97,4,energetic
+6glsMWIMIxQ4BedzLqGVi4,"So Fresh, So Clean",Outkast,74,240026,Stankonia,10/31/2000,0.725,0.64,-7.905,0.332,0.0281,0,0.099,0.915,166.028,3,energetic
+5BPENl0nmNPHBVuctB78Ho,One More Time (feat. AJ Tracey),Not3s,38,164733,One More Time (feat. AJ Tracey),10/15/2020,0.599,0.757,-4.703,0.289,0.0808,0,0.109,0.764,141.594,4,energetic
+4wkQmYpAaMe41Rc3sYZ7Vz,Let's Go (feat. Ne-Yo),Calvin Harris,67,232800,18 Months,10/29/2012,0.71,0.882,-2.932,0.0595,0.00777,0.00771,0.294,0.875,128.016,4,energetic
+6xXRAi4JW9SzaM3b5R3Gbe,Bussin’,AK-69,57,186480,LIVE : live,8/2/2020,0.622,0.92,-4.415,0.0509,0.0849,0,0.0815,0.792,171.941,4,energetic
+5cHpzOCrgpnjKuoFqOUIdw,Savage Remix (feat. Beyoncé),Megan Thee Stallion,43,242732,Savage Remix (feat. Beyoncé),4/28/2020,0.572,0.731,-4.813,0.399,0.019,0,0.141,0.624,169.119,4,energetic
+7vIwSKJhVRZNDnGyQlx5hP,Bonfire,Childish Gambino,0,192946,Camp,11/15/2011,0.501,0.738,-6.215,0.29,0.0626,0,0.275,0.259,161.613,4,energetic
+7q584VOAZLMPaIQ9pedKFl,Both Of Us,Jayda G,53,353568,Both Of Us,5/26/2020,0.756,0.668,-10.756,0.0704,0.00217,0.837,0.0796,0.504,123.97,4,energetic
+6j4j6iRR0Ema531o5Yxr2T,Memories,Eden Prince,62,149395,Memories,6/26/2020,0.909,0.651,-5.672,0.105,0.161,0.0437,0.0923,0.895,124.026,4,energetic
+6uqZ3g3BKSENZd5z4qgF6M,Night Steppa,SPD,4,254883,Night Steppa,11/6/2020,0.784,0.769,-5.563,0.0656,0.0122,0.0154,0.0714,0.33,129.017,4,energetic
+0iLbWzg7QHUldffCQhyFzJ,Champion,Book,21,129219,Champion,9/13/2019,0.656,0.823,-5.194,0.212,0.339,0,0.142,0.848,73.212,4,energetic
+4aJ3ys72vKkJXokem7ju7H,Girl With The Bat (feat. Shadow Boxxer) - Edit,Idris Elba,0,200357,Girl With The Bat (feat. Shadow Boxxer),5/15/2020,0.873,0.942,-5.764,0.0636,0.00175,0.58,0.0279,0.718,125.995,4,energetic
+4tNE4tQfk67SyeNiJiX8DV,Mbili,AIKON,14,399411,Moja EP,12/18/2020,0.759,0.913,-9.601,0.0408,0.009,0.66,0.0903,0.0963,121.996,4,energetic
+3arp7c5CJ2JGyeOD2YR1b6,In Da House,Cakes da Killa,14,184663,Muvaland,11/13/2020,0.919,0.786,-6.473,0.31,0.0119,1.77E-06,0.0673,0.534,125.071,4,energetic
+5krfM2qSv73Km5MMgzfkBJ,Work!,Chris Lake,32,180090,The Answer,12/11/2020,0.776,0.942,-4.582,0.0559,0.000255,0.76,0.118,0.27,123.944,4,energetic
+2xIZ9s1aVZsMvNrlA9mGP2,Intro (Fresh & Clean) - Zed Bias Remix,Roska,4,318090,Fresh & Clean Zed Bias Remix,11/20/2020,0.807,0.886,-7.674,0.135,0.38,0.000268,0.0891,0.852,129.916,4,energetic
+7EmUOxLhuYH2erIHIn5HHs,This Way - Friend Within Remix,Star.One,1,204383,"This Way, Pt. 2",12/2/2020,0.716,0.891,-5.577,0.0565,0.00705,6.64E-05,0.0394,0.965,123.996,4,energetic
+3pbx9ci2D5jiJm1YBPfpFD,Bare with Me,Prequel,3,439702,Bare with Me,12/13/2019,0.757,0.702,-9.301,0.064,0.415,0.831,0.228,0.065,125.023,4,energetic
+7gtaFkFyOgVGUIQIDfu5wM,Wordy,Titeknots,30,342039,Mind Open / Wordy,9/16/2013,0.836,0.916,-6.201,0.0807,0.11,0.889,0.249,0.706,119.996,4,energetic
+1TRUaVtFV6uFlY0UDFlRmb,Drena,Lua Preta,0,186500,Diaspora,6/14/2021,0.871,0.543,-11.741,0.119,0.26,0.214,0.0847,0.72,126.017,4,energetic
+2AdrS5pHGNAkwnISCYfRWz,Life on Mars,WheelUP,2,294095,The Ndebele - EP,6/18/2020,0.671,0.904,-7.701,0.0412,0.00369,0.828,0.281,0.455,125.995,4,energetic
+48AB5PXxMHZ2VKyTZ3Xopo,Exhale - Sully Remix,Last Japan,32,208500,Exhale (Remixes),3/27/2020,0.828,0.937,-9.92,0.478,0.139,0.00442,0.164,0.567,136.009,4,energetic
+0W6gPyVba2MJuhnIlSoN0L,Parede,Buraka Som Sistema,0,235500,Buraka,9/9/2014,0.719,0.891,-4.739,0.0465,0.00744,0.697,0.102,0.634,139.988,4,energetic
+4KN1v0zPv7kd2UCJz9Qxck,History - Jay Robinson Remix,French Original,1,211267,History (Jay Robinson Remix),11/13/2020,0.804,0.714,-8.632,0.105,0.00149,0.8,0.1,0.333,125.016,4,energetic
+4nppOYMXjpWnIwbroP9MU7,The Panther,Melé,24,245760,The Panther,10/30/2020,0.717,0.76,-7.344,0.0468,0.000259,0.575,0.101,0.274,125.002,4,energetic
+13r9bbM6DWJv2Dx6ve17As,Shake N Bounce,DJ Swisha,10,236408,"The DJ Pack, Vol. 2",3/12/2020,0.786,0.952,-6.273,0.102,0.00128,0.891,0.392,0.474,132.013,4,energetic
+403E45oAwNopqtss3VqqU2,Together Forever,Moon Boots,18,300153,Pure Moons Vol. 1,6/19/2020,0.8,0.944,-6.658,0.0665,0.000194,0.843,0.0975,0.745,123.983,4,energetic
+3vov6nJ8E7OBPJERKP0H8K,Champion's League,SHOSH,15,189000,Champion's League,7/10/2020,0.832,0.909,-6.794,0.0608,0.00305,0.00995,0.0704,0.506,135.011,4,energetic
+0bSQBuyA2eLf2fJ42Q4jS2,Matasa,salute,20,231428,Matasa,5/12/2020,0.813,0.855,-8.806,0.282,0.1,0.276,0.277,0.75,133,4,energetic
+2OipJAhVBVcsvnr7TK3jtT,Eating Soup Underwater,Cut Snake,0,360187,Switch Up,10/2/2020,0.801,0.701,-9.624,0.0675,0.00332,0.849,0.0347,0.707,127.988,4,energetic
+1JSA1ITZzGFRpKA2DnPwd7,DESTINATIONS - Jacques Greene Remix,Mild Minds,19,316721,MOOD (Remixes),9/25/2020,0.646,0.833,-9.524,0.0487,0.00446,0.335,0.145,0.361,122.012,4,energetic
+4UWfGpPvnZZmS9INnCwg3J,Work for the Money,Lauren.,20,124000,Work for the Money,8/28/2020,0.886,0.833,-5.27,0.115,0.195,3.20E-05,0.0838,0.454,119.968,4,energetic
+4HslTvBkqPi7E8einCRsTk,My Way,Jaden Thompson,9,243770,To The Light,9/11/2020,0.804,0.897,-7.505,0.0611,0.00392,0.768,0.347,0.406,127.997,4,energetic
+45ZwxzREjJkax8sT1DVhTO,If You Want (Art Of Tones Remix),South West Seven,4,336227,If You Want (Art Of Tones Remix),10/9/2020,0.75,0.827,-7.164,0.0584,0.00103,0.72,0.0833,0.611,121.995,4,energetic
+6E9Y3681ntRrdMG2OAEQ56,Not About You (feat. Hadiya George),Honey Dijon,28,210473,Not About You (feat. Hadiya George),7/31/2020,0.841,0.824,-6.979,0.0385,0.00246,0.0424,0.0726,0.434,126.027,4,energetic
+7Fija4DerahoDRmSEzS6dl,Pepper Shake,Jamie Jones,31,397086,Pepper Shake,9/25/2020,0.747,0.896,-8.409,0.0402,4.15E-05,0.891,0.0611,0.304,126.998,4,energetic
+3RaZYMSybQrPmrqRios6DB,Baako Riddim,A-Star,33,130000,Baako Riddim,6/26/2020,0.799,0.56,-12.095,0.0975,0.000415,0.822,0.0963,0.521,130.055,4,energetic
+6zgyLKHB8cX0t3Xgh4Qjhh,The Sax,Sosa UK,45,189086,The Sax,9/18/2020,0.773,0.96,-7.886,0.0737,0.00124,0.832,0.0565,0.653,132.006,4,energetic
+6VZXR9bfZgNTxWcolI7iPu,Energizer,Joshwa,26,177631,Energizer,10/16/2020,0.8,0.922,-7.027,0.0564,0.0125,0.735,0.0608,0.754,126.986,4,energetic
+39EAajItiYXH7Qj60LsSRs,Thirsty Eyes,Jaden Thompson,28,402521,Thirsty Eyes,2/17/2020,0.801,0.815,-8.525,0.066,0.000135,0.673,0.0971,0.912,127.008,4,energetic
+4YBwOSULsZmqO4bWgMFn1L,Badman Riddim (Jump) (feat. Foreign Beggars) - Club Mix,Vato Gonzalez,7,288600,Badman Riddim (Jump) [Remixes] (feat. Foreign Beggars),6/17/2011,0.8,0.728,-5.821,0.137,8.50E-05,0.905,0.0757,0.657,127.993,4,energetic
+614hTK5Y7ZuafgNtxT5Gmp,Freak,CamelPhat,39,337972,Freak,3/26/2020,0.791,0.937,-6.879,0.0479,0.016,0.694,0.0797,0.206,126.009,4,energetic
+7bYRoLVmi20zrSEBs1epTL,Sohaa Gb3k3,Onipa,0,171520,We No Be Machine,3/20/2020,0.799,0.875,-7.081,0.0662,0.00797,0.213,0.0938,0.808,135.96,4,energetic
+7Im5VMbyOESTowGdaRsflS,Another Round,Jowaa,0,283193,Asokpor 1.0,5/1/2020,0.791,0.557,-8.344,0.0646,0.0176,0.192,0.0654,0.438,129.96,4,energetic
+34psqra9HNUsBTfaClReok,Shake It,Bontan,27,224536,Shake It,3/27/2020,0.841,0.828,-9.423,0.0425,0.00917,0.635,0.0884,0.627,123.993,4,energetic
+62J8HE1va8p9IrhtFek5HG,Back To Funk - Edit,Martin Ikin,0,192480,Back To Funk (Edit),4/10/2020,0.832,0.953,-6.705,0.063,0.00253,0.326,0.0541,0.558,125.003,4,energetic
+0fEJLdDuIyJP3FUqgPN9Ud,Never Come Back - Floating Points Remix,Caribou,0,530323,Never Come Back / Sister (Floating Points Remixes),6/30/2020,0.776,0.736,-12.301,0.0913,0.00114,0.878,0.0835,0.353,128.998,4,energetic
+4siMTRzFfe2zuZDjRU3OFm,More Life,Torren Foot,44,201598,More Life,5/1/2020,0.675,0.929,-3.753,0.0952,0.00125,0.802,0.395,0.525,125.034,4,energetic
+41OcDWxtswW5np1RzNGUL9,Can't Wait,MPH,9,296363,116 / Can't Wait,8/28/2020,0.708,0.815,-5.235,0.0779,0.0111,0.835,0.152,0.314,132.108,4,energetic
+6NJfIydBMYrXvlaXsFxmc8,Ain't It Different (feat. AJ Tracey & Stormzy),Headie One,63,196363,Ain't It Different (feat. AJ Tracey & Stormzy),8/20/2020,0.767,0.569,-6.805,0.216,0.00988,1.45E-05,0.109,0.524,77.052,4,energetic
+1iH3H6Ul2GbMLDsYoqunnU,Glut,Ramadanman,21,294349,Glut / Tempest,5/17/2010,0.433,0.739,-9.661,0.143,0.0145,0.855,0.0783,0.0998,181.314,5,energetic
+23MbPvogtbhLii42SjWSqJ,So Afraid (feat. Alex Metric) - Plastic Plates Remix,Amtrac,11,384311,So Afraid (feat. Alex Metric) [Plastic Plates Remix],8/14/2020,0.778,0.798,-10.944,0.0634,0.000185,0.758,0.392,0.0904,124.993,4,energetic
+7l4obJJ9AOSkSpzBHraMGw,Feel The Power,Alfie Gold,0,237500,Feel The Power,9/11/2020,0.725,0.934,-6.037,0.0467,0.00111,0.0297,0.282,0.711,129.023,4,energetic
+3T00mhdOYUuM5yiuPs3xhs,San Frandisco,Dom Dolla,62,185000,San Frandisco,9/20/2019,0.779,0.937,-6.269,0.0496,0.0443,0.101,0.0912,0.49,125.025,4,energetic
+2lMNNWVnpaJNKCyFFIkWeJ,Don't Deal With Us - Dusky Edit,Jt Company,21,216193,Don't Deal With Us (Dusky Edit),8/14/2020,0.663,0.99,-4.913,0.0549,0.0774,0.813,0.458,0.68,125.97,4,energetic
+6TDuiS1Xfe88e7UIR1TQbQ,What You Gonna Do?,FEMME,0,321016,What You Gonna Do?,3/8/2019,0.822,0.769,-5.009,0.0438,0.0684,0.397,0.092,0.681,123.989,4,energetic
+3xa2UEf3ZZsKDtAvvljWzB,Dont Tell Me,Yemi,0,265508,Transit,6/5/2020,0.793,0.818,-5.662,0.0863,0.0253,0.203,0.226,0.682,131.944,4,energetic
+1s84YaJC06MjSCXoOnCwAj,Liquid Gold,Breaka,12,301739,Breaka 002,6/19/2020,0.437,0.62,-7.779,0.057,0.0091,0.86,0.0916,0.366,130.05,4,energetic
+3m6bpPbSYrT91cXHaCEjR6,Babylon Breaks,Sunship,2,307644,Babylon EP,7/1/2020,0.633,0.972,-4.741,0.076,0.00118,0.224,0.567,0.692,129.785,4,energetic
+5depo2iceseV4Iug46xl8a,UK Gary,Jive Talk,12,280500,UK Gary,5/15/2020,0.809,0.915,-6.657,0.048,0.0105,0.249,0.0459,0.897,130.993,4,energetic
+0dMiujHJGzdWOJSKJumvas,Shitbird,Saul,0,272986,Murmurations,9/26/2019,0.62,0.943,-6.337,0.0486,0.00789,0.937,0.103,0.853,150.015,4,energetic
+4sK21pPTIkfVnRv9JI4lrB,This,IZCO,30,251142,This,9/5/2019,0.89,0.833,-7.54,0.392,0.153,0,0.0698,0.738,140.143,4,energetic
+6LutEmeoitorwHO75M6o6N,Big,LG (TEAM GENIUS),0,174200,Colors,3/20/2020,0.861,0.812,-6.421,0.12,0.00305,0.000302,0.0556,0.674,125.074,4,energetic
+3MeSyKxA1izonrEkQYedCz,Haze,Anunaku,0,417423,32,7/17/2020,0.771,0.619,-11.294,0.0698,0.0224,0.899,0.0881,0.171,128.001,3,energetic
+3MnO4NzyGKxgJyoTYB1FMQ,Whistle,4B,32,168000,Whistle,3/21/2018,0.85,0.873,-2.698,0.275,0.00133,0.00247,0.069,0.507,139.988,4,energetic
+6IlXuLwZPYCKCI2bgIBLgt,Drip,Bianca Oblivion,9,214153,HeForShe x femme culture Vol. 3,4/24/2020,0.785,0.84,-8.999,0.0678,0.00486,0.0166,0.131,0.467,129.993,4,energetic
+18500GToFc7CuG8bbDrbO2,Clink Bells,Jo-Sub,1,166368,Flip Flap Tape I,12/20/2019,0.77,0.804,-7.242,0.313,0.0245,0.0266,0.171,0.546,130.041,4,energetic
+0qDTqveY9Ue83GbFFKQb4b,Nancy,Demuja,5,320571,Touch of Nancy,6/12/2020,0.779,0.764,-9.648,0.053,0.000235,0.838,0.049,0.524,139.996,4,energetic
+3yhjqJ5KW6tVhbZpAZdbry,Mayhem,Dr. Syntax,0,223131,Wallop,9/26/2019,0.801,0.971,-3.656,0.239,0.0568,0,0.0262,0.92,139.998,4,energetic
+5RKS3CdNfj8QfqZHkjRMyw,Hypnagogic (I Can't Wait) [edit],Love Regenerator,34,193924,Love Regenerator 1,1/23/2020,0.422,0.957,-3.852,0.0458,0.00288,0.766,0.108,0.25,139.982,4,energetic
+4gZYqEH51kKkRV1HmmpqFQ,Woman's Touch,Bushbaby,36,284952,Woman's Touch,6/14/2019,0.738,0.795,-6.315,0.0494,0.000795,0.295,0.153,0.755,130.003,4,energetic
+1yIi7qRdybE4yY1V0YdOKG,Find My Way Home,Sammy Virji,54,258858,Find My Way Home,12/12/2018,0.726,0.728,-7.381,0.259,0.116,5.66E-05,0.061,0.504,136.09,4,energetic
+34jWoQFGOeiaZivp4gwH34,Soul 2 Soul,Higgo,0,284444,Soul 2 Soul,12/16/2019,0.853,0.561,-5.155,0.128,0.255,0.0508,0.111,0.543,135.05,4,energetic
+6J2gJ9pMEfEnOUg7UPl5aM,Pull Up,TSVI,5,289989,Rambo,1/26/2018,0.775,0.585,-5.418,0.078,0.000274,0.673,0.0622,0.266,134.03,4,energetic
+6CqwMOh6X6Vk0yhhJ3XSVc,Quem Manda No Mic,Pongo,16,200101,UWA,2/7/2020,0.594,0.798,-5.608,0.178,0.00431,0.000168,0.361,0.246,138.945,4,energetic
+3q6c45HDA2DbaMs8VPJIqo,Heat,More//Night,2,220150,Transitions,8/30/2019,0.791,0.743,-9.783,0.0777,0.00899,0.657,0.0556,0.614,132.992,4,energetic
+6DvuLpEDzG0vleCke2f30M,In My Mini Van - Edit,JTJ,1,226000,Triple Threat 2.0,4/24/2020,0.815,0.748,-10.384,0.138,0.0214,0.338,0.0648,0.418,128.988,4,energetic
+4PpMIyLBOG5mqc1VqIhnYp,Rolling,Smasher,0,190222,Locked In Locked On,4/24/2020,0.686,0.91,-5.936,0.353,0.439,1.78E-05,0.401,0.941,67.212,4,energetic
+1xBRz9Okta1GZSa4fTR4V4,Caracas,TC4,14,352500,Lobos,8/1/2019,0.773,0.867,-6.162,0.0765,0.0424,0.793,0.0764,0.212,128.019,4,energetic
+0lQk3EUb2YTXs1xVmDiOQm,Neighbourhood (Radio Mix),Zed Bias,0,215213,Neighbourhood,7/3/2000,0.811,0.87,-8.167,0.281,0.364,0.000532,0.364,0.744,129.82,4,energetic
+7Jg80rSKiEVhmGE8sVEYf2,Coffee in the Morning - Radio Edit,Dam Swindle,15,225471,Coffee in the Morning EP,6/5/2020,0.724,0.596,-9.898,0.0613,0.0144,0.198,0.096,0.366,125.992,4,energetic
+3Oe4rAddAoL3795pyA5m9m,Lipgloss,Hervé,5,330000,Blow Your Mind / Lipgloss,6/19/2020,0.828,0.803,-6.622,0.0983,0.00162,0.194,0.0747,0.869,128.043,4,energetic
+7j26Rs8Zvy9N14jbO3cdn1,Lakossa,Monkey Wrench,6,384597,Lakossa,12/13/2019,0.806,0.86,-7.355,0.0503,0.000484,0.446,0.0587,0.453,120.007,4,energetic
+3EkOG9ruPGZ8Ix1x9OZnWI,Daytime,Bellaire,31,310866,Daytime,6/26/2020,0.82,0.759,-6.805,0.038,0.028,0.691,0.128,0.659,126.014,4,energetic
+5PvpHmQ596TTqm5Lysejjh,Ya Just Need 2 Believe in Yaself,Folamour,0,422400,4MYPPL#1,3/24/2017,0.873,0.604,-10.672,0.0756,0.216,0.578,0.109,0.335,125.001,4,energetic
+6M2u0uKgeqs0Mh9egf3LPa,Release The Kraken,Fouk,14,295659,Release The Kraken,7/12/2019,0.746,0.786,-7.988,0.0392,0.00238,0.167,0.0872,0.6,126.017,4,energetic
+1QPF9cvYRkG90NJVoT1GDG,Liquid Mantra,Clap! Clap!,25,150655,Liquid Portraits,6/12/2020,0.747,0.655,-12.536,0.0623,0.025,0.798,0.23,0.186,139.961,4,energetic
+3iFtdCvzn81Mp3Y3fXLskq,Controller - Walker & Royce Remix,Channel Tres,0,374595,Controller (Walker & Royce Remix),6/26/2020,0.825,0.786,-7.179,0.0459,0.00236,0.11,0.111,0.368,125.026,4,energetic
+1L7BPfULlfZgscRPRcZmPr,THE DARK MONK,GEOTHEORY,5,137142,THEORY VOYAGES: Chapter V,7/2/2020,0.76,0.973,-7.8,0.0533,0.0282,0.889,0.155,0.225,134.643,4,energetic
+4wox6emdE5yzgiyN3evNmd,Break My Heart - Jax Jones Midnight Snack Remix,Dua Lipa,38,223226,Break My Heart (Jax Jones Midnight Snack Remix),5/22/2020,0.601,0.947,-4.703,0.0481,0.00237,0.306,0.109,0.692,128.028,4,energetic
+4gH12KjwxV1h5z3Lq5OdJN,All the Ladies,Fatboy Slim,41,247607,All the Ladies,3/13/2020,0.748,0.822,-10.575,0.037,0.000556,0.851,0.117,0.453,128.001,4,energetic
+6iLkymGTZUuNWFIDkD5aX6,Fly Guy,Claude VonStroke,23,388571,Fly Guy,5/29/2020,0.787,0.836,-6.881,0.0823,0.00179,0.839,0.108,0.298,126.011,4,energetic
+7ohWAxnMGIWbQFDCj9Ow2g,Freestyle,Beau,22,170120,Freestyle EP,4/10/2020,0.8,0.885,-8.178,0.0491,0.0435,0.843,0.0489,0.89,126.994,4,energetic
+0GTBhKDG8lJYrxdhjX86Ek,Catalyst,James Solace,9,350476,Mind Music,2/14/2020,0.68,0.863,-8.563,0.044,0.0231,0.962,0.11,0.437,126.006,4,energetic
+4XYJUSsl0kiEJboPM7vsv8,Feelin' - District One's Feelin' Techno Remix,Pitto,10,435468,Feelin' Remixes,11/25/2009,0.703,0.856,-4.641,0.0456,5.13E-05,0.874,0.0797,0.0348,127.998,4,energetic
+6XNElApzyGIflwHFJRHKc6,101010101 - Radio Edit,Black Girl / White Girl,0,208399,101010101 (Radio Edit),7/24/2020,0.781,0.674,-11.641,0.0769,0.00564,0.903,0.194,0.235,129.001,4,energetic
+6zLkgyonVkJfaWhsDSbgCm,Krazy (feat. Afronaut Zu),Rudimental,24,165511,Krazy (feat. Afronaut Zu),3/6/2020,0.877,0.89,-5.247,0.06,0.00879,0.691,0.0885,0.932,130.009,4,energetic
+2HUCWu7FTnyURq1LTNnXtm,Cántaro,Bufi,6,328836,Ópala,5/8/2020,0.797,0.691,-9.472,0.0529,0.0262,0.89,0.0752,0.382,123.004,4,energetic
+1E59GsKHrXEmd75o94GFZf,Diculo,Diron Animal,0,150263,Alone,10/13/2017,0.831,0.81,-7.7,0.309,0.037,0.518,0.06,0.75,137.093,4,energetic
+1NAjJmHKGvHXWERgzhJ1Pg,Konichiwa Bitches,Robyn,23,155920,Robyn,4/27/2005,0.873,0.511,-6.945,0.261,0.238,2.54E-05,0.0827,0.892,144.968,4,energetic
+3zzTO6HuuqtL7rD7yUFAyY,How Deep - Nuff Pedals Remix,Rhi,6,374000,How Deep (Nuff Pedals Remix),2/19/2020,0.761,0.852,-4.536,0.0933,4.51E-05,0.813,0.0687,0.846,132.939,4,energetic
+2LxXw4Ne2U1wAue9ETgFZh,Love Is Free - Original Mix,Robyn & La Bagatelle Magique,31,307293,Love Is Free (Original Mix),6/19/2015,0.747,0.911,-5.359,0.0545,0.00556,0.101,0.308,0.324,125.053,4,energetic
+6u4B0SFfhYXL5LGMyLKa54,Summer Dreams,Skream,41,478013,Skream! (Expanded Edition),10/30/2006,0.412,0.68,-11.581,0.0562,0.000549,0.788,0.725,0.435,139.819,4,energetic
+1l9mDToBxR3qWMDnyukqRN,Together We Stand,Myd,0,214200,Together We Stand,6/17/2020,0.611,0.745,-6.794,0.107,0.0324,0.0242,0.122,0.559,120.028,4,energetic
+1PfPqTqqM7apobxyQkIrvI,Welcome to London - J.Sparrow Remix,Flowdan,42,264868,Welcome to London (J. Sparrow Remix),6/2/2020,0.882,0.552,-7.09,0.355,0.0951,0.00163,0.303,0.288,139.995,4,energetic
+30tlzRruoyNjZT9mPFPlMO,The Mustang,XODOS,1,216500,The Mustang,3/13/2020,0.79,0.798,-8.311,0.0509,0.0566,0.768,0.0883,0.823,127.844,4,energetic
+2FII5D9KHTecOb20pMfwx9,You Get Me,P Money,27,208367,You Get Me,2/28/2020,0.84,0.784,-5.859,0.221,0.0558,0,0.136,0.51,140.035,4,energetic
+7w9Kf4aFXnO3zV6sUKdyYe,Break,113,8,313795,Instinct 08,1/17/2020,0.793,0.911,-10.425,0.0715,0.00314,0.808,0.0851,0.909,135.025,4,energetic
+0hBWqY0qvGbzimFDXPkk7b,Drum Machine,Cour T.,22,361904,Drum Machine,2/7/2020,0.836,0.861,-6.821,0.0493,0.000151,0.822,0.189,0.741,126.005,4,energetic
+3a9BypAqVxHNCZgHQXfeG7,Free My Skin,Steam Down,27,219600,Free My Skin,11/8/2019,0.613,0.828,-7.484,0.103,0.0273,0.0166,0.432,0.781,145.948,4,energetic
+3u30AqE4vtGlFFrYKYYfmr,Clearer Now,Prescribe Da Vibe,5,278874,I'm Here,1/31/2020,0.799,0.795,-6.301,0.206,0.017,0.0344,0.0256,0.645,132.063,4,energetic
+0Hhn3K8LRvQr2BxKTIkEnE,Meaning,FVLCRVM,15,216971,Words Loose Meaning,4/3/2020,0.762,0.743,-4.578,0.228,0.0888,0.0131,0.12,0.522,143.074,4,energetic
+2XKvqRdHNkfchUII4uk2BJ,It's Not Over,FederFunk,2,340115,It's Not Over,4/4/2020,0.944,0.764,-9.536,0.151,0.00042,0.431,0.0537,0.62,125.038,4,energetic
+5NGJIGiZ2QcSNEq1GpT1vt,Turn Up The Music - Tom Excell Remix,K.O.G,0,167532,Turn Up The Music,2/22/2019,0.786,0.947,-5.775,0.0525,0.00163,0.728,0.109,0.66,129.971,4,energetic
+5gSahAVKNiCeM0JuSvn00H,ENERGY - Edit,Disclosure,0,230226,ENERGY,5/21/2020,0.704,0.961,-6.455,0.0719,0.0208,0.594,0.0737,0.145,127.011,4,energetic
+6cx3PRrwShyiCBcs0YPpNq,To Rave,Stones Taro,12,326557,Digital Vintage,2/28/2020,0.73,0.992,-6.945,0.0619,0.00829,0.879,0.0483,0.538,129.992,4,energetic
+2ffJdCmFnXfGt5AHkLdz9u,Heavy - Jamie 326 & Danou P Remix,Hifi Sean,0,373294,Heavy Remix,4/3/2020,0.787,0.675,-6.69,0.0461,0.00219,0.000281,0.0872,0.595,123.002,4,energetic
+7KS7EfTOFYoBudtsJlj6E2,Optimo,Liquid Liquid,32,160693,Liquid Liquid,1/1/1997,0.7,0.964,-6.307,0.0479,0.0027,0.755,0.18,0.776,123.345,4,energetic
+1gmTdPy6LqVon78WJOT5pK,Tourterelle,Tambour Battant,0,234011,Galore,12/6/2019,0.793,0.741,-4.227,0.0357,0.0174,0.0141,0.081,0.557,119.956,4,energetic
+0TR69tw5aybYHbSC1w4xy5,Love To The World,Diplo,46,179461,Love To The World,4/10/2020,0.757,0.976,-4.61,0.0974,0.0075,0.169,0.0394,0.922,123.015,4,energetic
+5v07ixxqjQWApqv99bpSGA,Dance,ESG,10,274160,Dance to the Best of ESG,2010,0.801,0.609,-11.569,0.0727,0.000785,0.11,0.0751,0.831,138.218,4,energetic
+2SI1VaGcvOCjmCb0Lthrrc,Come Alive,Felly,13,198513,Come Alive,2/26/2020,0.791,0.8,-6.539,0.143,0.144,0.000101,0.121,0.58,119.928,4,energetic
+4BTzynsNHMyJCRPQs7RYyF,Me No Evil - Party Pupils Remix,Party Pupils,19,161311,Me No Evil (Party Pupils Remix),3/16/2020,0.89,0.712,-7.597,0.261,0.164,1.80E-06,0.638,0.665,122.025,4,energetic
+2fMtXRKJDPtT8Xs4EJkBQh,Baby Baby,Noizu,57,190080,Baby Baby,9/20/2019,0.627,0.948,-4.478,0.0428,0.00354,0.551,0.0599,0.569,125.048,4,energetic
+2hm3Jw0Yd1LGYYhwnFwvvh,Get Hype,Martin Ikin,0,375604,Get Hype,1/17/2020,0.846,0.95,-7.648,0.0528,0.0267,0.582,0.0268,0.837,123.994,4,energetic
+1nmaOaFMAarTcGRPu7nko6,Swerve,Jelani Blackman,18,159452,Swerve,2/27/2020,0.862,0.736,-7.32,0.236,0.087,5.53E-05,0.425,0.71,146.046,4,energetic
+0L6XBXNiiUglKJaHDuqhdP,Calores,PEDRO,0,209090,Calores,1/17/2020,0.836,0.705,-5.318,0.0466,0.184,0.778,0.0704,0.421,132.04,4,energetic
+7GxQKrYdih8O5uFSA38mO2,Kaala (Champion),Gafacci,0,217718,Face the Wall,1/15/2020,0.843,0.882,-4.929,0.0398,0.0365,0.733,0.0853,0.939,128.028,4,energetic
+2gFCKUjX9ReT1IBf6vLxDS,Chimes,OTHERLiiNE,22,289100,OTHERLiiNE,1/29/2020,0.613,0.756,-12.095,0.0382,0.000402,0.866,0.192,0.537,126.985,4,energetic
+3lLV978xrHDTkxyMT1SVo4,Blue Train - lau.ra Remix,PYN,0,279457,Blue Train (lau.ra Remix),12/20/2019,0.82,0.785,-6.491,0.0418,0.0192,0.358,0.0577,0.747,124.025,4,energetic
+3bnyixkgZqj3OOSuL4Thdr,Doin' My Thing,PEZNT,3,278779,Paid In Full,11/29/2019,0.764,0.858,-6.09,0.0511,0.00196,0.154,0.0219,0.975,123.983,4,energetic
+1G7Uz4IlBatpbhUUVZNNfL,Cycles,La Fine Equipe,6,205456,Cycles,12/10/2019,0.789,0.785,-5.567,0.363,0.0511,2.18E-06,0.0664,0.763,124.187,4,energetic
+0iNnDUMiIyl9jN3hOvI7ju,Gamma Riddim,EVM128,18,250824,Selectors Assemble Volume Two,2/23/2018,0.805,0.869,-4.897,0.101,0.0493,0.838,0.321,0.47,126.061,4,energetic
+3dg8dxFLRosX0cTpNF2DMd,Come Against I - Remastered,Nasty Jack,3,178606,Come Against I (Remastered),11/29/2019,0.721,0.528,-9.362,0.384,0.0145,0,0.0669,0.642,93.488,3,energetic
+4biVLnZI111k7cz1iZDA9m,Yamona - Dam Swindle Remix,Pat Thomas,0,377840,Yamona (Dam Swindle Remix),12/13/2019,0.797,0.75,-9.145,0.0606,0.00163,0.551,0.0583,0.38,125.008,4,energetic
+6DzBfHhc1cRi0HtMgh1Lpc,Sometimes,Jungle Brown,14,173874,Full Circle,9/27/2019,0.867,0.63,-9.55,0.12,0.0322,8.80E-06,0.219,0.692,124.611,4,energetic
+3aJxXObVIt62bljPtQNxeJ,Get Up & Move,Say3,0,153750,"Club Djembe, Vol. 1",9/6/2019,0.873,0.575,-6.734,0.0414,0.177,0.752,0.111,0.207,128.002,4,energetic
+0gH5lfBCMOc2GlAzTxDlSg,Jardin,Agoria,47,292913,Visit,6/14/2019,0.866,0.661,-8.35,0.0571,0.000725,0.904,0.0745,0.408,126.988,4,energetic
+4sHR2dZb1GkdgLHS2zTxrm,Run Wild,Thutmose,0,159473,Run Wild - EP,8/8/2018,0.582,0.962,-2.956,0.132,0.011,0,0.628,0.576,76.014,4,energetic
+49ENbqtNJp2BrEDWhO1TQh,Do It All.,chromonicci,8,120902,Bounce Back.,9/14/2018,0.925,0.672,-8.399,0.146,0.00281,0,0.0873,0.915,133.017,4,energetic
+6HO5TfPZfqaFgdondMGl17,"1, 2, 3, 4",Bryte,0,149538,"1, 2, 3, 4",2/15/2019,0.893,0.766,-7.326,0.0556,0.0276,0.00124,0.0767,0.289,130.011,4,energetic
+3tTUGkJVUMvuyVHMY0fjOf,Bounce,Leo Justi,0,139384,Bounce,9/7/2018,0.857,0.697,-5.451,0.0406,0.06,0.346,0.0489,0.685,130.054,4,energetic
+0GOqNgtK1cXVpVks6oDRW6,For The Record (Dylan Sitts Remix),Dylan Sitts,43,141369,For The Record (Dylan Sitts Remix),1/25/2019,0.866,0.407,-10.237,0.149,0.106,0.0011,0.497,0.305,145.971,4,energetic
+0rM6gsSohl8158RkDQmKxt,Cold (feat. Nazizi & Idd Aziz),Saronde,3,188614,Cold,7/5/2019,0.674,0.561,-7.997,0.466,0.122,0,0.0648,0.674,116.974,1,energetic
+1ehnrVH6rkZqSScthqt7Yl,JustYourSoul,Valentino Khan,35,245760,JustYourSoul,7/12/2019,0.904,0.731,-6.214,0.0575,0.0085,9.58E-05,0.0848,0.449,125.036,4,energetic
+7ia5l12mCvbQTeAnG1oYpg,MY POWER,Nija,54,259741,The Lion King: The Gift,7/19/2019,0.773,0.86,-4.966,0.13,0.0159,0,0.236,0.715,126.967,4,energetic
+3Z7qQkBTVfxfHpSWB3f153,Long Live the Jazz,Swindle,0,134600,Long Live the Jazz,6/24/2013,0.605,0.776,-7.539,0.0798,0.00486,0.822,0.387,0.209,139.879,4,energetic
+6yvFGrtAAsvqUac5w2DIQt,Jamaika,Zeitgeist Freedom Energy Exchange,6,296115,Gots Style?,6/21/2019,0.545,0.807,-9.651,0.0413,0.00935,0.67,0.13,0.906,131.979,4,energetic
+3p31DNfllUknjtp9uREn3x,One Leg,Mina,0,208099,Flight Paths,5/3/2019,0.861,0.559,-9.49,0.0982,0.0417,0.0201,0.0894,0.534,124.99,4,energetic
+1J81WQ1q1PFTAvRiILs61d,Epiphany - Edit,Ross from Friends,31,264566,Epiphany,8/16/2019,0.568,0.923,-6.82,0.0616,0.0253,0.888,0.106,0.553,126.876,4,energetic
+1Xp6kxpRH7RIKGitrc5cyc,Flute Man,Ben Jammin' Beats,45,122553,Flute Man,11/3/2022,0.79,0.374,-9.988,0.0839,0.834,0.907,0.111,0.484,94.006,4,energetic
+3TvMUtZf4juZmw3Edj2yLH,Golden,Bogomolove,46,144878,Golden,1/9/2023,0.612,0.337,-16.447,0.0633,0.474,0.755,0.156,0.403,82.01,4,energetic
+5tY5YBd3MYutADutuZ0taA,Blueberries,jelaquest,52,111818,Blueberries,2/24/2023,0.777,0.523,-7.946,0.0751,0.313,0.908,0.107,0.817,88.002,4,energetic
+5zTSqqgYh90awFDs7fWRtZ,Maybe We Won't Meet Again,Lo-Five,46,162666,Maybe We Won't Meet Again,9/30/2022,0.588,0.483,-10.16,0.0577,0.682,0.857,0.129,0.552,90.002,4,energetic
+6fdYM0YrCEBIDBZyKLmlVK,Sunbath,Mr Mantega,38,114418,FCMD,4/24/2021,0.706,0.338,-9.108,0.0533,0.621,0.887,0.202,0.335,85.976,4,energetic
+5HVXwpWYyGEGnmih3BwcG3,Cosmo,$MASH,3,84546,Cosmo | Devotion,5/5/2023,0.641,0.472,-11.173,0.225,0.0713,0.824,0.132,0.841,159.852,4,energetic
+2leUZBWfGMVengxsSxCZr8,Sidewalk,jelaquest,3,125581,Sidewalk,5/5/2023,0.61,0.418,-9.435,0.0351,0.775,0.809,0.11,0.564,171.953,4,energetic
+5cgws21cY6dcHv3RdNrzZ6,Antique,landlooper,2,104096,Antique | Soul,5/5/2023,0.838,0.49,-5.723,0.0584,0.444,0.935,0.0946,0.548,83.009,4,energetic
+1eqUh5J7k5PWN8DPrlDOjY,Devotion,$MASH,2,84015,Cosmo | Devotion,5/5/2023,0.565,0.503,-14.817,0.271,0.149,0.613,0.14,0.852,159.98,4,energetic
+5EDXYit5Z29jydiNIyTl3C,Soul,landlooper,2,118588,Antique | Soul,5/5/2023,0.897,0.434,-6.748,0.258,0.0706,0.579,0.0877,0.7,84.922,4,energetic
+5dLypjOdSbwKQEdTeRio2N,Promises,Lotus Beats,41,152470,Dusk | Promises,6/3/2022,0.724,0.43,-8.147,0.224,0.132,0.907,0.088,0.339,170.164,4,energetic
+0zaoy5NsKYGKbBfTzLObxB,Stardrunk,Illuzionary,50,106666,Stardrunk | Mystery Man,1/6/2023,0.491,0.352,-12.051,0.129,0.682,0.844,0.118,0.615,180.117,4,energetic
+055AlFiuVj2oB3o0RP173l,Provisions,RiffRinse,46,133333,Provisions,2/24/2023,0.711,0.448,-11.566,0.058,0.203,0.771,0.22,0.907,81.008,4,energetic
+60a2x6PSTbmCpPCt0t01RF,Deep Dive,Toti Cisneros,49,120000,Deep Dive,3/24/2023,0.777,0.385,-13.133,0.0431,0.776,0.884,0.119,0.832,88.006,4,energetic
+7dO1Wz6SW7RBpb469GGZd4,Glazgow,Lofries,46,123333,Glazgow,3/10/2023,0.716,0.617,-9.056,0.0418,0.162,0.695,0.114,0.197,143.947,4,energetic
+0KvmgaauYt5TZfgQjNIZWx,Deep Space,NK Music,46,234418,Deep Space,3/24/2023,0.844,0.678,-11.524,0.0501,0.000653,0.915,0.0603,0.74,172.011,4,energetic
+6tQmBhIxaoa0hROLP7Yz3T,Always Home,Mildred,44,112207,Always Home,3/24/2023,0.515,0.263,-14.756,0.0334,0.146,0.772,0.108,0.0515,76.956,4,energetic
+5xTLM8tHcYhyq2ItUtUUsf,Touch,Thorn.vii,45,151014,Touch,3/24/2023,0.537,0.311,-18.422,0.377,0.968,0.617,0.151,0.268,80.093,4,energetic
+5ZHjnKds62OFPHskBcTBf9,Hands Up,Klode Chill,43,134718,Hands Up,2/17/2023,0.722,0.539,-7.781,0.0378,0.483,0.565,0.184,0.503,79.992,4,energetic
+2QW4nN5l0XAjc8sjtpexk6,Tokyo Drift,Ben Jammin' Beats,44,130909,Tokyo Drift,3/17/2023,0.541,0.558,-11.048,0.0449,0.0239,0.845,0.101,0.339,176.032,4,energetic
+3PjesAC8ZOj4kIpUTYQTCa,Slaydream,Whilst,45,134644,Slaydream,3/31/2023,0.609,0.333,-14.784,0.0611,0.948,0.898,0.118,0.598,134.957,3,energetic
+0uVgsnVCgAKr8qtcZ8jRt7,Escaping Love,Mr. Jello,49,169411,Beats From The Soul,3/31/2023,0.658,0.527,-11.322,0.121,0.513,0.898,0.21,0.642,85.02,4,energetic
+0R4P89zc4a3VV3ilobOxhP,Shrines,MujjO,46,134164,Shrines,3/31/2023,0.502,0.427,-11.74,0.0268,0.783,0.955,0.124,0.379,89.004,4,energetic
+4hn8RwWNexH1Z6iDCNDlrI,Beautiful Dreamer,CMJ,38,114285,Beautiful Dreamer,3/3/2022,0.825,0.441,-11.146,0.217,0.574,0.833,0.0885,0.759,84.001,4,energetic
+2wfYgyJqOXnW6ISY2eswR0,Sun Through The Trees,lazyboyloops,40,165697,Sun Through The Trees,10/16/2021,0.693,0.346,-13.319,0.0446,0.695,0.843,0.118,0.274,95.017,4,energetic
+4w5sxSL3Gg9aZdYfaPi6bX,Clear the Air,RiffRinse,42,144000,Clear the Air,2/17/2023,0.576,0.392,-11.401,0.0655,0.475,0.794,0.149,0.471,39.874,4,energetic
+0QMi4J9E5DgE0YmcGvKMZa,Streets of Gold,RiffRinse,49,161927,Streets of Gold,2/3/2023,0.656,0.564,-9.196,0.0807,0.34,0.833,0.131,0.483,166.007,4,energetic
+60RvKLP78RHtMtJT4bdh0I,So-so,Klode Chill,44,140166,So-so,2/18/2022,0.795,0.489,-9.838,0.0498,0.288,0.867,0.0951,0.378,90.002,4,energetic
+6YZWsACEGZ7R7aovJOBIoi,Honey Cakes,Spective,47,150000,Honey Cakes,2/17/2023,0.591,0.28,-13.006,0.0481,0.168,0.771,0.0872,0.652,160.013,4,energetic
+7yviNlsEbnmhOiSsesdEEg,Maze Inst,Shin-Ski,42,163466,Maze Inst,2/24/2023,0.832,0.641,-8.784,0.103,0.177,0.823,0.101,0.503,87.038,4,energetic
+6HyMDjo3q5oMu0xSa9blqn,Burning Bundles,RiffRinse,40,120000,Late Harvest,3/3/2023,0.764,0.292,-12.626,0.065,0.523,0.864,0.109,0.133,80.022,4,energetic
+5ofHzQDp5kGIwCmwgf2fvb,With You,Big O,39,228837,Reflections of HE,3/24/2023,0.527,0.491,-10.265,0.0638,0.0244,0.772,0.0949,0.345,171.938,4,energetic
+5EdlAw1y5fiyXAKlKIRecG,Heavy Heart,Taloha Beats,41,157557,Heavy Heart,3/3/2023,0.675,0.355,-12.166,0.0395,0.845,0.929,0.2,0.272,131.051,4,energetic
+2nksySytOaU4oxXvH2oL6z,Raindancer,Dmnnce,40,175058,Raindancer,3/3/2023,0.67,0.337,-8.629,0.167,0.553,0.61,0.0955,0.587,170.223,4,energetic
+0GAQYhveasmVnnhSBYNw6M,Secret Spot,RiffRinse,43,150697,Late Harvest,3/3/2023,0.766,0.293,-15.168,0.0581,0.882,0.913,0.153,0.66,171.954,4,energetic
+2WIYQea0ra8oOLbkPSrDHj,Loosing Sleep,Happytear,40,144007,Loosing Sleep,3/3/2023,0.817,0.246,-11.317,0.0798,0.182,0.854,0.144,0.574,79.99,4,energetic
+2gDYHx41s2zyXOUJOAY78v,Sleep Walking,RiffRinse,40,150769,Late Harvest,3/3/2023,0.689,0.425,-10.742,0.0429,0.511,0.919,0.103,0.366,77.974,4,energetic
+59QDyqLww2pxyg9ijOPO7f,Rhyme Dust,MK,77,181364,Rhyme Dust,2/24/2023,0.925,0.561,-8.675,0.176,0.0659,0.0271,0.152,0.721,128.034,4,energetic
+3QqHt507QJZCzluEYsnv4u,Lifetime (with Ty Dolla $ign & 070 Shake),Swedish House Mafia,65,186805,Paradise Again,4/15/2022,0.584,0.718,-7.824,0.126,0.0205,2.99E-06,0.906,0.155,99.841,4,energetic
+1635wWSdp29PO3GxYhy991,Bel Mercy,Jengi,79,169606,Bel Mercy,12/2/2022,0.941,0.753,-4.905,0.0905,0.458,0.61,0.109,0.681,127.02,4,energetic
+61UQzeiIluhpzpMdY4ag3q,My Love (feat. Jess Glynne),Route 94,74,259934,My Love (feat. Jess Glynne),2/28/2014,0.814,0.622,-7.573,0.0492,0.000132,0.72,0.0658,0.726,119.976,4,energetic
+2OZZpID4LgZ0GGm8XB99e3,Don't Forget My Love,Diplo,62,199090,Don't Forget My Love,2/11/2022,0.638,0.872,-6.221,0.0415,0.0241,0.0159,0.118,0.253,121.041,4,energetic
+43OMUa5jouGCZEz9k9vooo,Push Up - Original Mix,Creeds,77,240059,Push Up (Original Mix),12/21/2022,0.714,0.917,-6.649,0.0869,0.0509,0.823,0.0725,0.579,160.057,4,energetic
+5xYC48nOppVemY6U5GRGTb,Memories (feat. Kid Cudi),David Guetta,79,210853,One More Love,11/22/2010,0.546,0.916,-3.932,0.255,0.00144,4.34E-06,0.251,0.375,129.983,4,energetic
+5QifrqmnjHzdOuBAheeeNU,Say Something - Zac Samuel Remix,Karen Harding,67,213135,Say Something,1/1/2014,0.701,0.667,-6.177,0.0361,0.0121,6.53E-06,0.148,0.675,119.975,4,energetic
+22mek4IiqubGD9ctzxc69s,How Deep Is Your Love,Calvin Harris,79,212640,How Deep Is Your Love,7/17/2015,0.738,0.868,-4.373,0.0731,0.0392,0.00169,0.388,0.336,122.003,4,energetic
+5nCNItjhTUj7MqL3oFHmFc,Phoneline,Pola & Bryson,66,226206,Phoneline,2/10/2023,0.488,0.894,-1.252,0.116,0.031,2.41E-05,0.0588,0.227,173.994,4,energetic
+6GomT970rCOkKAyyrwJeZi,Move Your Body,Öwnboss,80,157444,Move Your Body,10/29/2021,0.848,0.821,-5.408,0.0527,0.0169,0.000403,0.0962,0.249,125.051,4,energetic
+7MIhUdNJtaOnDmC5nBC1fb,Deep Down (feat. Never Dull),Alok,82,165752,Deep Down (feat. Never Dull),6/17/2022,0.687,0.818,-4.221,0.0778,0.0112,0,0.248,0.886,125.952,4,energetic
+1ZQnV7ePl8yXoLjPfhWE5L,Piece of Me,MK,64,188706,Piece of Me,4/8/2016,0.68,0.913,-2.343,0.0844,0.00565,0,0.288,0.669,121.961,4,energetic
+023H4I7HJnxRqsc9cqeFKV,I Got U,Duke Dumont,69,285596,I Got U,1/1/2014,0.636,0.761,-7.752,0.035,0.00377,0.00784,0.0851,0.463,120.837,4,energetic
+26zt79lTciS4tfncBX1qPV,Boyz N Da Club - Radio Edit,Shermanology,64,141395,Boyz N Da Club (Radio Edit),4/30/2021,0.907,0.707,-7.627,0.185,0.00983,0.444,0.166,0.566,129.097,4,energetic
+483XiZ5o13Cc1zoWV7jGml,Gecko (Overdrive) - Radio Edit,Oliver Heldens,69,165440,Gecko (Overdrive) [Radio Edit],6/3/2014,0.609,0.885,-5.469,0.0642,0.00521,1.15E-05,0.336,0.76,124.959,4,energetic
+5bZjb7xKqLqa58QiUBcVvl,Marianela (Que Pasa),HUGEL,75,145766,Marianela (Que Pasa),11/25/2022,0.828,0.893,-3.344,0.0496,0.033,0.00535,0.0811,0.602,124.043,4,energetic
+7AVyve7cFYTd51ha5i9kE2,Down Under (feat. Colin Hay),Luude,69,158774,Down Under (feat. Colin Hay),11/19/2021,0.308,0.861,-4.112,0.172,0.012,0.00103,0.277,0.0386,171.966,4,energetic
+6y1UtRcHQU07aUs3oxZ8Yn,Sorry,Joel Corry,63,188640,Sorry,4/5/2019,0.744,0.79,-4.617,0.0562,0.0547,0.000802,0.32,0.847,125.002,4,energetic
+6ho0GyrWZN3mhi9zVRW7xi,Losing It,FISHER,75,248035,Losing It,7/13/2018,0.76,0.964,-5.844,0.0577,0.00181,0.703,0.0975,0.643,125.003,4,energetic
+6ctWstoouxCcvuTsd4cHNS,Desire - Gryffin Remix,Years & Years,65,268840,Desire (Gryffin Remix),7/31/2015,0.543,0.876,-5.069,0.0512,0.0606,0,0.157,0.415,122.058,4,energetic
+1UPHCP5YeVfele4DMbdGyi,REACT,Switch Disco,77,201145,REACT,1/13/2023,0.737,0.899,-3.189,0.0556,0.0329,0,0.186,0.358,125.992,4,energetic
+69R5Ot0VZjFd71SOBgivoL,Show Me Love - Radio Edit,Laidback Luke,62,184846,Show Me Love,3/24/2009,0.653,0.856,-4.197,0.0638,0.517,0,0.128,0.571,129.955,4,energetic
+0GiwV6v3AgJfdu59tj719Y,Pump It Up,Endor,72,150635,Pump It Up,9/13/2019,0.899,0.894,-7.255,0.222,0.203,9.95E-05,0.0606,0.654,129.047,4,energetic
+6Wtc1K3dvTIEsWU3rSIZXn,Feel So Close - Radio Edit,Calvin Harris,53,207880,Feel So Close,8/19/2011,0.7,0.923,-2.85,0.0324,0.000927,0.00826,0.0966,0.904,127.952,4,energetic
+4laAKIq9ZxBCwf99rauPYb,Remember,Becky Hill,78,160766,Remember,6/18/2021,0.612,0.862,-2.903,0.037,0.041,0,0.0907,0.354,123.849,4,energetic
+3WsbAGQt6HgTj9kg6f466M,Here We Go Again,Oliver Tree,78,164541,Here We Go Again,3/3/2023,0.552,0.945,-3.771,0.0561,0.00676,0.000174,0.0556,0.384,130.011,4,energetic
+5naYe7rLMZcLfO1DKg48MK,All Day And Night,Jax Jones,65,169466,Snacks,7/12/2019,0.567,0.765,-4.107,0.108,0.317,0,0.14,0.541,121.924,4,energetic
+1gRQxbfL4ULWyTosgXSbWT,You Little Beauty,FISHER,67,206587,You Little Beauty,5/10/2019,0.926,0.951,-5.531,0.0924,0.00232,0.452,0.313,0.918,123.987,4,energetic
+3rN9iG9QDHFQfBdbym2uel,Moving All Around (Jumpin') (feat. Kim English),Schak,64,189248,Moving All Around (Jumpin') (feat. Kim English),10/21/2022,0.761,0.982,-4.401,0.0575,0.000483,0.742,0.0871,0.576,135.025,4,energetic
+1sh6lL6cmlcwhqZKGiKBua,I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit,Avicii,71,208316,I Could Be The One [Avicii vs Nicky Romero],12/29/2012,0.509,0.79,-3.782,0.0374,0.332,6.67E-05,0.316,0.638,127.946,4,energetic
+0lwyzp7GppQxv0Eu6wRkUo,Satisfaction,David Guetta,72,155676,Satisfaction,8/12/2022,0.752,0.935,-6.263,0.203,0.0742,0.0352,0.081,0.31,126.022,4,energetic
+2egKQvoHiCJyHXn8lRlsrl,Be Right There,Diplo,56,237051,Be Right There,8/28/2015,0.695,0.797,-5.199,0.0548,0.00259,0.112,0.664,0.297,124.972,4,energetic
+3JlHRjPt2TNB9h7VFf0im2,Weekends,Jonas Blue,78,127003,Weekends,2/3/2023,0.571,0.937,-3.365,0.033,0.0337,3.71E-05,0.212,0.607,148.979,4,energetic
+7MmG8p0F9N3C4AXdK6o6Eb,Outside (feat. Ellie Goulding),Calvin Harris,82,227266,Motion,10/31/2014,0.646,0.823,-4.123,0.0394,0.213,0,0.322,0.418,128.035,4,energetic
+57p8CBvPOxrvyCbn6ttl5r,Would You Ever,Skrillex,61,234285,Would You Ever,7/26/2017,0.653,0.91,-3.36,0.0566,0.0079,0,0.318,0.0921,126.047,4,energetic
+3MOECVkNshqHYTPt5DZcdN,Five More Hours,Deorro,72,211975,Good Evening,3/31/2017,0.699,0.883,-3.226,0.219,0.0288,0,0.817,0.499,127.961,4,energetic
+2GYHyAoLWpkxLVa4oYTVko,Alors on danse - Radio Edit,Stromae,80,206066,Cheese,1/1/2010,0.791,0.59,-9.206,0.0793,0.0994,0.00203,0.065,0.714,119.951,4,energetic
+20on25jryn53hWghthWWW3,Do It To It,ACRAZE,82,157890,Do It To It,8/20/2021,0.854,0.806,-8.262,0.0886,0.0209,0.0542,0.0703,0.637,124.927,4,energetic
+46lFttIf5hnUZMGvjK0Wxo,Runaway (U & I),Galantis,76,227073,Pharmacy,6/5/2015,0.506,0.805,-4.119,0.0469,0.00711,0.00193,0.0856,0.383,126.008,4,energetic
+6iW38RGqdDGOofmz2HeXLW,Piece Of Your Heart - Alok Remix,MEDUZA,75,166451,Piece Of Your Heart (Alok Remix),6/7/2019,0.797,0.86,-4.38,0.0413,0.0312,0.0137,0.334,0.192,124.033,4,energetic
+6Dy1jexKYriXAVG6evyUTJ,OUT OUT (feat. Charli XCX & Saweetie),Joel Corry,79,162603,OUT OUT (feat. Charli XCX & Saweetie),8/13/2021,0.787,0.833,-4.403,0.0478,0.018,0.00747,0.0374,0.796,123.97,4,energetic
+4QcDkuGQx9824a6X9BZF4e,Places,Martin Solveig,64,202745,Places,11/25/2016,0.728,0.854,-3.86,0.0457,0.248,0.00188,0.149,0.62,121.995,4,energetic
+2tX3PY8eP3h9XaBcLXuRBa,Saturday/Sunday,Jason Derulo,74,166572,Saturday/Sunday,2/9/2023,0.698,0.781,-5.615,0.0401,0.143,0,0.0762,0.851,124.017,4,energetic
+6PUIzlqotEmPuBfjbwYWOB,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Lana Del Rey,75,214912,Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix),2/1/2013,0.572,0.81,-5.791,0.0558,0.0157,6.53E-06,0.13,0.11,126.052,4,energetic
+6siDDghVE7fxel5o7fE4OF,Sweater Weather,Gaullin,61,171133,Sweater Weather,11/1/2019,0.57,0.873,-5.188,0.07,0.00853,0,0.365,0.236,125.086,4,energetic
+5XYXgYQJvY87aCFxK5sOnp,Go Bang,PNAU,49,189092,Changa,11/10/2017,0.598,0.893,-3.072,0.0319,0.0714,0.0159,0.146,0.485,120.972,4,energetic
+5Hp4xFihdOE2dmDzxWcBFb,All By Myself,Alok,79,171747,All By Myself,10/7/2022,0.662,0.848,-4.338,0.0346,0.0932,7.62E-06,0.241,0.773,123.041,4,energetic
+1gJbFyxVnTF8RTGCLyQxCL,Million Voices - Radio Edit,Otto Knows,57,192866,House Party Jams,3/22/2019,0.582,0.897,-6.298,0.0415,0.00223,0.0196,0.0664,0.0775,125.948,4,energetic
+7tSO7DrrYpiMXX3zM4b3oM,Seek Bromance - Avicii Vocal Edit,Tim Berg,57,200991,Seek Bromance,10/24/2010,0.49,0.811,-2.524,0.044,0.0896,0,0.0898,0.547,125.965,4,energetic
+5T4lERmPqhO2ukZoGJ5sSr,Sicko Drop,KVSH,69,147976,Sicko Drop,3/12/2021,0.843,0.713,-5.487,0.0851,0.0276,0.76,0.0961,0.298,123.983,4,energetic
+62YHQ9uiDwFAzdFPpFrojC,Talking Body - KREAM Remix,Tove Lo,52,219520,Talking Body (Remixes),2/10/2015,0.758,0.755,-7.82,0.062,0.0236,0,0.0829,0.291,123.962,4,energetic
+6ZvLKwgPKlyZtDPkTWjPI7,This Groove,Oliver Heldens,62,188174,This Groove,1/25/2019,0.823,0.909,-4.508,0.0635,0.00779,0.0407,0.126,0.787,124.025,4,energetic
+2V65y3PX4DkRhy1djlxd9p,Don't You Worry Child - Radio Edit,Swedish House Mafia,83,212862,Don't You Worry Child,9/14/2012,0.612,0.84,-3.145,0.0509,0.112,0,0.116,0.438,129.042,4,energetic
+4J7CKHCF3mdL4diUsmW8lq,Under Control (feat. Hurts),Calvin Harris,76,184280,Motion,10/31/2014,0.544,0.915,-3.405,0.0841,0.129,0.000914,0.115,0.51,126.094,4,energetic
+6PX5CRJFn24G3cypjNO6yw,Work With My Love,Alok,78,150483,Work With My Love,1/13/2023,0.618,0.848,-4.329,0.0574,0.0028,0.000714,0.302,0.639,123.967,4,energetic
+0A5gdlrpAuQqZ2iFgnqBFW,Moonlight,Gaullin,64,173066,Moonlight,9/7/2018,0.813,0.761,-5.687,0.085,0.0529,0.0119,0.337,0.29,124.957,4,energetic
+4HYUdQyUNZL1FMlPjRIGs5,All Around The World (La La La),R3HAB,63,147840,All Around the World (La La La),4/5/2019,0.733,0.859,-5.03,0.033,0.479,0.0645,0.105,0.52,124.948,4,energetic
+4M8x1TR36VMQMFMbGCdoyA,Back & Forth,MK,61,196214,Back & Forth,9/7/2018,0.684,0.816,-5.211,0.0322,0.0181,0,0.0222,0.702,121.993,4,energetic
+2RhKxrhti1jd1Krzh968Cb,Intoxicated - Radio Edit,Martin Solveig,60,158280,Intoxicated (Radio Edit),2/23/2015,0.796,0.607,-6.114,0.0409,0.00565,0.00231,0.0716,0.566,125.053,4,energetic
+7y3c1oJMY1CwwtOZ84Qovu,Hallucination,Regard,72,174794,Hallucination,2/18/2022,0.687,0.788,-5.142,0.0352,0.0121,0,0.358,0.669,123.02,4,energetic
+1qZMPmpD1jDcOA7gZ6TCde,One (Your Name) - Radio Edit,Swedish House Mafia,68,163246,One (Your Name),1/1/2010,0.733,0.673,-6.572,0.0333,0.0132,0.0049,0.16,0.636,125.061,4,energetic
+3bnla8QwheGOI2AtfWOES1,I Can’t Wait (feat. Poppy Baskcomb),Tiësto,66,172799,I Can’t Wait (feat. Poppy Baskcomb),12/9/2022,0.644,0.847,-6.654,0.0376,0.000305,0.0223,0.149,0.214,124.979,4,energetic
+2cFK03sObtI6AK3QKeOT5g,We Got That Cool (feat. Afrojack & Icona Pop),Yves V,56,213000,We Got That Cool (feat. Afrojack & Icona Pop),6/28/2019,0.639,0.865,-5.01,0.0357,0.00462,1.26E-06,0.208,0.611,124.01,4,energetic
+5kVXjAxYDkN57tZQi0JKya,You've Got To Let Go If You Want To Be Free,Disclosure,58,253786,You've Got To Let Go If You Want To Be Free,1/28/2022,0.658,0.908,-8.071,0.186,0.0335,0.0198,0.221,0.45,123.92,4,energetic
+28pQcTJag5xFasUq2fw9PK,Shades Of Love (feat. The Joy),The Blessed Madonna,66,203520,Shades Of Love (feat. The Joy),2/22/2023,0.65,0.801,-5.624,0.0764,0.0257,0.00239,0.0942,0.605,125.008,4,energetic
+0WSjVLITbxV6kVXndziQDm,Drop That Low (When I Dip),Tujamo,69,159999,Drop That Low (When I Dip),4/1/2016,0.586,0.896,-4.132,0.372,0.00945,0.836,0.121,0.103,125.744,4,energetic
+3ScJy88F8KqGDfWu8XJhHx,If I Lose Myself - Alesso vs OneRepublic,OneRepublic,71,215186,Native,1/1/2014,0.519,0.754,-5.689,0.0402,0.258,3.75E-06,0.139,0.16,125.975,4,energetic
+5YPMEOJ58kfl56VHxTgwx3,Play Hard (feat. Ne-Yo & Akon),David Guetta,71,201000,Nothing but the Beat (Ultimate Edition),12/7/2012,0.691,0.921,-1.702,0.0533,0.173,0,0.331,0.8,130.072,4,energetic
+1xNcBAoUw8Hz6LqK2jt4Ff,Call on Me - Radio Mix,Eric Prydz,76,171360,Call on Me (Radio Mix),9/10/2004,0.597,0.837,-6.518,0.375,0.00427,0.00115,0.839,0.447,126.342,4,energetic
+5ANWAzmveemGd3Zqb5FXR1,After Midnight (feat. Xoro),Lucas & Steve,71,143526,After Midnight (feat. Xoro),1/27/2023,0.713,0.697,-6.759,0.0361,0.0293,0.000154,0.457,0.638,125.055,4,energetic
+5UqCQaDshqbIk3pkhy4Pjg,Levels - Radio Edit,Avicii,82,199906,Levels,10/28/2011,0.584,0.889,-5.941,0.0343,0.0462,0.828,0.309,0.464,126.04,4,energetic
+0E9ZjEAyAwOXZ7wJC0PD33,In My Mind,Dynoro,79,184560,In My Mind,6/8/2018,0.694,0.77,-5.335,0.149,0.176,1.10E-05,0.118,0.163,125.905,4,energetic
+47dABAPyBgKB3iQCrC4Vrv,Who's Got Your Love,Cheat Codes,52,157000,Who's Got Your Love,3/15/2019,0.704,0.888,-2.872,0.0541,0.00553,0.0011,0.079,0.531,125.027,4,energetic
+0R7YVi7w41Dr9jU5vblAok,Sweat - Remix,Snoop Dogg,71,195986,Sweat (Snoop Dogg Vs. David Guetta) [Remix],1/1/2011,0.813,0.732,-5.636,0.03,0.0597,0.00137,0.0826,0.731,130.02,4,energetic
+3YOZWCREvKsxhcZNJix5xd,No Fun,Armin van Buuren,59,130412,No Fun,11/19/2021,0.731,0.904,-4.774,0.0349,0.00861,0.000164,0.0916,0.328,121.03,4,energetic
+63MBVrJ8nADdP4AXbBGlOj,Be The One,Hannah Laing,59,166000,Be The One,1/27/2023,0.534,0.854,-7.468,0.0344,0.00239,0.0441,0.138,0.477,135.013,4,energetic
+59yxjfkqhOPacjiolBHQDC,The Right Song,Tiësto,57,205440,The Right Song,1/22/2016,0.546,0.894,-3.56,0.0898,0.459,0.000106,0.322,0.387,125.031,4,energetic
+0LRYbMHrBXkXNUBhRkENT1,Lullaby,R3HAB,65,160183,The Wave,8/24/2018,0.626,0.8,-3.988,0.035,0.0267,0.000133,0.0623,0.26,127.965,4,energetic
+73ThEGwF5i9GrsXXGyZBRa,I'm Just Feelin' (Du Du Du),Imanbek,60,164884,I'm Just Feelin' (Du Du Du),5/1/2020,0.736,0.657,-7.512,0.0668,0.179,4.29E-06,0.118,0.548,115.989,4,energetic
+3aQz0z86zrKjd1mcZlonxE,Infinity 2008 - Klaas Vocal Edit,Guru Josh Project,75,192294,Infinity 2008,5/7/2008,0.498,0.862,-6.02,0.0589,0.000313,0.00941,0.352,0.47,128.034,4,energetic
+0CEMP5bXORtzl22s2dDkiv,Fireworks,Purple Disco Machine,57,200015,Exotica,10/15/2021,0.754,0.793,-5.29,0.0426,0.0072,3.50E-06,0.182,0.787,118.03,4,energetic
+25ZEYUgCJyf3gRxkqYbkIc,Leave The World Behind - Radio Edit,Axwell,60,161718,Leave The World Behind,5/4/2009,0.525,0.849,-7.727,0.0484,0.00232,0.00196,0.322,0.277,128.055,4,energetic
+3M9Apu4OZfylLTFKvgEtKa,Ritual,Tiësto,68,198995,Ritual,5/31/2019,0.647,0.726,-4.389,0.0552,0.157,0,0.0844,0.767,114.996,4,energetic
+36fFojPImg5YSuktc7ph3j,Easy To Love,Armin van Buuren,62,151820,Easy To Love,1/6/2023,0.743,0.781,-5.29,0.0329,0.222,0.000132,0.255,0.713,120.032,4,energetic
+5TmFTHZp7HjBXjjsFvCY6h,Destination Calabria - Radio Edit,Alex Gaudino,76,223111,Destination Calabria,2/19/2007,0.627,0.954,-4.804,0.0425,0.0015,0.000814,0.292,0.312,128.016,4,energetic
+7sYAS4CpbV90oSemgaEQat,On & On,Alok,65,147026,On & On,11/22/2019,0.747,0.776,-5.898,0.0722,0.0233,1.38E-05,0.761,0.67,125.07,4,energetic
+1HHnQYqcnlnE9q7LGFFGFj,Off Of My Mind,Icona Pop,64,164739,Off Of My Mind,7/9/2021,0.798,0.752,-5.947,0.227,0.128,0.0362,0.0795,0.565,125.996,4,energetic
+4ut5G4rgB1ClpMTMfjoIuy,High On Life (feat. Bonn),Martin Garrix,72,230761,High On Life (feat. Bonn),7/29/2018,0.414,0.486,-6.431,0.0311,0.0129,0,0.111,0.368,128.038,4,energetic
+001op3H5t7sehq5JCG2PvM,One More Time,Armin van Buuren,58,148095,Feel Again,3/30/2023,0.579,0.761,-5.55,0.0516,0.0975,0.00182,0.273,0.286,126.163,4,energetic
+3dsyqPDiWYYilRZNBxgxHE,Magenta Riddim,DJ Snake,64,194490,Carte Blanche,7/25/2019,0.602,0.892,-3.66,0.0672,0.000393,0.813,0.304,0.57,102.047,4,energetic
+1cfVkL84XmRON3Gl9jDXKI,Into You - 3LAU Remix,Ariana Grande,59,197146,Into You (3LAU Remix),8/19/2016,0.615,0.781,-5.597,0.109,0.0171,0.0017,0.178,0.268,126.254,3,energetic
+4LjfIjS8iweFCPdKxLnEoV,Let Me Think About It,Ida Corr,68,151983,Singled Out,5/3/2013,0.762,0.754,-3.425,0.046,0.00022,0.0665,0.146,0.715,129.026,4,energetic
+69zxj1EFDfAouZu9JDmQld,Secrets - Radio Edit,Tiësto,61,216967,Secrets (Radio Edit),4/3/2015,0.677,0.811,-4.53,0.043,0.0012,0.00761,0.0896,0.185,128.004,4,energetic
+63bWXWGcWnRQvdS8bJWdkB,Love Again (feat. Alida),Alok,66,147401,Love Again (feat. Alida),2/5/2021,0.636,0.822,-4.321,0.0507,0.0534,1.99E-05,0.121,0.338,127.225,4,energetic
+46lyJh9GYmWsHez3EsvmAx,Rise Up (feat. Vamero),VINAI,70,182000,Rise Up (feat. Vamero),5/1/2020,0.648,0.927,-3.633,0.049,0.011,0,0.162,0.361,126.037,4,energetic
+1hRFVIy9As8OVRk8B7CrD5,When Love Takes Over (feat. Kelly Rowland),David Guetta,73,191000,One More Love,11/22/2010,0.675,0.862,-4.614,0.0253,0.0165,0.000427,0.169,0.498,129.967,4,energetic
+2SSFvQBwsxeazzo7z5l9gD,Delirious (Boneless) (feat. Kid Ink),Steve Aoki,61,223413,Neon Future I,9/29/2014,0.706,0.912,-4.44,0.0565,0.0195,0,0.232,0.925,128.004,4,energetic
+5mQgRG6duCYvw2p1cki0mW,Move Out Of My Way - Radio Edit,Dennis Quin,49,180975,Move Out Of My Way (Radio Edit),5/11/2018,0.801,0.83,-7.13,0.049,0.000984,0.211,0.0958,0.396,123.019,4,energetic
+3wLPRjw2XQpmowqXUXb3UF,Get Up (Rattle) [feat. Far East Movement] - Vocal Edit,Bingo Players,71,166932,Get Up (Rattle) [feat. Far East Movement],12/8/2012,0.801,0.985,-2.69,0.0647,0.0205,6.86E-06,0.297,0.72,127.99,4,energetic
+0aBKFfdyOD1Ttvgv0cfjjJ,More - RedOne Jimmy Joker Remix,Usher,70,219986,More,11/22/2010,0.551,0.893,-2.628,0.0543,0.00166,0,0.348,0.794,125.083,4,energetic
+7dk9EBvTbbKBbFxjCAJpwK,Hear Me Say,Jonas Blue,66,190772,Hear Me Say,5/28/2021,0.697,0.836,-5.005,0.0437,0.133,4.46E-06,0.0754,0.631,121.977,4,energetic
+16xwg9hnjqaKGmOSiE5JFV,Go Crazy,Imanbek,44,160639,Go Crazy,12/17/2021,0.812,0.675,-6.957,0.0775,0.0514,1.67E-06,0.0964,0.383,129.948,4,energetic
+3Nku6gLNqnwUuq8GLkqyhW,Great Spirit,Armin van Buuren,66,215773,Great Spirit,12/12/2016,0.592,0.911,-7.975,0.0659,0.00608,0.0123,0.223,0.211,103.517,3,energetic
+2USlegnFJLrVLpoVfPimKB,Thunder,Gabry Ponte,80,160000,Thunder,5/7/2021,0.67,0.896,-4.673,0.058,0.0342,3.21E-05,0.344,0.403,101.216,3,energetic
+6iC7vapdKp0XlKhxOkp8QJ,BOOM,Tiësto,68,179512,BOOM,1/26/2018,0.886,0.84,-3.386,0.0502,0.0164,0.00622,0.329,0.203,123.035,4,energetic
+7L59vVTpoS94JU3KEeolqt,Take Me Home (feat. Bebe Rexha),Cash Cash,59,206320,"Blood, Sweat & 3 Years",6/24/2016,0.571,0.903,-2.184,0.214,0.0615,1.23E-06,0.186,0.477,127.951,4,energetic
+7iUB3byx9Rcks8zW10JVkP,Stupid Feelings,220 KID,63,166924,Stupid Feelings,8/6/2021,0.715,0.778,-6.546,0.0365,0.0152,0,0.121,0.756,123.954,4,energetic
+3zU9rdflI65tK4dkkNSp77,Heroes (we could be),Alesso,74,210013,Forever,5/26/2015,0.503,0.748,-4.124,0.0619,0.0305,0,0.343,0.356,125.896,4,energetic
+6L5eyrIlO6GkRJAdqQEThe,Mad World,Timmy Trumpet,63,153303,Mad World,11/13/2020,0.6,0.894,-4.984,0.111,0.233,7.62E-05,0.195,0.145,106.595,3,energetic
+02shCNmb6IvgB5jLqKjtkK,Nevada,Vicetone,71,208561,Nevada,6/24/2016,0.605,0.783,-4.271,0.0324,0.299,0.000175,0.133,0.105,124.015,4,energetic
+26haJjtanhamtf25RXH0MO,All Stars,Martin Solveig,65,170322,All Stars,6/16/2017,0.775,0.723,-3.479,0.0486,0.17,0.000672,0.0579,0.604,124.05,4,energetic
+29R1IMTTbDDA3VNlk6UEW5,Play,Jax Jones,51,186240,Play,11/28/2018,0.771,0.768,-7.773,0.0451,0.0266,1.26E-05,0.426,0.607,125.023,4,energetic
+0FXEr1tdiBcLsnLSG8ol2l,Call Me Papi (feat. Dawty Music),Feder,51,140631,Call Me Papi (feat. Dawty Music),6/25/2021,0.868,0.634,-6.122,0.212,0.0493,0.000383,0.085,0.352,120.949,4,energetic
+1moFkZDqcjQNeXtyoanLHv,Blah Blah Blah,Armin van Buuren,67,183518,Balance,10/25/2019,0.612,0.963,-3.912,0.0531,0.00897,0.00378,0.294,0.179,138.009,4,energetic
+614TxLN6BP9nN8pFcPdLVE,Sweet Lovin' - Radio Edit,Sigala,46,202149,Sweet Lovin',12/14/2015,0.683,0.91,-1.231,0.0515,0.0553,4.78E-06,0.336,0.674,124.977,4,energetic
+2t3FV5IpL1uWeMjt7vOomW,V I B R A T I O N,Kaleena Zanders,59,169831,V I B R A T I O N,1/20/2023,0.504,0.915,-5.38,0.0494,0.00123,0.0163,0.331,0.49,126.979,4,energetic
+5yR26TumS74yhIOGhn8Hs8,Payback,Dimitri Vangelis & Wyman,53,349489,Payback,2/16/2015,0.637,0.827,-5.153,0.0629,0.046,0.103,0.575,0.339,128.025,4,energetic
+2uMbCJ8lxF7hqpQUaeo42D,Do It Right,Martin Solveig,61,213211,Do It Right,5/20/2016,0.805,0.763,-4.337,0.0703,0.0595,0.0543,0.0774,0.595,125.056,4,energetic
+5WYB4aZkflwjAApBoDCYkz,Astronomia - Never Go Home,Tony Igy,64,156888,Astronomia (Never Go Home),10/9/2020,0.697,0.81,-5.128,0.0669,0.0424,0.000233,0.322,0.558,125.979,4,energetic
+4Fl7zEM7dw1xRRAb4Lz9RD,Playbox,Purple Disco Machine,44,231031,Exotica,10/15/2021,0.651,0.905,-5.921,0.0361,0.00826,0.194,0.296,0.603,124.823,4,energetic
+3hENlPbIlUZXQ3MiosF87Q,Cutting Shapes,Don Diablo,57,179047,Past.Present.Future.,2/6/2017,0.715,0.914,-3.87,0.214,0.0254,0,0.0961,0.565,125.826,4,energetic
+1V0Zy7533bjXFSVtn3crzY,The Only Way Is Up,Martin Garrix,59,258440,"Club Life, Vol. 4 - New York City",5/18/2015,0.597,0.736,-7.793,0.0309,0.00296,0.921,0.0914,0.172,128.179,4,energetic
+4uDhts78RdwIDjEqPrYVKp,Sweet Dreams,Alan Walker,74,138819,Sweet Dreams,6/11/2021,0.766,0.817,-4.253,0.035,0.0239,2.49E-06,0.159,0.43,125.033,4,energetic
+4dq7XLDmFHNwc1yqL339qT,Wake Me Up In Paris,Anthony Keyrouz,72,136946,Wake Me Up In Paris,10/2/2020,0.71,0.816,-4.516,0.186,0.0573,4.87E-06,0.176,0.363,131.001,4,energetic
+0YU17F0BlVXvmx5ytsR43w,Monster,LUM!X,72,154226,Monster,4/19/2019,0.83,0.794,-6.279,0.432,0.0253,0.0248,0.106,0.607,128.16,4,energetic
+5zJoKPj2KqgO7pyJPqhoYa,Barricade - Radio Edit,Axwell,50,296250,Barricade,3/4/2016,0.736,0.966,-3.567,0.0954,0.000642,0.0564,0.0921,0.0751,128.033,4,energetic
+7Gf1QHOnNvEExTLFSclfiM,Ah Yeah So What,Will Sparks,53,195000,Ah Yeah So What,11/13/2014,0.678,0.958,-3.906,0.157,0.0667,0.653,0.18,0.667,127.967,4,energetic
+5AEs83CYoPApEjYEJGbTuJ,Party Till We Die (feat. Andrew W.K.),MAKJ,64,158554,Party Till We Die (feat. Andrew W.K.),9/26/2016,0.64,0.94,-2.976,0.0795,0.00528,0.000484,0.357,0.243,127.995,4,energetic
+6Sy9BUbgFse0n0LPA5lwy5,Sandstorm,Darude,72,225493,"Before the Storm, Special Edition",1/1/2001,0.528,0.965,-7.984,0.0465,0.141,0.985,0.0797,0.587,136.065,4,energetic
+3PuM4Odj9DllsnXW617K12,People Help the People,Madism,64,157298,People Help the People,12/2/2022,0.597,0.867,-5.329,0.0798,0.0196,9.15E-06,0.0659,0.205,130.06,4,energetic
+4TuNI3WEMyLQAKRMJmcQdA,Narco,Blasterjaxx,67,208634,Narco,11/13/2017,0.764,0.943,-4.047,0.0711,0.00784,0.104,0.0699,0.207,129.961,4,energetic
+4CWZOyb9YHIH06yfsvY6k1,Give Me Your Love (feat. Nile Rodgers),Sigala,49,209014,Give Me Your Love (feat. Nile Rodgers),4/8/2016,0.635,0.945,-2.298,0.036,0.00411,2.41E-05,0.314,0.686,125.024,4,energetic
+3e9L9HiHKcfYLAga28Vmcf,Something,Lasgo,68,220973,Some Things,2001,0.644,0.981,-6.644,0.0439,0.0271,9.67E-05,0.11,0.379,140.012,4,energetic
+62feRreeM9ea7i2VHVSKrg,Freaks,Timmy Trumpet,71,168750,Freaks,8/1/2014,0.886,0.967,-0.776,0.142,0.0157,0.389,0.239,0.745,128.1,4,energetic
+57DJaoHdeeRrg7MWthNnee,Body Back (feat. Maia Wright),Gryffin,61,214546,Gravity,10/24/2019,0.687,0.832,-4.434,0.0366,0.0931,1.32E-06,0.183,0.448,123.036,4,energetic
+793OuR8rJ0zpVp708ONAxO,Summer Feeling,Matoma,66,180600,Summer Feeling,8/20/2021,0.651,0.702,-7.833,0.0876,0.0256,4.87E-05,0.129,0.539,124.924,4,energetic
+6BwN05qKw4Q8bNoq3rYuz7,Drop It,Tujamo,59,175714,Drop It,9/13/2019,0.747,0.897,-4.257,0.0642,0.0104,0.763,0.0541,0.177,126.036,4,energetic
+5xzzxWj8a1YBbNZhNLqWuQ,Dancing Alone,Axwell /\ Ingrosso,54,253770,Dancing Alone,6/29/2018,0.699,0.94,-5.969,0.208,0.0853,0,0.336,0.652,122.079,3,energetic
+3aIhJDHxr1kgTSnutJxPTH,Peanut Butter Jelly,Galantis,65,203133,Pharmacy,6/5/2015,0.708,0.945,-3.247,0.234,0.00104,0.0803,0.227,0.545,127.96,4,energetic
+3RBubtMyzlp9MPZegNcDRK,4 Me (feat. Kali Uchis),Don Toliver,58,160013,4 Me (feat. Kali Uchis),2/15/2023,0.51,0.709,-5.408,0.167,0.149,0,0.45,0.764,118.353,5,energetic
+3sTN90bIP2cJ1783ctHykO,Love$ick (feat. A$AP Rocky),Mura Masa,74,192160,Mura Masa,7/14/2017,0.625,0.763,-4.997,0.129,0.147,0.0106,0.214,0.721,88.753,4,energetic
+0SSVi1ND8YAk5XpaHOePoo,Call Me Every Day (feat. Wizkid),Chris Brown,54,146840,Breezy (Deluxe),7/7/2022,0.73,0.634,-7.194,0.184,0.111,9.63E-06,0.0986,0.777,171.824,4,energetic
+3GZD6HmiNUhxXYf8Gch723,Lost,Frank Ocean,86,234093,channel ORANGE,7/10/2012,0.913,0.603,-4.892,0.226,0.0272,0.000503,0.167,0.497,123.061,4,energetic
+4v5kAh2wWyCSuKuhMJK8u6,Long Way 2 Go,Cassie,76,220639,Cassie (U.S. Version),8/7/2006,0.589,0.655,-8.138,0.0488,0.057,0.000353,0.372,0.675,105.272,4,energetic
+3TTMUI5dFcbeNSDTTDY9M8,Come Thru (with Usher),Summer Walker,70,181013,Over It,10/4/2019,0.679,0.728,-3.092,0.154,0.159,0,0.107,0.46,152.001,4,energetic
+6tHt7Ln9RV8FTlT4kTxr2b,Not Nice,PARTYNEXTDOOR,63,202661,PARTYNEXTDOOR 3 (P3),8/12/2016,0.554,0.497,-9.309,0.0868,0.0253,0.00123,0.12,0.721,96.556,3,energetic
+1IIKrJVP1C9N7iPtG6eOsK,Go Crazy,Chris Brown,78,176960,Slime & B,5/8/2020,0.755,0.578,-8.932,0.145,0.316,0,0.25,0.581,94.148,4,energetic
+5r67bGhYXZNqk2m2Wupfmu,Pour It Up,Rihanna,74,161200,Unapologetic (Deluxe),12/11/2012,0.785,0.478,-8.735,0.0419,0.0254,0,0.0901,0.39,134.002,4,energetic
+1zi7xx7UVEFkmKfv06H8x0,One Dance,Drake,87,173986,Views,5/6/2016,0.792,0.625,-5.609,0.0536,0.00776,0.0018,0.329,0.37,103.967,4,energetic
+4q6dqyGM25sKFU8nYAGRe4,Show Me (feat. Chris Brown),Kid Ink,71,217800,My Own Lane (Expanded Edition),1/6/2014,0.711,0.508,-7.299,0.0502,0.0355,0,0.141,0.663,98.098,4,energetic
+2XMAWynSTIst5KmLSv0Npf,AMERICA HAS A PROBLEM,Beyoncé,79,198897,RENAISSANCE,7/29/2022,0.789,0.614,-6.491,0.0579,0.00348,0.00152,0.283,0.108,126.035,4,energetic
+0wbDgMuAoy7O7pL3a69uZx,Give It To Me,Timbaland,79,234026,Shock Value,4/2/2007,0.975,0.711,-3.904,0.0632,0.168,0.000552,0.0799,0.815,110.621,4,energetic
+5S2TCmPS3UUrG3ZK7NBa7b,Simmer (feat. Burna Boy),Mahalia,59,167186,LOVE AND COMPROMISE,9/6/2019,0.693,0.744,-3.94,0.0496,0.227,0,0.244,0.64,91.722,4,energetic
+73RbfOTJIjHzi2pcVHjeHM,What It Is (Solo Version),Doechii,74,189824,What It Is (Versions),3/17/2023,0.74,0.758,-5.851,0.0921,0.061,1.44E-06,0.0967,0.757,171.925,4,energetic
+0d8anwJJGti8jE79Y4tXUD,Know Myself,Justine Skye,58,167493,Know Myself,2/14/2018,0.78,0.495,-7.454,0.0466,0.44,0.00122,0.165,0.529,100.043,4,energetic
+72TFWvU3wUYdUuxejTTIzt,Work,Rihanna,81,219320,ANTI (Deluxe),1/28/2016,0.725,0.534,-6.238,0.0946,0.0752,0,0.0919,0.558,91.974,4,energetic
+5BrTUo0xP1wKXLJWUaGFtk,Loyal (feat. Lil Wayne & Tyga),Chris Brown,74,264946,X (Expanded Edition),9/16/2014,0.841,0.522,-5.963,0.049,0.0168,1.37E-06,0.188,0.616,99.059,4,energetic
+51t119U9qFdDHorI8GpNPb,Guess,Lucky Daye,59,193173,Candydrip,3/10/2022,0.384,0.632,-6.736,0.403,0.447,0.00047,0.094,0.373,80.046,4,energetic
+3jDdpx9PMlfMBS5tOBHFm9,Return of the Mack,Mark Morrison,76,213093,Return of the Mack,4/22/1996,0.715,0.833,-5.379,0.108,0.00631,0,0.164,0.612,95.487,4,energetic
+3unpulZnIiKRZ4MCymHfXx,Smoke (feat. Lucky Daye),Victoria Monét,71,186157,Smoke (feat. Lucky Daye),3/24/2023,0.803,0.387,-5.839,0.0723,0.207,1.98E-06,0.217,0.5,136.038,4,energetic
+2sITbbWIOeg2Lwp4WN2jqr,Fly Girl (feat. Missy Elliott),FLO,76,205384,Fly Girl (feat. Missy Elliott),3/23/2023,0.698,0.846,-3.735,0.0981,0.406,0,0.204,0.726,103.968,4,energetic
+76IkF7pA7RscjDTvOFT4vb,Hurtin' Me,Stefflon Don,62,212815,Hurtin' Me,8/10/2017,0.535,0.794,-4.933,0.161,0.102,1.52E-05,0.144,0.799,203.712,4,energetic
+0NTMtAO2BV4tnGvw9EgBVq,Bitch Better Have My Money,Rihanna,82,219305,Bitch Better Have My Money,3/26/2015,0.781,0.728,-4.981,0.0621,0.0509,1.94E-06,0.257,0.395,102.99,4,energetic
+7iTFubOSZdDivMp3SePQOy,Distraction,Kehlani,23,235693,Love My 10's R&B,3/18/2022,0.66,0.698,-6.269,0.0467,0.0274,0,0.296,0.404,120.96,4,energetic
+7MQywXGHEev7JmwwIzMcao,Love Like This,Faith Evans,68,275706,Keep the Faith,1998,0.767,0.551,-7.328,0.0616,0.00364,0,0.0451,0.796,100.904,4,energetic
+3OWcWJz1c0pIc6L3IDDhpP,Knock You Down,Keri Hilson,58,326186,In A Perfect World...,1/1/2009,0.588,0.877,-4.78,0.16,0.00952,0,0.171,0.645,155.165,4,energetic
+7xYnUQigPoIDAMPVK79NEq,Run It! (feat. Juelz Santana),Chris Brown,75,229866,Chris Brown (Expanded Edition),2005,0.846,0.482,-6.721,0.129,0.0246,0,0.393,0.212,100.969,4,energetic
+5hgnY0mVcVetszbb85qeDg,Partition,Beyoncé,71,319466,BEYONCÉ [Platinum Edition],11/24/2014,0.418,0.441,-11.522,0.283,0.029,0.0707,0.306,0.172,175.928,4,energetic
+4gJu0VAxmMGiPSwrQUJDum,Thong Song,Sisqo,40,253733,Unleash The Dragon,11/30/1999,0.706,0.888,-6.959,0.0654,0.119,9.64E-05,0.07,0.714,121.549,4,energetic
+22VdIZQfgXJea34mQxlt81,Can't Feel My Face,The Weeknd,84,213520,Beauty Behind The Madness,8/28/2015,0.705,0.769,-5.526,0.0425,0.113,0,0.105,0.583,107.949,4,energetic
+5j0McHPthKpOXRr3fBq8M0,Love in This Club (feat. Young Jeezy),Usher,73,259720,Here I Stand,5/27/2008,0.573,0.712,-5.976,0.0732,0.0572,0,0.167,0.346,140.012,4,energetic
+1BPybPVkDfUjFDvqG04l58,Breathe (feat. Sean Paul) - Rap Version,Blu Cantrell,71,228000,Bittersweet,6/11/2003,0.8,0.663,-3.832,0.0324,0.048,0,0.252,0.472,91.934,4,energetic
+3uVE5vLKkigiWBOQEgmdDk,Who's That Girl?,Eve,69,281906,Scorpion,1/1/2001,0.77,0.86,-3.702,0.19,0.0159,0.000713,0.0682,0.547,96.428,4,energetic
+5SixeLvPsYpk7qq9lo5xYg,Have Mercy,Chlöe,72,148778,Have Mercy,9/10/2021,0.903,0.535,-6.434,0.0742,0.297,0,0.345,0.508,130.022,4,energetic
+72Bz4ciRZPBcVSw0nrZDHi,Do It Again,Pia Mia,72,207746,Do It Again,5/4/2015,0.712,0.564,-6.527,0.047,0.0266,0,0.0874,0.411,95.95,4,energetic
+3aw9iWUQ3VrPQltgwvN9Xu,Family Affair,Mary J. Blige,77,265866,No More Drama,8/28/2001,0.911,0.551,-3.75,0.0449,0.132,4.12E-05,0.0863,0.969,92.887,4,energetic
+0k6DnZMLoEUH8NGD5zh2SE,Ayo,Chris Brown,74,225226,Fan of A Fan The Album (Expanded Edition),2/24/2015,0.823,0.563,-5.095,0.0443,0.0399,0,0.0851,0.682,98.031,4,energetic
+3Ey11v2aiX14s4wBaYbhlp,Don't Waste My Time (feat. Ella Mai),Usher,60,199720,Don't Waste My Time (feat. Ella Mai),12/13/2019,0.701,0.778,-5.076,0.201,0.125,0,0.0828,0.609,99.956,4,energetic
+02M6vucOvmRfMxTXDUwRXu,11-Jul,Beyoncé,70,213506,BEYONCÉ [Platinum Edition],11/24/2014,0.747,0.705,-5.137,0.126,0.0128,0,0.126,0.56,136.024,4,energetic
+3sfydNh0QQAdnIAtDVG16H,Like This (feat. Eve),Kelly Rowland,61,215853,Ms. Kelly,6/22/2007,0.676,0.73,-5.963,0.267,0.00193,0,0.0627,0.489,178.117,4,energetic
+6Wnlq1Pu3I0BajLvxn05Vr,Try Again,Aaliyah,68,284640,Aaliyah,7/7/2001,0.794,0.662,-4.913,0.249,0.0789,0,0.0937,0.683,93.053,4,energetic
+7f1Dmr246cJ9uQYdbplTbh,He Wasn't Man Enough,Toni Braxton,69,261933,The Heat,2000,0.739,0.947,-1.916,0.0411,0.00916,3.14E-05,0.326,0.766,88.009,4,energetic
+47TqCCnEliDp8NRDyIQoQq,You Make Me Wanna...,Usher,69,219120,My Way,9/16/1997,0.761,0.639,-7.577,0.0539,0.0359,0,0.0945,0.922,164.088,4,energetic
+2JIY6nN5kkkfNz0TckPqYu,Float (feat. Seun Kuti & Egypt 80),Janelle Monáe,64,242166,Float (feat. Seun Kuti & Egypt 80),2/16/2023,0.783,0.504,-5.349,0.124,0.202,0,0.854,0.334,126.009,4,energetic
+6aJ90LBl96bly9zuEH1U2X,This Is How We Do It,Montell Jordan,66,237546,Best Of Montell Jordan,9/25/2015,0.791,0.702,-7.333,0.0623,0.0174,0,0.423,0.789,103.646,4,energetic
+358bOvBiZCS9fRzNYosw6c,Like a Boy,Ciara,66,237053,The Evolution,2006,0.701,0.724,-5.751,0.145,0.267,0,0.0867,0.425,132.035,4,energetic
+5Y0E3dOeynKuLDAXu0t0Bg,Oops (Oh My) [feat. Missy Elliott],Tweet,62,237800,Southern Hummingbird,4/2/2002,0.66,0.536,-8.786,0.29,0.233,0.00669,0.111,0.775,159.963,4,energetic
+1Oi2zpmL81Q0yScF1zxaC0,"Bills, Bills, Bills",Destiny's Child,73,256026,The Writing's On The Wall,7/27/1999,0.845,0.576,-5.15,0.153,0.139,0,0.0764,0.461,127.641,4,energetic
+6g0Orsxv6glTJCt4cHsRsQ,Formation,Beyoncé,73,206080,Lemonade,4/23/2016,0.896,0.621,-6.857,0.237,0.00532,0,0.196,0.818,121.966,4,energetic
+7ioiB40H9xKs04QtIso2I3,Somebody,Natalie La Rose,67,189906,Somebody,1/6/2014,0.83,0.52,-8.714,0.0376,0.000792,1.25E-05,0.0656,0.735,104.99,4,energetic
+49FYlytm3dAAraYgpoJZux,Umbrella,Rihanna,85,275986,Good Girl Gone Bad: Reloaded,6/2/2008,0.583,0.829,-4.603,0.134,0.00864,0,0.0426,0.575,174.028,4,energetic
+5rb9QrpfcKFHM1EUbSIurX,Yeah! (feat. Lil Jon & Ludacris),Usher,83,250373,Confessions (Expanded Edition),3/23/2004,0.894,0.791,-4.699,0.112,0.0183,0,0.0388,0.583,105.018,4,energetic
+7861kBrZ5aw7o4NfggcyYW,It's Not Right But It's Okay,Whitney Houston,68,292400,My Love Is Your Love,11/17/1998,0.805,0.802,-7.076,0.1,0.162,0.000883,0.0698,0.531,127.924,4,energetic
+2ndnVdR8si7CW9T8vJRHyW,Move Ya Body,Nina Sky,70,232000,Nina Sky,1/1/2004,0.87,0.712,-6.313,0.0432,0.0202,0.000331,0.0576,0.877,121.057,4,energetic
+2SLZ2rX5773RS16mcqBxG7,Peaches & Cream,112,65,193093,Part III,2001,0.677,0.52,-6.255,0.334,0.00277,0,0.0532,0.768,203.862,4,energetic
+7uKcScNXuO3MWw6LowBjW1,"One, Two Step (feat. Missy Elliott)",Ciara,76,203786,Goodies,9/27/2004,0.944,0.511,-10.96,0.161,0.042,0.00107,0.0379,0.842,113.046,4,energetic
+4zYTZvtcww7OWKie7fxA9E,Hit 'Em Up Style (Oops!),Blu Cantrell,70,250706,So Blu,1/18/2001,0.667,0.773,-4.983,0.0586,0.201,0,0.404,0.667,89.976,4,energetic
+4x2YdtTppdbL4kHPOjaunq,More Than A Woman,Aaliyah,62,229866,Aaliyah,7/7/2001,0.655,0.649,-5.653,0.089,0.0793,0.000393,0.117,0.759,86.968,4,energetic
+7LqjznQwfrax7MjQXmxqdQ,Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix,Jennifer Lopez,72,187840,This Is Me...Then,2002,0.845,0.768,-5.448,0.188,0.00733,5.04E-06,0.0575,0.96,100,4,energetic
+2mqTtvbKxH7SoEQ2oGAnsA,CHURCH GIRL,Beyoncé,69,224472,RENAISSANCE,7/29/2022,0.792,0.919,-5.688,0.276,0.0381,5.10E-06,0.368,0.22,92.028,4,energetic
+3HZHverk07jdOVU4Rmsn5t,Girls Night Out (with Doechii),Babyface,41,201528,Girls Night Out,10/21/2022,0.768,0.82,-6.002,0.0768,0.165,7.48E-05,0.11,0.738,124.009,4,energetic
+140Xq2kIHIopNlXMcpWbwQ,"Never Leave You (Uh Oooh, Uh Oooh)",Lumidee,45,186120,"Never Leave You (Uh Oooh, Uh Oooh)",5/13/2003,0.808,0.638,-6.364,0.376,0.043,0.73,0.0748,0.843,199.945,4,energetic
+5u3FywQOPJ5O7ZAjm31cnq,Right Here - Human Nature Radio Mix,SWV,61,226800,Right Here,1992,0.601,0.74,-5.043,0.0573,0.0299,0.332,0.0937,0.672,94.013,4,energetic
+6uRH1qMz30ZBwwUG0IYE5s,Dance With Me,112,64,231800,Part III,2001,0.912,0.511,-6.365,0.203,0.0259,0,0.0442,0.611,101.628,4,energetic
+2zBxE8gt3eYI6AOKQAVsBN,Last Night,Keyshia Cole,30,255773,Just Like You,1/1/2007,0.92,0.846,-5.017,0.0642,0.161,0.000901,0.0847,0.973,121.002,4,energetic
+3dFwpxh2yH7C7p9BGEKLVB,Goodies (feat. Petey Pablo),Ciara,69,223000,Goodies,9/27/2004,0.826,0.647,-6.306,0.0491,0.0277,1.52E-06,0.298,0.872,102.017,4,energetic
+0DlVOdK5GJtnom4nI3EOz5,Soldier (feat. T.I. & Lil' Wayne),Destiny's Child,57,325573,Destiny Fulfilled,2004,0.878,0.417,-6.799,0.361,0.0444,0,0.0833,0.904,77.49,4,energetic
+4TiUFzVFDc17Gt0m1ktH2N,Body Do,Chlöe,62,142809,Body Do,3/24/2023,0.802,0.632,-5.363,0.0366,0.139,0.0954,0.366,0.726,120.977,4,energetic
+0KKkJNfGyhkQ5aFogxQAPU,That's What I Like,Bruno Mars,85,206693,24K Magic,11/17/2016,0.853,0.56,-4.961,0.0406,0.013,0,0.0944,0.86,134.066,4,energetic
+7tsRp7QKUBp6hc9bth0h7x,Don't Walk Away,Jade,62,216373,Jade To The Max,11/13/1992,0.831,0.915,-7.501,0.128,0.147,0.00571,0.196,0.881,102.979,4,energetic
+6xfcJ61bgdzj5f6xmV4sIW,Over You (feat. Stefflon Don),RAY BLK,46,192366,Over You (feat. Stefflon Don),9/9/2021,0.738,0.887,-3.378,0.138,0.0283,1.22E-05,0.0553,0.855,105,4,energetic
+3sckKKIx96cjPXtiqPHCTB,Only U - No Intro,Ashanti,59,186306,Concrete Rose,1/1/2004,0.601,0.621,-5.576,0.0434,0.0374,1.75E-06,0.188,0.278,94.547,4,energetic
+2J2hVpwVV25EK8Bvd3OgCK,Don't Mess With My Man,Lucy Pearl,63,217666,Lucy Pearl,5/23/2000,0.904,0.655,-5.102,0.087,0.111,0.000167,0.0779,0.83,106.005,4,energetic
+5NaOWLOmVjcA3M5spRATN9,Honey,Mariah Carey,62,299826,Butterfly,9/16/1997,0.694,0.824,-6.756,0.0909,0.119,7.15E-06,0.152,0.675,95.833,4,energetic
+3aImJnJlAgcE7bJ1NxthGt,Trick Me,Kelis,66,206106,Tasty,12/5/2003,0.97,0.72,-3.347,0.149,0.0369,0.000389,0.326,0.962,107.17,4,energetic
+4pmc2AxSEq6g7hPVlJCPyP,"Jumpin', Jumpin'",Destiny's Child,72,230200,The Writing's On The Wall,7/27/1999,0.771,0.685,-4.639,0.0567,0.00543,0.00157,0.0537,0.683,88.997,4,energetic
+0YfNXMKlh46m6aAhHOrmls,Doo Wop (That Thing) - Edit,Ms. Lauryn Hill,54,240666,"R&B - 100 Hits - The Greatest R n B album - 100 R & B Classics featuring Usher, Pitbull and Justin Timberlake",6/24/2013,0.795,0.56,-8.908,0.0659,0.00867,0,0.226,0.635,99.922,4,energetic
+7jvCeWOSnJs2N3spqobWnO,Skate,Bruno Mars,72,203122,An Evening With Silk Sonic,11/11/2021,0.708,0.598,-8.365,0.0291,0.037,0,0.17,0.698,112.027,4,energetic
+3SHSWxOXqCrw55LiXAB8J1,I'm Gonna Be Alright (feat. Nas),Jennifer Lopez,56,172240,This Is Me...Then,2002,0.718,0.69,-4.382,0.265,0.106,0,0.271,0.774,93.401,4,energetic
+7JKEA8xYDoFp4q0QBW2PGg,Shackles (Praise You),Mary Mary,65,198346,Go Get It,2000,0.779,0.834,-2.773,0.162,0.0343,0,0.0886,0.8,100.46,4,energetic
+17bDYXyZ9Zhn0QAOSEsWG7,Don't Cha,The Pussycat Dolls,36,272080,Celebrating Pride: The Pussycat Dolls,5/28/2021,0.88,0.637,-3.493,0.0893,0.0051,2.37E-06,0.0959,0.568,119.979,4,energetic
+23DOkHzglxk37y3emwMqgP,Spotlight,Jennifer Hudson,46,250106,Jennifer Hudson,9/29/2008,0.707,0.724,-3.887,0.051,0.0448,0,0.072,0.659,108.984,4,energetic
+0yMAkO3xc2KwtVcFYQITcy,Told Ya,Chlöe,63,204832,In Pieces,3/31/2023,0.612,0.66,-5.778,0.0934,0.209,0,0.724,0.721,121.09,4,energetic
+3G0CE9CEDtbuMMAY3M698M,Case Of The Ex (Whatcha Gonna Do),Mýa,34,236560,Fear Of Flying (Expanded Edition),4/24/2020,0.773,0.686,-4.724,0.0406,0.0581,0.000108,0.0961,0.365,98.008,4,energetic
+4dvQg9sD8k9y4qiEURuj8v,Lose My Breath,Destiny's Child,62,242013,Destiny Fulfilled,11/16/2004,0.814,0.899,-5.958,0.0637,0.00727,0.219,0.0979,0.545,119.011,4,energetic
+6EW91XcM1MxcMtEr0BbXtG,Get Right (feat. Fabolous),Jennifer Lopez,46,230600,Rebirth,2/25/2005,0.727,0.746,-4.703,0.119,0.073,0,0.635,0.579,97.1,4,energetic
+59nbIJxGb1qkrzbtTomZkL,Boyz (feat. Nicki Minaj),Jesy Nelson,58,179992,Boyz (feat. Nicki Minaj),10/8/2021,0.715,0.731,-6.469,0.27,0.0547,0,0.374,0.774,90.034,4,energetic
+5XMkENs3GfeRza8MfVAhjK,Finesse,Bruno Mars,71,191000,24K Magic,11/17/2016,0.741,0.798,-5.342,0.0718,0.00781,0,0.0232,0.939,104.953,4,energetic
+5f2CDk3D2XX8XyL6kViwZI,No Plans for Love (with Ne-Yo & Kent Jones),D-Nice,49,204229,No Plans for Love (with Ne-Yo & Kent Jones),3/18/2021,0.803,0.889,-3.698,0.0797,0.129,0.00785,0.0374,0.671,109.992,4,energetic
+40yXuiIXLwS0oodfwaDAmw,1 Thing (feat. Eve) - Radio Version,Amerie,47,215320,1 Thing,5/12/2005,0.593,0.956,-4.001,0.32,0.0943,0,0.0267,0.865,126.422,5,energetic
+7qtAgn9mwxygsPOsUDVRRt,Survivor,Destiny's Child,67,254040,Survivor,1/1/2001,0.524,0.904,-2.071,0.398,0.0533,0,0.776,0.655,161.188,4,energetic
+6M2aVK2M2cj7ywBis4tkMH,Vibe,J. Brown,44,195343,Vibe,10/20/2020,0.859,0.391,-5.754,0.0681,0.0839,0,0.0978,0.802,103.996,4,energetic
+3h3GCDFiFOdLu3aKGF48tU,The One - Main,Mary J. Blige,49,209906,The One,1/1/2009,0.837,0.692,-6.266,0.26,0.239,0,0.158,0.364,103.958,4,energetic
+59ZTxQo8rBycIXPLUIKvE2,Dirrty (feat. Redman),Christina Aguilera,69,298853,Stripped,7/19/2002,0.64,0.889,-3.073,0.322,0.107,0,0.339,0.436,99.931,4,energetic
+4Z1GSvE92RKsxjzrrBJAIT,One Minute Man (feat. Jay-Z) - Remix,Missy Elliott,51,275600,Miss E... So Addictive,5/14/2001,0.868,0.624,-8.84,0.321,0.0201,7.01E-06,0.114,0.646,93.887,4,energetic
+1fgvJXlcZ7uIddMpqsqw0L,Love Don't Cost a Thing,Jennifer Lopez,69,221226,J.Lo,1/23/2001,0.786,0.842,-5.115,0.0707,0.00305,3.54E-06,0.473,0.685,97.577,4,energetic
+2QOB5UiRKggr2j9uMD3GYK,FREEDOM,Jon Batiste,59,178289,WE ARE,3/19/2021,0.873,0.651,-4.179,0.0374,0.0251,0.000107,0.213,0.828,115.002,4,energetic
+7GbqE3MlkKosIaCvf50JRK,"Lady Marmalade - From ""Moulin Rouge"" Soundtrack",Christina Aguilera,67,264893,Moulin Rouge,9/3/2001,0.76,0.801,-3.769,0.0534,0.0144,1.49E-05,0.665,0.653,109.919,4,energetic
+58oryymPZNdtS2z8Une6NJ,Undecided,Chris Brown,63,185000,Indigo,6/28/2019,0.407,0.612,-4.387,0.13,0.288,0,0.198,0.488,96.943,4,energetic
+5IVuqXILoxVWvWEPm82Jxr,Crazy In Love (feat. Jay-Z),Beyoncé,79,236133,Dangerously In Love,6/24/2003,0.646,0.77,-6.596,0.226,0.00249,0,0.0715,0.681,99.165,4,energetic
+1z6WtY7X4HQJvzxC4UgkSf,Love On Top,Beyoncé,76,267413,4,6/24/2011,0.652,0.749,-5.248,0.0886,0.0848,0,0.604,0.651,94.103,4,energetic
+2jZESuj23z92RqbooSsMqV,Bootylicious,Destiny's Child,49,207960,#1's,2005,0.809,0.836,-4.587,0.274,0.00347,0,0.174,0.634,103.383,4,energetic
+5kHgrRO3hMDPehtH9VhYQc,"No, No, No Pt. 2 (feat. Wyclef Jean)",Destiny's Child,56,207466,Destiny's Child,2/17/1998,0.67,0.582,-3.574,0.224,0.3,0,0.0845,0.675,181.841,4,energetic
+5TQ8tNKf3C9oxlYAb8vk7c,Single Ladies (Put a Ring on It),Beyoncé,30,192586,I AM...SASHA FIERCE - Platinum Edition,2008,0.426,0.584,-5.293,0.296,0.0383,0,0.192,0.272,193.438,4,energetic
+3oOWBUNbwHZkWF2WND4kK2,Run the World (Girls),Beyoncé,50,236093,4,2011,0.733,0.899,-4.237,0.143,0.00496,4.72E-05,0.372,0.76,127.086,4,energetic
+2X485T9Z5Ly0xyaghN73ed,Let It Happen,Tame Impala,78,467586,Currents,7/17/2015,0.602,0.881,-5.875,0.0443,0.00462,0.0266,0.111,0.577,125.012,4,energetic
+0sTlGEld0h8kIPZaKDYUf4,Notion,The Rare Occasions,82,195120,Notion,12/2/2021,0.309,0.883,-3.825,0.0808,0.0673,0.00111,0.0849,0.312,159.488,4,energetic
+3VIJBrMpvimHEw5wtPh2wB,Money,The Drums,77,233639,Portamento,1/1/2011,0.603,0.918,-6.652,0.0641,0.216,0.146,0.284,0.452,102.473,4,energetic
+5naar7XewEOAjOywIp6Jjq,Remember When,Wallows,76,155146,Nothing Happens,3/22/2019,0.504,0.708,-5.896,0.0343,0.00112,0.000424,0.788,0.51,82.009,4,energetic
+7EkWXAI1wn8Ii883ecd9xr,Freaks,Surf Curse,86,147062,Freaks,5/15/2021,0.345,0.941,-9.918,0.0466,3.84E-05,0.633,0.0511,0.407,179.626,4,energetic
+0GO8y8jQk1PkHzS31d699N,Tongue Tied,GROUPLOVE,80,218013,Never Trust a Happy Song,9/2/2011,0.56,0.936,-5.835,0.0439,0.00847,0,0.161,0.371,112.96,4,energetic
+6GyFP1nfCDB8lbD2bG0Hq9,Midnight City,M83,78,243960,"Hurry up, We're Dreaming",10/17/2011,0.507,0.729,-5.399,0.0393,0.0182,1.40E-06,0.0658,0.272,105.013,4,energetic
+1oSDiyNMslJoTCfUZBHNP2,Happy Man,Jungle,65,191529,For Ever,9/14/2018,0.594,0.516,-7.848,0.0316,0.198,2.91E-05,0.0736,0.154,108.017,4,energetic
+0NdTUS4UiNYCNn5FgVqKQY,Snap Out Of It,Arctic Monkeys,81,193030,AM,9/9/2013,0.728,0.638,-6.455,0.0336,0.249,0,0.116,0.872,130.014,4,energetic
+57j65yC2HggQfmYNc6rdOK,bad idea!,girl in red,75,219638,bad idea!,9/3/2019,0.513,0.807,-6.095,0.0481,0.0289,0.0548,0.246,0.419,162.026,4,energetic
+7d23MhPFE9eB3U8DPRirnL,Disparate Youth,Santigold,62,284400,Master of My Make-Believe,4/16/2012,0.642,0.931,-4.142,0.0417,0.0131,0.825,0.215,0.548,152.005,4,energetic
+6qZjm61s6u8Ead9sWxCDro,Elephant,Tame Impala,73,211226,Lonerism,1/1/2012,0.598,0.553,-6.742,0.0397,0.562,0.157,0.257,0.533,123.075,4,energetic
+6FfLg6FFqhCsrFOaHIGkg0,Honeypie,JAWNY,75,135581,For Abby,10/27/2020,0.74,0.688,-4.361,0.0916,0.061,0,0.138,0.935,115.035,4,energetic
+1Dr5JexwA15wmKe7Y7maA9,Past Lives,BØRNS,70,274320,Dopamine,10/16/2015,0.743,0.685,-6.863,0.0975,0.0664,6.75E-05,0.0884,0.443,109.988,4,energetic
+1jJci4qxiYcOHhQR247rEU,Kids,MGMT,78,302840,Oracular Spectacular,12/14/2007,0.451,0.931,-3.871,0.0719,0.00076,0.0049,0.361,0.172,122.961,4,energetic
+4JHg4nNYUJQ5HULcCmI18R,What You Know,Two Door Cinema Club,75,189693,Tourist History,3/1/2010,0.549,0.754,-4.011,0.0407,0.000675,6.24E-06,0.0912,0.828,139.052,4,energetic
+11zf7m4vw9Ze7cer9Nyhk1,Pleaser,Wallows,69,187895,Pleaser,4/12/2017,0.497,0.914,-4.308,0.0455,0.126,1.98E-05,0.274,0.385,148.893,4,energetic
+558ubozatFQlweufvHa3Ip,It Might Be Time,Tame Impala,59,273026,The Slow Rush,2/14/2020,0.585,0.781,-3.808,0.0457,0.021,0.000187,0.627,0.336,115.946,4,energetic
+2AT8iROs4FQueDv2c8q2KE,R U Mine?,Arctic Monkeys,83,201726,AM,9/9/2013,0.288,0.758,-5.692,0.0371,0.00616,0,0.303,0.619,97.094,4,energetic
+0i5QVxsK3IvEDbUjTA64Li,Silver Lining,Mt. Joy,73,198600,Mt. Joy,3/2/2018,0.541,0.616,-6.53,0.028,0.00114,1.09E-06,0.151,0.203,144.218,4,energetic
+1B241LRKmK6qDDTZfUajmm,Cocoon,Catfish and the Bottlemen,66,236887,The Balcony,9/15/2014,0.446,0.91,-4.481,0.0652,0.000254,9.76E-05,0.077,0.325,133.053,4,energetic
+6K8VQ84MqhsoakN5MjrnVR,Supercut,Lorde,71,277506,Melodrama,6/16/2017,0.562,0.437,-10.229,0.052,0.219,2.18E-05,0.0806,0.15,124.852,4,energetic
+2RiBogNRfulkNf7fVbPOrJ,Saturday Sun,Vance Joy,71,214720,Nation of Two,2/23/2018,0.637,0.864,-4.381,0.0468,0.484,0,0.222,0.706,99.995,4,energetic
+6pjJUY0O4XgrYFGf9SwD7u,Wet Dream,Wet Leg,63,140083,Wet Dream,9/28/2021,0.721,0.697,-5.891,0.0284,0.00096,0.0106,0.212,0.898,130.051,3,energetic
+6GQLX6Z28fYwDNCrhaKzYF,Undercover Martyn,Two Door Cinema Club,69,166573,Tourist History,3/1/2010,0.446,0.871,-4.902,0.116,0.000252,8.13E-06,0.0996,0.612,159.863,4,energetic
+2iUmqdfGZcHIhS3b9E9EWq,Everybody Talks,Neon Trees,80,177280,Picture Show,1/1/2012,0.471,0.924,-3.906,0.0586,0.00301,0,0.313,0.725,154.961,4,energetic
+1pNUmVxDiE8t6P1XxcZAv8,Scrawny,Wallows,70,166520,Nothing Happens,3/22/2019,0.639,0.816,-5.28,0.0485,0.000985,0.0604,0.141,0.802,138.008,4,energetic
+04caEZhAsQKnWqKsMwk9ud,My Number,Foals,68,238853,Holy Fire,1/31/2013,0.639,0.715,-8.954,0.0392,0.0243,0.000552,0.619,0.813,128.072,4,energetic
+58hbLmAfFQA4zbxcbRCO4P,Daft Pretty Boys,Bad Suns,56,187013,Disappear Here,9/16/2016,0.665,0.823,-5.686,0.059,0.048,0,0.0927,0.672,136.992,4,energetic
+6ie2Bw3xLj2JcGowOlcMhb,Green Light,Lorde,74,234652,Melodrama,6/16/2017,0.594,0.721,-7.812,0.0957,0.0209,8.55E-06,0.0879,0.253,128.942,4,energetic
+6Z8R6UsFuGXGtiIxiD8ISb,Safe And Sound,Capital Cities,83,192789,In A Tidal Wave Of Mystery (Deluxe Edition),2013,0.655,0.819,-4.852,0.0316,0.000176,0.00374,0.104,0.766,117.956,5,energetic
+5uIRujGRZv5t4fGKkUTv4n,Feeling Lonely,boy pablo,63,197946,Soy Pablo,10/5/2018,0.633,0.537,-10.45,0.0544,0.0141,3.72E-05,0.103,0.889,117.907,4,energetic
+7h6lpVuSGPW6RNjDXKpYDh,The Sound,The 1975,68,248879,"I like it when you sleep, for you are so beautiful yet so unaware of it",2/26/2016,0.648,0.936,-4.745,0.0762,0.085,6.93E-06,0.482,0.566,120.708,4,energetic
+6CltzquypraYIlWFp48m1O,Hypersonic Missiles,Sam Fender,68,237986,Hypersonic Missiles,9/13/2019,0.551,0.814,-3.683,0.0425,0.00089,1.16E-06,0.18,0.469,130.971,4,energetic
+4Sfa7hdVkqlM8UW5LsSY3F,Take a Walk,Passion Pit,68,264493,Gossamer,7/23/2012,0.566,0.755,-5.526,0.0368,0.0338,0,0.315,0.445,101.006,4,energetic
+2PL9IBLQvJjE7hqCQyJl2g,Turn,The Wombats,63,207679,Beautiful People Will Ruin Your Life,2/9/2018,0.54,0.842,-3.926,0.05,0.0075,0,0.0915,0.377,105.011,4,energetic
+48XkVAagIoQHCsOlJtXUd5,still feel.,half•alive,66,247786,"Now, Not Yet",8/9/2019,0.779,0.516,-6.467,0.0521,0.148,0,0.0492,0.715,120.026,4,energetic
+4Gw1SXoN1MlAmdM3J1NjmR,Found What I've Been Looking For,Tom Grennan,60,191933,Lighting Matches (Deluxe),7/6/2018,0.623,0.829,-4.613,0.0286,0.0354,0,0.0762,0.779,107.067,4,energetic
+5bzf1xrbqr1ttjAJuRz2xY,Cleopatra,The Lumineers,69,201413,Cleopatra,4/8/2016,0.536,0.775,-6.765,0.0394,0.228,0.000143,0.0947,0.485,151.393,4,energetic
+1F5A4LpF8ylUVtPoMAvNvn,Raspberry,GROUPLOVE,65,196026,Spreading Rumours,9/17/2013,0.492,0.779,-5.022,0.0498,0.0292,0,0.129,0.445,104.966,4,energetic
+25nzKGDiua1lE9Qo5V19GL,Young Blood,The Naked And Famous,69,246600,"Passive Me, Aggressive You",2010,0.579,0.865,-4.692,0.0302,5.63E-05,0.000221,0.649,0.358,104.99,4,energetic
+1UqhkbzB1kuFwt2iy4h29Q,Cough Syrup,Young the Giant,71,249520,Young The Giant (Special Edition),2011,0.534,0.721,-7.307,0.0417,0.0343,6.24E-06,0.115,0.225,128.978,3,energetic
+7iqAuZe5yS0suLQcFfVK39,Chaise Longue,Wet Leg,61,196905,Chaise Longue,6/15/2021,0.684,0.749,-6.565,0.06,0.00135,0.111,0.141,0.935,160.021,4,energetic
+0KVWVuutF9Dn8li4HdyAeU,"Archie, Marry Me",Alvvays,64,196560,Alvvays,7/22/2014,0.268,0.829,-4.592,0.0743,0.00986,0.434,0.142,0.203,117.351,4,energetic
+6RKGBcDtgzXx21zUjpeu6F,Cold Cold Man,Saint Motel,68,230773,My Type EP,8/16/2014,0.613,0.661,-4.984,0.0263,0.00652,0,0.0976,0.509,110.978,4,energetic
+60eOMEt3WNVX1m1jmApmnX,Live in the Moment,Portugal. The Man,63,246786,Woodstock,6/16/2017,0.546,0.583,-7.317,0.0348,0.002,0.173,0.115,0.235,128.017,4,energetic
+3f7OyfSoDbQC0LRDQiytPp,Mountain at My Gates,Foals,67,244293,What Went Down,8/28/2015,0.495,0.931,-5.336,0.0469,0.0025,0.0819,0.246,0.617,104.05,4,energetic
+2ihCaVdNZmnHZWt0fvAM7B,Little Talks,Of Monsters and Men,81,266600,My Head Is An Animal,1/1/2012,0.457,0.757,-5.177,0.032,0.0206,0,0.146,0.417,102.961,4,energetic
+2a2MbiJN2skOxohykOVcss,Solitude Is Bliss,Tame Impala,60,235866,InnerSpeaker,5/21/2010,0.588,0.849,-5.027,0.0596,0.00811,0.000161,0.131,0.629,104.012,4,energetic
+7MfNoHB8JRNbSQ8P3eAfMQ,T-Shirt Weather,Circa Waves,65,192120,Young Chasers (Deluxe),3/30/2015,0.421,0.95,-4.603,0.0662,0.00145,1.10E-05,0.245,0.472,160.02,4,energetic
+54hj06Z7sm7DaHSrGGMAZG,Meet Me In the Woods,Lord Huron,61,262209,Strange Trails,4/6/2015,0.543,0.926,-6.759,0.0446,0.387,0.456,0.0667,0.604,80.501,1,energetic
+7kEva2rxsNMn07fyfZMRRn,Cure For Me,AURORA,67,201640,Cure For Me,7/7/2021,0.722,0.764,-5.86,0.0554,0.0933,1.82E-05,0.088,0.416,115.917,4,energetic
+1MHYAqWWdDRePmnqORynrq,Kathleen,Catfish and the Bottlemen,67,160886,The Balcony,9/15/2014,0.489,0.892,-4.757,0.0786,0.000369,0.00293,0.411,0.598,137.93,4,energetic
+0otn0qLAM0yAXHNSiRsHwq,Adult Diversion,Alvvays,58,207640,Alvvays,7/22/2014,0.328,0.948,-4.355,0.071,0.0355,0.515,0.126,0.469,177.329,4,energetic
+6kcHg7XL6SKyPNd78daRBL,Sweet Talk,Saint Motel,67,192040,saintmotelevision,10/21/2016,0.67,0.843,-4.311,0.0454,0.0392,0,0.225,0.713,117.01,4,energetic
+6QgjcU0zLnzq5OrUoSZ3OK,Feel It Still,Portugal. The Man,79,163253,Woodstock,6/16/2017,0.801,0.795,-5.115,0.0504,0.0417,0.000113,0.0717,0.754,79.028,4,energetic
+1myEOhXztRxUVfaAEQiKkU,Cosmic Love,Florence + The Machine,65,255906,Lungs (Deluxe Version),2009,0.518,0.809,-5.451,0.0382,0.137,0.000239,0.119,0.0957,140.065,4,energetic
+52zzYSu7RUsSFn8cZlVjWp,She Plays Bass,beabadoobee,59,207106,She Plays Bass,8/20/2019,0.447,0.89,-3.823,0.047,0.000147,0.021,0.101,0.269,136.066,4,energetic
+7H5WVBQdSnJ1zmu8JoD6pg,Charlemagne,Blossoms,64,166791,Blossoms,8/5/2016,0.544,0.925,-3.828,0.0406,0.00327,0.000399,0.284,0.789,101.984,4,energetic
+3nClCcBmn9NnrRQkQTkx1J,"Eat, Sleep, Wake (Nothing But You)",Bombay Bicycle Club,61,219893,Everything Else Has Gone Wrong,1/17/2020,0.596,0.807,-7.893,0.028,0.000132,0.264,0.312,0.288,117.016,4,energetic
+4rmIfFUZhhi9sS5IYtpkXw,Give Yourself A Try,The 1975,62,196588,A Brief Inquiry Into Online Relationships,11/30/2018,0.334,0.786,-5.002,0.0592,3.17E-05,0,0.517,0.901,182.933,4,energetic
+5g0HSob4PEq7M8blV6y70i,Will We Talk?,Sam Fender,67,162600,Hypersonic Missiles,9/13/2019,0.296,0.925,-0.783,0.0767,0.00128,0.000315,0.0797,0.607,204.111,4,energetic
+2VcS3oKcOPkubN9LVzZ96l,Longshot,Catfish and the Bottlemen,61,232960,The Balance,4/26/2019,0.481,0.765,-4.025,0.0388,0.00381,0.000737,0.119,0.465,102.829,4,energetic
+6mVD1SfTvlFAPVi7txFL5H,Machu Picchu,The Strokes,66,209626,Angles,3/21/2011,0.695,0.817,-5.294,0.0659,0.0132,0.097,0.0601,0.874,105.014,4,energetic
+1qBLtdOv2zTzq0tkc6Vy6t,Are We Ready? (Wreck),Two Door Cinema Club,55,230853,Gameshow (Deluxe Edition),10/14/2016,0.601,0.784,-5.622,0.0333,0.00476,0.0127,0.347,0.726,94.019,4,energetic
+6liNJDyWJjyHAgDnAX95bw,Fire and the Flood,Vance Joy,67,249382,Dream Your Life Away (Special Edition),9/9/2014,0.596,0.827,-4.402,0.0372,0.0242,0,0.0958,0.329,115.034,4,energetic
+3huV7eiNpaQlCB3LbZi9bB,Bad Habit,The Kooks,62,221413,Listen,1/1/2014,0.733,0.882,-4.199,0.0389,0.051,9.92E-06,0.131,0.854,123.071,4,energetic
+4gsR34XSIE2fUY4odwZqym,Seventeen,Sjowgren,65,225666,Seventeen,8/5/2016,0.612,0.725,-5.602,0.0416,0.305,0.0784,0.0548,0.333,146.008,4,energetic
+06Qsdo6m545EBO4LXM9nHn,Settle Down,The 1975,44,239893,The 1975 (Deluxe),9/2/2013,0.596,0.951,-5.292,0.051,0.00303,9.16E-05,0.789,0.843,107.119,4,energetic
+6MDijuuArPJv1vbp7K1x3f,Genghis Khan,Miike Snow,62,212146,iii,3/4/2016,0.688,0.847,-3.238,0.0508,0.04,2.81E-06,0.598,0.453,93.979,4,energetic
+5Fli1xRi01bvCjsZvKWro0,Houdini,Foster The People,69,202466,Torches,5/23/2011,0.632,0.908,-3.511,0.0458,0.00762,0.000172,0.167,0.764,110.024,4,energetic
+5PtEpuVX03k9bOUwilL5EO,Punching In A Dream,The Naked And Famous,62,238133,"Passive Me, Aggressive You",2010,0.473,0.883,-3.65,0.047,0.00201,0.000967,0.142,0.164,115.048,4,energetic
+3PVsWhlUR6mNxU9fk1BWca,Flame,Sundara Karma,55,227366,Flame,11/11/2016,0.525,0.855,-4.641,0.0522,0.00118,0,0.281,0.211,100.028,4,energetic
+4BsQ6HzywRiSHf45WXRft8,Sleep Alone,Two Door Cinema Club,54,236440,Beacon,9/3/2012,0.52,0.759,-5.006,0.0413,0.000112,0.00256,0.0934,0.552,148.019,4,energetic
+5PRRthP9SLfbXB359MfIWv,I Will Wait,Mumford & Sons,71,276720,Babel (Deluxe Version),9/21/2012,0.486,0.769,-5.14,0.0341,0.0119,0.00832,0.197,0.393,131.286,4,energetic
+4yffABDkB5A9flvr9vQFck,Howlin' for You,The Black Keys,67,191956,Brothers (Deluxe Remastered Anniversary Edition),12/18/2020,0.725,0.747,-5.545,0.0876,0.0272,0.0468,0.104,0.38,132.921,4,energetic
+3EEr6l5PYelwkrvvKX7N0X,Shut Up Kiss Me,Angel Olsen,57,202200,MY WOMAN,9/2/2016,0.375,0.63,-5.131,0.0453,0.0552,0,0.107,0.349,115.728,4,energetic
+1f36D2fxgU2Mk1TxS7WhjG,Your Girlfriend,Blossoms,48,161293,Your Girlfriend,6/20/2019,0.672,0.865,-4.83,0.0362,0.0401,2.31E-06,0.0996,0.886,119.997,4,energetic
+1DR2KXb0UvibcLsdDGVwwt,Now I'm In It - Bonus Track,HAIM,60,204280,Women In Music Pt III (Expanded Edition),2/19/2021,0.717,0.707,-9.495,0.0628,0.384,0.000117,0.161,0.206,105.014,4,energetic
+7uMZy0bALAdneerERyr7Ks,Reflektor,Arcade Fire,56,450983,Reflektor,2013,0.585,0.717,-8.379,0.0311,0.0561,0.0148,0.366,0.636,111.563,4,energetic
+7CLIr0lZ4GWeHTaj9lNkXM,Ur Mum,Wet Leg,43,201253,Ur Mum,4/4/2022,0.685,0.72,-5.553,0.028,0.00702,0.275,0.425,0.554,133.016,4,energetic
+3ySU5vwQB33iGulwcUL9qQ,Don't Take The Money,Bleachers,64,215546,Gone Now,6/2/2017,0.63,0.885,-5.674,0.0406,0.000397,1.37E-06,0.206,0.289,110.072,4,energetic
+7BZWTu4Pv77TxGmmsQaSXN,All I Want To Hear You Say,Sea Girls,58,190693,All I Want To Hear You Say,9/11/2018,0.546,0.813,-6.833,0.0519,0.00124,0,0.265,0.539,123.937,4,energetic
+5lN1EH25gdiqT1SFALMAq1,Gold on the Ceiling,The Black Keys,71,224333,El Camino,12/6/2011,0.505,0.833,-4.632,0.0475,0.00772,7.90E-05,0.069,0.565,130.121,4,energetic
+5zYduVIUSgSWmv56IwBmRl,Silhouettes,Colony House,61,177773,When I Was Younger,7/22/2014,0.478,0.76,-6.819,0.0381,0.0136,0,0.093,0.578,164.997,4,energetic
+7IX1xkXkINxCpWF4Xmk9XU,If You Wanna,The Vaccines,26,174013,What Did You Expect from The Vaccines?,3/14/2011,0.353,0.866,-3.274,0.0392,3.03E-05,3.00E-05,0.295,0.544,165.215,4,energetic
+5BvTfZQrTgu4buyXOekT3F,Wide Eyes,Local Natives,45,266440,Gorilla Manor,11/2/2009,0.53,0.841,-8.017,0.0403,0.00111,0.458,0.225,0.476,123.126,4,energetic
+78tgXRq9Q6tPNP9hKCpgwB,What Went Down,Foals,56,300720,What Went Down,8/28/2015,0.231,0.919,-6.182,0.0722,0.00313,0.00442,0.0643,0.128,146.94,4,energetic
+3SPVZJzf1Hs30rB6yXVf2y,Mountain Sound,Of Monsters and Men,63,211453,My Head Is An Animal,1/1/2012,0.379,0.878,-4.338,0.0359,0.042,0.00431,0.146,0.381,102.023,4,energetic
+5L95vS64rG1YMIFm1hLjyZ,Rollercoaster,Bleachers,67,188866,Strange Desire,7/14/2014,0.421,0.79,-6.227,0.0538,0.00205,0.000309,0.148,0.279,162.024,4,energetic
+57nNNkgk768QVXq3uHxu5e,Ways to Go,GROUPLOVE,61,215520,Spreading Rumours,9/17/2013,0.577,0.827,-7.54,0.0365,0.00338,0.000647,0.26,0.179,101.031,4,energetic
+01wsKcJ8ptqUmatpJlEGYj,Ready to Start,Arcade Fire,56,255893,The Suburbs,8/2/2010,0.282,0.932,-4.701,0.0387,0.12,0.0335,0.0692,0.536,190.08,4,energetic
+6vi4I2vZkN5mDePmVSSVTq,Reunion,M83,53,235386,"Hurry up, We're Dreaming",10/17/2011,0.427,0.823,-4.997,0.0466,6.00E-05,0.000129,0.127,0.311,124.024,4,energetic
+5G1sTBGbZT5o4PNRc75RKI,Lonely Boy,The Black Keys,75,193653,El Camino,12/6/2011,0.356,0.872,-7.837,0.068,0.00417,0.00975,0.0997,0.607,166.3,4,energetic
+6SlZp9UeLRIuw92j96dcjU,Changing of the Seasons,Two Door Cinema Club,56,222880,Changing of the Seasons,9/27/2013,0.542,0.869,-4.429,0.135,5.21E-05,0.000222,0.115,0.592,130.021,4,energetic
+3cp8xX1N5jewfKU2oY2Y08,Under the Sun,DIIV,54,226999,Is the Is Are,2/5/2016,0.552,0.851,-6.229,0.033,0.0014,0.782,0.131,0.941,154.96,4,energetic
+14zhqtMI5xHrfCFCLhFcsn,Dreams,Beck,56,314486,Colors,10/13/2017,0.582,0.938,-5.726,0.0392,0.000733,0.0202,0.0841,0.8,113.999,4,energetic
+1BwhFXqoIsePt21WyWIttb,I Wanna Get Better,Bleachers,65,204520,Strange Desire,7/14/2014,0.446,0.915,-6.221,0.141,0.00281,3.87E-05,0.218,0.398,190.013,4,energetic
+4hgsFv2a0znK2BJ5tdG6AK,All the Rage Back Home,Interpol,51,262426,El Pintor,9/8/2014,0.287,0.91,-5.759,0.0571,4.12E-05,0.571,0.277,0.367,84.499,4,energetic
+2VPDapCIbZVMc5achxz1Br,Post Break-Up Sex,The Vaccines,25,174453,The Hits,8/20/2021,0.401,0.902,-4.115,0.0469,7.32E-05,0.00465,0.261,0.57,136.873,4,energetic
+5h5TUj8pU2WhdSeJx9BnX2,Pelele,Morad,70,216827,Pelele,12/24/2021,0.83,0.698,-5.549,0.163,0.224,0.00065,0.0761,0.825,144.929,4,energetic
+5gflgO9EPbIBf16n5TKnQS,Yo Voy (feat. Daddy Yankee),Zion & Lennox,82,232019,Motivando a la Yal,5/4/2004,0.808,0.697,-5.899,0.241,0.041,0,0.0546,0.554,95.06,4,energetic
+39yyHtQ4tkjZzd8TfIBKQw,"Morad: Bzrp Music Sessions, Vol. 47",Bizarrap,71,177583,"Morad: Bzrp Music Sessions, Vol. 47",12/8/2021,0.77,0.859,-4.526,0.0429,0.468,0.00339,0.103,0.548,122.042,4,energetic
+4tYFy8ALRjIZvnvSLw5lxN,Party,Bad Bunny,84,227628,Un Verano Sin Ti,5/6/2022,0.829,0.799,-5.389,0.0897,0.0151,0.000543,0.242,0.471,97.013,4,energetic
+2tTmW7RDtMQtBk7m2rYeSw,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap,93,198937,"Quevedo: Bzrp Music Sessions, Vol. 52",7/6/2022,0.621,0.782,-5.548,0.044,0.0125,0.033,0.23,0.55,128.033,4,energetic
+6bOLRTULQUiXeVnxOIPZVA,Gyal You a Party Animal,Charly Black,69,214455,Gyal You a Party Animal,2015,0.591,0.843,-5.196,0.148,0.0305,0,0.297,0.836,134.325,5,energetic
+0Z89MaST5Egh1JGuWtIohT,Nieve - Good Times Ahead Remix,Feid,47,323080,Nieve (Remixes),9/30/2022,0.759,0.76,-6.54,0.0567,0.0487,0.0796,0.0865,0.463,125.986,4,energetic
+2QyTXB4a7l7NBBceBhXt5e,No y No,Morad,58,255319,No y No,2/25/2022,0.793,0.714,-4.792,0.176,0.054,0.149,0.135,0.642,140.996,4,energetic
+4iaNmAvcZ6sPGvgZ6vQQdx,Ahora y Siempre,Quevedo,75,149275,Ahora y Siempre,12/11/2021,0.659,0.629,-7.86,0.0825,0.716,0,0.422,0.416,118.964,4,energetic
+2gdBsRfuWGwJwe3X5XwZuI,La Copa,Ozuna,59,154628,La Copa,9/14/2022,0.913,0.803,-3.911,0.0353,0.116,0.000275,0.111,0.947,126.016,4,energetic
+3IAfUEeaXRX9s9UdKOJrFI,Envolver,Anitta,77,193805,Envolver,11/11/2021,0.812,0.736,-5.421,0.0833,0.152,0.00254,0.0914,0.396,91.993,4,energetic
+4q5pdsB1bsZRu9BgewM7j9,LET'S GET CRAZY! (Mambo Drop),Don Omar,56,159819,LET'S GET CRAZY! (Mambo Drop),9/29/2022,0.702,0.906,-4.811,0.032,0.00659,1.07E-05,0.104,0.667,120.021,4,energetic
+6bQ5823aHmFVKLZW8E7rRo,Si Quieren Frontear,Duki,70,200337,Si Quieren Frontear,3/31/2022,0.789,0.837,-3.247,0.23,0.125,0,0.209,0.476,81.536,4,energetic
+0UvZcEfpzVyx47QsRbjyBz,El Apagón,Bad Bunny,76,201816,Un Verano Sin Ti,5/6/2022,0.629,0.698,-4.485,0.308,0.0509,0.00166,0.0909,0.599,117.765,4,energetic
+4XqXNU8MwPHwbgZmNXmAdc,Junio,Maluma,76,168601,Junio,9/29/2022,0.85,0.756,-3.439,0.0407,0.0999,0,0.0873,0.896,120.024,4,energetic
+5fwSHlTEWpluwOM0Sxnh5k,Pepas,Farruko,84,287120,Pepas,6/24/2021,0.762,0.766,-3.955,0.0343,0.00776,6.98E-05,0.128,0.442,130.001,4,energetic
+228BxWXUYQPJrJYHDLOHkj,Gasolina,Daddy Yankee,82,192600,Barrio Fino (Bonus Track Version),7/13/2004,0.852,0.797,-6.543,0.0614,0.322,2.69E-06,0.0845,0.741,96.008,4,energetic
+1ri9ZUkBJVFUdgwzCnfcYs,MAMIII,Becky G,81,226088,MAMIII,2/10/2022,0.843,0.7,-3.563,0.0803,0.0934,0,0.14,0.899,93.991,4,energetic
+79zvVrn65ksbiGQxrtV4I5,Guaya Guaya,Don Omar,77,193613,The Last Don II,6/16/2015,0.788,0.873,-2.322,0.117,0.00607,0.00052,0.0908,0.703,91.981,4,energetic
+5kqNIqFjijuzvVLhuY9B8j,La Zona,Bad Bunny,77,136892,YHLQMDLG,2/29/2020,0.762,0.801,-3.661,0.0409,0.2,7.04E-05,0.254,0.81,93.992,4,energetic
+2qG5sZ7Si6sdK74qLxedYM,Con Altura,ROSALÍA,76,161626,Con Altura,3/28/2019,0.882,0.689,-4.027,0.124,0.39,0.00325,0.0501,0.746,97.963,4,energetic
+7w47Qtyrw5y4w5Qa0wNjco,Nataaoki,Natanael Cano,72,150000,NataKong,4/8/2022,0.768,0.835,-4.961,0.11,0.07,3.94E-06,0.0593,0.797,119.982,4,energetic
+1OHqiHl22XHZ9FEhr8NfW6,Rompe,Daddy Yankee,22,189040,Sábado de Perreo,3/12/2021,0.687,0.806,-6.019,0.0549,0.0358,5.83E-06,0.0569,0.534,176.064,4,energetic
+2Xh7dyCHCErCv3PmdVEGw4,Rabiosa (feat. Pitbull),Shakira,70,170600,Sale el Sol,10/19/2010,0.834,0.823,-4.918,0.114,0.062,0,0.185,0.763,133.039,4,energetic
+0mHrQV5Tu8cjioNpNGG7N1,Rakata,Wisin & Yandel,63,172680,Pa'l Mundo,11/8/2005,0.872,0.786,-5.473,0.142,0.0348,0,0.0776,0.722,96.002,4,energetic
+2oeyvFG0mFFDHUxhPVObNk,Flow Natural,"Tito ""El Bambino""",71,173866,Top Of The Line,1/1/2006,0.831,0.789,-5.498,0.0661,0.121,0,0.328,0.827,101.035,4,energetic
+0e8DgtfJnWTBarF9YGMd0N,Ven Bailalo - Reggaeton Mix,Angel Y Khriz,75,252773,Ven Bailalo (Reggaeton Mix),7/22/2005,0.675,0.919,-6.075,0.0366,0.0606,0.00653,0.103,0.726,97.018,4,energetic
+0ncjL8rhbvCq3i812EGWc8,Dale Don Dale,Don Omar,42,212413,Simplemente Latineo,7/3/2020,0.831,0.818,-7.827,0.0824,0.0245,0.000319,0.0892,0.819,95.022,4,energetic
+0t0WIrjRcvgBAwLlby2gsZ,Down,R.K.M & Ken-Y,70,225693,Masterpiece: Nuestra Obra Maestra,11/4/2016,0.801,0.773,-6.651,0.0896,0.563,0.00425,0.103,0.796,94.988,4,energetic
+26QKsGW4hMuwiEE1ftUMHe,"Lo Que Pasó, Pasó",Daddy Yankee,81,210933,Barrio Fino (Bonus Track Version),7/13/2004,0.819,0.741,-6.538,0.0412,0.104,0,0.283,0.84,97.014,4,energetic
+15rmp3wn5yCrtpoh6xGH8p,Algo Me Gusta De Ti,Wisin & Yandel,39,274946,Lo Mejor en Regeton,1/29/2021,0.626,0.769,-5.296,0.0325,0.00291,0,0.0598,0.237,127.949,4,energetic
+4Yu2UoU9qNlYL9GeIH65P5,Mi Vecinita,Plan B,60,182160,Love and Sex,9/9/2014,0.754,0.819,-4.426,0.0513,0.0973,0,0.659,0.895,93.986,4,energetic
+7DM4BPaS7uofFul3ywMe46,Vente Pa' Ca (feat. Maluma),Ricky Martin,73,259195,Vente Pa' Ca (feat. Maluma),9/22/2016,0.663,0.92,-4.07,0.226,0.00431,1.69E-05,0.101,0.533,99.935,4,energetic
+0VamAmertqIxKM5axPSkCy,Bailando por Ahi,Juan Magán,61,180453,Bailando por Ahi,5/15/2011,0.73,0.732,-5.167,0.051,0.0427,2.22E-06,0.262,0.974,129.974,4,energetic
+2FNqnsX74ZlwduUAcnmzee,Tu Príncipe,Daddy Yankee,79,205520,Barrio Fino (Bonus Track Version),7/13/2004,0.77,0.804,-5.479,0.0623,0.16,1.00E-05,0.193,0.568,94.017,4,energetic
+2a1o6ZejUi8U3wzzOtCOYw,Danza Kuduro,Don Omar,80,198773,Meet The Orphans,1/1/2010,0.4,0.915,-4.89,0.28,0.0846,0,0.0503,0.878,88.917,3,energetic
+5oQDYIpN3ieXNHwXAr8TXf,Na De Na,Angel Y Khriz,69,202880,Showtime,1/1/2008,0.881,0.894,-5.802,0.125,0.19,0,0.109,0.694,119.948,4,energetic
+0cpzO8YjhyR8JfLzfm5cOr,Besos Mojados,Wisin & Yandel,66,264680,La Revolución - Evolution (International Version),1/1/2009,0.646,0.81,-6.482,0.141,0.0959,2.68E-05,0.266,0.361,95.985,4,energetic
+79wDq3jpGu0yew1ngQpAAi,Quédate - Tiësto Remix,Bizarrap,69,232498,Quédate (Tiësto Remix),11/2/2022,0.652,0.877,-2.767,0.141,0.00848,0.0158,0.695,0.722,127.996,4,energetic
+43yyvWNjl3yWpghcrxZYkr,Agárrala - Remix,Trebol Clan,72,152106,Los Bacatranes,6/29/2004,0.731,0.741,-7.978,0.0418,0.0812,0.0245,0.0993,0.862,96.031,4,energetic
+2Ukr1iULFHGSJp0qPhiqc0,No Me Dejes Solo,Daddy Yankee,70,170240,Barrio Fino (Bonus Track Version),7/13/2004,0.787,0.835,-5.84,0.0614,0.0772,0.000112,0.0712,0.78,95.966,4,energetic
+0BenZn1xELuxhb7Pjwyjxv,Hooka,Don Omar,75,237973,Meet The Orphans,1/1/2010,0.73,0.863,-5.082,0.154,0.0373,0,0.491,0.818,170.014,4,energetic
+2kJHrc3xrh644ZZUiynzgR,Me Estas Tentando,Wisin & Yandel,36,228880,"Wisin Y Yandel Present ""Nesty"" La Mente Maestra",1/1/2008,0.81,0.909,-2.652,0.0545,0.331,6.45E-06,0.335,0.766,116.002,4,energetic
+0OMRAvrtLWE2TvcXorRiB9,La Gozadera (feat. Marc Anthony),Gente De Zona,75,203160,Visualízate,4/22/2016,0.616,0.989,-1.698,0.0483,0.166,0,0.172,0.902,95.036,4,energetic
+4777sGsOdoM89vPH3CVoLe,Mayor Que Yo 3,Luny Tunes,66,304746,Mayor Que Yo 3,10/23/2015,0.715,0.964,-3.176,0.162,0.0985,0,0.291,0.535,91.975,4,energetic
+3TBZtPqL5tuOk5QYH9WvvK,BICI,Duki,58,248966,Temporada de Reggaetón,11/25/2021,0.761,0.751,-4.525,0.262,0.0399,0,0.152,0.826,174.014,4,energetic
+1nAk42YH4kmPxaoFcLgiSe,Mi Cama Huele a Ti (feat. Zion & Lennox),"Tito ""El Bambino""",71,225573,El Patrón (La Victoria),4/30/2015,0.738,0.85,-5.818,0.0403,0.0775,0,0.162,0.678,95,4,energetic
+7M6CFruBrM5x7u0lTMtm6r,Cómo Te Atreves,Morat,74,240560,Sobre El Amor Y Sus Efectos Secundarios,6/17/2016,0.617,0.888,-4.567,0.0402,0.0705,0,0.162,0.771,130.97,4,energetic
+0fLDouuonJAc1FtUJ2L8DF,Ahora Es,Wisin & Yandel,45,206946,Los Extraterrestres - Otra Dimension,2007,0.822,0.776,-5.524,0.108,0.104,0,0.443,0.705,96.01,4,energetic
+7rc5a3QEQd0ilWVkA8eLyP,Andas En Mi Cabeza,Chino & Nacho,37,247493,Lo Mejor en Regeton,1/29/2021,0.671,0.954,-1.87,0.13,0.0244,0,0.111,0.555,104.113,4,energetic
+1pdK71OIQBAEHHSZ3pUggO,Rimmel,Quevedo,62,180577,Rimmel,10/9/2021,0.666,0.63,-8.054,0.116,0.67,9.80E-06,0.083,0.702,104.98,4,energetic
+03f28Kmu5AlIdKAfEJiI8F,La Temperatura (feat. Eli Palacios),Maluma,64,224786,PB.DB. The Mixtape,3/6/2015,0.763,0.82,-4.873,0.0373,0.0515,4.65E-05,0.316,0.905,119.971,4,energetic
+3gOL6mYIq19Oq8raxIntrV,LIKE ME (feat. 42 Dugg & Lil Baby),Future,67,132986,I NEVER LIKED YOU,5/2/2022,0.741,0.788,-6.403,0.2,0.00119,0,0.0957,0.307,160.03,4,energetic

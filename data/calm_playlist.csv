@@ -1,0 +1,1000 @@
+id,name,artist,popularity,duration_ms,album,release_date,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,mood
+4v2zzo3kQO0zSniW39Qc6b,Merci et Désolé,Ricard Paul,51,165666,Merci et Désolé,5/13/2022,0.318,0.0601,-28.7,0.0309,0.971,0.936,0.11,0.17,97.792,4,calm
+6X4fTprmm1elJ6LPGXJEsP,Santolea,Xaverius Love,59,151250,Santolea,2/4/2022,0.49,0.0531,-27.898,0.0534,0.995,0.931,0.108,0.319,99.335,3,calm
+5LIsR2QFLqxot9tX9huYwi,From Above,Albin Svensson,61,106013,Your Story,8/21/2022,0.382,0.0737,-26.048,0.0366,0.993,0.919,0.0965,0.294,94.112,4,calm
+4k8AC9xUl0o7JG7qlVQBZi,Viva Valeriana,Anaëlle Mei,61,112046,Viva Valeriana,10/28/2022,0.38,0.00358,-29.373,0.0453,0.984,0.958,0.0825,0.115,66.831,4,calm
+7LTVGmS15JBwO11pTS4ykt,Hammock,Vaughn Harrison,50,126144,Hammock,1/27/2023,0.244,0.0263,-30.297,0.0504,0.982,0.933,0.108,0.298,130.877,4,calm
+37hUtRe16kZtSfUd9c33jv,Recovery Day,Hearth Mason,44,230823,Recovery Day,10/31/2022,0.324,0.00148,-33.739,0.0553,0.995,0.944,0.0901,0.244,68.649,3,calm
+3RI7rnK1YgmyRcXq9pkMqQ,This Tender Appeal,Allysium,66,168498,This Tender Appeal,3/24/2023,0.435,0.0404,-26.262,0.0358,0.984,0.96,0.0952,0.193,95.929,4,calm
+5c32g8ZBUZCClHDb545VQs,Briefly,Eirin Nordness,47,118500,Briefly,9/2/2022,0.412,0.00663,-25.666,0.0383,0.974,0.956,0.138,0.19,75.508,3,calm
+6JdpCWPWaEtjVkFXuVgioj,Delicate,Thomas Erwin,53,103636,Delicate,2/10/2023,0.441,0.00323,-35.903,0.0436,0.995,0.944,0.0767,0.295,109.185,3,calm
+6k4vTbYOi9pLZHaJYhBRu1,Taciturn,Julius Cuvier,56,179181,Taciturn,6/3/2022,0.423,0.0129,-28.281,0.0404,0.984,0.906,0.103,0.245,121.201,4,calm
+4JIzLIwxXr6nwBqhsU2EOy,Zufrieden,antinode,44,156000,Midnight Improvisations // Tranquility,9/2/2022,0.251,0.00422,-34.795,0.0509,0.987,0.924,0.0682,0.0689,76.816,4,calm
+7jUgBIVfc6C2YfFqFmETxz,Air from Air,Yasuo Zen,68,199428,Air from Air,3/3/2023,0.538,0.0101,-29.191,0.0363,0.995,0.942,0.088,0.481,68.322,4,calm
+31euvr3EhfWo8GbsVVsQjy,Emergence,Cai Harrington,51,126579,Emergence,3/3/2023,0.389,0.025,-25.448,0.0504,0.994,0.945,0.112,0.327,78.064,4,calm
+4A5LsjpZx6FTW4rf0IVTcF,Despoina,Bert Hearns,43,140416,Despoina,5/6/2022,0.384,0.0893,-30.439,0.0643,0.995,0.969,0.0998,0.206,75.499,4,calm
+75Y41KT0PeczPom4iZFs87,Onyx,Brian Charlie,49,163488,Onyx,1/20/2023,0.462,0.0547,-25.84,0.0636,0.989,0.963,0.109,0.132,82.729,3,calm
+45XxWtNAwclSQIBJDUVw6N,Closing Stages,Marius Notar,45,169624,Closing Stages,1/27/2023,0.269,0.0635,-34.556,0.0317,0.966,0.948,0.0973,0.31,165.884,3,calm
+1g3qZv1GGqwMBrXzogTpTx,fields of forever - sleep rework,Chad Lawson,65,221702,fields of forever (sleep rework),2/17/2023,0.663,0.0132,-33.243,0.046,0.995,0.953,0.0887,0.327,120.107,4,calm
+27vBoR2y5SuRtV2YgvgtS0,So Ro Lilleman,Sofia Runmon,46,94609,So Ro Lilleman,4/14/2023,0.553,0.00741,-27.727,0.0514,0.996,0.958,0.0837,0.359,135.907,4,calm
+2MUBJrvs9yanwhD9HZnXUB,To Let Go,Anna Landström,60,146580,Light in the Mist,8/19/2022,0.453,0.0101,-30.496,0.0493,0.992,0.938,0.124,0.313,73.774,4,calm
+0F8SuamdgugyK1UWMM2clz,A burnished stone,Luiza Schmidt,56,112717,A burnished stone,1/27/2023,0.266,0.019,-31.372,0.0364,0.993,0.906,0.115,0.215,72.583,4,calm
+5aC8nrtrXpYfnhnRyG9LgI,A Part Of Us,Eirin Nordness,56,117610,A Part Of Us,3/31/2023,0.439,0.00241,-32.12,0.0442,0.992,0.966,0.107,0.604,136.725,4,calm
+0kpHSnJTru2qYTk0WFDsyA,Fiume,Carluccio,67,140124,Fiume,3/10/2023,0.361,0.0649,-23.25,0.0281,0.984,0.933,0.111,0.354,77.486,4,calm
+3SV20Qhy0Ttd1f8fIZQiUT,Muse,Ina Lawson,31,133375,Muse,4/28/2023,0.43,0.00699,-27.595,0.0447,0.993,0.953,0.105,0.19,76.73,1,calm
+73NUBJWApOkAp9ioV8nI9O,Ha tudnád,Csizmazia Etel,40,135783,Ha tudnád,3/17/2023,0.551,0.0946,-22.759,0.0593,0.995,0.957,0.102,0.49,69.139,4,calm
+6v7RGlk2l85VOzePfWmF8r,Three Stories It Must Tell,Sabrina Austin,40,141430,Three Stories It Must Tell,2/24/2023,0.418,0.0169,-30.613,0.0374,0.985,0.937,0.0961,0.182,67.389,3,calm
+2FPuvgUV34THb0IzEBJvq6,I'll Be Dreaming,Daníel Fannar,40,103000,I'll Be Dreaming,3/24/2023,0.481,0.00615,-30.193,0.0422,0.995,0.952,0.111,0.527,66.083,4,calm
+5J98e7zSY03xUczf2BbK6q,Manglar,Luna Bauer,43,141745,Manglar,3/12/2021,0.447,0.0498,-25.321,0.0374,0.995,0.943,0.105,0.174,78.91,4,calm
+2YsCoCOAiyDziuyHATGgz6,Full Of Life,Hans Johansen,39,128199,Full Of Life,3/17/2023,0.611,0.0363,-24.127,0.0441,0.988,0.939,0.12,0.198,110.871,4,calm
+235xEvc5AelB56CsNzYew3,Place to Remember,Rich Mortimer,40,98403,Place to Remember,4/28/2023,0.502,0.0823,-26.413,0.032,0.995,0.929,0.101,0.332,82.073,3,calm
+4EQRrRdoQ8vC4ULe8Kygpw,If You Should Go,Nora Gray,64,127538,If You Should Go,1/20/2023,0.611,0.0126,-26.619,0.0671,0.996,0.94,0.107,0.263,68.395,4,calm
+1arB0eICekrhg2CAj2bGfR,In Those Years,Ray Hutchcraft,55,140296,In Those Years,10/28/2022,0.476,0.0639,-26.901,0.0599,0.994,0.948,0.0941,0.495,64.52,4,calm
+0B0cpBMtYjk5PAwM0bkuoB,Under the Poplars,Sheila Withmore,50,164132,Under the Poplars,2/24/2023,0.414,0.0161,-30.086,0.038,0.994,0.941,0.123,0.156,63.45,4,calm
+3hA4o2GOVotNTAzZEY7kBj,The Light Of That Morning,Kisane,33,154620,The Light Of That Morning,4/28/2023,0.627,0.0119,-26.341,0.0534,0.995,0.941,0.11,0.373,87.369,3,calm
+1XxpdpkVxh9B3jYOW3Le14,Wurzeln,Lekk,49,152908,Glass Stone,6/7/2021,0.228,0.0101,-32.938,0.0446,0.988,0.759,0.177,0.183,112.62,4,calm
+4p1twb8bM9ZmWE2msuH8E8,Never Let You Go,Junie Graziano,67,114232,Never Let You Go,3/31/2023,0.407,0.00358,-27.226,0.0477,0.995,0.952,0.1,0.289,65.243,4,calm
+2wD4uaLNl9DZrBmRC87a3W,Drøm,Tankeflukt,46,109704,Drøm,9/2/2022,0.383,0.0552,-29.565,0.0371,0.991,0.911,0.0979,0.127,113.956,3,calm
+0EmLqKNpKexYXHjw5fqeiW,Milleniaria,Roland Toubin,57,177792,Milleniaria,7/15/2022,0.407,0.00402,-30.628,0.0456,0.995,0.914,0.0815,0.413,112.962,4,calm
+7F6hlMdM7OrUw8C1W4pjAC,Poesia,Fernando Alegre,66,125248,Poesia,1/20/2023,0.641,0.0114,-27.475,0.0458,0.996,0.964,0.106,0.483,80.989,3,calm
+25DsngbeW7QvMTuPJBy8ww,Down The Line,Cassandra Millen,35,146862,Down The Line,4/28/2023,0.391,0.00926,-29.409,0.046,0.993,0.94,0.093,0.176,95.998,3,calm
+2oafUifmaR1uBS3o9o7uLO,Quiet Eyes,Davignon,66,141451,Quiet Eyes,2/24/2023,0.345,0.0305,-24.169,0.0326,0.987,0.935,0.1,0.137,162.612,4,calm
+7K1S5y76RWJY7jIxSWupEy,Stay with me,Réka Ioescu,41,167754,Stay with me,3/10/2023,0.485,0.0162,-32.551,0.0443,0.995,0.966,0.131,0.246,66.089,4,calm
+1iWqz6adg6vBQDBub0xHLc,Mornings,Ziva,41,114644,Flor,1/22/2023,0.495,0.0121,-36.003,0.056,0.994,0.946,0.0617,0.263,110.625,1,calm
+37aia1wG2Ncz8AWjM4tPlY,Om än bara för en stund,Maya Åström,56,158591,Om än bara för en stund,7/29/2022,0.504,0.056,-24.25,0.0478,0.992,0.963,0.11,0.337,75.761,4,calm
+6KH1ipvlKEfafZOSXR5nwm,Keepsakes,Lennon McKenna,40,166019,Keepsakes,2/3/2023,0.287,0.05,-27.893,0.041,0.993,0.943,0.103,0.119,178.316,4,calm
+4Be7nKSjLG0iWmt0OJXEks,The Porch Swing,Billie Ivory,44,129500,The Porch Swing,6/11/2021,0.367,0.00273,-30.227,0.0504,0.995,0.924,0.094,0.308,123.554,1,calm
+4nZCJzRoJqcItuc81ZnCBj,A Dream of Tomorrow,Kisane,48,133365,A Dream of Tomorrow,2/24/2023,0.544,0.0581,-26.452,0.0355,0.988,0.904,0.0842,0.159,66.274,4,calm
+3e9Gta423esoiEi5AoIApd,momente,Massimo Pavoni,59,126289,momente,12/29/2021,0.343,0.0133,-25.855,0.0416,0.993,0.948,0.101,0.14,72.186,3,calm
+4tqAHq4q1M9m9AOhaWqNKn,Dreamy,Hania Rani,59,179800,Dreamy,1/20/2023,0.495,0.0696,-31.384,0.0296,0.96,0.898,0.119,0.276,95.193,3,calm
+4zGivzfk4ZSzwALLylGAMc,the fishermans daughter,Delaney & Delaney,39,171789,The Fishermans daughter,10/28/2022,0.34,0.00268,-36.036,0.0415,0.996,0.939,0.131,0.173,74.282,4,calm
+1EFoFLPtWaKdBeDTdce8nQ,The Goodbyes We Never Said,Yichu Ann Chen,48,114972,The Goodbyes We Never Said,3/31/2023,0.507,0.027,-28.869,0.0591,0.984,0.951,0.105,0.411,63.721,4,calm
+4vDA036RKeQjigYZmANk3Y,Days Gone By,Tiny Rhino,54,188500,Days Gone By,12/11/2020,0.305,0.0167,-33.381,0.045,0.994,0.948,0.104,0.376,166.454,4,calm
+15ErabbOFwo4gEknWytsAG,Me Time,Jakob München,65,116206,Me Time,3/9/2023,0.723,0.253,-25.567,0.0562,0.992,0.953,0.0956,0.19,86.956,4,calm
+5ro4n67wO8Q8aRV3upxnut,Once Upon A Star,Julius Cuvier,62,103040,Once Upon A Star,2/17/2023,0.463,0.0347,-27.082,0.0543,0.993,0.908,0.0976,0.628,103.001,4,calm
+7onCPDRFcCglFj03sdUhf9,What We Hope For,Daniel Schrage,42,196000,What We Hope For,4/15/2022,0.27,0.0573,-31.701,0.0393,0.993,0.923,0.095,0.136,186.003,3,calm
+3OuSwVoqxlaKO3MfcigSNp,Time Flies,Pieter de Graaf,48,193241,Time Flies,4/1/2022,0.3,0.0224,-29.256,0.0371,0.995,0.91,0.0775,0.343,92.059,3,calm
+4JpAOAqjjv9GFrbASIOGLa,Zenith,Elinaura,42,215155,Zenith & Stillness in Waiting,2/17/2023,0.702,0.0144,-30.737,0.061,0.995,0.959,0.105,0.162,67.519,3,calm
+2CTRsFkCzXEafseF4MLRN9,Nouvel Agneau,Eric Badanti,54,139802,Nouvel Agneau,6/3/2022,0.414,0.0496,-25.689,0.0285,0.979,0.873,0.112,0.184,94.149,3,calm
+4Vj6uqVryCg8v3QshrKem7,Nádherný deň,Zuzana Kudová,52,119008,Nádherný deň,8/26/2022,0.309,0.0424,-26.596,0.04,0.995,0.909,0.106,0.403,81.773,1,calm
+0CDcAZ780aambjOfSyi3nv,Evening tide,Arlo Thiem,39,136624,Evening tide,1/20/2023,0.551,0.0157,-28.943,0.0492,0.995,0.851,0.1,0.366,68.94,4,calm
+7sthK300jq1FzpSvJXID1L,For Catherine,Chad Hammond,54,138243,For Catherine,7/15/2022,0.435,0.0726,-24.788,0.0356,0.988,0.941,0.107,0.424,72.702,4,calm
+6w5UdflXn5t7rLq8pUP4Ft,Rocking Chair,Jordane Tumarinson,45,162419,Rocking Chair,5/14/2021,0.487,0.0416,-24.113,0.055,0.978,0.889,0.0984,0.0947,92.315,4,calm
+6a2LtHG5EH3GSjkkFVFFNK,Raconteur,Dean Demir,59,107717,Raconteur,2/18/2022,0.417,0.00489,-31.073,0.0419,0.988,0.937,0.0911,0.286,71.084,4,calm
+0npVs5vYX7x8YohsZi9Ba7,Ancient Poem,Lorenzo Balzotti,38,134085,Ancient Poem,1/27/2023,0.502,0.0466,-27.364,0.0547,0.991,0.95,0.0971,0.199,99.489,4,calm
+68gOBP9twtrWZUOlwt6wZ6,Stay In Yesterday,Emanuel Driesen,54,155000,Stay In Yesterday,10/28/2022,0.403,0.0344,-29.611,0.0599,0.993,0.953,0.103,0.303,67.416,4,calm
+57p8sEB0RZILwSvgAAJgh4,Mangetsu,Marlon Guild,44,158406,Mangetsu,7/8/2022,0.387,0.00392,-32.207,0.0389,0.991,0.906,0.0902,0.198,84.636,4,calm
+3NqUYlQxTAWw3Mg3OaOwUE,Rester Dans Les Parages,Arlo Thiem,58,148000,Rester Dans Les Parages,1/14/2022,0.39,0.0358,-27.261,0.0342,0.992,0.89,0.122,0.159,140.22,4,calm
+4GBWvw48RFr6WQDSvFJ5yh,Altar,Christian Janssen,48,137520,Altar,2/10/2023,0.448,0.0238,-29.034,0.0416,0.993,0.913,0.104,0.153,83.273,4,calm
+7pr6Gr8kWMdn0tnC32SN8U,My Dreamland,One Man Quartet,59,95926,My Dreamland,1/20/2023,0.614,0.128,-22.345,0.1,0.996,0.968,0.108,0.549,76.14,4,calm
+6NAPBc3ZdmIgftLDkxyZ5C,Study for Proun,Alva Brunel,40,165559,Study for Proun,5/6/2022,0.265,0.0425,-29.47,0.0384,0.993,0.919,0.107,0.142,90.253,4,calm
+0ptKkh5g9jnbLnNQjbpBTs,Fratelli,Pontus De Bjorn,46,127500,Fratelli,6/11/2021,0.345,0.0303,-30.848,0.0426,0.991,0.939,0.106,0.242,126.968,3,calm
+2y5ndtKSNhKxhAmnrDbuIg,I Mellanrummen,Lo Mimieux,46,129011,I Mellanrummen,5/14/2021,0.647,0.054,-21.926,0.047,0.995,0.982,0.104,0.155,109.408,4,calm
+78HgRXSRwG7GOMDxIepo5r,Landscape Sedate,Junius Clyde,38,161624,Landscape Sedate,1/27/2023,0.574,0.00589,-29.791,0.116,0.995,0.955,0.122,0.197,70.986,3,calm
+6QjDVuX5ufvEQZfo5gmBKi,Views Of Nature,Tiphaine Calvet,46,138717,Views Of Nature,8/13/2021,0.485,0.0349,-27.584,0.0526,0.993,0.978,0.111,0.487,80.627,3,calm
+2uDpyb11bwgMOqLQ1ZQ9E9,Wisteria Blue,Anna Landström,52,147243,Wisteria Blue,3/4/2022,0.319,0.0321,-24.243,0.0337,0.985,0.956,0.108,0.185,76.268,4,calm
+26Sfu4rZ10IU9R5u3erN00,unkai,Klaüs,40,141910,unkai,8/11/2022,0.39,0.0331,-26.019,0.0402,0.991,0.927,0.0819,0.186,76.4,4,calm
+12fP6KSs4CyLE6MnVs2VLc,Waiting For You,Lavendle,51,147750,Waiting For You,3/19/2021,0.456,0.00698,-32.483,0.0976,0.994,0.961,0.121,0.321,68.92,3,calm
+59xDPiJXRjFptEUIKmagDn,Winter - Ambient Mix,Ola Gjeilo,43,252160,Winter (Ambient Mix),10/21/2022,0.155,0.00582,-36.952,0.0351,0.991,0.856,0.0948,0.0638,69.345,3,calm
+1uKZ6TyMFXuvu9sZWpN202,Sonnen Sterne,Che Lan,50,179692,Tal Weg,2/6/2022,0.258,0.0317,-31.712,0.0428,0.976,0.858,0.103,0.304,199.722,4,calm
+6FPMx8iE0KmRFecOqkk3td,Infinite,Leo Mano,55,146491,Infinite,1/21/2023,0.318,0.0101,-26.897,0.0354,0.983,0.913,0.107,0.248,72.295,3,calm
+0A3qYD4HtfUkL4mMytek2m,Saving Daylight (Revisited),Lake Isabel,50,178000,Saving Daylight (Revisited),5/14/2021,0.448,0.0366,-27.615,0.0405,0.996,0.9,0.11,0.296,108.067,5,calm
+3F1jev8GAdSB1jyKHuAqhZ,Al fín,Arata Rin,43,148055,Al fín,7/3/2022,0.559,0.0026,-27.63,0.0548,0.995,0.963,0.088,0.387,71.587,4,calm
+7aUvdK4ijMLLm29HAeuQzm,Fascination,The Masked Pianoman,38,135322,Fascination,7/15/2022,0.34,0.00511,-34.318,0.0417,0.992,0.938,0.0781,0.293,68.388,3,calm
+52gy2KpFkLkAERIhMCYESc,Il Colibrì,Carlo Boscoli,58,150187,Il Colibrì,11/12/2021,0.503,0.0555,-24.975,0.0338,0.977,0.824,0.106,0.167,128.033,4,calm
+4CJk8MsMYM1y9ve1jpG9Pz,The Sailor's Tale,Elliott Jack Sansom,46,132375,Storybook,6/11/2021,0.358,0.0188,-27.921,0.0384,0.992,0.938,0.113,0.132,55.987,4,calm
+69ZVTxad3rNnwZPwMOk9yX,Tu me donne de la force,Jonathan Salmon,50,136000,Tu me donne de la force,6/11/2021,0.243,0.0246,-29.454,0.0396,0.992,0.875,0.113,0.214,168.098,4,calm
+7FIIDU8NgQSsVPPZOQa3Hu,Kiruna,Sverker Johansson,38,159125,Kiruna,5/20/2022,0.241,0.00659,-29.281,0.0857,0.99,0.926,0.108,0.165,71.387,4,calm
+3iwSjHyE2dXvTgzL2u771I,Ombre,Valentina Romano,52,125183,Ombre,12/16/2021,0.397,0.00919,-27.502,0.0402,0.994,0.934,0.104,0.102,76.178,4,calm
+0V2qmRvvcoXijqbvL3vzPb,Springtime Afternoons,Moonlight Echoes,42,109180,Springtime Afternoons,5/27/2022,0.384,0.0343,-26.154,0.0444,0.995,0.935,0.0962,0.372,77.775,4,calm
+0vaiq2ZcMe2rtd7eGqIY8b,branches of hope,mandarin + cedar,39,196105,branches of hope,1/27/2023,0.495,0.0123,-25.612,0.0594,0.995,0.961,0.0791,0.167,66.98,5,calm
+605vPvBlmE54bJUiT8BKm0,Absence,Narelle Dane,54,180750,Absence,10/28/2022,0.321,0.0331,-30.379,0.0429,0.981,0.943,0.105,0.174,62.189,4,calm
+5y3ZKV2ze2sbNHN4InCSax,Stolen Moments,Thomas Michel,38,127610,Stolen Moments,5/6/2022,0.467,0.0524,-31.318,0.0386,0.994,0.94,0.106,0.489,93.872,4,calm
+43z2LSP0180NFwr720P3xk,Remembrance,Elfrieda,55,146000,Remembrance,1/14/2022,0.459,0.101,-26.824,0.0417,0.977,0.866,0.098,0.241,76.974,4,calm
+5GVo7iQPoQUDOX1xUadS1p,Volga,Ivan Vladusic,50,169374,Volga,1/7/2022,0.31,0.0975,-30.279,0.0399,0.952,0.873,0.11,0.164,113.684,4,calm
+1BfkOTr6W7SyXsfappHLHy,Goodwill,Rick Gallagher Project,60,206868,Goodwill,10/22/2021,0.236,0.056,-31.629,0.0437,0.992,0.926,0.0975,0.184,211.567,4,calm
+03wyufh9uNomZdlKIcQ0E4,Matria,Lara Di Umbra,47,152000,Matria,1/22/2021,0.4,0.0117,-27.834,0.0346,0.995,0.869,0.0935,0.214,98.24,4,calm
+6rpe9Mdf5msSSHYZHOPuRA,Endless Summer,Alexander Motovilov,49,165902,Endless Summer,4/15/2022,0.408,0.105,-25.463,0.0377,0.987,0.922,0.136,0.298,140.174,3,calm
+1qkv4AQX3dQ93UtiEjLETB,Flow like there's no tomorrow,Lisa Kriegler,37,216531,Flow like there's no tomorrow,5/27/2022,0.396,0.0198,-24.569,0.0342,0.983,0.935,0.0724,0.104,129.312,3,calm
+5axUCaGmmqMGXyAg8BF1FF,Le notti rosse,Marinella Necchi,54,134595,Le notti rosse,12/30/2021,0.339,0.0138,-33.138,0.0337,0.992,0.902,0.0866,0.175,82.431,4,calm
+3d8ujibjeeCh4tgyMwz2jk,Summer Light,Aaren Hughes,50,132681,Summer Light,3/3/2022,0.533,0.027,-29.485,0.0554,0.996,0.876,0.103,0.147,52.556,4,calm
+0RFePvTBDtrlnhopyDRS73,Bienveillant,Edie Chastain,57,117472,Bienveillant,12/16/2021,0.416,0.0267,-31.465,0.0434,0.995,0.943,0.122,0.393,74.187,1,calm
+7JovgYye2faHH2pvnV0EY4,Estebania,David Sato,43,171827,Estebania,9/8/2021,0.481,0.0875,-19.271,0.0338,0.992,0.866,0.104,0.186,101.224,3,calm
+5H6H2pYhX8tYGQ2DG4QeB0,Mar De Ardora,Biba Dupont,48,186352,Aira,12/11/2020,0.237,0.0082,-30.464,0.0426,0.995,0.925,0.0993,0.262,206.236,3,calm
+058YoEqihKwmd8ipTOEWse,Reverence,Andrea Monet,52,138000,Reverence,1/7/2022,0.495,0.0495,-29.144,0.0358,0.984,0.937,0.102,0.223,61.915,4,calm
+4xTvAj3iYFWOoeaErsNwbj,Wake with me,Brian Lyndon,54,135647,Wake with me,8/27/2021,0.277,0.00176,-43.303,0.0485,0.99,0.945,0.103,0.0795,110.541,4,calm
+4WFF3LgLuK0qGqY1YUdzD6,Tendrement,Michael Janzen,59,129901,Tendrement,3/4/2022,0.422,0.0265,-26.777,0.0391,0.993,0.937,0.0977,0.23,76.954,3,calm
+0AYrLSjYgZBmCjdm5jlg0S,Sanssouci,Jean d'Yeu,37,135626,Sanssouci,5/13/2022,0.303,0.0549,-27.555,0.0375,0.994,0.936,0.0826,0.123,84.278,4,calm
+2n07NKEPbQ1ABTvhTGJcYj,Immersion,Ellie-May Robertson,53,144500,Immersion,11/26/2021,0.465,0.0561,-30.924,0.0512,0.989,0.882,0.123,0.697,110.634,4,calm
+2iADUGfIsYKXNmZtkxScdH,Gnossienne: No.1 (Satie Reworks) - Spotify Singles,Erik Satie,51,159837,Spotify Singles,3/22/2022,0.337,0.0708,-29.097,0.0317,0.98,0.927,0.109,0.188,130.479,4,calm
+2AzcwB71umzu8W0jYlCiRA,Sud,Jean-Marc Olivier,38,127358,Sud,4/15/2022,0.289,0.00622,-32.458,0.0442,0.991,0.92,0.115,0.351,92.359,4,calm
+2yZU1Y2Zagb4Ymm5gK72ab,Homestead,Chris Donner,52,162250,Homestead,2/25/2022,0.308,0.0902,-29.772,0.0367,0.977,0.843,0.107,0.363,128.205,3,calm
+4dc6eq2N9fGfdBGtIGZu3N,Symbiosis,Davignon,47,149874,Symbiosis,12/3/2021,0.47,0.03,-24.521,0.0392,0.972,0.909,0.108,0.0614,67.885,3,calm
+1f9RHATlSLTKsEgGjC6lQh,Little While,Tim Linghaus,43,155685,Little While,3/4/2022,0.268,0.0207,-27.861,0.0337,0.995,0.94,0.113,0.25,164.544,3,calm
+0BoqkSGAGK4hDsf4coC1IE,Meraviglia,Porch Upright,47,111492,Meraviglia,3/11/2022,0.522,0.0661,-23.592,0.0692,0.989,0.969,0.106,0.259,143.458,4,calm
+3B00y1wVSCix4zUW7tDCZx,The Toska,Lennon McKenna,54,155107,The Toska,6/24/2022,0.363,0.00897,-24.33,0.0482,0.991,0.928,0.123,0.268,133.988,3,calm
+2Mc7mVrymhooU24Hitf5D7,The Farewell,Reivaj Ebol,47,168000,The Farewell,7/30/2021,0.324,0.0205,-29.941,0.0448,0.993,0.918,0.0786,0.207,86.586,1,calm
+2unmie5sfHDGwSQO9jEok4,Pioggia Eterna,Clara Nishimoto,46,170874,Pioggia Eterna,6/29/2020,0.495,0.041,-32.364,0.0464,0.996,0.945,0.103,0.148,62.007,4,calm
+7lE18SWzAxh5SfMbie92jN,Rondel,Lydia Webber,50,171085,Beija-flor,10/3/2021,0.371,0.0104,-30.996,0.0353,0.99,0.914,0.139,0.394,105.688,4,calm
+1YNBtfhdSPKJlbD3tdERNx,"Impromptu No. 1, Lukewarm Tea",Hikaru Shirosu,38,189750,Op. 1: Multiverse,6/1/2022,0.544,0.00131,-32.458,0.63,0.988,0.938,0.0592,0.884,70.071,4,calm
+22wBRYNiY0W3Kl1Zk6hmAk,Passage sombre,Chloé Aubrée,49,134500,Passage sombre,1/14/2022,0.455,0.026,-26.911,0.0773,0.994,0.964,0.101,0.186,74.669,4,calm
+5gKleAF9imvWmf46kIVar7,Everlost,Domi Nova,37,181616,Everlost,4/15/2022,0.381,0.0317,-25.389,0.0378,0.987,0.829,0.1,0.148,73.851,3,calm
+3GXXTCrbeSnCCeex84gUnX,Looking Back,JON,43,170291,Looking Back,3/19/2021,0.341,0.0573,-26.771,0.0412,0.992,0.899,0.121,0.36,112.874,4,calm
+0YFMpvuxexjjj8lZKYRCrD,The Owl,Valérie Beaumont,46,179250,The Owl,9/10/2021,0.485,0.151,-30.31,0.0313,0.986,0.911,0.108,0.345,61.566,4,calm
+3voEoccU1Hg1QdE0j4qxw1,Romanze,Lisa Kriegler,60,131146,Romanze,7/8/2022,0.491,0.0287,-24.258,0.0376,0.994,0.947,0.0898,0.291,63.651,3,calm
+3iyNoFOyMTZU1SdGbnmdy6,Purity,Yao Chen,52,146000,Purity,2/18/2022,0.368,0.153,-27.895,0.026,0.96,0.863,0.111,0.508,75.194,4,calm
+0KvFmO3jMkMK5jsZD3EC9J,In Dreams,Jef Martens,37,138625,In Dreams,5/2/2022,0.352,0.0228,-28.62,0.0364,0.991,0.962,0.097,0.114,131.127,4,calm
+2rcjEdhxMASzFKFMLE0VyK,Beyond The Words,Phoebe Waits,43,152241,Beyond The Words,12/16/2021,0.397,0.0431,-26.433,0.0348,0.981,0.893,0.111,0.217,116.304,4,calm
+5RkIxZFkyS5T5UE8eljQQX,The Memory Remains,Javi Lobe,37,135015,The Memory Remains,3/4/2022,0.356,0.0956,-22.3,0.0395,0.988,0.933,0.102,0.21,63.203,4,calm
+60aQ47g6775vmbN3yMntql,My Absence,Giselle Guarezi,59,118270,My Absence,1/28/2022,0.574,0.0236,-24.283,0.0691,0.996,0.953,0.121,0.245,68.24,4,calm
+7HqxTwva2cSMSbLDAEzaI5,Lumière Du Matin,Abelin Lagarde,51,167142,Lumière Du Matin,10/21/2021,0.3,0.013,-34.049,0.0358,0.99,0.929,0.114,0.208,90.631,4,calm
+2CpQl1stZIShcwat5Y6Q8Z,Blue Without You,Josef Homola,52,143000,Blue Without You,7/8/2022,0.455,0.00372,-32.348,0.0627,0.995,0.959,0.0984,0.382,136.411,4,calm
+5Iop7ILqPZE5HpKb35QBYL,Once,Wendie Solomon,39,152833,Once,3/18/2022,0.492,0.0368,-29.264,0.052,0.987,0.935,0.101,0.0676,114.812,5,calm
+6fcBDcZTZVx1jJAED8KYv0,Boundaries,Emilia Branco,50,170566,Boundaries,9/10/2021,0.419,0.0391,-28.006,0.0362,0.995,0.946,0.114,0.414,92.371,3,calm
+0giYe8sQbW7LaO2UqMcG7k,Perfume,Hazel Dumoulin,43,177020,Perfume,8/23/2021,0.4,0.0137,-26.971,0.0658,0.996,0.908,0.0835,0.0769,106.644,3,calm
+2aWlN3NzJxxY8AXlYYDj8S,Gouttes de pluie,Justine Nova,46,135624,Gouttes de pluie,9/24/2021,0.436,0.235,-27.379,0.0346,0.981,0.938,0.11,0.529,162.754,4,calm
+1OJmKyPXayT4TID0XE2uxt,Stundom,Jacob David,51,148000,Stundom,9/10/2021,0.39,0.0346,-30.959,0.0448,0.994,0.938,0.116,0.223,122.709,4,calm
+6nAIhrJFemcnHMrtfWcQ7k,Yearning,Carl Moir,48,130500,Yearning,1/21/2022,0.444,0.0268,-30.855,0.0497,0.992,0.901,0.0986,0.0395,82.714,3,calm
+70oTgyGPmB9ZtU2lrjbZfj,Fleurs Séchées,Projet Calmant,56,126624,Fleurs Séchées,12/17/2021,0.288,0.0294,-29.164,0.0358,0.972,0.917,0.109,0.156,80.046,1,calm
+6JVzX8BxLiG4WN3xkJZ3Xu,Nocturnes op.4,Taichi Chishaki,49,171071,Nocturnes op.4,3/4/2022,0.576,0.0359,-29.107,0.0929,0.995,0.951,0.11,0.101,139.033,4,calm
+71UMvOQ8RDBtsBi0rj5uB3,die letzten Schritte,Rebecca Mayer,41,162770,der Saibling,7/26/2021,0.454,0.0139,-20.861,0.0393,0.989,0.914,0.0924,0.119,109.599,4,calm
+0nk3vSKIYGQV6CK6pShUDQ,Synchronicity,Ellie-May Robertson,52,150750,Synchronicity,5/14/2021,0.401,0.0219,-27.801,0.0454,0.994,0.94,0.097,0.349,99.9,4,calm
+3igpedNqhZcfhXMLtqn4Cr,Manus in Mano,Jacques Moni,47,180720,Manus in Mano,1/1/2021,0.242,0.00627,-28.104,0.0409,0.992,0.897,0.102,0.217,74.7,3,calm
+4TXzJ0L5gMumCwrlEgyRZL,Ocean Heart,Hazel Adams,53,172000,Ocean Heart,6/8/2021,0.46,0.0679,-28.875,0.0346,0.988,0.881,0.107,0.139,113.82,4,calm
+1kjxU1Z1omaqsaS7qh3ZhQ,Je Suis Paix,Selma India,50,182831,Je Suis Paix,10/8/2021,0.304,0.0219,-30.35,0.0324,0.987,0.91,0.109,0.231,104.09,4,calm
+3TFkBg4Ykbemy3QeIztw70,Clear Day,Ima Rayner,56,165000,Clear Day,12/3/2021,0.372,0.0407,-29.75,0.0489,0.991,0.946,0.101,0.0564,81.931,3,calm
+3W6Tx6pKOD4O97uTIYwoEZ,Wish Your Way,Eric Sebastian,55,162624,Wish Your Way,1/14/2022,0.388,0.0651,-30.34,0.0387,0.966,0.925,0.111,0.0397,85.008,4,calm
+2MdnNxK70QIHwW999cttyQ,Airborne,Maria Novotna,44,161644,Airborne,1/1/2021,0.347,0.0239,-29.286,0.0371,0.995,0.895,0.11,0.154,83.96,3,calm
+0VH0UgyTVKnhvxtSF4lD6L,Interlude,Niall Byrne,39,132155,Interlude,3/25/2022,0.373,0.0344,-30.06,0.0327,0.992,0.883,0.0999,0.192,134.717,3,calm
+4hHEz6u8xPXcTU4qmVNkpq,Elevate,Renato Luigi,51,188500,Elevate,12/17/2021,0.199,0.0404,-32.952,0.0339,0.991,0.906,0.105,0.283,166.947,4,calm
+2J9UTgDdul3kMGZgnsUZIp,Like a Child,Hiroko Murakami,58,155138,Like a Child,3/4/2022,0.259,0.00486,-31.167,0.0524,0.994,0.927,0.144,0.281,65.403,3,calm
+13oOeedL25UFGZ1XNibTrU,In the meadow,Eve Dennison,49,216000,In the meadow,2/25/2022,0.36,0.102,-30.542,0.0568,0.973,0.936,0.109,0.118,66.7,3,calm
+4Q4LaLRedI0F02XS2lsYkP,Numéro 1,Jøsefine,44,154625,Numéro 1,3/3/2022,0.413,0.0734,-26.001,0.0311,0.992,0.947,0.093,0.366,131.462,4,calm
+5AjiFEWLAqkxCXRPAdKX6g,That Nothing Lasts Forever,Willow J. Wilson,38,130625,That Nothing Lasts Forever,3/7/2021,0.273,0.0961,-27.577,0.0279,0.991,0.927,0.101,0.107,148.357,4,calm
+2oXoqsL0WnuxFnX3fpGsSz,Chalet,Michèle Lefurgey,46,123703,Chalet,9/30/2021,0.475,0.0435,-24.419,0.0522,0.994,0.949,0.0977,0.448,61.326,1,calm
+5a8V9tjazhBAIbUiFqpu8N,Tree Whisper,Finley Rhone,43,205793,Tree Whisper,6/26/2021,0.437,0.0184,-30.783,0.0413,0.994,0.93,0.114,0.0478,119.985,4,calm
+3QSKmjKCMCc8halbvPmwkl,The Persistence of Memory,Javi Lobe,43,150250,The Persistence of Memory,10/8/2021,0.326,0.0115,-31.348,0.0385,0.993,0.946,0.093,0.266,75.717,3,calm
+4uNQlDhz4fIKvjvdSESKou,For Kate,Ed Chinaski,58,137519,For Kate,1/14/2022,0.315,0.0546,-28.225,0.0596,0.994,0.902,0.11,0.128,163.274,3,calm
+3Ts6C6TMvIzPIvdudMX7bH,Whispered Winds,Jesse Brown,42,148843,Whispered Winds,10/23/2020,0.488,0.0773,-21.414,0.0594,0.99,0.943,0.108,0.249,79.586,4,calm
+63YGmJOvR3ARYmWmR5e0hz,Two Steps Forward,Benjamin Pirlo,44,146000,Two Steps Forward,11/5/2021,0.427,0.0188,-26.621,0.0391,0.991,0.955,0.102,0.16,130.468,4,calm
+445KHitEvap0tspDZ3C78V,Coulant,Les Rêveries,62,148500,Coulant,3/4/2022,0.366,0.0716,-26.44,0.0416,0.982,0.889,0.102,0.172,105.854,4,calm
+7zuK6SB9iQN17ZLOdCcCjd,Close To You,Ivan Blois,45,127500,Close To You,10/23/2020,0.368,0.0167,-31.322,0.0363,0.99,0.897,0.109,0.152,114.523,5,calm
+3QaYNoyQzsOFfek0pTgqWi,Aquiver,Milo Liana,61,119234,Aquiver,2/4/2022,0.419,0.0126,-30.76,0.038,0.992,0.936,0.0935,0.157,103.524,3,calm
+6LTRQ62pQFSr1OmmDYyzVy,Restzeit,Raoul Panzinger,49,123373,Restzeit,5/14/2021,0.318,0.0145,-30.296,0.0392,0.994,0.86,0.102,0.139,103.81,4,calm
+4iCLo3ZjF6V1RW4Wz18KMz,Aufgang der Sonne,Ploxxio,61,172813,Praxedis,3/6/2022,0.374,0.0405,-29.196,0.0408,0.981,0.924,0.103,0.226,129.413,4,calm
+4xYztiOcXXOiC1TwTsXuY3,Moving Slowly,Jacques Blanc,53,119523,Moving Slowly,11/5/2021,0.27,0.0229,-29.554,0.0363,0.994,0.911,0.0818,0.238,88.897,4,calm
+6BMcMtb9M5yqelouZZaOPd,Raindrops,Jørg Sorensen,50,141500,Raindrops,5/28/2021,0.316,0.0272,-30.126,0.0374,0.993,0.928,0.138,0.244,177.791,3,calm
+0ngwNemhn1nKmYHYZnJZmB,Whirling sky,Tamara Blake,60,169874,Whirling sky,3/4/2022,0.397,0.0511,-29.707,0.0491,0.977,0.919,0.111,0.298,124.936,3,calm
+6BKGokQ3PKLFqBlCBjCy8J,Mondegreen,Dominique Marais,50,144846,Mondegreen,3/4/2022,0.26,0.168,-25.407,0.0321,0.992,0.96,0.103,0.0968,146.628,3,calm
+7LLLc3Gxg6zRm9lKtmuCGR,Night Light,Jonathan Beaujean,44,129121,Night Light,7/6/2021,0.519,0.0348,-25.859,0.0385,0.994,0.914,0.113,0.186,98.795,4,calm
+26Bz99v8NoOOUXYfkVR4Tw,Deliquescence,Laura Olejnik,43,166461,Deliquescence,11/12/2020,0.393,0.0462,-25.187,0.0362,0.996,0.859,0.0906,0.485,73.464,4,calm
+5WAuzGamm8rl9rY0ZxTZ5h,Radiant,Carl Faber,46,119619,Radiant,5/28/2021,0.475,0.0451,-27.516,0.0296,0.96,0.94,0.11,0.342,80.874,4,calm
+0Hn8q446fA8GvnmFBspfJ1,Dried Out,Sur Coast,50,172019,Dried Out,6/25/2021,0.283,0.0187,-30.582,0.044,0.995,0.895,0.106,0.128,60.795,3,calm
+0yAgdDXxal3Em3W4X1bkGq,Early Memories,Anna Landström,60,153524,Early Memories,2/4/2022,0.368,0.0272,-24.72,0.043,0.99,0.915,0.103,0.51,79.307,4,calm
+5twnmeTkgggWszBDSOX7fu,To You Again,Filomena,46,128000,To You Again,11/12/2021,0.387,0.0302,-30.972,0.0468,0.993,0.874,0.111,0.188,91.714,1,calm
+16LPouz5bGb5gh4jerSRYi,Luz,Reivaj Ebol,47,153184,Luz,12/3/2021,0.432,0.122,-24.699,0.0402,0.994,0.855,0.105,0.391,133.597,4,calm
+2b5H5mKnFqxMZtKik6bCej,Lanuza,Xaverius Love,47,172250,Lanuza,3/4/2022,0.427,0.0533,-28.602,0.0407,0.995,0.908,0.105,0.302,139.467,3,calm
+2n4tgkKIrN1DPOUamOFnrO,Nocturnes op.3,Taichi Chishaki,60,154714,Nocturnes op.3,2/11/2022,0.604,0.06,-25.813,0.0713,0.996,0.96,0.106,0.275,130.794,4,calm
+1vaLaizp9SS2AMyadBtwzL,Geniality,Crimson Memoirs,46,170624,Geniality,12/21/2021,0.22,0.131,-26.866,0.029,0.972,0.896,0.101,0.305,96.725,1,calm
+3tFmZIO4nrqHC5oPumnSnO,Cronopio,Franco Robert,47,137931,Cronopio,10/22/2021,0.395,0.114,-28.329,0.0328,0.994,0.908,0.0969,0.115,96.927,1,calm
+5DXfJx64sxj7H7ngSG6RyI,Late Spring,Anthony Bertoli,45,180460,Late Spring,11/29/2020,0.461,0.00828,-29.233,0.037,0.993,0.944,0.102,0.258,69.875,3,calm
+5HQp593kflHm8LV12MepjR,O Soave Fanciulla,Janet Bolt,49,176627,O Soave Fanciulla,1/21/2022,0.36,0.096,-22.936,0.0365,0.967,0.952,0.0973,0.496,99.388,4,calm
+2DJQoV3oQqlWAwWUK3f5Xk,Sunset,Fraire Jaques,42,251687,Sunset,12/11/2020,0.344,0.0215,-31.589,0.0499,0.995,0.983,0.102,0.26,145.57,3,calm
+45YmYHJG9AoFEg6X2xvmTV,Aislingeach,Chloe Doyle,59,121518,Aislingeach,2/3/2022,0.343,0.0184,-32.656,0.0444,0.993,0.928,0.123,0.303,66.526,3,calm
+2gJKXckOIpFiDazbesaMh3,Súlur,Petra Birgisdóttir,44,136624,Súlur,12/20/2019,0.289,0.0652,-27.508,0.0412,0.995,0.946,0.108,0.477,176.623,4,calm
+2Gv0GXMGtNEcMYjDNVpSRu,Pardon,Rick Gallagher Project,56,150127,Pardon,12/11/2021,0.428,0.0335,-32.234,0.0403,0.986,0.954,0.0987,0.0587,126.318,3,calm
+0poBmYwvWSP2nZYJYbaOu6,Nocturne,Francesco Le Metre,52,181247,Nocturne,12/17/2021,0.492,0.0227,-28.604,0.0405,0.994,0.912,0.1,0.313,82.51,4,calm
+69cCYMgf3Hk9BzbYLmzY7V,Cavtat,Medéa Bokor,52,119000,Cavtat,9/24/2021,0.365,0.0282,-31.059,0.0373,0.993,0.937,0.116,0.466,86.109,3,calm
+2P9eiPf0MsHHCkf3FKNqEs,Verba Aymara,Maru Gomes,40,187588,Verba Aymara,8/27/2021,0.381,0.0265,-27.661,0.0357,0.996,0.942,0.0968,0.173,91.599,4,calm
+2bVLBwc3GD5lu9EKJIIGNR,wandering bird,our distant worlds,44,155500,yellow fields & wandering bird,9/20/2021,0.383,0.034,-27.922,0.0352,0.996,0.945,0.0971,0.39,89.198,4,calm
+7dgAZemjrAuLHTOikyWtbA,Wide Skies,Liona Sand,51,202250,Wide Skies,1/28/2022,0.467,0.0428,-29.255,0.0532,0.989,0.985,0.112,0.235,74.32,3,calm
+2xfXbJK08v7gZb9YvPr0UZ,Sunset Aglow,Edgar De Vries,47,162624,Quiet Cove,10/9/2020,0.396,0.0181,-31.202,0.0439,0.995,0.931,0.0989,0.393,129.868,4,calm
+5Bl7fjZwq3u37T51tspPAp,De seu,Mirta da Silva,49,155107,De Seu,3/12/2021,0.322,0.0343,-27.406,0.0444,0.995,0.95,0.106,0.312,178.422,4,calm
+11JN2F71WjDG5uZZ0i1vMd,Retrouvailles,Gabriel Auer,52,172124,Retrouvailles,2/11/2022,0.325,0.0418,-28.66,0.0357,0.994,0.941,0.105,0.239,64.288,4,calm
+6cxJxS35yFpNdN40G9hIw5,Ma meilleure année,Amour Lesauvage,51,155000,Ma meilleure année,12/31/2021,0.261,0.128,-29.106,0.0477,0.991,0.934,0.117,0.487,153.559,3,calm
+3NPDTMVP9BwvbOQXoGNkV0,The Truth,Geir Gudmundson,45,207000,Passageways,12/30/2021,0.321,0.125,-27.295,0.0316,0.952,0.856,0.11,0.247,139.737,4,calm
+7f6YYO3XtJgWiddeVqnhI0,Lady Ground,Luna Bauer,48,174352,Lady Ground,9/10/2021,0.35,0.0922,-26.764,0.0426,0.993,0.975,0.109,0.445,119.252,3,calm
+6d1XH0OKwZVbITLqPoToDg,Starry Sky,April Baxter,60,140000,Starry Sky,2/18/2022,0.563,0.0253,-25.218,0.0437,0.991,0.831,0.089,0.0987,108.367,4,calm
+3poVmAGCtZCM3Y0iRO1zWA,Hideaway,Hazel Adams,39,176750,Deep Blue Sea,10/22/2021,0.48,0.135,-30.453,0.0536,0.962,0.902,0.105,0.13,93.947,1,calm
+3CHSUEhxoy2s7NKVhH89wu,Helgoland,Filip Klein,46,146847,Helgoland,12/3/2021,0.476,0.14,-21.606,0.0373,0.981,0.899,0.102,0.523,95.283,4,calm
+3wJYd4AguIe41wp8gPZAmL,True Self,Izzy Rubin,39,237159,True Self,5/24/2021,0.2,0.00406,-34.997,0.0432,0.973,0.946,0.0996,0.151,56.958,4,calm
+00PnFrg2QQzPqkeuxGxcz9,Spheroidal,Kalen Elmsley,62,184220,Relaxing Piano (Neoclassical Sessions),8/19/2022,0.367,0.0221,-27.33,0.0459,0.996,0.95,0.0709,0.158,103.169,3,calm
+2wUWi9sqWy1gKsCkxGYKVT,Eunoia,Nadia Oak,46,141333,Eunoia,10/28/2021,0.327,0.03,-27.1,0.0356,0.987,0.869,0.1,0.109,85.579,4,calm
+0lSZUzGi4EBc1Q0HqynTqO,Love Theme,Lucie Jean,56,179874,Love Theme,1/21/2022,0.514,0.105,-28.108,0.0427,0.992,0.923,0.103,0.189,70.778,4,calm
+28JVD0j9MIraxyvP7j60uy,Piha,Alexander Luchs,39,199287,Piha,8/23/2021,0.51,0.00885,-28.703,0.044,0.993,0.958,0.0917,0.405,106.89,4,calm
+0utTxlkXq7mv67jgyL7XEg,Eternal Light,Javi Lobe,46,138500,Eternal Light,1/28/2022,0.46,0.049,-27.913,0.0531,0.995,0.938,0.104,0.483,142.786,4,calm
+4bGa4NtNALvGtaGqumTjM7,Once Before,Franz Gordon,46,197333,For Mom,10/29/2021,0.358,0.0321,-26.901,0.0426,0.993,0.915,0.109,0.141,142.416,4,calm
+6yfuxuWZNEnwOykWXStzxY,Verträumt,Nolan Khan,46,134426,Verträumt,11/5/2021,0.561,0.0332,-25.577,0.0808,0.995,0.938,0.105,0.438,75.817,3,calm
+7yKhLZM7KvuutJEDBAkSbB,erinna,Klaus Weissmuller,46,128873,erinna,7/30/2021,0.291,0.033,-30.763,0.0528,0.987,0.9,0.105,0.263,161.443,4,calm
+2FJiWb3xZQmuZhNYZRK2bJ,Symposium,Nelson Haynes,52,142750,Symposium,2/11/2022,0.246,0.0663,-31.455,0.0421,0.993,0.885,0.119,0.37,194.824,4,calm
+2sXivDlzfbHQAPrGYKhWbP,Le Beau,Ossie Woods,44,205302,Le Beau,10/19/2020,0.397,0.0173,-24.128,0.0465,0.991,0.962,0.115,0.15,129.808,3,calm
+2jUd0hF3zy4FNsO2ODt3hq,Needle and Thread,Aisha Edwards,58,166541,Needle and Thread,2/4/2022,0.441,0.0323,-29.816,0.0438,0.993,0.773,0.106,0.16,116.428,5,calm
+6FiFFLgiC4yfPfTCXWIKtT,Apelblom,Alfred Janders,50,124000,Apelblom,5/25/2021,0.409,0.0276,-28.76,0.0392,0.995,0.938,0.107,0.323,66.873,4,calm
+5TsrzBIJvEJXoujkVVY6be,Follow The Wind,Jett Ingram,46,144750,Follow The Wind,5/28/2021,0.219,0.0254,-29.789,0.045,0.984,0.945,0.106,0.0397,109.354,3,calm
+4GkIVom3wSy41JEql2fQ72,Progression,Victor Kovacs,48,141124,Progression,11/19/2021,0.352,0.2,-25.565,0.0315,0.995,0.945,0.106,0.276,150.547,4,calm
+69fSsSmk0EHoJjiUK12AKm,Counting the Days You’re Gone,Franz Gordon,47,204000,Counting the Days You’re Gone,1/28/2022,0.247,0.061,-30.214,0.033,0.992,0.944,0.0881,0.205,70.641,3,calm
+6t1T3fMWfv5svT4ZTsBnBY,Verses,Ever So Blue,47,195997,Verses,12/3/2021,0.462,0.168,-24.302,0.0279,0.995,0.938,0.0927,0.385,136.538,4,calm
+47u0q4Z7iALJXli6pkcnvA,Mystique,Cassandra Nestico,53,150250,Mystique,2/18/2022,0.415,0.048,-27.644,0.0395,0.983,0.942,0.108,0.137,165.912,1,calm
+6jFdydFW7HvS77aiiRR9XL,Waves,Oscar Unfiltered,44,127395,Waves,3/19/2021,0.583,0.0898,-26.106,0.0336,0.994,0.961,0.103,0.337,113.186,4,calm
+5VMPixSvGFod1dZGHXG8XI,Dawn,Diego Dumas,41,146000,Dawn,2/18/2022,0.288,0.0479,-21.551,0.0351,0.894,0.936,0.112,0.132,87.144,4,calm
+5pgQi74y4bGoT3bYFKZagk,Something (Nothing),Christopher Dicker,46,158759,Ephemera,3/13/2020,0.399,0.055,-30.203,0.0431,0.991,0.915,0.11,0.155,138.428,3,calm
+7edfdEV5G5gJUkiPP6g8AD,cold embrace,Gian Marco Castro,47,177874,cold embrace,5/12/2021,0.415,0.028,-27.987,0.0478,0.994,0.889,0.0895,0.299,66.375,4,calm
+0ob3wzPe3R3NpJtUEz0wUQ,Sunnebovals,Christian Peterson-Bergling,60,173519,Sunnebovals,2/18/2022,0.41,0.138,-25.783,0.0304,0.98,0.918,0.108,0.184,83.35,4,calm
+4Z3FuHB9SiTfOENBGlSxvI,In Reform,Phileas Galle,47,155732,In Reform,10/29/2021,0.433,0.0339,-27,0.0428,0.992,0.926,0.0989,0.248,108.709,3,calm
+1RfSykRvuEDqTUimaVE64E,Une histoire d’amour,Cedric Moulin,52,152780,Une histoire d’amour,1/1/2021,0.459,0.0122,-29.733,0.0478,0.992,0.961,0.0885,0.274,87.188,4,calm
+5LHsps6yM7U1ogxSQpEsxM,Postcards,Barry Hudson-Taylor,45,155125,Postcards,10/22/2021,0.448,0.166,-19.624,0.0379,0.979,0.914,0.113,0.351,109.479,4,calm
+0AZDlFjlawdbKtsF8kWi0z,Waves,Lux Tigon,40,124750,Waves,12/5/2020,0.307,0.00767,-29.993,0.0374,0.99,0.918,0.11,0.0373,68.919,3,calm
+6dfdNTuLOK8eFusN8HaQg8,Clocks,Luke Faulkner,46,169750,Clocks,2/21/2020,0.353,0.075,-25.635,0.0379,0.995,0.886,0.117,0.317,120.308,3,calm
+4e25SPifKDmXdg6brXqyRH,Aether,Giuliano Poles,41,130129,Aether,1/21/2022,0.297,0.0186,-32.877,0.0462,0.988,0.925,0.0982,0.0991,123.928,1,calm
+2z6wyjZZ5hIP7ef5qjW7kW,Wait For Me,Dawn Well,55,120000,Wait For Me,5/13/2021,0.419,0.0142,-35.436,0.0291,0.991,0.936,0.0981,0.252,97.854,4,calm
+3qbkko1sBm8hOhRg2T6OBV,Mécanique,Luna Bauer,47,180114,Mécanique,10/29/2021,0.359,0.0445,-27.939,0.0453,0.995,0.9,0.0811,0.14,79.215,3,calm
+7eriWSdbkuFHBM6qiHIEq8,Unconditional,Michael Frankenberger,50,144256,Unconditional,2/18/2022,0.436,0.0786,-24.044,0.0358,0.99,0.893,0.11,0.287,97.2,1,calm
+0Bip0zvXgJNLImBHYkJkQG,Next Part Of The Dream,Grace Olimpia,44,193997,Next Part Of The Dream,5/14/2021,0.423,0.0382,-25.099,0.0469,0.994,0.933,0.106,0.222,122.373,4,calm
+01rwfTz2dYAldzFRtACqTm,Ornamental,Marie Denis,47,276250,Movement,7/27/2021,0.34,0.154,-28.65,0.0342,0.977,0.941,0.112,0.137,81.309,4,calm
+1DXbUPygEVCQXOOOO9bIhO,Tient qu'à un fil,Gaspar Parentau,50,167700,Tient qu'à un fil,10/1/2021,0.637,0.0291,-23.753,0.0457,0.996,0.964,0.104,0.195,89.653,3,calm
+1TWlhhICPR0UpyIJhxPiEx,Matin,Anne Vallayer,53,114000,Matin,2/4/2022,0.492,0.138,-27.362,0.0502,0.991,0.933,0.0893,0.184,114.103,3,calm
+4LgzLdKvlp9PxacJFVdwNI,Ornaments,John Crome,52,214124,Ornaments,2/11/2022,0.466,0.116,-26.321,0.0518,0.986,0.909,0.114,0.343,86.856,4,calm
+3yhqUuC2ahWeC8PP4mj5Gl,Older,C.J. Wilkins,45,165903,Older,10/30/2020,0.32,0.00892,-29.206,0.0532,0.996,0.919,0.11,0.338,91.366,4,calm
+1LcIr9UrZgmkMGJ6U5aIIm,Quérete a ti mesmo,Coralia del Villar,54,165511,Quérete a ti mesmo,1/22/2021,0.519,0.00524,-26.381,0.0513,0.992,0.962,0.111,0.198,79.054,3,calm
+5LS7VV5Gp3evv8pjcpTDDu,Young Love,Pamela Goldings,48,143500,Glacier,11/6/2020,0.401,0.0273,-30.596,0.0532,0.994,0.916,0.107,0.236,133.722,4,calm
+4qoa4ULtvmDz6JjGdiPqj0,Kveld,Frode Gjermundsen,42,120874,Kveld,7/16/2021,0.45,0.0897,-29.047,0.036,0.981,0.935,0.1,0.368,64.067,4,calm
+03VbBcRhqaoH04MMlxlGIC,Presque l'amour,Roland Toubin,46,142718,Presque l'amour,6/12/2020,0.435,0.031,-25.814,0.0373,0.991,0.954,0.0997,0.197,110.152,4,calm
+27An0sDvzMb7GM6pRE9ycF,Like Before,Ole-Bjørn Talstad,46,135903,Like Before,11/19/2021,0.56,0.0345,-28.982,0.0353,0.987,0.918,0.102,0.34,48.281,4,calm
+0WIGmqsYeC6i5NLVAvFZzx,Bolero Chiquito,Eu Nice,49,140647,Bolero Chiquito,3/5/2021,0.401,0.0814,-25.158,0.0322,0.991,0.95,0.104,0.175,78.553,4,calm
+33LOlNbHBUCieXLQS88RpK,A World Without Pain,Daigo Hanada,44,156000,A World Without Pain,3/12/2021,0.381,0.00324,-33.019,0.0351,0.994,0.885,0.0746,0.0839,101.624,4,calm
+4vCdNdBT7N2t9ajQHxIR92,Fallboard,Esther Dutch,50,160009,Fallboard,7/30/2021,0.404,0.0384,-30.272,0.0416,0.996,0.942,0.0952,0.385,97.428,4,calm
+0PDPU0FvLXuOWRHN0uOV7t,Forever,Muriel Bardsley,44,178500,Forever,11/11/2021,0.324,0.0568,-26.134,0.0403,0.983,0.932,0.101,0.138,89.204,3,calm
+0otUJIiSxqBCw2TQGfrIE3,In questo momento,Eliodoro Russo,44,160000,In questo momento,3/12/2021,0.223,0.0144,-30.695,0.0408,0.985,0.881,0.0989,0.0326,88.991,3,calm
+4lW3rjqwKidfd3gpEiXFSZ,Träumerin,Pontiver Bogross,35,202500,Träumerin,10/30/2020,0.384,0.054,-26.519,0.0457,0.991,0.923,0.107,0.195,83.217,4,calm
+7hoho5MSIQZfluHupiNuq1,Heartfelt,Elfrieda,43,136500,Heartfelt,10/29/2021,0.574,0.0652,-27.136,0.0343,0.975,0.908,0.117,0.3,95.023,4,calm
+5GYKdUcKo5iuhHla2ekgS9,Gocce d'acqua,Andrea Binotto,50,109741,Gocce d'acqua,12/3/2021,0.381,0.0056,-28.975,0.0443,0.995,0.904,0.0963,0.259,133.188,5,calm
+1wVGlAEohNLnz29Iojl2BI,Peace,Sanna Aalto,54,133874,Peace,8/27/2021,0.451,0.0662,-30.736,0.037,0.989,0.925,0.103,0.102,93.768,3,calm
+2jyJXuG0rIma11mOl4Fz7m,Presto arriverà il sole,Vala Capon,35,152000,Presto arriverà il sole,3/13/2020,0.378,0.0437,-26.159,0.0357,0.995,0.92,0.0983,0.423,77.211,4,calm
+39e67SWLFobtjgr1S10iYE,Laetitia,Ron Adelaar,48,117510,Laetitia,1/14/2022,0.407,0.017,-25.67,0.0397,0.988,0.931,0.114,0.129,64.074,3,calm
+3Erp4addg6gNsxONhzMTff,Emotion,Sanna Aalto,46,204874,Emotion,11/19/2021,0.366,0.0478,-27.788,0.0359,0.985,0.938,0.104,0.157,87.479,3,calm
+4FRPWTwl40uOHMslTL7fGa,Once when I was young,Justus Rümenapp,41,121124,Once when I was young,8/13/2021,0.348,0.0407,-25.229,0.0508,0.987,0.921,0.118,0.0447,111.386,3,calm
+7Jrx30VldPaujIaP3c2SJn,Un Cadeau,Nel Swerts,52,157077,Un Cadeau,2/18/2022,0.475,0.134,-21.895,0.0411,0.995,0.935,0.115,0.115,86.844,4,calm
+0rZYsX5OgshLXSj4zumlxx,Maiestas,Keiko Ishida,51,171452,Maiestas,10/22/2021,0.498,0.0431,-25.72,0.0388,0.995,0.931,0.109,0.338,104.592,3,calm
+38NHJt6bYHiIiXzAqUMlCO,Dvale,Jacob David,40,179000,Dvale,11/8/2019,0.305,0.166,-28.899,0.047,0.965,0.92,0.0972,0.0809,122.466,4,calm
+14sKAbkXofaqoVmEP52Ire,Nocturne,Muriël Bostdorp,46,152137,Nocturne,10/1/2021,0.439,0.0359,-27.508,0.0577,0.996,0.94,0.107,0.0775,107.353,4,calm
+7uC95ammTjIPwrMYb8YOkz,Ethereal,Nolan Khan,37,125784,Ethereal,1/21/2022,0.57,0.0931,-23.512,0.0455,0.995,0.934,0.129,0.321,114.736,5,calm
+1rIlWy93o6je85WpMpxg6Y,Heart Questions,Julian Ellwood,39,141286,Heart Questions,9/25/2020,0.345,0.0089,-29.042,0.0522,0.994,0.888,0.107,0.587,107.856,3,calm
+7gSXF0SO2U7QrR5O0lhOdA,The Water Floats,Howie Paget,62,139500,The Water Floats,1/7/2022,0.286,0.0206,-30.593,0.0475,0.993,0.927,0.11,0.316,123.067,5,calm
+0SpK2s8gJnetHIuzSBqgta,Donde Nadas,Lupe Sinsonte,52,141941,Donde Nadas,3/5/2021,0.323,0.0323,-26.851,0.0376,0.995,0.934,0.089,0.196,98.443,1,calm
+1s8esXu1jTNJ49RwotQLSc,Swamp,Hiroko Murakami,45,121857,Swamp,5/14/2021,0.341,0.0339,-27.702,0.0381,0.978,0.914,0.104,0.152,87.291,4,calm
+7FyzToHhKG9b9gS19kWg8a,Circumstances,Deborah Fulmen,42,166000,Circumstances,6/25/2021,0.453,0.0436,-25.912,0.0364,0.99,0.842,0.111,0.198,71.987,4,calm
+0BXq9t3wTA8HMqFPvGxZYf,Sweet Redolence,Cedric Armfeldt,45,114400,Sweet Redolence,8/7/2020,0.395,0.0307,-31.07,0.0482,0.991,0.896,0.109,0.386,131.514,4,calm
+1GBNuD6VkNDHXNwL0wgVi2,Amici,Sean Oban,42,128246,Amici,10/29/2021,0.428,0.085,-24.134,0.0348,0.99,0.904,0.0957,0.382,114.357,5,calm
+1rUG0qJbwGySkGj9yd1GuJ,Nel bisogno si riconosce il vero amico,Fioretta Rizzo,42,110035,Nel bisogno si riconosce il vero amico,10/18/2019,0.3,0.0845,-25.451,0.0485,0.992,0.951,0.123,0.148,67.976,4,calm
+4vO8oT2rdWcCzHYTEcoJGl,Love Will Set Us Free,Novum Cordis,46,145313,Love Will Set Us Free,6/12/2020,0.375,0.0229,-28.864,0.108,0.996,0.951,0.0893,0.226,178.953,4,calm
+3f3o11I6fICW22aTW3ZK2k,A New Day,Norman Dück,39,138073,A New Day,12/4/2020,0.3,0.0547,-22.429,0.0502,0.991,0.941,0.105,0.18,203.33,4,calm
+5vz0Vls8TbtlI58CHQrIpb,Träumerei,Jørg Sorensen,62,127250,Träumerei,10/8/2021,0.515,0.048,-31.346,0.0408,0.989,0.935,0.1,0.0944,98.594,3,calm
+2p5THyuNwpJ9c7ex3TN383,Nowesind,Jacob David,65,119120,Nowesind,2/25/2022,0.304,0.0902,-32.824,0.0489,0.903,0.907,0.111,0.318,114.487,4,calm
+6M97uxgvb8dEPDIetC7OgD,Revenons à nos moutons,Dagmar Collier,47,155000,Revenons à nos moutons,1/1/2021,0.275,0.00943,-31.218,0.0521,0.995,0.872,0.13,0.165,94.092,3,calm
+0xNJLfwntlwTEVXZbmj0PF,Be Still,Ben Laver,39,210857,Be Still,2/25/2022,0.318,0.0341,-29.525,0.0407,0.99,0.87,0.0975,0.073,97.777,5,calm
+1ri5KgNPbiYHZEc4pYaKhB,A Little Journey,Alexander Motovilov,54,120125,A Little Journey,5/14/2021,0.454,0.0841,-27.84,0.0547,0.994,0.933,0.118,0.0793,120.93,4,calm
+5eEYSPaVwg4Fe1KCMYunQf,Alba,Helmut Schenker,57,152985,Alba,10/29/2021,0.557,0.0395,-26.066,0.0419,0.988,0.923,0.121,0.183,84.017,3,calm
+6a29Wq1AQWAGVdJGwYDXJs,Overcome,Thad Caoimhe,45,144404,Overcome,11/4/2021,0.486,0.0161,-32.073,0.0416,0.985,0.957,0.0975,0.278,122.491,4,calm
+2hxaiA9EtXjMlXhG6SCoW8,In The Stars,Rebecca Woods,65,163916,In The Stars,9/10/2021,0.397,0.00375,-38.226,0.0393,0.988,0.957,0.115,0.11,64.443,3,calm
+4Z94Nth1RThACL5ohW5xpy,Night Solace,Josh Kramer,59,161469,Night Solace,2/25/2022,0.412,0.0556,-25.696,0.0307,0.98,0.908,0.108,0.201,145.978,3,calm
+13wd75MxSECCWxK8Q6ADkM,To Become,Ambient X,34,167376,To Become,3/23/2023,0.131,0.0704,-27.823,0.0383,0.924,0.843,0.103,0.191,71.817,3,calm
+6sV4fBPsUMAiEIygFXViK1,432hz Sea of Fog,Abe Hathot,47,234097,432hz Healing Sounds from the Middle East,6/12/2019,0.0728,0.137,-17.087,0.0399,0.967,0.924,0.112,0.0327,78.092,3,calm
+0J0f4HTpSzV5szjahBbSmA,Masal - Instrumental,Abe Hathot,44,172000,Masal,3/8/2022,0.244,0.156,-22.207,0.0371,0.799,0.855,0.0947,0.0372,89.182,3,calm
+0n7hJpHTyo48IZ43NAKDP9,Dreams of Calmness,Niigata,51,154000,Dreams of Calmness,7/14/2022,0.184,0.00398,-33.901,0.0407,0.995,0.98,0.111,0.039,86.242,5,calm
+5SzRp6YO1xWMvJvYALJNmP,Duduk Love,Bakshi Breeze,48,176000,Duduk Love,7/2/2022,0.182,0.0355,-23.341,0.0435,0.991,0.977,0.108,0.0587,130.374,4,calm
+44c1Fee8CMkU7407C4eiqA,Osceola,Alexandra Irwin,58,165818,Osceola,9/1/2022,0.109,0.0674,-24.228,0.0412,0.867,0.886,0.112,0.188,92.506,4,calm
+27jJ0tpNrZkd9qQrA40xQj,Vistaar,Ranjan E,49,212250,Vistaar,9/25/2022,0.654,0.0308,-24.802,0.0434,0.842,0.896,0.111,0.07,119.949,5,calm
+0jJDpZFapjoiU2kUW2SFXa,Yarımburgaz,Anatolian Flute,30,244000,Yarımburgaz,3/24/2023,0.176,0.0331,-24.643,0.0419,0.985,0.395,0.115,0.0495,145.235,4,calm
+3kqiXiHTpo3P8DHVT2tzhY,Garden of Tranquility - Studio Edit,SARAB,43,170181,Garden of Tranquility,2/14/2023,0.261,0.159,-16.848,0.0371,0.493,0.863,0.107,0.079,101.956,4,calm
+2rNzShbJy2hJkbzT3L6jmn,Meditation And Intuition,Coherent Minds,46,173663,Meditation And Intuition,2/10/2023,0.189,0.0572,-30.917,0.0311,0.811,0.841,0.111,0.109,82.208,4,calm
+120juWqk4ShxUDo1AzPAlA,Healing,The 2 Inversions,40,122000,Healing,7/14/2022,0.174,0.031,-23.493,0.0454,0.981,0.963,0.115,0.0345,121.191,4,calm
+3CAPK6ARot8aIxX2XcoLLA,Morning Clarity,Alexandra Irwin,35,182985,Morning Clarity,3/30/2023,0.168,0.11,-29.415,0.042,0.979,0.947,0.0992,0.0669,75.721,4,calm
+22q9XWXxyIDY1zdqgfsLkF,Clear Thoughts,Enapay,46,180107,Clear Thoughts,2/9/2023,0.213,0.17,-25.38,0.0527,0.949,0.869,0.105,0.04,118.815,4,calm
+1z1pDsi4pI26xmkcKqogXo,Path of Light,Solarixo,38,208000,Path of Light,2/5/2023,0.0962,0.0673,-25.341,0.0458,0.822,0.805,0.112,0.0303,75.893,4,calm
+5647gFRJvr9e8nxwx16A1W,Khufu,Duduk Tribe,40,245962,Khufu,1/5/2023,0.062,0.111,-24.476,0.035,0.923,0.944,0.105,0.0638,53.457,4,calm
+27RQFwc18WHORrxkOZJm9l,Cheops,Duduk Tribe,38,282000,Cheops,3/10/2023,0.066,0.131,-15.502,0.0426,0.984,0.768,0.0992,0.0349,68.474,3,calm
+0WeP7hnaLn8dxh555MxEYx,Thoughts of Mindfulness,Sight of Wonders,38,166295,Thoughts of Mindfulness,12/30/2022,0.21,0.104,-19.696,0.0384,0.905,0.867,0.112,0.147,65.868,3,calm
+7wKteYGjLxGYGYw45SFCS0,दुनिया के सपने,Raku-Nu,58,123798,दुनिया के सपने,8/27/2019,0.137,0.0308,-30.158,0.0411,0.936,0.953,0.126,0.0389,83.557,4,calm
+1UJSTJmCGyVMiF66dlIvLv,Savasana Dream,Wellness Portal,46,164000,Savasana Dream,9/30/2022,0.549,0.0593,-18.416,0.0372,0.987,0.885,0.128,0.115,98.01,4,calm
+3j1ugKG3WVeFGqf5bjx3CB,Mukti,Sleep Advisor,29,156941,Moksha,3/27/2023,0.189,0.0813,-25.263,0.0373,0.93,0.836,0.0955,0.151,66.829,4,calm
+5QyKenCw8AlAmw4SdUp9Ex,Whispers of Ney,Anatolian Flute,37,253500,Whispers of Ney,1/20/2023,0.209,0.24,-14.001,0.0335,0.574,0.845,0.112,0.0391,137.112,3,calm
+6RI7dZ4M2PAkHtCypMnSoL,Restore Balance,Oasis of Relaxation and Meditation,37,227200,"Middle Eastern Meditation (Relaxing Arabic Music, Spirituality, Sacred Relaxation, Prophetic Healing)",9/5/2018,0.156,0.0178,-34.828,0.0346,0.875,0.935,0.0918,0.0393,73.356,4,calm
+27LnREBusAgOoIreyVaOgL,Final Feliz,Shah Feryan,55,180227,Focus Forward,8/19/2020,0.101,0.0509,-32.831,0.0399,0.989,0.921,0.0913,0.1,83.025,4,calm
+1j0y3A8zteJBD7HHxjbMgi,The Force & Heka,Desert Oasis Ensemble,37,151232,Ancient Mystical Egypt,11/20/2018,0.521,0.177,-22.312,0.0297,0.814,0.937,0.145,0.275,145.956,4,calm
+3Gs2uBopmgSkqI6Ww2IYnm,Dawn Dusk Divinity,Devansh Tushar,54,179191,Happy,12/13/2016,0.204,0.0636,-24.819,0.0437,0.964,0.933,0.111,0.094,62.485,3,calm
+5INKoLuvsbws7oBfS2rmEp,In The Distance,Mindful Changes,58,151530,In The Distance,12/9/2022,0.117,0.0195,-28.834,0.0437,0.881,0.887,0.114,0.0776,69.761,4,calm
+0lJ5rRcxyYDFddnKptuyXQ,Happiness,Nambara Nim,48,200873,Happiness,2/5/2023,0.0802,0.184,-23.114,0.039,0.797,0.913,0.098,0.202,78.122,4,calm
+0GBLzni5lps2xbA5XnpSxg,Calm Night,Devans Tushar,40,196000,Calm Night,7/14/2022,0.113,0.0391,-23.781,0.0476,0.983,0.996,0.0966,0.0348,75.757,4,calm
+0rjWngexJxYIMQktacJMSD,Dreaming of Arabia,Egyptian Meditation Temple,41,227058,Arabian Spa (Middle Eastern Music),3/26/2018,0.462,0.0592,-28.749,0.0379,0.96,0.938,0.0764,0.0632,149.998,4,calm
+4hAmtYjh0KOUbZg2zj5NsJ,The Holy Lotus,Ali Jihad Racy,36,218360,Ancient Egypt,1978,0.217,0.00763,-32.79,0.0404,0.991,0.91,0.0731,0.0607,79.819,4,calm
+1vZrg7QCREDWOEAe2ZgaGY,Saqqara,Pharaoh's Flute,35,246050,Saqqara,1/5/2023,0.0752,0.281,-19.953,0.0389,0.985,0.742,0.109,0.0365,179.223,4,calm
+6aRBPJ1TcZFPPcw07UUSd5,Raat Kee Khoj,Daya Misra,43,271026,Raat Kee Khoj,4/10/2022,0.133,0.372,-13.585,0.0357,0.964,0.953,0.112,0.0709,88.864,3,calm
+1oem56p9BOOYg51OVVkuVn,Garden State,Will Tuinstra,35,215000,Garden State,8/19/2022,0.177,0.163,-22.038,0.038,0.969,0.981,0.115,0.0592,118.876,4,calm
+5lwlK7tC5aAOOriY67D7qy,Lake Of Tranquility,Alexandra Irwin,50,121286,Lake Of Tranquility,2/3/2023,0.198,0.0813,-24.808,0.0393,0.487,0.818,0.111,0.0338,60.131,4,calm
+6fKAXHHXXu0IrgNbOASoFS,Peace and Quiet,Zen Atlas,57,210000,Peace and Quiet,11/3/2020,0.135,0.0385,-29.121,0.0457,0.284,0.74,0.111,0.0329,70.439,4,calm
+0yjSKEPwxq23mlW5UKgBMI,الموسيقى الشرقية,Egyptian Meditation Temple,35,218461,إيقاعات شرقية,1/18/2019,0.316,0.0684,-24.529,0.0411,0.954,0.961,0.115,0.0671,155.914,3,calm
+5huIzPcRJkbL7UyyzViQPU,Conscious Jorney,Benny Bernstein,51,154246,Benny Bernstein,12/13/2016,0.243,0.123,-20.642,0.0421,0.976,0.879,0.176,0.0501,111.435,3,calm
+3FVd5GGOeJFvU97JFH7jMH,Deep Thoughts,Danny Shamoun,46,192000,Deep Thoughts,5/15/2020,0.136,0.186,-20.157,0.0327,0.94,0.959,0.156,0.0368,74.995,5,calm
+6ynLu35rbxgMvlqvkpCayr,Egyptian Ritual,Desert Oasis Ensemble,35,151630,Ancient Mystical Egypt,11/20/2018,0.585,0.134,-23.006,0.058,0.823,0.701,0.124,0.196,145.954,4,calm
+1mRjF9HVwkJ472jWW2vZcy,Breathe Of Anatolia (417 HZ Music / Solfeggio Frequencies),Emre Günay,38,220840,Breathe Of Anatolia (417 HZ Music / Solfeggio Frequencies),3/15/2022,0.388,0.334,-18.409,0.0364,0.792,0.959,0.114,0.0579,84.998,4,calm
+1mmJ23UvtuCs5DYWJNVudJ,Dharma,Sacred Flute,45,210181,Dharma,1/26/2023,0.149,0.0292,-28.44,0.0351,0.974,0.947,0.104,0.038,63.255,4,calm
+3c7lAcrausFsmGTJZUcVTO,Pacific Silence,Haraldur Bergljót,46,190926,Pacific Silence,12/16/2022,0.251,0.0658,-24.83,0.0369,0.944,0.878,0.106,0.0383,69.736,3,calm
+6bJQjILATeEqvRSk9pU6cj,Harmony of Senses,Ethnic Moods Academy,33,220162,"Journey to Arabia: Namaste Yoga - Middle Eastern Meditation, Oriental Relaxation, Deep Spiritual Music",8/23/2018,0.476,0.0404,-30.067,0.0331,0.993,0.966,0.0955,0.262,156.052,4,calm
+5OWhqrWWxTYmbYbIpAmE4u,Luminescent,Nairuz,40,264000,Luminescent,5/15/2020,0.117,0.0971,-23.302,0.0355,0.959,0.929,0.111,0.0375,91.193,1,calm
+28BKLc1P33rinEfjvXV8PW,Mental Wellbeing,Tranquility Spa Universe,33,206683,Arabian Spa (Middle Eastern Music),3/26/2018,0.318,0.117,-26.985,0.0371,0.814,0.939,0.109,0.248,108.918,5,calm
+6qlL9nfU00kj1bPr99uryF,Still Waves (432hz),Abe Hathot,42,232109,Still Waves (432hz),10/3/2019,0.182,0.203,-13.31,0.0426,0.974,0.914,0.0954,0.0311,85.62,4,calm
+09UFsG6dOJpEpZNyduzJuz,Body Harmony,Tranquility Spa Universe,33,206683,Arabian Spa (Middle Eastern Music),3/26/2018,0.154,0.0896,-22.661,0.0392,0.956,0.944,0.0759,0.0377,77.462,4,calm
+5Z4lXr3SC43QgYmhXeHNaA,Meditation,Sufi Lounge,50,131558,Meditation,9/23/2022,0.2,0.115,-16.084,0.039,0.988,0.892,0.111,0.079,78.314,4,calm
+1E1G65tdElBWDMHozuMd6s,Arabic Relaxation & Spa,Healing Oriental Spa Collection,34,213162,"Arabic Relaxation & Spa (Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute)",4/6/2018,0.478,0.0774,-28.324,0.0349,0.911,0.885,0.089,0.184,159.946,4,calm
+42OSQ6hAF9tviEK9IfU0uJ,हीलिंग संगीत,Raku-Nu,41,166896,हीलिंग संगीत,11/26/2020,0.122,0.0565,-22.091,0.0451,0.867,0.882,0.144,0.0337,89.223,1,calm
+1xCGBNquEBWEYeliECZqki,Tabla Breath,Benjy Wertheimer,42,326666,One River,6/19/2012,0.721,0.0311,-20.795,0.034,0.467,0.892,0.122,0.0363,86.003,4,calm
+6C4TKUSrJgs7uVXOjPeBis,The Fallen Tapang,Anak Borneo 婆羅洲之子,32,243682,The Fallen Tapang,9/26/2021,0.418,0.238,-16.872,0.0411,0.915,0.904,0.109,0.0364,119.078,4,calm
+74K0t5QbnOBQjUtTc900u1,Tranquility Sands (Limitless),Abe Hathot,33,252537,Tranquility Sands,8/19/2019,0.114,0.193,-22.43,0.0394,0.824,0.861,0.111,0.0329,83.533,5,calm
+1v1dDDk8KjIfGPmOUhe4iG,Emotional Balance,Oasis of Relaxation and Meditation,32,218490,"Middle Eastern Meditation (Relaxing Arabic Music, Spirituality, Sacred Relaxation, Prophetic Healing)",9/5/2018,0.39,0.0279,-32.691,0.0343,0.938,0.959,0.124,0.0486,155.847,4,calm
+5cISGyz7flqHyJnPredy4s,Ethnic Relaxation,Tranquility Spa Universe,32,234146,"Arabic Relaxation & Spa (Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute)",4/6/2018,0.374,0.0596,-21.59,0.0369,0.782,0.776,0.0847,0.0376,81.872,4,calm
+321TKi0OMRCqt1WvyDA0d8,Coral,Arli,33,407544,Fata Morgana,10/9/2015,0.168,0.0406,-25.592,0.0486,0.98,0.893,0.126,0.039,136.57,4,calm
+4hGW5Ok07tg4YW2gwWNG03,Yeraz (Rêverie),Lévon Minassian,36,177266,The Doudouk - Beyond Borders,6/1/2000,0.161,0.0507,-25.18,0.0482,0.989,0.934,0.0815,0.0736,87.854,4,calm
+5uh94YKGwpmlIQTFH12VKH,Calm Your Emotions,Mindfulness Meditation Music Spa Maestro,31,217282,Arabian Spa (Middle Eastern Music),3/26/2018,0.115,0.0167,-29.548,0.0554,0.985,0.936,0.149,0.073,77.113,4,calm
+1xCDq8xU7gE09lJcZNBLts,Arabic Starry Skies,Cafe Tantra Chill,31,246153,"Arabic Relaxation & Spa (Best Arabian Instrumental Sounds, Relax, Ethnic Nights with Saz, Duduk & Flute)",4/6/2018,0.313,0.0397,-23.271,0.0371,0.972,0.931,0.108,0.0952,68.016,4,calm
+7FWxgkffwiIrr2SR72RqAh,Far Away,CreativeWaves,48,246428,Far Away,10/21/2020,0.153,0.137,-20.581,0.0386,0.691,0.847,0.114,0.0364,62.082,4,calm
+294vBP3FeWDwpYwvGsy9Y4,Masnavi Bayat Esfahan,Shahram Gholami,32,172546,"Persian Oud, Dirine Delkhah",3/4/2018,0.389,0.0498,-27.879,0.0939,0.92,0.849,0.119,0.101,46.409,4,calm
+13kA7Nt2p6Njz8ziYi2w0b,Yohanan - Live '21,Tomas Raae,31,361873,Yohanan (Live '21),1/6/2023,0.244,0.0213,-30.551,0.0381,0.913,0.956,0.0872,0.0696,84.986,1,calm
+3aTk8gqyP8cGegtVFa3vC9,Touch of Meditation,Egyptian Meditation Temple,31,243037,"Journey to Arabia: Namaste Yoga - Middle Eastern Meditation, Oriental Relaxation, Deep Spiritual Music",8/23/2018,0.436,0.129,-26.369,0.0316,0.879,0.974,0.14,0.518,158.036,4,calm
+2fXONc4pUGr3TeTfd8vJiL,Nava (Taknavazi),Zohreh Jooya,31,114520,Johare Eshgh,10/19/2007,0.378,0.119,-15.628,0.0347,0.85,0.978,0.248,0.237,62.483,5,calm
+2dhdVOLoYr46OUlsS70S1f,Siretzi Yares Daran (They Have Taken the One I Love),Lévon Minassian,38,419706,The Doudouk - Beyond Borders,6/1/2000,0.137,0.0245,-28.177,0.0429,0.991,0.958,0.107,0.035,87.284,4,calm
+6hEN2MHD98OWVTiX3vmX9u,Anatolia,Sufi Music Ensemble,35,487453,Himma,1/1/2004,0.274,0.355,-12.042,0.0328,0.632,1.31E-06,0.352,0.187,81.865,3,calm
+0LqbB6gdqYV3YZQjv52VC7,Raqsat albedoi,Ahmed Mukhtar,32,327746,Music form Iraq: Rhythms of Baghdad,6/29/2010,0.807,0.559,-14.997,0.0401,0.531,0.831,0.0918,0.961,95.254,4,calm
+0SGBSwX49QWTGiXMu39mUz,Stillness,Fraser Jaspal,54,142008,Stillness,3/3/2023,0.52,0.00486,-30.233,0.0457,0.996,0.95,0.111,0.561,75.342,4,calm
+7tPR6ChfHJvkYPK0Zy5zkK,Us,R. York,58,108730,Life Stories,1/1/2023,0.428,0.0064,-34.581,0.0488,0.995,0.95,0.0838,0.0934,43.385,4,calm
+7JuANIIOksqHRFXgE8tEld,Lisser,Miran,67,125041,Lisser,3/3/2023,0.325,0.0615,-27.534,0.0352,0.984,0.923,0.082,0.312,94.597,3,calm
+6rWa5bTCCZQIv0qKekqhnC,What It Should Look Like,Tom Leaman,50,122245,What It Should Look Like,7/29/2022,0.429,0.0341,-26.623,0.0395,0.995,0.954,0.118,0.421,107.798,3,calm
+4uoJsS8jQmsHmdoORGzxh0,Emerald Enlightenment,Aramis Morel,69,99567,Emerald Enlightenment,1/13/2023,0.412,0.0289,-32.394,0.0517,0.996,0.958,0.0895,0.27,151.381,3,calm
+6h0V5bM7dDmwvrrmqHVlPE,Nuxe,Valla,50,138576,lachlan,12/11/2022,0.445,0.0199,-28.408,0.0418,0.995,0.938,0.111,0.272,170.355,4,calm
+23yqVbpiJoMHTs0RX4aPE7,Hand in Hand,Kylian Rebour,63,108022,Hand in Hand,2/3/2023,0.616,0.0148,-30.179,0.069,0.992,0.964,0.113,0.361,89.902,3,calm
+4fGktu4RYSYuF05at1ToLu,Eventus Memoria,Adelaide Fleur,49,127000,Eventus Memoria,12/2/2022,0.476,0.0039,-36.014,0.0379,0.995,0.919,0.113,0.0922,60.008,3,calm
+6UYwmgIdSTsPLCRK66yry4,Forever Yours,Christoff Joyce,43,115500,Forever Yours,4/21/2023,0.535,0.0128,-27.779,0.0444,0.992,0.969,0.112,0.625,67.948,4,calm
+6i17OjR0ZQYh5RkHexzDMR,Det skal nok gå,Alida Sørby,48,123000,Det skal nok gå,7/15/2022,0.422,0.0921,-25.712,0.0441,0.992,0.968,0.0911,0.435,87.058,4,calm
+03zca5jNCKSk4uttDewQ42,Warm,Cinthya Garcia,48,127500,Warm,4/21/2023,0.462,0.013,-32.452,0.0979,0.994,0.966,0.0999,0.225,65.967,4,calm
+6gP1lRXjWOCwkwOiuhITvm,Night,Coeur,60,148000,Night,4/5/2023,0.25,0.0067,-32.452,0.0568,0.995,0.962,0.0939,0.0921,76.303,4,calm
+42c7TYsycEaQtVZPMG79Os,Hologram,Treman,47,118356,Hologram,1/20/2023,0.268,0.0056,-39.121,0.0396,0.99,0.958,0.0727,0.138,145.925,4,calm
+4ONnpRLMllzCj31t12QCaT,Expecting,Oscar Mallen,49,115812,Expecting,3/10/2023,0.492,0.0666,-24.054,0.0416,0.982,0.956,0.101,0.216,80.858,3,calm
+5HtpzebnaIKe33vWPClB0u,Springtime,Auley Gere,32,110000,Springtime,4/28/2023,0.469,0.0405,-29.387,0.0328,0.99,0.931,0.106,0.538,81.273,3,calm
+4xMHvbwPvXHFRKjbij64eM,Met Her at a Bar,Otto Wahl,48,126750,Met Her at a Bar,2/10/2023,0.721,0.0366,-29.638,0.0877,0.995,0.963,0.107,0.397,80.005,3,calm
+4RojRunkpA8Hmk4hJHCeZw,Morning Stroll,Felicia Frank,49,164461,Morning Stroll,2/24/2023,0.476,0.00551,-26.47,0.112,0.996,0.958,0.104,0.334,75.273,3,calm
+7hJHeX4A3TdI0cDElWu3Zk,For the Love of You,Henriette Fleich,63,107730,For the Love of You,4/14/2023,0.463,0.0258,-29.634,0.0411,0.991,0.943,0.11,0.303,116.571,4,calm
+3U987lHXBgataMkhfi7YAL,Lullaby,Ben Crosland,37,143406,Lullaby,4/28/2023,0.381,0.0242,-27.867,0.0383,0.992,0.92,0.103,0.346,65.712,3,calm
+6jkQJB7iKoYFZanJuXlnUf,Reflections,Aquilegia,65,113986,Reflections,3/10/2023,0.316,0.0319,-29.428,0.0511,0.992,0.92,0.0926,0.223,175.256,4,calm
+4KB0FsNnaynCa0Zx8V6h9C,Et løfte,Tosh Møller,42,134428,Et løfte,4/21/2023,0.43,0.0809,-24.463,0.0413,0.993,0.94,0.0984,0.643,140.563,4,calm
+79QWY71xWy96RCEZK720en,La douche sonore,Emilia Branco,49,138829,La douche sonore,12/9/2022,0.366,0.0329,-27.124,0.0329,0.994,0.909,0.116,0.211,99.478,3,calm
+1TsMXS2Xy3TSP6LkHEw2WY,Green Leaves,Klaüs,48,122584,Green Leaves,10/3/2022,0.459,0.0109,-30.142,0.0489,0.995,0.952,0.0965,0.381,103.392,3,calm
+3N79AZhe7FiBgF7leqGhHt,November Birdie,El Pianista Manco,62,162178,November Birdie,12/2/2022,0.258,0.00467,-36.399,0.0404,0.995,0.939,0.102,0.285,72.024,4,calm
+7MJcTb10o1gms7Gr641tj7,Sagesse en Amour,Steve Mokwebe,42,141775,Sagesse en Amour,4/21/2023,0.372,0.0071,-33.658,0.0617,0.995,0.976,0.0863,0.577,181.504,3,calm
+4XcCAB5G21D6BZzobQBZMw,Embrace Me,Carin Florie,46,156574,Embrace Me,2/17/2023,0.413,0.0615,-25.365,0.0466,0.994,0.954,0.103,0.321,69.462,4,calm
+25UlllA0GGWjKK8ndbBk57,Dovetail,Luiza Schmidt,50,121318,Dovetail,4/7/2023,0.471,0.207,-29.978,0.0323,0.992,0.949,0.108,0.37,105.684,3,calm
+2kfYhnurfTZzBOei3IxO6K,Distance,Gian Moran,46,130013,For Us,1/21/2023,0.322,0.00785,-29.808,0.0348,0.989,0.934,0.102,0.198,75.871,3,calm
+5fOv8ynuVRniCFLQ48grdI,Open Sail,Allysium,61,128608,Open Sail,10/7/2022,0.398,0.0173,-25.326,0.0435,0.995,0.922,0.0983,0.122,75.821,5,calm
+2UJttBzaAe8bCjuNSIi35b,a wild place,Elois Jacq,44,126000,a wild place,3/31/2023,0.358,0.0349,-30.634,0.0444,0.994,0.915,0.117,0.133,81.215,3,calm
+1p3eTyZ2IJ8YeuxGI876v0,Ice Breccia,Herbe Matin,41,115182,Ice Breccia,4/21/2023,0.372,0.0122,-31.321,0.0396,0.993,0.945,0.106,0.624,137.375,4,calm
+438tqm4eZnhsomXZPu2s2T,Aftonstjärna,Christian Peterson-Bergling,47,177624,Aftonstjärna,3/24/2023,0.378,0.0665,-25.746,0.0333,0.988,0.963,0.111,0.229,112.844,4,calm
+2gwhISMkdlhEqEP60P93Z1,am ersten Tag,Hugo Vanbrooke,56,130190,Time Line,11/28/2021,0.238,0.026,-32.656,0.0466,0.988,0.914,0.101,0.169,64.118,3,calm
+2vcdqUMFMbKYvqzBYsVZDn,Eclipsis,Ryley Moss,61,146079,Eclipsis,4/7/2023,0.375,0.0141,-26.919,0.0365,0.991,0.94,0.0915,0.0443,107.309,4,calm
+1fFH5FN5xZx2WT2dBXm4qx,Inside 内,Li Zemin,63,116718,Inside 内,1/6/2023,0.283,0.0329,-28.74,0.0341,0.975,0.899,0.109,0.192,139.106,3,calm
+6WRGJsfwcYjyOtzgpyizPV,Delightful,Richard Mahees,63,117800,Abstractions,12/17/2022,0.433,0.0443,-23.394,0.0365,0.944,0.928,0.106,0.115,90.192,4,calm
+3ay0zjicGYoJLyXl1y4c4M,Vem är inte rädd ibland,Amélie Blumenthal,44,97562,Piano Lullabies,3/31/2023,0.571,0.0391,-26.553,0.0531,0.993,0.907,0.116,0.267,116.076,4,calm
+0pc9BoEkAuNoAcHyQcZ28E,Vardo,Ama Hemmah,48,148941,Vardo,10/7/2022,0.277,0.0453,-28.917,0.0372,0.993,0.932,0.0927,0.184,89.635,4,calm
+41RfvRLI3FvwqERqGKi8Q1,Remember,Jan Os,45,143931,Remember,3/10/2023,0.358,0.0425,-29.679,0.043,0.994,0.864,0.0886,0.266,117.844,4,calm
+0UcRrIl4Ti4xSdp314ZASI,Hiemalis,Franz Ewer,50,167624,Hiemalis,1/21/2022,0.473,0.0309,-30.664,0.0493,0.982,0.923,0.124,0.209,116.612,4,calm
+7eItBb98RqIZQ8QZPS6GcM,Clement,Miran,46,147666,Clement,2/17/2023,0.249,0.067,-26.836,0.0377,0.991,0.942,0.0925,0.226,159.4,4,calm
+2ssG2QnW8tai39jGqJxbW1,In the shell of night,Kathrin Holtz,45,167730,In the shell of night,2/3/2023,0.421,0.0298,-29.533,0.0391,0.994,0.963,0.0814,0.17,97.572,4,calm
+0XruVtUJE0kObhzzUMVZKa,Starlight,Kyūka,48,78146,Starlight,1/13/2023,0.538,0.0366,-28.928,0.0455,0.991,0.928,0.114,0.435,126.176,3,calm
+2t9nX7l0xqCmAXML9ozYuw,But A Whisper,Vaughn Harrison,56,147623,But A Whisper,2/24/2023,0.215,0.0469,-28.132,0.0426,0.987,0.902,0.11,0.378,88.342,4,calm
+3yPi2t6916SjRPrb9ZcFK7,For the Fallen,Aiden Kelly,45,172948,For the Fallen,11/4/2022,0.334,0.0168,-28.45,0.0422,0.994,0.95,0.0955,0.414,151.313,4,calm
+5t4wYNhdJDzxVlMjri5sOn,Gratitude,Eadgar Évariste,46,114437,Gratitude,2/27/2023,0.536,0.0409,-30.8,0.0542,0.992,0.946,0.107,0.282,73.439,4,calm
+5ZBKGYQu4Z0U69UE2MNNMN,Follow the Light,Aquilegia,48,113062,Follow the Light,2/17/2023,0.415,0.0335,-29.673,0.0316,0.992,0.952,0.105,0.365,83.678,4,calm
+7hpSoEf1bBMtJyFiq8xQyp,Twilight,Matt Stewart-Evans,44,128500,Twilight,3/10/2023,0.402,0.0189,-31.931,0.0356,0.994,0.89,0.098,0.111,134.631,3,calm
+5qta8Dii3ZWGxZDA6LZmYb,Nebula,Luca Bissette,50,161117,Nebula,2/10/2023,0.412,0.0454,-29.298,0.036,0.994,0.93,0.0883,0.144,61.645,5,calm
+08athgGdqnRmET0kInHb8n,Himlen,Andrea Azzola,54,121504,Himlen,1/20/2023,0.569,0.0719,-25.977,0.0499,0.995,0.95,0.198,0.367,83.179,4,calm
+0Sd9ECo0muEWnz9CTP1TAT,With Fewer Tensions,Douglas Simmons,45,193622,With Fewer Tensions,3/17/2023,0.455,0.0168,-22.268,0.0628,0.99,0.915,0.106,0.0842,141.818,4,calm
+1eSt1uhXWcriWYOGZahU9i,Aquaterra,Thalia Havenstein,45,127923,Aquaterra,1/20/2023,0.21,0.0161,-30.355,0.0352,0.989,0.929,0.109,0.207,82.636,4,calm
+0q4JUAatgC3sES0zcFc38T,Unchanged,Donnie Harman,45,146430,Unchanged,11/4/2022,0.517,0.0456,-23.8,0.0615,0.996,0.973,0.117,0.326,85.122,4,calm
+1so7IJIPEpxEFefMYGa0ia,Okra,Ever So Blue,45,193186,Okra,1/27/2023,0.477,0.0908,-26.326,0.0332,0.994,0.927,0.101,0.095,119.61,3,calm
+2StQJ41DNRKRHNfGbKexPM,Ikigai,Violet Mar,61,180020,Ikigai,9/2/2022,0.333,0.072,-28.261,0.0354,0.992,0.956,0.105,0.271,104.058,4,calm
+1d30t4z4DuJelbpdfI63Dy,Encercler,Les Rêveries,51,108334,Encercler,2/17/2023,0.309,0.109,-23.537,0.0294,0.982,0.934,0.0997,0.148,93.719,3,calm
+2Zq0snCBJhOzT61Lhroxr6,Yasashii,Asahi Haru,56,134740,Yasashii,9/29/2022,0.583,0.015,-31.7,0.0518,0.989,0.943,0.0918,0.265,126.332,4,calm
+0D5YPSKMbCvMdlMQpzdSzz,Iris,Carl Fredman,48,145124,Iris,12/9/2022,0.427,0.0306,-29.722,0.0426,0.994,0.938,0.0976,0.534,107.206,4,calm
+45eijXxK33ulZc8WByHYUu,quiet dream,Shingo Mimura,45,129028,quiet dream,10/14/2022,0.4,0.0519,-28.729,0.0415,0.991,0.956,0.109,0.117,76.941,1,calm
+5iSifjMixcgREH6uzunq1P,Retrospect,Martin Rapide,47,169874,Retrospect,12/16/2022,0.389,0.0239,-27.087,0.044,0.992,0.943,0.111,0.279,139.879,4,calm
+3IrhvylMyORrBvLbqVR1KM,Rêveuse,Antoine Stavelot,43,147874,Rêveuse,1/27/2023,0.391,0.0774,-28.964,0.0401,0.984,0.947,0.106,0.217,72.253,4,calm
+7wvLqTxF6Nm4k579lboPC8,Je t'ai vu,Projet Calmant,61,180030,Je t'ai vu,9/23/2022,0.405,0.0413,-30.36,0.0465,0.994,0.951,0.0911,0.417,136.131,4,calm
+5BxHusXv0AvPFlm0wGbYv3,Cygne Noir,North Connolly,63,178634,Cygne Noir,3/3/2023,0.463,0.0669,-29.032,0.0641,0.996,0.909,0.101,0.23,71.55,1,calm
+0X5m41yl6i5wTJ4PlCeZRa,Ride your wave,San Fiore,44,164646,Ride your wave,2/3/2023,0.373,0.055,-24.644,0.0355,0.993,0.899,0.104,0.204,91.564,4,calm
+5YE0sudIKFKYUeACTJaw4Q,Malva,Henrik Dressler,43,112000,Malva,1/9/2023,0.436,0.035,-19.483,0.0413,0.993,0.967,0.118,0.285,93.042,4,calm
+4CTmMZznjMORw49F4HK8u5,Son's and Daughter's,Meyer Wilen,53,154261,Son's and Daughter's,1/13/2023,0.452,0.0222,-24.859,0.0337,0.915,0.867,0.112,0.038,56.316,4,calm
+6mBfuXtEriT243sxpCI7I6,Motlys,Ole-Bjørn Talstad,45,123000,Motlys,1/13/2023,0.259,0.0934,-28.099,0.0486,0.97,0.941,0.0974,0.205,181.815,4,calm
+36QUkXZd5QuCItDvIPSbH0,Symbios,Ever So Blue,56,173161,Symbios,2/18/2022,0.482,0.234,-22.993,0.0379,0.995,0.943,0.101,0.593,95.657,4,calm
+6aFHghBSzxP3QPxS30qqp0,Collecting Memories,Aija Alsina,47,167179,Collecting Memories,7/7/2022,0.235,0.0325,-27.994,0.0535,0.994,0.917,0.0751,0.16,189.656,4,calm
+5HFmI7ZaL4yBHsvzJP9IdF,Visa från Källdal,Lars Meyer,43,174538,Visa från Källdal,1/6/2023,0.444,0.0777,-21.868,0.0483,0.99,0.953,0.103,0.218,86.117,4,calm
+2NDa9A2bztLx2utRxtRyzd,Una Flor,Pelagia Calisto,47,109768,Una Flor,11/10/2022,0.544,0.0116,-28.697,0.0444,0.996,0.943,0.143,0.621,78.126,3,calm
+6XxqVuReY8oStJvHuG3cOZ,Feathers,Tanisha Hickman,46,125500,Feathers,4/1/2022,0.28,0.0485,-28.995,0.0385,0.995,0.933,0.116,0.273,147.162,3,calm
+64HEaiLP9VcrJpElxywgRr,Tes yeux d'un bleu profond,Maud Parris,43,146120,Tes yeux d'un bleu profond,1/13/2023,0.309,0.0318,-28.558,0.0444,0.993,0.941,0.133,0.138,75.888,4,calm
+6LU350ky5JGQ4VwJsTfIq9,Everything Is You,Chris Island,50,202713,Everything Is You,2/24/2023,0.378,0.0156,-26.335,0.0343,0.987,0.931,0.0983,0.136,165.748,3,calm
+4Xj97H1nAC77849DA1Psle,January Sky,Oscar Legrand,50,129000,January Sky,12/30/2022,0.368,0.0571,-21.341,0.0431,0.949,0.903,0.101,0.582,116.56,3,calm
+1MoboyfmxM1P6tgpEnnfud,A subtle joy,Tamara Blake,62,179253,A subtle joy,10/28/2022,0.455,0.0559,-24.669,0.0436,0.99,0.893,0.111,0.415,114.668,1,calm
+2cdLFYUbixZXuZOs5B0HvG,In your arms,Miriam Raye,43,169268,Remembrance,11/11/2022,0.413,0.0604,-27.589,0.037,0.987,0.967,0.102,0.16,70.782,4,calm
+6dzhIRxruUuzbiLF4gqZAz,Chrysalis,Abel Laloux,44,151000,Chrysalis,11/25/2022,0.517,0.0154,-27.987,0.0787,0.991,0.967,0.13,0.149,112.974,4,calm
+0OQWq6Sgbn0L59KfhVYxBT,Lost at Sea,Alcon Blue,48,160140,Lost at Sea,1/6/2023,0.271,0.0452,-28.549,0.0362,0.984,0.934,0.104,0.272,149.538,4,calm
+3irfOZS30z0snSh5vOPs2V,Belle Vie De Tous Les Jours,Baudouin Béringer,57,157000,Belle Vie De Tous Les Jours,10/1/2021,0.334,0.0088,-25.986,0.0525,0.994,0.932,0.111,0.374,83.406,4,calm
+14mdXvg5LTzl4gp0ALbGOe,Coming Closer,Richard Sauzal,45,113173,Evenings,10/30/2022,0.531,0.00335,-30.845,0.0725,0.995,0.971,0.0937,0.552,109.005,4,calm
+65vrUrnH4gGDVo29SKxe0A,Two Brothers,Jon Cossack,44,120563,Two Brothers,3/5/2023,0.461,0.0118,-27.508,0.0419,0.995,0.917,0.118,0.263,121.01,4,calm
+7kaE0yge2zcyQn1SA6Ectq,Thoughts From Above,Kaiteki,42,131375,Thoughts From Above,1/10/2023,0.289,0.0176,-30.91,0.0334,0.995,0.917,0.103,0.136,174.146,3,calm
+1moVWeNCxcuAsECoLcnvJL,Reine de nuit,Nadine Allen,46,182022,Reine de nuit,12/30/2022,0.477,0.026,-22.539,0.0571,0.995,0.957,0.104,0.0655,73.417,3,calm
+2TZetlpje1UuPbMU2heuMR,Lebensecht,Luiza Schmidt,42,143281,Lebensecht,12/30/2022,0.402,0.0397,-29.183,0.0346,0.994,0.937,0.103,0.209,67.768,4,calm
+1B4V5s8kcjDsxk0S9NZbml,Anemoia,Franz Gordon,43,144117,Anemoia,12/23/2022,0.489,0.00954,-29.072,0.0723,0.995,0.961,0.0925,0.56,59.505,4,calm
+03IzOl7tIIWczFpkzCRH7D,Emonissimo,Loumi Des Moines,53,82334,Emonissimo,1/13/2023,0.472,0.00763,-28.08,0.0664,0.993,0.952,0.098,0.113,121.349,4,calm
+0WXWiXfd4V6MCkBkrUV0NK,Evening Light,Akira Kosemura,47,141315,Evening Light,9/9/2022,0.393,0.0399,-27.124,0.0469,0.982,0.892,0.109,0.147,123.787,3,calm
+0kQMah3gWs9amKOblNUdx7,Perla,Per Lööf,44,132376,Perla,12/11/2022,0.435,0.0304,-27.775,0.0674,0.978,0.95,0.122,0.223,66.482,3,calm
+2tx8VSE18uvJ5SKd5N6kGd,An Invitation,Shaunta Coburn,42,129889,An Invitation,10/21/2022,0.48,0.0512,-24.76,0.0705,0.995,0.966,0.109,0.609,82.538,4,calm
+3iTgM3cDPpZCQ4GL1pP0Ss,Act Of Reconciling,Herbe Matin,66,143400,Act Of Reconciling,12/23/2022,0.469,0.0029,-40.436,0.0525,0.992,0.939,0.135,0.509,116.219,4,calm
+5hGueE5UZ2PdUI4CD75MyR,Mer de rêves,India Atanasie,42,143307,Mer de rêves,11/4/2022,0.456,0.0203,-24.086,0.0435,0.995,0.946,0.107,0.44,82.939,3,calm
+3KuHx15ro3TkRZTi5g261x,Zu Hause,Elias Kiefer,45,127000,Zu Hause,12/9/2022,0.527,0.13,-27.654,0.0422,0.993,0.879,0.118,0.663,111.228,4,calm
+4mv7yv3xb6CFLUEZ0ndowA,Can't Wait,Maura Huffman,45,125656,Can't Wait,11/18/2022,0.474,0.0542,-24.837,0.087,0.996,0.968,0.104,0.489,73.423,4,calm
+1UY1Fr1IExkpYxxxxUWFug,Apricity,Miran,62,156677,Apricity,12/9/2022,0.31,0.0619,-26.16,0.0495,0.993,0.933,0.108,0.146,70.979,5,calm
+2X2suFxascM2QSKOcWJsA1,Unless you leave now,Alva Brunel,47,150009,Unless you leave now,3/11/2022,0.321,0.0327,-25.583,0.035,0.992,0.976,0.0837,0.184,95.689,3,calm
+6DqQMsdAlPbPiVXiAyxpVC,marzo 3,Sebastián Voyage,44,146636,marzo 3,5/13/2022,0.394,0.0118,-27.989,0.0406,0.995,0.912,0.12,0.221,69.746,4,calm
+6S1sG03j36YgxCtuZjgfI5,Evenings,Richard Sauzal,61,112152,Evenings,10/30/2022,0.527,0.00824,-31.547,0.0582,0.995,0.95,0.103,0.403,75.814,3,calm
+1J2CNuJZnkGyg1UHcwqkBx,Song for a New Beginning,William Claeson,49,168922,Song for a New Beginning,10/28/2022,0.259,0.0251,-26.902,0.0429,0.994,0.91,0.113,0.0928,67.098,3,calm
+3V683fg4xkvLX58ReRRISt,Up North,Salomon Isle,42,143008,Catching The Light,11/21/2022,0.594,0.0308,-27.629,0.0532,0.995,0.956,0.123,0.325,110.407,3,calm
+3JxLzqk5HisNeh5I03Mx22,Casa luminosa,Miguel Pérez,63,109565,Casa luminosa,12/9/2022,0.355,0.0368,-25.302,0.0393,0.992,0.937,0.113,0.0492,106.637,4,calm
+2xU7HfHYdDO8T4TVRJwvHJ,Al buio con te,Nicola Conti,60,136466,Al buio con te,9/30/2022,0.366,0.0778,-25.652,0.0521,0.994,0.966,0.109,0.482,81.571,1,calm
+18NGWsACj7kLOwiUvUVSux,When We Go Walking,Randy Oppenheim,42,125856,When We Go Walking,11/4/2022,0.472,0.0363,-25.107,0.05,0.996,0.926,0.105,0.309,82.562,4,calm
+7rcPhOaF1KJ3dKIZ9baygA,Warm Evening Breeze,Fileas Aunad,43,165500,Warm Evening Breeze,10/28/2022,0.497,0.0119,-25.252,0.0426,0.971,0.949,0.112,0.361,76.151,3,calm
+7JZrbwMQNDL0s1UeDoEDwR,Tenderly,Jozef De Schutter,43,137000,Tenderly,10/7/2022,0.434,0.00756,-26.945,0.0389,0.994,0.92,0.0868,0.268,113.557,3,calm
+7rBPXnAOCwblAleRuYD79u,Ordinary Day,Eirin Nordness,56,150242,Ordinary Day,3/10/2022,0.436,0.0123,-31.018,0.0431,0.991,0.969,0.0938,0.226,133.036,4,calm
+6FrEmXntHD6IZeM8f0FIJM,Final Hour,Rebecca Kruse,46,112997,Final Hour,11/25/2022,0.668,0.0129,-26.127,0.174,0.995,0.973,0.111,0.555,77.252,3,calm
+4qcYE0RRcpEB8ISLnQdYoP,Past Reflections,Cameron Segal,49,139694,Past Reflections,8/5/2022,0.511,0.0465,-25.711,0.0417,0.995,0.956,0.0801,0.31,130.43,4,calm
+1Niqti17jYAgEBlHzUEQ02,the traveler,our distant worlds,44,170500,the traveler & fragile flowers,10/28/2022,0.508,0.0346,-30.265,0.035,0.993,0.949,0.108,0.175,90.113,4,calm
+6NR2SRndDIWZeNzGBwtJBX,Empty Streets,Livia Irvine,42,146374,Empty Streets,11/4/2022,0.315,0.0707,-27.941,0.0356,0.988,0.942,0.111,0.221,100.92,3,calm
+4Be0A7S5hA8MvzB7rbFuHc,Light in the Mist,Anna Landström,42,240099,Light in the Mist,8/19/2022,0.306,0.00806,-29.693,0.0386,0.985,0.869,0.101,0.324,141.475,4,calm
+1FlBxmsJyCXMViFVNYFHv4,Answer,Ima Rayner,42,141628,Answer,10/21/2022,0.445,0.0307,-28.352,0.0444,0.993,0.921,0.104,0.221,61.735,4,calm
+38IQW5WbKIQwSDsMQPMLSk,Rainbow,Dylan John Sparkes,63,176000,Leap Of Faith,10/14/2022,0.411,0.0235,-32.494,0.0388,0.994,0.896,0.095,0.177,143.044,3,calm
+0jen5uU56ghIk8EEDAnllp,Tresillo,Nova Olsen,42,131812,Tresillo,10/2/2022,0.454,0.0318,-30.202,0.0475,0.99,0.935,0.0907,0.445,139.509,3,calm
+2rBLJwsNjWvSx0yVAQLc3B,Rêvasser,Lucién,61,209250,Rêvasser,11/5/2021,0.374,0.023,-33.9,0.0347,0.983,0.916,0.106,0.0776,118.96,3,calm
+6I1qp1q6iTtOCNUXfziWpn,Dreams of Us,William Cas,47,145920,Dreams of Us,8/31/2022,0.335,0.0173,-26.267,0.0313,0.947,0.851,0.153,0.222,146.22,3,calm
+3BttrU266BxO53iZMADsAg,dromerige,Tascenda,45,155670,dromerige,1/7/2022,0.763,0.00532,-28.834,0.0674,0.991,0.961,0.0981,0.251,87.885,3,calm
+0I9HIOTtaXrX968btEa3DA,Box of Memories,Josh Kramer,62,162160,Box of Memories,8/5/2022,0.3,0.0464,-27.828,0.0429,0.986,0.897,0.105,0.172,129.952,4,calm
+48SGMBtW11z4g8ymVdpI4B,Pianola,Jose Carcavelos,42,109000,Pianola,4/8/2022,0.464,0.00181,-31.933,0.046,0.986,0.895,0.117,0.368,87.456,4,calm
+2GoWywxSwJTNVrwgtzqQoR,Homecoming,Jutila,50,152636,Homecoming,10/28/2022,0.465,0.0553,-26.424,0.0455,0.995,0.956,0.103,0.47,77.131,4,calm
+2QYem8rVrhWvKTXC3rYypY,Until We Meet Again,Morunas,41,164286,Until We Meet Again,9/9/2022,0.367,0.0167,-29.603,0.045,0.992,0.953,0.103,0.135,108.711,4,calm
+5z8nWwvtvkyIQ2S97ATTAo,Lux,Michiel Borstlap,42,143103,Lux,9/30/2022,0.29,0.0276,-28.131,0.0342,0.994,0.829,0.084,0.179,81.443,4,calm
+28breCSDTKxrWa96iZBNlq,Tolerance,The Masked Pianoman,62,140844,Tolerance,5/20/2022,0.288,0.00706,-33.604,0.0443,0.987,0.959,0.121,0.0898,79.384,4,calm
+2YFtpiy2WoAQVQbM1SIwES,Tjärnheden,Farsjön,73,100441,Fjäderlätt,11/3/2022,0.435,0.00661,-32.108,0.0433,0.993,0.939,0.102,0.203,95.626,3,calm
+32daybCONfINAmdjMWqMyO,Riverbero,Valentina Barbarella,41,101752,Riverbero,11/4/2022,0.458,0.00814,-27.495,0.137,0.995,0.961,0.113,0.262,77.941,3,calm
+2Vy6gykWpZmiWO2HYIXgCo,It’s Nothing,Eric Cadogan,41,145035,It’s Nothing,9/16/2022,0.537,0.0844,-21.959,0.0666,0.996,0.961,0.107,0.321,83.117,3,calm
+3CQN71R8GSjtdBKodHBai2,Lämna,Lo Mimieux,56,195500,Lämna,10/22/2021,0.289,0.015,-32.188,0.0609,0.994,0.908,0.103,0.259,61.393,4,calm
+7eiM2QUgzptSwtOAno0kVW,Zašto,Suzana Tomić,41,139803,Zašto,10/7/2022,0.424,0.045,-24.139,0.0446,0.996,0.954,0.12,0.402,167.486,4,calm
+49a2PByrGqVmdCktGMZwgc,Abode,Allysium,61,149197,Abode,9/16/2022,0.427,0.0278,-21.905,0.0395,0.989,0.95,0.104,0.329,77.492,4,calm
+0QVOz1Ciduo7miwdCMAeRD,Daydreamer,Ronan Spoor,43,156916,Daydreamer,11/4/2022,0.458,0.0415,-27.81,0.0557,0.995,0.939,0.0781,0.193,122.501,4,calm
+6VS88EyMGTbNowgV5TBeal,Lendama,Barry Hudson-Taylor,42,165500,Lendama,10/7/2022,0.314,0.0579,-26.341,0.0333,0.992,0.936,0.0827,0.108,98.92,4,calm
+2yDIfosvpcbhKj3liMHZov,Dancing the twelve,Eu Nice,44,158823,Dancing the twelve,7/8/2022,0.24,0.0326,-29.175,0.0398,0.99,0.928,0.103,0.225,204.257,3,calm
+45tnZArwDyo4hM7Zjguqb9,Pour dessiner des fleur,Maël Alexandrienne,61,144406,Pour dessiner des fleur,9/2/2022,0.406,0.0269,-28.116,0.036,0.995,0.948,0.114,0.141,95.673,3,calm
+0f0rJKPWIdhJ2OB6NyVpiZ,Flow Beside,Moldoveanu,41,116184,Flow Beside,11/25/2022,0.401,0.079,-24.34,0.0534,0.991,0.873,0.103,0.548,161.708,4,calm
+7Iq0ZUPmHIqREIW6YW1MY8,Ember Walk,Yasuo Zen,54,109744,Ember Walk,10/7/2022,0.248,0.015,-28.978,0.0328,0.987,0.921,0.107,0.299,77.643,4,calm
+6jUukScClzRj806CeCgGk6,Prevail,Christopher Galovan,41,160647,Prevail,5/20/2022,0.632,0.022,-29.264,0.0473,0.994,0.958,0.0935,0.374,67.988,3,calm
+0Orm7akGhYu09YPzKHZBpB,Time Passes Me By,En Sollozos,44,144000,Time Passes Me By,8/19/2022,0.548,0.153,-22.635,0.0313,0.976,0.91,0.106,0.261,135.216,5,calm
+0BET2XNs9xjzW6uQ5yvqjQ,Strosande,Alfred Janders,56,182500,Strosande,12/30/2021,0.432,0.0458,-30.643,0.0329,0.984,0.891,0.102,0.203,144.434,3,calm
+7AWRvkdNrKwbOtAdwrala2,Orpheus,Eric Sebastian,44,207253,Orpheus,12/2/2022,0.414,0.0177,-27.618,0.109,0.994,0.965,0.124,0.193,177.393,3,calm
+39bh8hsTP2ZBQWH0E308rT,Amour naturel,Massimo Pavoni,45,172000,Amour naturel,3/4/2022,0.351,0.00504,-31.773,0.0386,0.992,0.948,0.0921,0.0717,97.071,4,calm
+1DZgGPsQfkz9JUTzP2qQVr,"Canyon, Catch Your Thoughts",Warble,52,135458,"Canyon, Catch Your Thoughts",10/21/2022,0.425,0.0497,-26.293,0.0392,0.986,0.888,0.104,0.255,134.645,4,calm
+5MBETReLzdJo72i0ks7Fbn,Meadows,Jørg Sorensen,41,158793,Meadows,10/14/2022,0.435,0.0399,-25.734,0.0385,0.994,0.911,0.105,0.257,118.819,4,calm
+4oGosMElR0VhFZ2Fgu1U8Y,Dreamscape,Thomas Kessler,42,157042,Dreamscape,5/20/2022,0.333,0.0235,-21.916,0.0623,0.986,0.917,0.107,0.546,168.352,4,calm
+4VdPG8QlGPHNpLsBq7BquA,Delta,Con Alma,43,144639,Delta,8/26/2022,0.295,0.0956,-24.857,0.0303,0.985,0.902,0.11,0.352,82.433,4,calm
+38Hqdf7CgUrEnCO6DMqCPv,Let the water in,Christian Janssen,45,173894,Never ending Grace,8/5/2022,0.463,0.0225,-27.72,0.0346,0.993,0.929,0.111,0.254,99.396,4,calm
+7lUXTcOSlWXNGN25wj7iNf,Dorénevant,Élise Aucoin,48,148114,Dorénevant,8/19/2022,0.461,0.0256,-26.405,0.052,0.996,0.944,0.109,0.474,130.615,4,calm
+597H3V2av5dnxNcIDa4Yrk,Waitings,Felix Tanguy,69,139411,Waitings,9/9/2022,0.344,0.0893,-26.873,0.0354,0.99,0.927,0.0958,0.178,94.414,3,calm
+23FvAAvnx3NzbTmMiod5nf,In The End,Regnør,58,166320,In The End,6/24/2022,0.477,0.0384,-31.781,0.0372,0.983,0.952,0.123,0.149,91.452,3,calm
+0FAJDVUpuCzEhCGfouo8Fk,Chaleureuse,Aleron Lapointe,51,134899,Chaleureuse,2/11/2022,0.346,0.0474,-24.373,0.0321,0.993,0.919,0.0917,0.189,78.41,1,calm
+6nXUKDdwjPTmOTfRiU5AvY,La Cura de Lombao,Bart Sunshine,44,119762,La Cura de Lombao,9/2/2022,0.398,0.0818,-24.146,0.0461,0.991,0.89,0.105,0.215,89.945,3,calm
+7gK75qkpI8WjfL2Tpi3Z5C,Old Friends,Filomena,44,110954,Old Friends,8/26/2022,0.48,0.0348,-26.772,0.044,0.994,0.948,0.107,0.153,91.481,4,calm
+02xTpDXmKCTZnZMWQl8QV9,The Piano Tuner,Jordi Forniés,44,128976,The Piano Tuner,8/26/2022,0.482,0.0389,-27.209,0.036,0.987,0.961,0.109,0.191,44.153,4,calm
+635M2GuMSoVunGBe7D7vWz,Dawn Of Day,Sarah Seing,45,244374,Dawn Of Day,2/25/2022,0.394,0.0998,-29.231,0.0321,0.975,0.931,0.112,0.15,100.498,4,calm
+5urLXzOvDSHGqizIlsa1UK,Hidden Smile,Léonie Deval,48,126752,Hidden Smile,9/2/2022,0.491,0.106,-23.442,0.0588,0.995,0.968,0.105,0.395,88.01,3,calm
+2MQYYyWv4oin7VlNQDFb6n,For You,Joanne Gardiner,43,192358,For You,7/15/2022,0.393,0.104,-26.878,0.0425,0.988,0.922,0.0995,0.378,163.274,4,calm
+7CgSotbNO8YesINbIWsmaV,Nyári séta,Bodor Vencel,44,133691,Gyere velem,7/8/2022,0.551,0.0716,-23.494,0.0504,0.996,0.961,0.11,0.145,80.818,4,calm
+6U0Rth9EM8xwmg7rtrKV3t,Everlasting,Cassandra Nestico,52,154374,Everlasting,9/17/2021,0.43,0.0404,-29.926,0.0404,0.982,0.939,0.0982,0.104,82.137,3,calm
+5TU3nGBwp32iI4ZuA9OFSf,I'll Be There (In Time),Phoebe Weber,50,179000,I'll Be There (In Time),3/4/2022,0.38,0.0137,-30.315,0.0404,0.99,0.934,0.0944,0.18,129.773,3,calm
+2FqPT4G4ygSSRTerAfyUD6,Underverse,Carla Simmons,47,192842,In Faith,7/8/2022,0.315,0.0192,-29.55,0.0484,0.983,0.938,0.107,0.138,66.861,3,calm
+6MXhtfWjnKHwWB9PqVs8Po,1944,Daniel Schrage,51,136000,1944,9/2/2022,0.32,0.00887,-31.204,0.0464,0.994,0.93,0.0944,0.273,93.517,1,calm
+07ejQhAKkyJ0suOIuXsZjF,Time And Space,Ron Adelaar,42,132844,Time And Space,8/12/2022,0.424,0.0186,-29.397,0.0443,0.987,0.956,0.104,0.175,85.336,3,calm
+5ltbjrXShDx3IxIDc0V9pR,Rondel,Crimson Memoirs,51,123588,Rondel,9/2/2022,0.338,0.0475,-23.094,0.0285,0.987,0.942,0.11,0.138,79.942,3,calm
+0NInoCrExhcGEZFnRBBo0o,Ether,Astrid Sky,45,157170,Ether,8/19/2022,0.404,0.0341,-27.587,0.0611,0.995,0.923,0.117,0.239,105.706,4,calm
+44jnGxgCSoyxygFmpyCiPy,Another Life,Eu Nice,58,139777,Another Life,1/21/2022,0.385,0.0251,-27.255,0.0508,0.992,0.942,0.106,0.238,63.828,5,calm
+0cDZCWdR8bTlp7QRaBXBYD,Story Time,Jackson Love,40,129095,Story Time,8/17/2022,0.512,0.0493,-28.188,0.043,0.995,0.9,0.0973,0.524,74.929,4,calm
+2aVPRmQnQ95n2lPG1QjXr2,Hearts of Us,Niels Wang,51,136000,Hearts of Us,3/11/2022,0.267,0.052,-26.421,0.0343,0.991,0.919,0.116,0.269,77.457,4,calm
+78kCCDzaO09KZ8Fg7ZzIfF,River,Niklas Blumenthaler,45,177766,River,5/20/2022,0.536,0.0688,-24.904,0.0349,0.991,0.933,0.106,0.108,96.804,4,calm
+4AgEOcwJpmtE2fqhyqUIA8,Edgar's Garden,Mark Lieder,42,190335,Edgar's Garden,7/1/2022,0.318,0.00203,-28.112,0.0452,0.994,0.921,0.0956,0.249,123.286,4,calm
+2r4aYjCB1TuQXVgRIPb3Oe,Pensierino,Maura Bellucci,50,149500,Pensierino,2/18/2022,0.29,0.044,-29.674,0.053,0.996,0.934,0.103,0.137,161.642,4,calm
+6ff7MgoSLL9Cxi3t2qYVnA,Vejlefjord,Rasmus H Thomsen,40,134067,Vejlefjord,8/9/2022,0.359,0.0317,-27.093,0.0336,0.992,0.96,0.107,0.196,78.178,1,calm
+7wHSoSqiCeLNn56BjPvece,Ensamma nätter,Drömqvist,54,148090,Ensamma nätter,5/20/2022,0.5,0.025,-28.528,0.0606,0.977,0.957,0.104,0.183,110.023,4,calm
+3pTP6JJ5im89P2rICAfj3P,Crystal moon,Stephanie Middleton,44,186446,Rose garden,8/5/2022,0.375,0.032,-29.684,0.0452,0.988,0.842,0.0922,0.232,85.909,5,calm
+46vIeeL8h5pHZdm79kdP9X,Stars Forever,Sean Larson,40,188657,Stars Forever,2/18/2022,0.442,0.0117,-28.361,0.0461,0.995,0.947,0.101,0.0491,65.109,3,calm
+26vbSxJFaHq3Dvz5dJ21Ei,on a sunday,BARTH.,40,157786,finding peace,9/9/2022,0.436,0.0356,-24.023,0.0409,0.992,0.961,0.0895,0.238,129.932,4,calm
+1WmJtAYlrss3fI2jn5NF2R,Clear Air,Coralia del Villar,47,97285,Clear Air,11/25/2022,0.36,0.0297,-30.767,0.0338,0.994,0.924,0.0898,0.323,103.85,1,calm
+3HZF4X9kNjSDLppU9aw01r,Deux,Valerie Renaud,54,183602,Deux,4/14/2022,0.382,0.0179,-25.572,0.0359,0.991,0.937,0.0933,0.215,74.816,3,calm
+1gjZYQff9vXXru1KI6XJHd,Magnificent,Odette Montano,48,154000,Magnificent,12/3/2021,0.422,0.0384,-31.245,0.0376,0.992,0.911,0.099,0.306,96.666,3,calm
+1ZBFbDeigSeewJ4fjslV0p,Fifth Season,Dani Mezzo,47,167088,Fifth Season,2/11/2022,0.344,0.0392,-23.655,0.0442,0.958,0.887,0.111,0.155,128.484,4,calm
+7hq0zahMPS0Ct7k9tyI59F,Felt Improv No. 31,Niall Byrne,52,144042,Felt Improv No. 31,6/24/2022,0.393,0.0203,-31.088,0.0401,0.993,0.892,0.0851,0.173,52.993,5,calm
+05csUH7EHgeXK7Yky1nQFe,Un Lent Mouvement,Moleno,52,161624,Un Lent Mouvement,2/4/2022,0.424,0.0661,-27.191,0.0476,0.992,0.932,0.129,0.124,81.338,3,calm
+7aN5c4Faf6EI3u5gLojcRC,Between Us,Maria Buehler,43,127680,Between Us,8/19/2022,0.428,0.0598,-27.332,0.065,0.995,0.952,0.0978,0.119,140.933,4,calm
+4MbjcL460D3UHueKiREBPZ,Varazdin,Davorka Poljak,46,106500,Varazdin,6/24/2022,0.385,0.0467,-27.917,0.0458,0.995,0.914,0.112,0.495,74.732,1,calm
+3eKndOAWTLzbzqaAdBRwBR,Empires Luck,Sur Coast,60,182009,Empires Luck,12/15/2021,0.34,0.00262,-33.727,0.0557,0.995,0.944,0.0869,0.292,68.415,4,calm
+4E8wWBFP9pcapPCwhaweEu,Falling,Amida Lei,43,186000,Falling,4/8/2022,0.563,0.0575,-29.565,0.0504,0.992,0.923,0.099,0.2,59.759,4,calm
+7LEiXyKzCgKoyC886AWpZL,Get To Know You,Julius Cuvier,58,142636,Get To Know You,12/2/2021,0.465,0.0116,-31.845,0.0434,0.994,0.957,0.091,0.318,96.115,3,calm
+04HAuNsJ33EMeoNhiOQLcQ,Walking Slowly,Emanuel Driesen,41,198000,Walking Slowly,7/1/2022,0.298,0.033,-29.774,0.046,0.99,0.909,0.125,0.121,87.406,4,calm
+4DS4TRvAEwnpi5A1Qm2oCb,Frühlingsmorgen,Marcel Kaestner,41,139124,Frühlingsmorgen,5/6/2022,0.494,0.122,-29.449,0.0621,0.995,0.966,0.114,0.411,87.619,4,calm
+27NsmJyv3hRvtP9V48xYNB,D'émeraude,Daniel Joaví,60,126000,D'émeraude,2/4/2022,0.458,0.0161,-27.243,0.0425,0.995,0.965,0.0907,0.0714,138.182,3,calm
+0OiXiEqUyVZrz8OnJkek2q,"Apart, Together",Garreth Broke,44,124074,"Apart, Together",10/22/2021,0.318,0.00771,-26.014,0.0444,0.995,0.758,0.101,0.132,79.263,4,calm
+7dGuSEYGWw0BJpjbe9nzZL,Four Days With You,Nina Fiadh,55,172849,Four Days With You,11/4/2021,0.33,0.0109,-30.403,0.0356,0.982,0.924,0.112,0.208,82.43,4,calm
+5YvY66JItF2jFFKeB27pmO,pt. 1 Owl Light,Stephan Moccio,54,189906,pt. 1 Owl Light,3/4/2022,0.442,0.0992,-22.153,0.0346,0.983,0.852,0.0975,0.213,113.645,3,calm
+3iGoaawn0i6d0IUESJxM0f,Irreversible,Karl Hasselfors,49,136045,Irreversible,1/14/2022,0.337,0.0293,-27.45,0.0433,0.995,0.926,0.0856,0.104,59.138,3,calm
+76agaZQuHOXaW7FoulqfD0,Who You Are,Cary Appleby,54,162000,Who You Are,9/3/2021,0.412,0.0598,-29.046,0.0399,0.995,0.971,0.11,0.464,54.351,4,calm
+2IxfYyUQFZWoopvcfOmKnV,Impressions,Joseph Vaux,53,163500,Impressions,4/16/2021,0.427,0.0108,-32.288,0.048,0.993,0.897,0.0878,0.419,57.486,5,calm
+5BBfQHJVWKxlVEccsELxDI,Me Donner Un Essai,Zander Shaelyn,54,117423,Me Donner Un Essai,9/30/2021,0.416,0.0207,-32.266,0.0413,0.99,0.932,0.0981,0.195,118.822,4,calm
+5y2VQOhr2C26gGbxZfx9DT,Cavandoli,Léon Branche,50,158168,Cavandoli,2/25/2022,0.336,0.0514,-24.175,0.0417,0.993,0.944,0.111,0.0988,82.035,1,calm
+5mz01kqyV5Q02HRq0ITNQr,Winter im Herzen,Sander Berisha,50,176400,Winter im Herzen,2/4/2022,0.484,0.0205,-27.805,0.0459,0.996,0.968,0.0996,0.0974,70.947,3,calm
+1ZDPKU4OiLJoej4IFqOyHP,Heather's Croft,Silje Mørk,48,177041,Heather's Croft,1/7/2022,0.382,0.0398,-22.625,0.0353,0.988,0.933,0.102,0.243,108.354,3,calm
+7J6nPXzpkCcAOdVgCkCNtM,Früh,Franz Ewer,47,127217,Früh,12/10/2021,0.47,0.0633,-28.645,0.0411,0.979,0.968,0.108,0.129,104.15,5,calm
+7xpf7Qnslkz8n7PH20N4mV,L'automne est là,Alcide St Pierre,47,143500,L'automne est là,1/7/2022,0.47,0.0884,-26.904,0.036,0.985,0.915,0.108,0.199,99,3,calm
+5hWiDRCRKtf8TDpoX1Idk4,Where Stars Are Born,Andrea Monet,54,187347,Where Stars Are Born,11/5/2021,0.475,0.0631,-27.611,0.0369,0.989,0.953,0.103,0.16,134.841,4,calm
+34RaFwlrqyE7uOMrrqVre2,Growing Old,Ezequiel Johnson,54,126250,Growing Old,12/3/2021,0.383,0.0191,-32.937,0.0455,0.993,0.976,0.133,0.422,119.226,4,calm
+4C7ZY0HRPVn9G5bgYAertD,Voyage á’louest,Lo Mimieux,48,175718,Voyage à'louest,1/14/2022,0.492,0.0144,-24.983,0.0603,0.99,0.951,0.106,0.535,75.528,3,calm
+05IVJHxixrLD0oVi63i6Fn,Chalet High,Boone River,51,159871,Chalet High,2/25/2022,0.494,0.0255,-24.453,0.0375,0.98,0.943,0.108,0.22,93.41,4,calm
+3W5GfZBvDJQKovjdCww4pL,Impuissance,Luisa Amogida,48,123888,Impuissance,12/10/2021,0.448,0.011,-26.821,0.0469,0.996,0.94,0.101,0.301,92.778,1,calm
+7EFwlg7IwnYdrfNCYCOGDd,Le crépuscule,Pascale Perrot,49,130291,Le crépuscule,12/30/2021,0.199,0.0153,-30.997,0.0459,0.995,0.891,0.105,0.165,75.403,4,calm
+6Y7GT4UuGkUFhYHxVLQ4bF,Ce Jour Là,Eugène Arnaud,58,168500,Ce Jour Là,10/29/2021,0.392,0.00607,-31.917,0.0479,0.995,0.891,0.11,0.422,59.807,4,calm
+1BMXuo67CPYuccFQO0r0v9,Hymne d'été,Gael Motif,47,134000,Hymne d'été,8/30/2021,0.502,0.0151,-30.803,0.0445,0.989,0.957,0.125,0.258,91.148,3,calm
+6p8tAo2HjobS7Me75EJcBq,Homeward,Bjarni Erlingursson,47,151624,Homeward,12/10/2021,0.416,0.0472,-29.503,0.038,0.988,0.967,0.103,0.152,85.571,4,calm
+4MiTIkXSAqWTkZlUvA5QJ2,Subitum,Nordiska Piano,45,167000,Subitum,10/29/2021,0.402,0.0277,-29.765,0.042,0.963,0.942,0.0942,0.076,120.278,4,calm
+4b3x8mk3a6N9ccMIMdGLy1,Evensong,Ben Crosland,48,131666,All The Things We Could Know,10/22/2021,0.464,0.0802,-26.387,0.0355,0.99,0.945,0.102,0.131,85.426,3,calm
+3oOUb7QryUQhLv2ZpLPSI8,April Sun,Pequeño Casero,41,128000,April Sun,10/29/2021,0.418,0.0241,-26.504,0.0401,0.989,0.923,0.109,0.117,134.685,3,calm
+0i5RkqFU2XfihIcxTxG3h1,Home full of solipsism,Biba Dupont,55,177882,Home full of solipsism,10/8/2021,0.479,0.0431,-28.446,0.0378,0.996,0.94,0.0914,0.172,95.694,3,calm
+0LOaCUBNsulgH8qEHH7Y4O,Zadar,Davorka Poljak,43,123250,Zadar,9/3/2021,0.389,0.0814,-27.75,0.0466,0.994,0.927,0.106,0.512,140.637,4,calm
+7vMeKpR5hUoPo8nylUFO5x,Fall In Grace,Chris DiGiorgio,47,144250,Resting Grounds,9/3/2021,0.33,0.0419,-29.018,0.0438,0.966,0.91,0.109,0.201,62.403,4,calm
+2lMF3cGQbTOzELfwj4Ex3F,Still,Frederiq,62,151500,Still,12/17/2021,0.438,0.0358,-28.953,0.0344,0.987,0.93,0.0966,0.115,90.827,4,calm
+1sJlo3mVGO7kcbEJRKfeKy,I Belong Here,Aaron Robichaux,55,133000,I Belong Here,6/1/2021,0.515,0.0306,-34.997,0.0662,0.996,0.952,0.092,0.364,62.057,4,calm
+2QClIsZ4xDAgmVSWQT9RRF,Moving Forward,Rikard From,41,126434,Moving Forward,7/16/2021,0.248,0.0173,-24.515,0.0417,0.995,0.936,0.0946,0.179,199.345,4,calm
+3DHvdguXXEjrlZuileL4hi,Cador,Domitila James,43,149000,Cador,3/16/2021,0.448,0.0128,-32.765,0.0581,0.995,0.926,0.0812,0.21,59.934,3,calm
+322iMyBTTUhTCGRttDs6CY,Tournesol,Edie Chastain,46,133719,Tournesol,4/9/2021,0.386,0.0276,-30.585,0.0405,0.994,0.943,0.11,0.477,139.099,3,calm
+1cmigB9I6IRpFqjIbzvSQB,"Suite bergamasque, L. 75: III. Clair de lune",Claude Debussy,69,294960,"Debussy: Suite bergamasque, L. 75, 3. Clair de lune",7/27/2018,0.335,0.00501,-33.366,0.0451,0.993,0.919,0.0618,0.0383,132.085,3,calm
+0jOnZhF75V68VsBObWx2XO,"The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)",Camille Saint-Saëns,72,174266,Songs from the Arc of Life,9/18/2015,0.169,0.0161,-31.034,0.0442,0.986,0.86,0.0805,0.0573,128.143,3,calm
+3JdD9wqvohYMjK6BmEHtTP,Satie / Orch. Ducros: Gymnopédie No. 1,Erik Satie,67,172120,Emotions,11/6/2020,0.0921,0.0183,-31.858,0.0513,0.942,0.94,0.195,0.039,166.979,3,calm
+2m2GJpBjQNNphaCgBeoj7R,Fracture,Stephan Moccio,70,207640,Fracture,4/17/2020,0.324,0.0186,-28.248,0.0476,0.99,0.934,0.105,0.126,85.297,4,calm
+6y1FgcqMY76hCk9qLxUuy4,3 Spirituals for Orchestra: No. 2. Kum Bab Yah,Adolphus Hailstork,63,170213,Hailstork: Orchestral Music,6/5/2012,0.141,0.00268,-37.571,0.0427,0.945,0.601,0.0756,0.0386,140.372,5,calm
+4SsDrt7HV1ECcJ2A7EHfLL,Filma Solo,Gabríel Ólafs,60,195154,Piano Works,6/26/2020,0.213,0.0377,-33.06,0.0475,0.986,0.869,0.139,0.0973,165.763,4,calm
+1G3QPQkoXvpChjNUhd6Tfs,The Arts and the Hours,Jean-Philippe Rameau,65,285442,"Rameau, Ólafsson: The Arts and the Hours",3/6/2020,0.415,0.026,-36.7,0.0496,0.995,0.938,0.107,0.268,136.191,4,calm
+2zM7Ato6xDOi8ten4qn7Cm,Natural Light,Ludovico Einaudi,63,335542,Natural Light,10/29/2021,0.218,0.00352,-39.627,0.0515,0.992,0.951,0.139,0.192,68.61,4,calm
+2eSVQH8lwcrUBs7dpEj7p7,"Préludes / Book 2, L. 123: 5. Bruyères - Home Session",Claude Debussy,63,216061,Debussy: Bruyères (Home Session),10/16/2020,0.3,0.0405,-31.023,0.0449,0.992,0.948,0.138,0.233,63.821,3,calm
+5WEmDvDiRpE7p3y8SMMAPJ,Henry V: Henry V: Touch her soft lips and part,William Walton,62,93840,This is the Day: Music on Royal Occasions,4/24/2012,0.146,0.019,-31.365,0.0476,0.92,0.878,0.0864,0.0492,81.526,3,calm
+0bCSGdS5SRvzoz4IBTD55W,Losar,Joep Beving,62,221061,Losar,3/29/2021,0.305,0.0384,-28.605,0.0301,0.961,0.902,0.0886,0.0856,81.917,3,calm
+3qLZnIVAiGexuNuG8Aptrq,"By the Still Waters, Op. 114",Amy Beach,60,187293,"Beach: By the Still Waters, Op. 114",6/4/2021,0.219,0.00913,-42.727,0.0352,0.993,0.882,0.0807,0.0702,75.77,4,calm
+43bSKCMWHIuBsUVmQcDX1J,"Rêverie, L. 68: Rêverie",Claude Debussy,64,257000,Debussy Piano Edition,1/1/2012,0.296,0.00896,-31.948,0.0394,0.994,0.91,0.0815,0.0673,69.44,3,calm
+3NbAsIxDL0fVgNuCLD152P,"Dolly Suite, Op. 56: I. Berceuse",Gabriel Fauré,66,176518,Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus,1/1/2015,0.37,0.0076,-33.663,0.0384,0.995,0.91,0.0864,0.278,62.668,4,calm
+5TtmI9sfXw4VXco0PE21mV,"2 Aquarelles: Lento, ma non troppo",Frederick Delius,66,132120,"ENGLISH STRING MINIATURES, Vol. 4",3/8/2002,0.176,0.0534,-27.626,0.0406,0.97,0.915,0.29,0.0332,71.673,5,calm
+2EAgTVB2EdsMdqaqOk062L,Frühlingsglaube (Arr. Franz Liszt),Franz Schubert,63,216284,Tchaikovsky: Piano Concerto No. 1,8/28/2012,0.227,0.00482,-36.351,0.036,0.993,0.912,0.157,0.0731,70.684,5,calm
+35otBCRXC8HdmRqndFStL0,En nacelle,Henrique Oswald,60,165693,Oswald: Works for Piano,10/2/2015,0.429,0.0234,-29.753,0.0489,0.995,0.957,0.0962,0.0751,116.163,4,calm
+2ZGFYsDWwjU0BBvVAw6js9,The Lily - Piano Version,Gabríel Ólafs,59,116960,The Lily,5/20/2022,0.435,0.00889,-33.986,0.046,0.992,0.941,0.121,0.29,110.307,3,calm
+1XJMRdFSgkrmw2cXLJOD0b,"3 Visions: No. 2, Summerland",William Grant Still,60,293520,Citizen,1/25/2019,0.46,0.00618,-28.121,0.0481,0.994,0.89,0.0896,0.086,67.12,3,calm
+308fmwi0Y8ULBSzthdhooI,Stille Musik: 3. Augenblicke der Serenade,Valentin Silvestrov,59,137413,Bagatellen und Serenaden,9/14/2007,0.16,0.00726,-39.362,0.0436,0.971,0.952,0.139,0.0336,86.12,5,calm
+06vaPTVwFkFxCzmJDXlfx5,A Little Book of Hours: VI. Singing Sun,Peter Sculthorpe,59,103600,Piano Icons for the 21st Century,1/1/2000,0.346,0.00398,-44.526,0.0537,0.992,0.878,0.0643,0.318,78.891,5,calm
+6B0ZlLf0p2s1Lwt3ivAXKy,Still,Ola Gjeilo,61,142333,Still,8/23/2019,0.398,0.00209,-39.959,0.0444,0.996,0.955,0.0813,0.0971,71.461,4,calm
+3LRYwBJECFeQGi16cPxEZY,Wasserklavier,David Arden,58,122840,Luciano Berio - The Complete Works For Solo Piano,1996,0.32,0.00157,-43.77,0.0715,0.985,0.0465,0.05,0.109,78.685,4,calm
+1HE6aHCUtC6Mx0kiOsRUIS,II. floating leaf,Konstantia Gourzi,58,137520,"wind whispers, Op. 85/II. floating leaf",2/4/2022,0.248,0.00832,-38.205,0.0485,0.995,0.923,0.0669,0.239,175.256,3,calm
+6tmzIxHREnZzKSDMm6CNNS,"Poulenc: Cello Sonata, FP 143: II. Cavatine",Francis Poulenc,59,386506,Debussy/Poulenc/Franck/Ravel:Music for Cello & Piano,4/15/2002,0.13,0.00924,-27.853,0.0448,0.988,0.909,0.0849,0.0369,77.307,4,calm
+5SHZOPZyGmRUwGgahmn32d,"Ave verum corpus, K.618 (Arr. for Piano by Franz Liszt)",Wolfgang Amadeus Mozart,57,195000,"Lacrymosa from Mozart's Requiem, S. 550",4/7/2023,0.435,0.00354,-39.482,0.0485,0.986,0.909,0.096,0.179,68.542,4,calm
+1d1FNmfO3dFlH8873yNFX3,Five Pieces For Violin And Piano: I. Elegia (Andante Larghetto),Valentin Silvestrov,59,179360,"Takemitsu, Hindemith, Janáček, Silvestrov: Five Pieces",9/23/2011,0.0694,0.00525,-35.45,0.0482,0.972,0.00751,0.0739,0.036,73.566,4,calm
+1PINN6x0Riouab3wPSglpp,An Idea,Leo Brouwer,60,158520,En Otra Parte,9/6/2013,0.294,0.00785,-29.64,0.0667,0.994,0.956,0.0929,0.173,70.958,3,calm
+2GnYCy70I8cR4oEA2wsSDx,"The Hours: An Unwelcome Friend (From ""The Hours"")",Philip Glass,60,256146,"Philip Glass: Glassworlds, Vol. 4 – On Love",6/10/2016,0.253,0.00429,-36.172,0.0523,0.99,0.912,0.103,0.0368,74.497,3,calm
+1Oo7XEqkrwifJn17aA0ocF,"Sechs Klavierstücke, Op. 118: II. Intermezzo in A Major",Johannes Brahms,65,378733,Volodos Plays Brahms,4/7/2017,0.299,0.00626,-30.923,0.0478,0.994,0.901,0.0823,0.0634,69.043,4,calm
+06emSBtL6jcUXcjVlayUHl,"12 Songs, Op. 21: V. Lilacs (Transcr. Rachmaninoff for Solo Piano)",Sergei Rachmaninoff,58,181693,"Rachmaninoff: 12 Songs, Op. 21: V. Lilacs (Transcr. Rachmaninoff for Solo Piano)",7/10/2020,0.168,0.00571,-36.245,0.0404,0.995,0.92,0.068,0.0705,78.043,3,calm
+6XmozAAnvBf2VtLL53AkX0,Walk With Us - For Black Lives Matter,Alexis Ffrench,58,120456,Walk With Us (For Black Lives Matter),8/28/2020,0.299,0.0264,-26.535,0.0469,0.995,0.882,0.073,0.235,168.963,5,calm
+18JxYMTSFKZlxqdNFrOs1r,"Prelude in B minor, BWV 855a (Arr. by Alexander Siloti)",Johann Sebastian Bach,58,241803,"Prelude in B minor, BWV 855a (Arr. by Alexander Siloti)",11/12/2021,0.182,0.0377,-33.748,0.0391,0.987,0.957,0.0804,0.0923,100.482,4,calm
+2FR3mH7DwsaX3TcObkUEX3,Infinity,Rosey Chan,62,448000,Sonic Apothecary,3/26/2021,0.358,0.00554,-29.617,0.0479,0.992,0.894,0.176,0.0587,67.103,3,calm
+0RnF44RV45by9HTtZuttgl,"6 Encores for Piano (1965): No. 3, Wasserklavier",Luciano Berio,57,139653,Liszt Inspections,6/1/2015,0.255,0.00172,-47.903,0.0582,0.961,0.355,0.0681,0.17,75.399,4,calm
+36EnMgx9PmtnzUtmKwI63h,"Goldberg Variations, BWV 988: Variation 1 (Arr. for Harp)",Johann Sebastian Bach,58,116960,Bach: Goldberg Variations: Variation 1 (Arranged for Harp),8/28/2020,0.354,0.116,-28.692,0.0399,0.987,0.883,0.124,0.181,82.627,4,calm
+5bu9A6uphPWg39RC3ZKeku,"Goldberg Variations, BWV 988: Aria",Johann Sebastian Bach,66,184853,"Bach: The Goldberg Variations, BWV 988 (1981 Gould Remaster)",1981,0.454,0.0139,-29.966,0.0514,0.995,0.943,0.0736,0.244,130.253,4,calm
+4bFdyisLdkeS7tmbAWpl13,Memories of a Promenade II,Olga Scheps,58,206162,Melody,3/8/2019,0.215,0.0282,-28.351,0.0353,0.991,0.877,0.107,0.167,74.408,4,calm
+5k4Eagqnz3YKdMLjSSi0DD,El cant dels ocells (Song of the Birds) (version for cello and orchestra),Pablo Casals,58,229413,Elegy,2/3/2015,0.16,0.0261,-33.263,0.0517,0.917,0.232,0.113,0.0305,88.549,4,calm
+2cnCYr5QgPJG0OJqYY4DGF,3 Pieces in Old Style: No. 1. Aria,Krzysztof Penderecki,57,133160,Penderecki: Sinfoniettas - Oboe Capriccio,2/7/2012,0.153,0.0398,-31.174,0.0432,0.867,0.965,0.114,0.0373,85.367,4,calm
+1v3gGmcneK1QzYyBFiBXG0,"Montero: Adagio (After Bach's Violin Concerto No. 2, BWV 1042)",Johann Sebastian Bach,61,301400,Bach and Beyond,5/1/2006,0.36,0.00301,-35.441,0.0444,0.994,0.897,0.0557,0.18,72.892,4,calm
+1YcABWwgkfrOSw8VMgDWZU,My fellow creatures,Carlos Cipa,60,205493,"Correlations B-Sides (on Yamaha Upright, 1981)",11/20/2020,0.321,0.00611,-38.341,0.0362,0.995,0.908,0.09,0.0693,104.311,4,calm
+3CkbfNMYISwMGg2guJtTe4,"Concerto en ré mineur, BWV 974: II. Adagio",Johann Sebastian Bach,58,253413,Alexandre Tharaud: Baroque,12/7/2010,0.354,0.0322,-27.492,0.0435,0.992,0.955,0.104,0.0638,67.872,4,calm
+5KIOfWtUEKrxDNi4OnIpg2,Avril 14th (Aphex Twin) - Vanessa Wagner Version,Murcof,58,165020,Avril 14th (Aphex Twin) [Vanessa Wagner Version],11/3/2017,0.395,0.0826,-18.982,0.0432,0.995,0.93,0.126,0.119,93.288,4,calm
+3zrcDZ9hPNkZuq20pxPb9o,"Cello Sonata in G Minor, Op. 65: III. Largo",Frédéric Chopin,61,204520,"1846, dernière année à Nohant - Chopin: Cello Sonata; Piano Works",2/23/2015,0.124,0.0103,-31.768,0.04,0.983,0.85,0.0988,0.08,84.374,3,calm
+0BGJjuvUKA1UqlfADE6Lyx,La Vierge / Scene 4: The Assumption: Le dernier sommeil de la Vièrge (The Last Sleep of the Virgin),Jules Massenet,57,302466,Clair de Lune - Orchestral Favourites; Waldteufel - Waltzes,5/10/2019,0.162,0.0888,-26.139,0.0358,0.866,0.378,0.115,0.0391,81.612,4,calm
+4HMf8DnYWNpEbjgvQJFWl6,Passage,Joep Beving,57,312373,Passage,3/29/2023,0.459,0.0073,-29.42,0.0366,0.992,0.96,0.149,0.109,60.19,3,calm
+3MRQn2RYo2VLYMoStnLRxu,"Ravel: Pavane pour une infante défunte, M. 19",Maurice Ravel,62,346586,Ravel: Complete Works for Solo Piano,1/15/2016,0.491,0.0176,-26.911,0.0644,0.994,0.927,0.0985,0.0901,125.793,3,calm
+6MzbO6YS0M6tjwT93hjAl0,Ave María (Arr. Víkingur Ólafsson) - Upright Piano,Sigvaldi Kaldalóns,64,216213,Kaldalóns: Ave María (Arr. Víkingur Ólafsson),7/22/2022,0.33,0.00357,-33.142,0.0339,0.995,0.953,0.0989,0.121,100.741,3,calm
+3gCYBFexR8dQZWeu4F15eu,"Piano Concerto in A minor, Op. 16: II. Adagio - Live",Edvard Grieg,59,398240,"Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",9/9/2016,0.172,0.014,-27.988,0.0424,0.981,0.902,0.0735,0.0348,144.414,3,calm
+5gbZe9oyXXQDMLXFGsR4YC,Through The Blue - Piano Version,Roger Eno,66,225494,Through The Blue (Piano Version),3/29/2023,0.441,0.00957,-26.839,0.0308,0.987,0.884,0.0954,0.373,75.403,4,calm
+6DV5mwk2kZw6GiDR2XUsjP,much loved,Rachel Portman,58,262413,ask the river,5/8/2020,0.152,0.0195,-24.946,0.0395,0.99,0.944,0.0676,0.0906,143.978,3,calm
+2Kn5PauE1nEJxUQlD6N3JF,"Jesu, Joy of Man's Desiring - Arr. by Alexis Ffrench",Alexis Ffrench,57,128242,"Jesu, Joy of Man's Desiring",4/14/2023,0.366,0.143,-23.078,0.0497,0.995,0.946,0.137,0.318,94.229,4,calm
+21Fs9UuXGoESVVESdWTxZ5,Danny Boy,Xuefei Yang,56,212040,Danny Boy,11/18/2022,0.464,0.0216,-25.896,0.0466,0.987,0.863,0.0974,0.235,101.965,4,calm
+3C8Xxgad3ejXfJ0RiJq9G1,"Suite d'orchestre dans le style ancien, Op. 2: II. Sarabande. Mesto",Albéric Magnard,57,129360,Magnard: Orchestral Works,4/24/2020,0.171,0.00926,-31.675,0.044,0.993,0.946,0.128,0.0399,116.418,4,calm
+79uXvsyNG97zMLLq4bloRa,One More Shot,CIL,72,141184,One More Shot,10/5/2022,0.765,0.435,-6.224,0.0381,0.715,0,0.0784,0.562,109.969,3,calm
+7x6hO9VMAee9x1iWaeNkL6,To Zion (feat. Carlos Santana),Ms. Lauryn Hill,63,369293,The Miseducation of Lauryn Hill,8/25/1998,0.41,0.601,-10.714,0.504,0.127,0,0.112,0.516,173.273,4,calm
+2WRDu73mfK4aZiVucqs0PZ,Lately,Celeste,56,244693,Not Your Muse (Deluxe),1/29/2021,0.638,0.277,-9.005,0.0351,0.367,0.000201,0.075,0.361,133.637,4,calm
+2IqjKEBiz0CdLKdkXhxw84,Retrograde,James Blake,65,223600,Overgrown,4/8/2013,0.533,0.251,-11.283,0.0372,0.873,0.104,0.134,0.186,77.503,4,calm
+1Omt5bfz1tZUCqd26HxbS0,Beyond,Leon Bridges,73,240600,Good Thing,5/4/2018,0.581,0.687,-5.4,0.105,0.229,0,0.109,0.187,76.014,4,calm
+1EeS8SQ0BAhNrLVLCNrxrj,Morning Matters,Yazmin Lacey,60,246800,Morning Matters,2/27/2020,0.624,0.556,-9.095,0.0947,0.521,0.0449,0.298,0.472,86.048,4,calm
+4HfLQJtVT1KiX1eVedDyTm,Alaska,Maggie Rogers,71,188000,Heard It In A Past Life,1/18/2019,0.847,0.386,-10.668,0.0507,0.411,0.00176,0.108,0.178,104.001,4,calm
+7bPWdJgx8vek7S5i5yAtvG,Chemtrails Over The Country Club,Lana Del Rey,72,271176,Chemtrails Over The Country Club,3/19/2021,0.334,0.276,-13.125,0.0643,0.877,0.000249,0.113,0.429,201.025,3,calm
+3B3eOgLJSqPEA0RfboIQVM,Skinny Love,Bon Iver,73,238520,"For Emma, Forever Ago",2/19/2008,0.592,0.263,-14.029,0.0568,0.845,5.68E-06,0.127,0.109,76.366,4,calm
+3mMduiD8yb4IaS5tZKqSZy,Motorbike,Leon Bridges,58,188617,Gold-Diggers Sound,7/23/2021,0.721,0.485,-11.213,0.0681,0.158,0.275,0.107,0.614,150.027,4,calm
+1hEh8Hc9lBAFWUghHBsCel,Porcelain,Moby,72,238920,Play,5/17/1999,0.515,0.613,-8.423,0.0305,0.00147,0.202,0.449,0.357,94.925,4,calm
+37pShAS4iuRXJeRAa9k6xw,Black Dog,Arlo Parks,54,228760,Collapsed In Sunbeams,1/29/2021,0.666,0.545,-8.031,0.0354,0.686,0.015,0.117,0.378,86.385,4,calm
+7znjbX9XdoQayIrVNdd50Z,The Girl From Ipanema,Stan Getz,64,320253,Getz/Gilberto (Expanded Edition),1964,0.653,0.149,-17.866,0.0392,0.867,0.000983,0.0986,0.481,130.359,4,calm
+42Q00bTTgyQhPE2FVWaoJE,All I Need To Hear,The 1975,59,210447,All I Need To Hear,9/21/2022,0.4,0.245,-10.227,0.0344,0.906,0.00131,0.119,0.21,136.553,3,calm
+2Ck6gblyk3UFCVPTh8o3TN,Youth,Daughter,69,253013,If You Leave,3/18/2013,0.396,0.535,-11.09,0.0411,0.889,0.00678,0.116,0.435,146.416,4,calm
+3TjoLn6AliBGi3QbwwTxKp,Swan Upon Leda,Hozier,65,222026,Swan Upon Leda,10/7/2022,0.312,0.399,-8.506,0.0321,0.471,0.583,0.13,0.144,126.025,4,calm
+4ygRdvjxDYngbgddCtXDjT,In a Manner of Speaking,Nouvelle Vague,62,238000,Nouvelle vague,5/11/2004,0.805,0.337,-12.664,0.0363,0.755,0.00783,0.11,0.643,119.98,4,calm
+1dWUBCoztAMZcqec1CAE6z,Butterflies (feat. AURORA),Tom Odell,70,130666,Butterflies (feat. AURORA),1/27/2023,0.326,0.157,-16.287,0.0415,0.971,0.138,0.191,0.3,178.711,4,calm
+3Q5EDW5YtRcnrWS2fTFnw1,Let You Go,RY X,53,232386,Blood Moon,6/17/2022,0.634,0.413,-11.168,0.0403,0.564,0.433,0.116,0.038,91.982,4,calm
+0u4rkpmNtgcFxYHepnVF4v,Carry You,Novo Amor,68,273106,Bathing Beach,5/26/2017,0.334,0.397,-7.993,0.0284,0.558,0.0774,0.126,0.035,93.445,4,calm
+2dk5HQv2V6hEVeGGlPvCFA,Sharpness,Jamie Woon,56,207133,Making Time,10/30/2015,0.849,0.583,-7.865,0.0565,0.259,0.167,0.102,0.666,98.011,4,calm
+3zBhihYUHBmGd2bcQIobrF,(Sittin' On) the Dock of the Bay,Otis Redding,79,163755,The Dock of the Bay (Mono),1968,0.769,0.367,-11.226,0.0312,0.684,1.62E-05,0.081,0.535,103.621,4,calm
+1AW4amyytwC0JNVmpVngIN,Words Remain,Moderator,54,207283,The World Within (Deluxe),2/19/2015,0.619,0.695,-8.296,0.0404,0.408,0.585,0.142,0.718,80.775,4,calm
+0HmdysB9yEb1EVWe7aNIGT,Devil That I Know,Jacob Banks,49,170803,For My Friends,3/12/2021,0.509,0.067,-14.041,0.0636,0.976,3.04E-05,0.113,0.0773,83.414,5,calm
+3ieUtb4ecQgEYxae8dzEUi,Shrike,Hozier,65,298880,"Wasteland, Baby!",3/1/2019,0.506,0.275,-8.464,0.0292,0.494,0.00377,0.101,0.0639,153.769,3,calm
+4HCcvFdHfwR2u3WPPPVRv6,Green & Gold,Lianne La Havas,60,278200,Blood,7/31/2015,0.7,0.4,-8.46,0.0465,0.212,0.000321,0.55,0.28,93.959,4,calm
+3X3cftpXwcSXQM4fC5ihdo,Maybe I’m Lonely,Rachel Chinouriri,55,152141,Maybe I’m Lonely,2/1/2023,0.514,0.305,-11.26,0.031,0.747,1.58E-05,0.165,0.336,49.534,4,calm
+4ox2odCf0XL0g6692URWwe,But I Do,Poldoore,60,240000,Street Bangerz Volume 6: Playhouse,5/30/2012,0.65,0.7,-5.632,0.0346,0.00137,0.343,0.147,0.689,93.007,4,calm
+6g7cJdDNjCDgqcpVGLzYhh,Sunflower,Tamino,58,263653,Sahar,9/23/2022,0.468,0.281,-11.222,0.027,0.659,0.199,0.234,0.0992,115.89,3,calm
+32L9L0Hg4skEWlog49n1a3,I Won't Let You Down,Curtis Harding,48,244200,I Won't Let You Down,7/7/2021,0.586,0.531,-6.738,0.0299,0.627,0.413,0.0968,0.823,180.457,4,calm
+4Y1igB1GDncJvt7ezbV3cW,Suspirium,Thom Yorke,59,201768,Suspiria (Music for the Luca Guadagnino Film),10/26/2018,0.457,0.223,-15.432,0.0317,0.988,0.918,0.135,0.438,150.998,3,calm
+1r5JnD5hiJrViG0DUG02Jv,Drive,Charlotte Cardin,41,190642,Drive,1/9/2019,0.678,0.417,-6.185,0.0371,0.0161,4.00E-06,0.316,0.434,74.981,1,calm
+17U419gIQ6wNVaMIogj2QI,Daylight,Lissom,44,196069,Daylight,4/29/2022,0.374,0.0861,-17.532,0.0294,0.964,0.0335,0.0892,0.143,140.063,4,calm
+2fgINBjLf7eCI3ky3n2gnS,Moins joli,Iliona,58,179880,Moins joli,1/15/2021,0.532,0.18,-14.76,0.0466,0.94,0.000263,0.258,0.131,92.404,4,calm
+2rkWdRk71jf5WtWXcs8qzw,The First Disciple,Tamino,49,362432,Sahar,9/23/2022,0.599,0.333,-13.255,0.0315,0.882,0.239,0.115,0.173,130.552,4,calm
+0A0QXR6AT2UuhlrrLhDMn0,Sonatine,Chilla,49,233666,Sonatine,10/19/2022,0.402,0.183,-11.518,0.0366,0.873,2.59E-06,0.107,0.308,128.146,4,calm
+0NslHuacjxQYfUTOW3HCIV,New Slang - 2021 Remaster,The Shins,74,230866,"Oh, Inverted World (20th Anniversary Remaster)",6/19/2001,0.67,0.403,-10.623,0.031,0.753,0.0903,0.0858,0.622,129.984,4,calm
+11VwZwNF29HrqwalYUMitb,Pale Blue Eyes,The Velvet Underground,64,339533,The Velvet Underground (45th Anniversary),1969,0.637,0.107,-18.759,0.0349,0.911,0.00146,0.103,0.296,82.879,4,calm
+0BgbobvykXxEvxo2HhCuvM,Banana Pancakes,Jack Johnson,72,191906,In Between Dreams,1/1/2005,0.814,0.373,-8.017,0.116,0.602,1.70E-05,0.0931,0.632,114.548,4,calm
+5bTWrzP0XXArAJTR26FMF3,A Quiet Voice,Rhye,49,282812,A Quiet Voice,1/27/2023,0.731,0.438,-13.79,0.0416,0.934,0.365,0.0584,0.487,148.026,4,calm
+5mLcaGVV89H58FWJ677E6K,Worry,Jack Garratt,52,242560,Phase (Deluxe),2/19/2016,0.585,0.491,-10.083,0.222,0.169,0.000317,0.5,0.343,90.196,4,calm
+2M9ro2krNb7nr7HSprkEgo,Fast Car,Tracy Chapman,80,296800,Tracy Chapman,4/5/1988,0.711,0.292,-15.523,0.037,0.313,0,0.131,0.194,103.951,4,calm
+4m6d9oMljnYhxgY46vTTs8,Le temps fera les choses - Alternative version,Angèle,53,177653,Nonante-Cinq La Suite (Deluxe),2/16/2023,0.556,0.529,-6.455,0.0473,0.467,0,0.115,0.314,89.998,4,calm
+3CAX47TnPqTujLIQTw8nwI,Old Pine,Ben Howard,68,328506,Every Kingdom,1/1/2011,0.401,0.364,-10.836,0.033,0.45,0.0503,0.162,0.224,129.57,4,calm
+2EWnKuspetOzgfBtmaNZvJ,Familiar,Agnes Obel,63,235988,Citizen of Glass,10/21/2016,0.561,0.419,-12.254,0.0313,0.921,0.0252,0.108,0.227,137.39,4,calm
+47cNDW1xyM03mT2kseO41a,Pretty Pimpin,Kurt Vile,61,298760,b'lieve i'm goin down...,9/25/2015,0.566,0.663,-9.068,0.0278,0.0945,0.294,0.0915,0.762,91.108,4,calm
+12q3V8ShACq2PSWINMc2rC,It's Too Late,Carole King,70,233173,Tapestry,1971,0.45,0.442,-12.718,0.0353,0.493,0.00564,0.134,0.812,208.282,4,calm
+1RDz34JJrGPn5msAXvnvoO,Found,Jacob Banks,53,195752,For My Friends,3/12/2021,0.504,0.189,-11.119,0.0292,0.789,2.53E-06,0.163,0.231,60.737,4,calm
+1eOuuW7VHBrIpwQ8drsPQN,Chariot,Mega,63,216755,Chariot,8/10/2018,0.736,0.346,-7.926,0.0267,0.844,0.122,0.123,0.233,92.006,4,calm
+67P7QngMeXMuA1qi9JqlyG,Summer Days,Rhye,56,159013,Please,7/7/2017,0.876,0.388,-9.007,0.0429,0.602,0.0134,0.207,0.662,98.011,4,calm
+54eZmuggBFJbV7k248bTTt,A Horse with No Name,America,78,252239,America,1972,0.654,0.506,-17.18,0.0535,0.686,0.0155,0.155,0.831,123.179,4,calm
+1WBSFlSLyOZnSa8fj7a5yC,Nantes,Beirut,62,230200,The Flying Club Cup,10/8/2007,0.434,0.531,-9.553,0.0425,0.781,0.0134,0.135,0.641,131.199,4,calm
+5p3JunprHCxClJjOmcLV8G,Walk On the Wild Side,Lou Reed,74,254173,Transformer,12/1/1972,0.575,0.318,-16.729,0.109,0.683,0.000202,0.0934,0.385,104.522,4,calm
+6Zw0NBdfr1VlVJjDRFwUe1,Jimmy,Moriarty,64,264826,Gee Whiz But This Is a Lonesome Town,10/9/2007,0.748,0.305,-9.166,0.034,0.901,3.11E-06,0.103,0.263,126.149,4,calm
+5mqVdt50q0fYvyz3gd6eKe,Arcadia,Lana Del Rey,62,263280,Arcadia,9/8/2021,0.293,0.105,-10.558,0.0335,0.97,0.000107,0.105,0.191,81.826,4,calm
+21JL0gpeAYgbSUmzhgSPJz,Souvenir,boygenius,66,212467,boygenius,10/26/2018,0.605,0.299,-11.192,0.0264,0.751,0.474,0.0943,0.181,109.008,4,calm
+5IyRSZy0R7UdweNISjf5qS,Nothing's Free,Angel Olsen,52,278760,Nothing's Free,3/7/2023,0.458,0.372,-9.31,0.0344,0.536,0.2,0.529,0.135,109.649,3,calm
+2CTOa3CEBts3p1NyTVLTXU,What He Wrote,Laura Marling,57,247123,I Speak Because I Can,1/1/2010,0.458,0.0987,-16.021,0.0376,0.948,0.00954,0.109,0.349,139.987,3,calm
+3x8IsQzb1KhPPo6zNGzzL1,Lay Down,Son Little,53,228000,Son Little (Deluxe Edition),10/16/2015,0.467,0.257,-10.123,0.0314,0.775,0,0.118,0.255,106.605,3,calm
+5LaE3oXGo5J6ORlGmTlnIb,That Look You Give That Guy,Eels,60,255346,Hombre Lobo,6/2/2009,0.777,0.511,-9.241,0.0267,0.584,0.0134,0.0968,0.499,94.421,4,calm
+3O090PYVo1do7s3PMCoVoz,Misread,Kings of Convenience,64,188400,Riot On An Empty Street,1/1/2004,0.637,0.625,-9.783,0.0382,0.732,0.509,0.128,0.896,160.748,4,calm
+1zNXF2svmdlNxfS5XeNUgr,Don't Know Why,Norah Jones,77,186251,Come Away With Me (Super Deluxe Edition),2/26/2002,0.745,0.219,-11.216,0.0276,0.851,1.80E-05,0.0678,0.635,88.609,4,calm
+7iHl6LcHD94l5VpmfrBUmG,Riverside,Agnes Obel,64,228546,Philharmonics,10/4/2010,0.441,0.188,-13.446,0.0408,0.985,0.000655,0.133,0.231,197.952,3,calm
+2L93TdW2GMue1H2zlkt30F,Suzanne,Leonard Cohen,65,229293,Songs Of Leonard Cohen,12/27/1967,0.409,0.172,-16.44,0.0389,0.922,0.00112,0.111,0.352,132.151,4,calm
+6d7Nhnnd68Pzdf6Pr476BT,Tableau,Kaky,51,228066,Joli monde,6/17/2022,0.642,0.567,-8.846,0.0941,0.524,0,0.111,0.386,120.097,4,calm
+03WMhty0KQ2ppU30LiyKy4,Les jolies choses,Polo & Pan,54,222373,Les jolies choses,6/18/2021,0.667,0.734,-9.891,0.318,0.61,0.0523,0.641,0.145,142.968,4,calm
+7j9DRB3AzXxQNRHAY3RfAx,You and I,shiv,47,192000,You and I,10/2/2020,0.316,0.269,-11.413,0.0625,0.945,2.84E-05,0.141,0.143,157.007,4,calm
+4ZKGarvWsSOruOaw40cFNz,Love That Girl,Raphael Saadiq,51,184413,The Way I See It,9/15/2008,0.71,0.674,-5.393,0.0352,0.0136,1.73E-05,0.0366,0.7,124.033,4,calm
+6jGnykaS6TkWp15utXSAeI,Come Away With Me,Norah Jones,74,198226,Come Away With Me (Super Deluxe Edition),2/26/2002,0.436,0.141,-13.271,0.0308,0.902,2.81E-06,0.126,0.146,76.64,3,calm
+7HgFcav1g0HOJuyDosk7RT,3WW,alt-J,48,300426,RELAXER,6/2/2017,0.634,0.139,-15.102,0.0534,0.681,0.036,0.0612,0.158,78.052,4,calm
+1rCPg5GOtes0FIo1BzgvUi,A Trick of the Light,Villagers,57,248253,The Art Of Pretending To Swim,9/21/2018,0.563,0.606,-8.159,0.0267,0.513,0.0391,0.132,0.425,150,4,calm
+3tTnW4npe4uYwLRaOGkrdU,Le temps passe,Emma Peters,50,192943,Le temps passe etc.,11/26/2021,0.825,0.541,-5.813,0.0507,0.439,0,0.159,0.586,94.993,4,calm
+6VTs85uQ0holJSYhflQsua,princes of melancholia,mehro,58,153915,Dark Corners and Alchemy,3/23/2023,0.624,0.382,-9.126,0.0297,0.725,0.000405,0.091,0.401,123.955,4,calm
+3HeTFopWVS2Oiqs6zwdbrl,Flood,Degree,48,172066,40,7/3/2020,0.519,0.517,-12.363,0.348,0.0612,9.71E-05,0.318,0.507,159.884,4,calm
+0TfrIEhjawHw4840dK587E,Wishing Girl,Lola Marsh,47,192613,Remember Roses,6/9/2017,0.671,0.716,-6.577,0.0308,0.107,3.52E-05,0.284,0.623,115.995,4,calm
+2bdh8ALxBeuvpnuoh37BDn,Crosses,José González,56,161840,Veneer,7/2/2003,0.666,0.369,-9.945,0.0295,0.895,0.0268,0.102,0.318,134.633,4,calm
+2fSIF8CJhoc9CJhF9vJDXp,Jolene,Ray LaMontagne,64,250866,Trouble,8/15/2004,0.588,0.142,-15.196,0.0329,0.863,0.000162,0.0953,0.288,119.656,4,calm
+5BU3BEHViPFjJlOvqCm5VJ,Life's Gonna Kill You (If You Let It),Man-Made Sunshine,48,275795,Life's Gonna Kill You (If You Let It),9/28/2022,0.514,0.364,-8.031,0.0428,0.937,0.000164,0.0615,0.353,149.855,4,calm
+5zQyqgNXKzhifkivumzxDS,My Girl,Otis Redding,66,175853,Otis Blue: Otis Redding Sings Soul (Collector's Edition),9/15/1965,0.74,0.322,-9.26,0.0399,0.551,0.000763,0.17,0.629,102.889,4,calm
+1B10XgaxSXRLAFq967oMpF,Hero,Family of the Year,69,190280,Loma Vista,7/10/2012,0.34,0.523,-5.81,0.0265,0.245,1.07E-05,0.108,0.226,174.705,4,calm
+45gpJxviKRBsQo1lDZ03Xf,Jardin d'hiver,Keren Ann,61,178160,La Biographie de Luka Philipsen,4/20/2000,0.805,0.307,-14.281,0.0463,0.792,0.612,0.373,0.547,115.014,4,calm
+33mN4sWswIF5wlRs061KXX,Gaffe aux autres,Styleto,55,177196,Carrousel,8/26/2022,0.744,0.504,-8.874,0.232,0.675,0,0.153,0.833,151.974,4,calm
+3C3ArxTzVCYVzHpzq6AO9G,Line of Fire,José González,63,188080,Local Valley,9/17/2021,0.647,0.158,-13.461,0.0705,0.884,0.288,0.0686,0.297,85.928,4,calm
+7pKfPomDEeI4TPT6EOYjn9,Imagine - Remastered 2010,John Lennon,78,187866,Imagine,9/9/1971,0.547,0.257,-12.358,0.0252,0.907,0.183,0.0935,0.169,75.752,4,calm
+41QhRnFDdhMLtR8tmnolbr,WALLS,Kings of Leon,66,329666,WALLS,10/14/2016,0.56,0.32,-14.34,0.0313,0.505,0.472,0.11,0.107,82.511,4,calm
+30d5RsO6WvseuBB1UXQGM4,Can't Be By Myself,Lowswimmer,58,175613,Can't Be By Myself,3/3/2023,0.444,0.199,-11.674,0.029,0.974,0.00106,0.124,0.111,74.93,4,calm
+5eAZSmWJjKNnMposeGbcCh,Poison & Wine,The Civil Wars,46,219466,Barton Hollow,3/5/2012,0.284,0.171,-12.762,0.0285,0.788,7.03E-05,0.103,0.192,153.948,4,calm
+3yds1YFMJkj93vdCJuxsJS,Kiss,Eddy de Pretto,54,194280,À TOUS LES BÂTARDS,9/1/2021,0.62,0.458,-11.499,0.144,0.794,0,0.111,0.229,139.925,4,calm
+6Q34tUtXLuWst5c63ddQ7N,Hiding Out In The Open,Feist,57,201174,Multitudes,4/14/2023,0.62,0.275,-9.429,0.0558,0.875,9.56E-06,0.126,0.299,127.395,4,calm
+0Cll7d8lmNn05ZOVm5l5va,Over The Rainbow/What A Wonderful World,"Israel ""IZ"" Kamakawiwoole",48,304466,Music From The Motion Picture Fred Claus,11/13/2007,0.675,0.16,-13.6,0.039,0.928,7.86E-05,0.0762,0.661,85.105,4,calm
+4KSQAaE1xxxBxLTSsSLI9i,No Love (feat. Clara Nowhere & Joseph Schiano di Lombo),Saint DX,43,185600,No Love (feat. Clara Nowhere & Joseph Schiano di Lombo),9/16/2020,0.651,0.452,-8.1,0.0383,0.397,0.29,0.0944,0.189,75.006,4,calm
+1fsarPmsdYzQuEtgeqLusc,Fading Away,Adam Naas,48,247053,Adam Naas,9/30/2016,0.687,0.484,-9.096,0.0325,0.402,4.79E-06,0.0607,0.268,100.074,4,calm
+0WzODGZGjAcKaEvTcK947u,Il neige,Voyou,40,266106,Les bruits de la ville,2/15/2019,0.571,0.147,-15.145,0.0356,0.981,0.000451,0.0922,0.231,77.332,4,calm
+6lbab5xH9F6MfjXsKl0f6D,Let Her Go (Acoustic Version),Passenger,51,266626,All the Little Lights (Deluxe Version),11/29/2013,0.555,0.0739,-13.961,0.0517,0.948,0,0.108,0.25,139.149,4,calm
+0qFZubf0FS0xxropyslwYJ,Sally,Gigi Perez,46,273935,Sally,3/10/2023,0.569,0.32,-9.902,0.0386,0.52,0,0.411,0.269,122.851,3,calm
+2ZoTMDhc30xptF6GntTLnC,Le coeur nous anime,Ben Mazué,56,164520,Paradis,11/6/2020,0.59,0.359,-10.451,0.0675,0.894,0.00141,0.103,0.795,87.486,4,calm
+3DrMtgnkoPtgQ3iLkXaEzw,"Les yeux, le reste",Flavien Berger,39,193920,"Les yeux, le reste",1/18/2023,0.371,0.199,-17,0.0509,0.921,0.0289,0.58,0.521,96.98,4,calm
+2AK96stPEvMLwVWrIo37zo,Anyone Who Loves Me,Charlotte Cardin,46,236533,Phoenix,4/23/2021,0.718,0.165,-8.335,0.0354,0.866,0,0.142,0.447,82.629,4,calm
+39HUxb7DxlOSXAGxENoYXg,City Lights and Midnight Blues,Sodermalm Strand,8,236291,City Lights and Midnight Blues,5/4/2023,0.429,0.0908,-21.804,0.0334,0.781,0.236,0.115,0.117,81.635,4,calm
+6i2gZTC6mjNvamfLYvPm8R,Nocturnal Serenade,Tanner King Trio,8,252975,Nocturnal Serenade,5/4/2023,0.309,0.068,-23.157,0.0359,0.777,0.526,0.0845,0.092,62.055,4,calm
+5KdeyyZl1bKXHRrtzNefOi,My Heart Is A Prism,Paul Moretti Trio,3,230992,My Heart Is A Prism,4/30/2023,0.477,0.195,-15.825,0.0326,0.885,0.716,0.109,0.102,100.244,4,calm
+4eaogpCx2UNkKylwlDNGJ7,Twenty Somethings,The Central Park North,67,152695,Twenty Somethings,12/9/2022,0.415,0.148,-19.697,0.0355,0.988,0.958,0.129,0.303,54.914,4,calm
+5NBmnHqnUz4fOn3e1hHIaI,Mysterious Stranger,6th Street Jazz,52,240950,Mysterious Stranger,1/15/2023,0.478,0.138,-15.694,0.0307,0.898,0.844,0.094,0.0785,99.392,4,calm
+6RR3VWktMxEjW95tE4B9H8,Abeyance,Caris Hermes,44,414108,Abeyance,8/24/2022,0.486,0.127,-21.075,0.0344,0.785,0.674,0.0663,0.121,114.946,4,calm
+0w905sAFNxZ4E7M5aEc8YI,Breathe the Air,Glass Trio,58,225600,Nightcaps,2/12/2023,0.532,0.16,-15.639,0.0325,0.932,0.886,0.141,0.0725,100.513,4,calm
+4a1J9yup472zZW604BHbha,Forever Promises,Magpie Jazz Trio,60,193237,Forever Promises,11/13/2022,0.378,0.17,-19.314,0.0357,0.958,0.918,0.118,0.135,138.095,3,calm
+2PVMfghJc3ayLHjGbGjg3J,Clear as Autumn Nights,Martin Landström,52,301500,This Is What I Want for Christmas,11/19/2021,0.516,0.135,-17.955,0.0338,0.716,0.0201,0.0822,0.0931,104.02,4,calm
+0EDJf2U35z815h2zNQhdZt,Trossen,Sollinger/Hermansson,30,324266,My Friend with Takotsubo,11/11/2022,0.372,0.0735,-20.96,0.0398,0.974,0.945,0.0951,0.251,79.267,4,calm
+3lNR1Rzlvew7A6lyPEKDEk,All the Stars,Franklin Trio,54,328810,All the Stars,12/5/2021,0.311,0.116,-18.167,0.0292,0.935,0.496,0.119,0.0723,85.999,4,calm
+1VvxLrjxPFaYfMbU2Zv5Bg,Camino Cielo,Benjamin Lackner,29,313522,Camino Cielo,9/23/2022,0.532,0.0906,-22.413,0.033,0.947,0.913,0.0797,0.193,121.183,4,calm
+6xyDGPD0MeceKsXQ0OcZ8y,Song Dust,Karl Strømme,33,333613,Song Dust,2/4/2022,0.418,0.0597,-19.075,0.0363,0.977,0.942,0.117,0.289,61.005,4,calm
+4Iw7LPiN881xC4OwwfRgnI,Ubemærket,Svaneborg Kardyb,37,183661,Over Tage,11/4/2022,0.336,0.0507,-24.367,0.0446,0.977,0.817,0.109,0.25,170.369,4,calm
+19JUTxqb12ibfHLhFuyYod,May Sun,Tomasz Stanko Quintet,35,167106,Dark Eyes,10/9/2009,0.276,0.0408,-30.078,0.0333,0.986,0.915,0.132,0.0971,89.021,3,calm
+1U4qTswiFt7oHJUtsnuxkW,Maridalen,Maridalen,30,263600,Maridalen,4/9/2021,0.312,0.141,-12.699,0.0297,0.956,0.71,0.0945,0.112,79.836,3,calm
+7zu57iXTCngCECQrUNVLSN,Withered Flowers,Eddie Harper,50,233000,Withered Flowers,11/25/2022,0.455,0.195,-12.206,0.0348,0.967,0.0291,0.185,0.319,85.042,3,calm
+7coZuTH340U7sJKtTMsG93,Drifting,Mette Henriette,28,241640,Drifting,12/16/2022,0.304,0.027,-22.457,0.0373,0.989,0.842,0.108,0.0398,130.555,3,calm
+50Y1OxU4NlKYjR2v9RxBpK,This Is Not About You,Johan Lindvall Trio,38,230000,This is Not About You,11/19/2021,0.538,0.084,-26.033,0.0355,0.863,0.908,0.0796,0.117,120.225,4,calm
+4douYG0S01NIbF0vyz7PPb,Blue Mist,Matt Marantz Quartet,48,204544,Blue Mist,1/22/2023,0.451,0.244,-11.789,0.0296,0.947,0.101,0.0996,0.344,50.505,4,calm
+561vqucx8o1kmktdzuScCJ,Equilibrio,Les trois copines,59,151162,Equilibrio,12/1/2022,0.523,0.0942,-16.722,0.0412,0.962,0.225,0.133,0.179,84.425,4,calm
+5f2btCjcN87enR8OBijRBz,The Law of Attraction,Southside Trio,55,151776,The Law of Attraction,4/6/2021,0.461,0.0727,-23.646,0.0367,0.972,0.88,0.126,0.193,114.931,4,calm
+59VY0huVKd5pSuJLI9RrMO,The Fate of Love,Mino Conte & Co,63,170177,The Fate of Love,1/19/2023,0.485,0.138,-19.272,0.0313,0.866,0.541,0.0885,0.105,108.871,4,calm
+58XU0SbMcLJIFzrNXYhlX4,Blue Hour,Emil Brandqvist Trio,45,319706,Blue Hour,2/17/2023,0.482,0.0767,-24.368,0.0348,0.773,0.0769,0.171,0.0546,115.525,4,calm
+2LNFgWaMkPq59nJEVf2PEP,Fading Lights,LaSalle Street Trio,50,226353,Fading Lights,11/18/2022,0.416,0.182,-15.784,0.0356,0.976,0.69,0.105,0.0848,131.5,4,calm
+0WYwVCkmXls0rYnZrruAX4,On 14th Street,James Jackson Jazz Trio,53,176896,On 14th Street,11/27/2022,0.506,0.183,-14.694,0.0348,0.95,0.677,0.119,0.142,103.377,4,calm
+2s499EvGIk8gVUGLCyftFX,Still,Reed Stricklers,58,151542,Still,1/6/2023,0.55,0.11,-17.788,0.0309,0.894,0.803,0.106,0.132,100.361,4,calm
+0ou3UbT1V1FaGU5oz6Q8Bo,Litania,Sparrow & Bird,49,235174,Litania,9/25/2020,0.531,0.0282,-20.689,0.0337,0.596,0.314,0.114,0.157,94.739,4,calm
+06spmhyDpCb9aWQapTZcxY,Lonely Dreams,Andy Luma Trio,50,217238,Lonely Dreams,11/18/2022,0.434,0.146,-17.935,0.0344,0.92,0.638,0.136,0.133,110.739,4,calm
+6L620MzHPZRTYKqi1mXiaw,"I Loves You, Porgy",Keanan Field Group,54,210292,"I Loves You, Porgy",9/24/2021,0.561,0.0579,-22.358,0.0358,0.972,0.931,0.11,0.173,103.85,4,calm
+3CpRRIHLxKHSBSvnCgGeD1,I Saw The Sun,Nick Osman Trio,57,260540,I Saw The Sun,11/25/2022,0.526,0.131,-17.461,0.0368,0.947,0.853,0.349,0.176,112.949,4,calm
+4CU0tITDu4anNumT9VGYvD,I Want To Vanish,Andy Sheppard Quartet,33,315800,Surrounded By Sea,4/17/2015,0.389,0.0246,-22.603,0.0357,0.972,0.876,0.0915,0.146,60.806,3,calm
+56muRlT0rsMD0Mx18LFELG,Petrus,Håkon Kornstad,35,479960,Out of the Loop,11/27/2020,0.605,0.0656,-17.095,0.0386,0.955,0.929,0.107,0.441,130.82,4,calm
+1cG3AuFMfDyVCMb5BbYFLo,Niobe,aki,35,380465,Niobe,3/1/2021,0.35,0.0444,-19.002,0.0416,0.922,0.501,0.128,0.0518,55.336,4,calm
+3MDq3Y1Me06yoYQOfjNWcH,Lonely as a Cloud,South North,59,167071,Lonely as a Cloud,12/2/2022,0.27,0.188,-17.253,0.0404,0.978,0.97,0.109,0.085,72.774,3,calm
+3rUR7LDyz2ac174SuwJl1Z,Reutlingen,Mandevilla,56,283073,Reutlingen,1/20/2023,0.469,0.0906,-19.619,0.035,0.94,0.852,0.104,0.217,86.121,3,calm
+3We23WM1fwrgX6DGaem3qO,Always a Lady,Glass Trio,52,183757,Nightcaps,2/12/2023,0.413,0.168,-15.799,0.0322,0.958,0.937,0.15,0.0819,100.346,4,calm
+2vM22BUosPBjTT1jAIpmA5,Paa Hinside Ørken,Ingebrigt Håker Flaten & Håkon Kornstad,29,362680,Elise,1/25/2008,0.419,0.0395,-21.404,0.0541,0.954,0.874,0.106,0.28,150.866,4,calm
+4sNhuHtjf2TYXIzOMUQgWX,For a While,Dries Riesen,58,174113,For a While,1/12/2023,0.431,0.0917,-19.223,0.0344,0.742,0.761,0.189,0.119,131.812,4,calm
+3wMe1lySKxJeH9iMWXDqgx,Love To Be Happy,Magpie Jazz Trio,63,195276,Love To Be Happy,10/9/2022,0.466,0.0718,-19.581,0.0336,0.922,0.916,0.11,0.214,105.252,4,calm
+2dXBcXQmElv95h7Fl0P623,"Honey, You Are My Everything",Danny Ryan Jazz Band,54,259642,"Honey, You Are My Everything",5/29/2022,0.327,0.107,-21.7,0.0306,0.944,0.93,0.0994,0.112,96.045,4,calm
+7cZxQ0m9bK0TLsaUD2UoQd,Midnight Fairytale,Tanner King Trio,57,129414,Midnight Fairytale,2/3/2023,0.502,0.168,-15.757,0.0355,0.969,0.971,0.111,0.158,123.575,4,calm
+7BgjINRWnW9fIiuLdMXQ5R,chemin de la lune,Kuipers & Winter,60,219273,chemin de la lune,2/24/2023,0.385,0.0793,-18.672,0.0374,0.943,0.196,0.103,0.151,100.938,4,calm
+3d6mWMlHf9hxeolUHh35WR,Song Of Yearning,Tord Gustavsen Trio,31,496693,Changing Places,3/17/2003,0.431,0.0368,-26.244,0.0355,0.936,0.737,0.116,0.0784,106.265,4,calm
+3Ex9d18dywAHyaRvq3hWK3,Lyskaster,Jakob Bro,29,254773,Gefion,2/6/2015,0.117,0.00238,-31.789,0.0427,0.99,0.903,0.0574,0.0391,59.056,3,calm
+3EjBZOjGpr8YKicl6E5TI8,Mógrá,Magnús Jóhann,34,152234,Án tillits,10/29/2021,0.504,0.0472,-26.663,0.0456,0.968,0.937,0.104,0.0394,102.192,3,calm
+7lyyZLvFmPSVNXOcAlyNOa,Surrender,Eivind Aarset,35,261320,Dream Logic,11/9/2012,0.231,0.011,-35.794,0.0354,0.95,0.917,0.103,0.25,64.13,4,calm
+5GuytCR8JGCn90ReWuhYvL,Romancing,Foster Davies,59,175744,Romancing,1/19/2023,0.491,0.101,-19.255,0.0313,0.919,0.42,0.0975,0.147,88.182,4,calm
+2FpRHKUzbXejH9vUK0TX0G,This Autumn,James & LIsa,54,172802,This Autumn,12/1/2022,0.493,0.0912,-20.008,0.0342,0.934,0.325,0.113,0.0618,109.392,4,calm
+4W4PZdDzTUa06u4iXCKRxI,Vine Street,Soft Brush Touches,62,146020,Vine Street,12/2/2022,0.453,0.203,-14.187,0.0362,0.976,0.904,0.116,0.197,111.662,4,calm
+7AGPS3yD3CJR3xrPBTLhcO,Beneath It All,Bruce Willmington & Co,52,171006,Beneath It All,12/9/2022,0.377,0.179,-17.152,0.0349,0.932,0.621,0.207,0.1,50.433,3,calm
+4zYPDHYsvTdUMMy8gRkBAA,Let's go uptown,Newington Green,63,140648,Let's go uptown,1/27/2023,0.565,0.239,-16.679,0.0418,0.96,0.894,0.149,0.231,116.419,4,calm
+3M4eOMalgakHgEQ7hDK2J0,Kin,Bill Laurance,30,404276,Where You Wish You Were,1/27/2023,0.43,0.131,-19.52,0.034,0.942,0.923,0.0859,0.0969,104.787,4,calm
+7xlHjxJbGQjHA40E7pFnZB,The Door,Mathias Eick,30,472053,The Door,5/16/2008,0.374,0.119,-21.125,0.0314,0.818,0.911,0.0966,0.169,147.004,4,calm
+6wP9Z9As3rlSKwHnCfzEp7,Winx,Søren Bebe Trio,28,307356,Echoes,5/10/2019,0.447,0.0527,-20.24,0.0397,0.894,0.577,0.131,0.0822,106.082,4,calm
+1iW5dmZ7R7BXF60UvGqO78,La Petite Reine,Dominic Miller,42,133626,Absinthe,3/1/2019,0.377,0.0446,-32.263,0.0409,0.942,0.955,0.107,0.0779,93.796,4,calm
+6N1c9EHlOMHdQ55hmHkhDq,Naima,Jonas Olofsson,51,190093,Naima,11/18/2022,0.527,0.0995,-19.097,0.0385,0.969,0.916,0.375,0.166,108.028,4,calm
+7I3dKt5y4dlS0y8Kg0uOdK,Nublu,Younglights,53,233865,Nublu,1/16/2022,0.275,0.115,-19.401,0.0347,0.933,0.621,0.123,0.0838,77.001,4,calm
+05IRllaVkCLy5Iyz3JUXNC,Caerulea,Bladverk Band,53,186664,Obliqua,9/3/2020,0.475,0.105,-18.046,0.0351,0.962,0.695,0.115,0.0563,54.727,4,calm
+01PueBjWRvJTwWwuClGbEp,Home Of My Tomorrow,Clover Post,59,188461,Home Of My Tomorrow,11/25/2022,0.445,0.21,-17.007,0.034,0.969,0.973,0.101,0.182,53.05,4,calm
+7F2LDxjeZkyyJCog1Fwvx0,"Fear Not, Zechariah",Tomas Raae,32,547803,His Name Is John,11/13/2020,0.456,0.154,-14.797,0.0369,0.774,0.918,0.224,0.157,119.96,3,calm
+1EXAQhTMCX9HCIcwYEvdxX,Ripples of a Stream,Turning Trio,56,240480,Ripples of a Stream,8/5/2022,0.519,0.119,-20.433,0.0342,0.876,0.801,0.109,0.166,67.601,4,calm
+3DT8dSU0Vz2mjpyHfIn04W,Ruins II,Ayumi Tanaka Trio,32,162560,Ruins II,10/1/2021,0.421,0.0361,-25.999,0.0681,0.278,0.951,0.086,0.137,173.819,4,calm
+2ZmHciaD6uCP3AAqZtzgvF,Fleeting Paradise,Henry Albert Trio,50,193438,Fleeting Paradise,1/20/2023,0.438,0.181,-17.928,0.0364,0.914,0.959,0.0983,0.165,107.589,4,calm
+6i7UMkdeJusb8lVEk3cSG4,The Vertical Movements of Eötvös,Espen Berg Trio,30,208320,Fjære,5/20/2022,0.296,0.0807,-26.783,0.0386,0.969,0.718,0.122,0.109,125.675,4,calm
+05fdpG9n1YmQU1wOTCLaj8,You Know Its Me,The Ebbing Tides,58,148754,You Know Its Me,1/12/2023,0.507,0.081,-18.528,0.0338,0.906,0.955,0.108,0.202,59.191,4,calm
+4jZOeSzfXYIBJszABDdba0,Merry Monday,Lennie Weston,56,190909,Merry Monday,12/2/2022,0.587,0.127,-19.523,0.0375,0.952,0.864,0.103,0.19,109.944,4,calm
+1SAwlxxaYYz84K8gsjsdmN,Slaraffenland,Jakob Dinesen,31,200344,One Kiss Too Many,2007,0.315,0.14,-16.132,0.0369,0.969,0.767,0.247,0.25,65.531,5,calm
+6jZqtVqT7TEEyCuU6ZAl2m,Remembrance IV,Ketil Bjørnstad,33,253973,Remembrance,4/16/2010,0.274,0.0959,-20.76,0.037,0.917,0.0617,0.0953,0.113,79.961,4,calm
+5w6hGJhvWy9Fth9eldO0rT,Tenderly,Mark Roswell Trio,53,203348,Tenderly,4/16/2021,0.537,0.132,-18.58,0.0363,0.96,0.864,0.144,0.119,119.394,3,calm
+5u795XTEp5nJdQOfGJyi1i,February Brings The Rain,Fulton Street Players,56,221909,February Brings The Rain,2/3/2023,0.614,0.2,-14.764,0.0335,0.862,0.573,0.119,0.0953,110.676,4,calm
+2bYWfgNXxt4CQCPWBicqPx,I've Told Every Little Star,LaSalle Street Trio,50,253213,Deep In A Dream,1/29/2021,0.587,0.0575,-22.505,0.0406,0.943,0.865,0.0928,0.146,64.996,4,calm
+7GZ7kYUBPNm9whqDDeod1r,Pour It Out,Matt Marantz Quartet,43,320957,Blue Mist,1/22/2023,0.394,0.157,-12.302,0.0312,0.972,0.648,0.266,0.194,100.978,4,calm
+1HXwAUJtPHyERRMGktllqi,Skulde Jeg Min Gud Ei Prise,Ingebrigt Håker Flaten & Håkon Kornstad,20,213066,Elise,1/25/2008,0.486,0.0442,-30.155,0.039,0.959,0.948,0.106,0.404,113.517,3,calm
+6GD9L0BqpyENa325mplxQ9,Leaf Line,The Levon Trio,56,161444,Leaf Line,2/5/2023,0.477,0.299,-14.072,0.0388,0.945,0.913,0.132,0.0855,114.114,4,calm
+2kux8wUJ2tchQumA0lqELV,Waltz No. 6,Sollinger/Hermansson,29,244640,My Friend with Takotsubo,11/11/2022,0.459,0.0803,-20.176,0.051,0.951,0.941,0.105,0.165,116.686,3,calm
+1ImSQqQnC1UmJaKtT3GfEp,Looking Forward,Steve Luke & Holloway,59,191874,Looking Forward,1/27/2023,0.334,0.193,-18.841,0.0351,0.985,0.966,0.229,0.093,107.149,4,calm
+4Ol91F33J7jGfPjRubHbEk,Love on a Lonely Street,The Ebbing Tides,59,183688,Love on a Lonely Street,4/13/2023,0.401,0.111,-21.475,0.0338,0.868,0.376,0.117,0.186,145.12,3,calm
+63llMqyPCx0hz3HLFCZXE7,Cross The Creek,Mats Eilertsen,30,138466,Rubicon,7/29/2016,0.312,0.0208,-29.412,0.0489,0.995,0.954,0.0719,0.157,67.9,4,calm
+6LLyyfz8BYrHtd3yPkrPad,Clear Sight,Midtown Trio,54,167113,Clear Sight,9/30/2022,0.576,0.127,-16.564,0.0376,0.941,0.915,0.196,0.169,77.629,3,calm
+77rbW6F9WjICIjf518rzhA,Sonne,Vincent Meissner,38,294800,Wille,2/24/2023,0.432,0.152,-24.406,0.0363,0.885,0.818,0.0999,0.149,110.06,4,calm
+0LP368Un2yy06i9hLCig9N,Beginning,Kjetil Mulelid,35,278680,Piano,3/12/2021,0.33,0.185,-18.449,0.0386,0.908,0.885,0.119,0.0539,78.311,4,calm
+2m6wKuxNH3qDSqdSSRr3r7,Right There,Tord Gustavsen Quartet,47,173866,Extended Circle,1/17/2014,0.48,0.0216,-29.697,0.037,0.933,0.858,0.117,0.0398,86.971,4,calm
+1hHnQUrgFC0ezzo27SkZeS,It's Beginning To Rain Again,Little North,42,287323,Familiar Places,1/21/2022,0.489,0.0312,-26.899,0.0653,0.93,0.929,0.108,0.0512,67.455,3,calm
+5CLc13Ktc8gDsDihuAqFzM,Glimmer Of Hope,Marcin Wasilewski Trio,32,513293,Arctic Riff,6/26/2020,0.291,0.0953,-20.218,0.0369,0.979,0.799,0.124,0.0528,87.293,3,calm
+53ITTs99tI13zcMBjdQpoB,"Forget About It, Al",Three Four Trio,55,158645,Sally Waits,9/25/2022,0.554,0.111,-18.005,0.0313,0.958,0.959,0.104,0.12,102.561,4,calm
+04OlOJOsWy6RUWgyhixoqk,In Another Universe,Lachlan Wright Trio,51,176729,In Another Universe,1/2/2022,0.453,0.142,-19.092,0.0297,0.849,0.0316,0.171,0.0859,82.818,4,calm
+0LTyQGBfOBFCWZsCGu0Uny,Heroines,Jakob Bro,35,335773,Streams,9/23/2016,0.442,0.0667,-28.869,0.0323,0.936,0.936,0.0825,0.22,113.359,3,calm
+56mnki16Lqui7LYs5OEcQF,Wait Till You See Her,John Abercrombie Quartet,23,340906,Wait Till You See Her,9/25/2009,0.294,0.0674,-24.083,0.037,0.914,0.0118,0.0929,0.0845,109.285,5,calm
+74zEQOrvwBXDY2omVJrjTL,Sweet Earth,Skúli Sverrisson,37,146353,Strata,2017,0.505,0.103,-18.39,0.0416,0.98,0.862,0.115,0.465,126.127,4,calm
+25YYVgOIVdR862zVCSWr13,Lonely Shadows,Dominik Wania,30,359906,Lonely Shadows,8/7/2020,0.312,0.00429,-30.716,0.0358,0.993,0.906,0.0951,0.0395,69.437,4,calm
+5fDmVPtwQAo45rLxKBUZod,The First Touch,Marcin Wasilewski Trio,38,253800,January,1/11/2008,0.301,0.0242,-27.888,0.0402,0.98,0.851,0.101,0.0808,103.1,1,calm
+3hWjbyHK72kyF3CXMCjoSx,Good Night,Charlie James-Walker,52,236937,Good Night,7/29/2022,0.579,0.136,-20.458,0.0378,0.866,0.633,0.122,0.0711,99.507,4,calm
+44Nuza1A4cfjOAbE65797r,Waking Dream,Niclas Knudsen Trio,36,302813,Times Revisited,2/19/2021,0.575,0.0777,-17.914,0.0412,0.926,0.392,0.121,0.172,99.25,3,calm
+2TaXpoVerMqrJxoEh1KjgS,Night Swimmer,Hara Noda,53,176000,Swallows,8/20/2021,0.367,0.11,-21.494,0.0443,0.942,0.953,0.106,0.233,179.593,4,calm
+1kbVkvLiWNDF7J4zMPtwv7,To the Moon and Back,Anita Rosswell,55,159765,To the Moon and Back,2/17/2023,0.539,0.102,-18.691,0.0352,0.966,0.927,0.0974,0.212,61.977,4,calm
+6nTPKl3LPhE1J81499Ux3Q,Shitoshito (Raining Quietly),Helge Lien Trio,29,366591,Guzuguzu,4/21/2017,0.499,0.0441,-23.712,0.037,0.866,0.712,0.136,0.116,106.786,4,calm
+3TZEzSgedGeH2EKGjH501J,Eventide,Månvarv,46,188181,Eventide,1/6/2023,0.1,0.00828,-32.976,0.0398,0.993,0.881,0.12,0.0348,63.954,4,calm
+1dzuUe9zsLpy2Ly7Zp2dWD,Transparency,Adam Waldau,55,179387,Everlasting,10/2/2022,0.0732,0.0153,-32.117,0.0438,0.986,0.969,0.0928,0.0391,76.86,5,calm
+6qGtOGeYlQc52iHd2SkKwC,Delicate Silence,Alva Adler,52,166946,Alternatives,9/22/2022,0.222,0.007,-34.518,0.0436,0.974,0.894,0.111,0.0402,68.616,4,calm
+62FsGEI77Ot7VXNcA2ReHz,Eleni,Carwyn,59,141133,Eleni,9/22/2022,0.214,0.0039,-35.794,0.0466,0.995,0.858,0.0924,0.144,134.247,4,calm
+3jWBAmCDeMGFc5iBOfy4rl,Of Memories To Come,Suraj Ives,46,131381,Of Memories To Come,10/15/2022,0.173,0.000559,-35.239,0.041,0.995,0.865,0.111,0.213,67.065,4,calm
+6L5crMBk3Sm1oB7GcGtmo1,Spacing Out,The Knowables,52,164400,Spacing Out,9/6/2021,0.245,0.00543,-31.525,0.0378,0.984,0.893,0.0797,0.048,74.812,3,calm
+1BQxGhCmtTfvpkNcZ3Lp8G,Stillness,Ilumina,47,183333,Stillness,1/23/2023,0.177,0.00795,-35.652,0.0423,0.991,0.758,0.101,0.0481,75.742,3,calm
+35vYyQ06TPM7hiUtNt5Bs3,Fading out,Diamond Telescope,52,151500,Fading out,9/26/2021,0.168,0.0248,-31.629,0.0334,0.971,0.913,0.111,0.0831,69.491,3,calm
+30pP0rmYhIjch0vOe1ozDO,Quirky Mood,Charmayanne Heart,44,220000,Hypnotic Energy,2/20/2023,0.142,0.00141,-43.121,0.0423,0.975,0.861,0.102,0.0848,68.016,4,calm
+0IUMxL5vvNXnOONt4XOQZE,Yael,Admira Mara,61,183750,Occo,3/10/2023,0.164,0.00839,-34.772,0.0424,0.967,0.859,0.104,0.0489,131.201,5,calm
+0B9oeRRIfX98Sovrvayil0,I Fjärran,Erelin Hjerta,49,182181,I Fjärran,3/16/2023,0.174,0.00647,-40.046,0.0333,0.973,0.954,0.109,0.0544,77.503,4,calm
+0M2JKYETZm0oLy5Mg0d138,Vista,Segarus,43,176082,Vista,3/2/2023,0.158,0.012,-35.522,0.037,0.96,0.828,0.101,0.0631,66.794,3,calm
+1a21XB3h0NPXc3e7AoYc3O,Eclipse,Olivier Lupin,49,142500,Eclipse,10/12/2021,0.088,0.00652,-36.963,0.0475,0.987,0.919,0.0933,0.0646,176.303,3,calm
+46kX9joHbnA0xNSlQbGjIN,Juste un peu de temps,Delit Quirion,51,185875,Juste un peu de temps,1/13/2023,0.142,0.00748,-36.898,0.0438,0.974,0.935,0.107,0.0398,140.875,5,calm
+4ZyE9TB38tLADzmv1OImVU,Athenian Mind,X-Genie,45,152895,Athenian Mind,10/15/2021,0.22,0.00612,-32.374,0.0403,0.977,0.909,0.103,0.0797,65.402,4,calm
+65Uo3C5r9GJMPsiRa6uzMV,Weightless,Gentle Leap,48,142063,So Serene,12/22/2021,0.436,0.00146,-27.685,0.114,0.995,0.944,0.106,0.511,71.889,5,calm
+0dBvGHBWNzInAt4uyutg5i,Love Letter,Angelo Garnier,44,178875,Love Letter,12/22/2021,0.203,0.047,-27.889,0.0444,0.86,0.864,0.0684,0.102,72.443,1,calm
+7u6NFtytPfiVDK5txIpHvd,Inside The Wave,Eoforwine,68,146680,The Deep,12/19/2022,0.0632,0.00285,-39.132,0.0399,0.986,0.92,0.101,0.0672,63.749,4,calm
+3CPAzMHcgaaUt66dYJMveo,Jokk,Fjellet,49,184253,Jokk,10/15/2022,0.213,0.0106,-33.722,0.0359,0.975,0.926,0.0847,0.0393,69.76,4,calm
+3I9DGW4nS3BJJeyoPNuOHS,Alunissage,Clyde Boudreaux,46,176317,Alunissage,9/9/2022,0.183,0.00638,-31.553,0.0383,0.989,0.831,0.107,0.0399,72.993,3,calm
+1dEGL08epUeUDXNr5qfSSX,It Can Wait,Alma Meris,47,172358,It Can Wait,9/5/2022,0.0744,0.024,-31.276,0.0357,0.97,0.861,0.124,0.0465,76.203,3,calm
+7HHjSGgC5RvsR6PzOUsGj9,Amedeo,Bliss Phenomena,46,137747,Amedeo,6/17/2022,0.211,0.0347,-26.222,0.0352,0.953,0.943,0.1,0.071,71.749,3,calm
+3QOEXCF6n8v7LXIGnQ66Z6,Feather,Emanuel Green,43,234000,Feather,1/28/2022,0.539,0.0116,-30.404,0.0385,0.991,0.922,0.116,0.112,59.955,4,calm
+6YB9bWKJb6HGXp2sZsR997,Resting Place,Astor Lucas,43,144056,Resting Place,9/24/2021,0.238,0.023,-26.894,0.0303,0.991,0.94,0.102,0.12,67.245,4,calm
+2t4CN8rtDkodRYxYYhAAvL,Moon Stage,Sonhos de Solidão,47,196275,Moon Stage,5/20/2022,0.142,0.00453,-34.566,0.0457,0.981,0.926,0.111,0.0392,77.68,4,calm
+2l45eiUjUBKjzqvnwhPPRa,Where Oceans Meet,Eoforwine,53,181021,Where Oceans Meet,10/21/2022,0.0807,0.00748,-33.486,0.0482,0.981,0.958,0.118,0.114,173.293,4,calm
+6zCnCeruSOYJ4LYQNHa4hN,Reveries,Butterfly Wings,42,165000,Reveries,12/23/2021,0.135,0.0209,-29.349,0.0351,0.995,0.911,0.0791,0.0629,72.603,4,calm
+5O2NkxIBlzW6KaxfcPkroz,Ujjayi,Zoe Connelly,42,151571,Ujjayi,10/28/2021,0.0753,0.044,-29.155,0.041,0.934,0.834,0.108,0.0815,62.068,4,calm
+4O2DxaGroS88YpNAeRQbgx,After The Rain,Sanyo Green,44,215235,After The Rain,8/23/2022,0.0665,0.0977,-23.603,0.041,0.934,0.889,0.11,0.0427,75.384,4,calm
+0ICfYaolLKtzKeRDucQu2u,Harvest,Pathos Humano,45,280124,Liberté,6/12/2020,0.467,0.0131,-27.963,0.0331,0.993,0.906,0.101,0.0936,140.033,4,calm
+61JaCYZ0qRuy74Abs2VNjt,Clarity,Zoeli,48,184714,Clarity,12/26/2021,0.174,0.0533,-30.803,0.0455,0.928,0.608,0.0901,0.12,136.357,3,calm
+3FqKLJItPFAY2JVEQEzuHg,A Light in the dark,Moments of Clarity,43,149271,Change,4/21/2022,0.131,0.0199,-29.736,0.0414,0.97,0.929,0.107,0.0562,66.604,4,calm
+1E52SbUzjtkuYvDfqTExoc,La Lumière En Toi,Eugène Arnaud,45,117000,La Lumière En Toi,10/22/2021,0.232,0.00522,-30.612,0.0422,0.995,0.941,0.107,0.182,60.786,4,calm
+6dogY6HwvahB2QPFZM0uV5,Somnolent,Ghost Of Summer,43,120704,Somnolent,5/17/2021,0.179,0.00311,-33.555,0.0425,0.976,0.885,0.113,0.233,68.592,4,calm
+32VQGpraYnbWBBR46vAppG,Moving through mist,Esther Saunders,46,137874,Moving through mist,7/30/2021,0.211,0.0205,-30.374,0.0425,0.917,0.873,0.111,0.0381,119.762,4,calm
+1YRE1YKj2UIRdq2zT8PLNY,Persistent,Permaculti,44,210007,Freestone,6/26/2020,0.357,0.043,-24.968,0.0373,0.911,0.899,0.111,0.0385,79.991,4,calm
+0RAubp6u1ePTYC6SgXoWcY,Daydream,IGRAINE,47,151500,Daydream,12/27/2019,0.266,0.00375,-34.872,0.0388,0.995,0.887,0.0916,0.185,68.105,5,calm
+2T9BgAmZQT2dLqllKA5UPj,Somnolence,Zak Brady,49,192500,Somnolence,1/24/2020,0.165,0.00847,-33.25,0.0419,0.982,0.863,0.0983,0.0431,71.749,4,calm
+4CE7Fygc6DSOeC4Uw8cKxI,Blank Page,Evie Belcher,48,210000,Blank Page,6/3/2022,0.15,0.00365,-34.476,0.0474,0.983,0.816,0.125,0.0604,137.331,3,calm
+7FkskPFn9biiXHFqFn4jFD,Essential Sleep,Alvaro Siesta,42,132352,Essential Sleep,5/30/2022,0.13,0.0347,-30.517,0.0369,0.916,0.961,0.0766,0.0673,65.219,4,calm
+6tJQ2qxNMAk7sPmmXyZWam,Pacific Bliss,Harlan Silverman,46,166440,Pacific Bliss,10/25/2019,0.345,0.0999,-27.222,0.0292,0.937,0.95,0.117,0.254,73.782,4,calm
+2kVsD3DNreqNJ0CdM2ix2U,Noche Brilliante,Santiago Penitente,66,141995,Noche Brilliante,7/24/2022,0.192,0.0211,-32.009,0.0347,0.952,0.838,0.112,0.116,72.829,4,calm
+2quE9M1AL9B7T6iSjzeT0o,Aura,Zion Llama,66,151243,Aura,1/15/2022,0.138,0.00835,-34.968,0.0505,0.976,0.795,0.11,0.0391,67.18,4,calm
+4B3sBWHD5rfWtkXCdYwrFq,A Message of Hope,Elise Magnefold,50,206427,Little Things,8/26/2020,0.24,0.0593,-24.634,0.0341,0.968,0.868,0.183,0.0907,79.792,1,calm
+2JRWjR3mlXJBg3uZwDPmBx,Rojo,Sebastián Escofet,49,138250,Ambientalismo,7/26/2019,0.0917,0.0429,-26.934,0.0407,0.83,0.929,0.0853,0.0864,173.949,3,calm
+1Nm2fVCwabKAa7iVGsfGWy,Avalanche,Elise Magnefold,41,214876,Atmospheric Convection,1/15/2022,0.249,0.0858,-24.8,0.0352,0.953,0.924,0.0868,0.0753,77.905,4,calm
+7k59hF8Vc7Ob9HYO8fnbLF,Inner Peace,Sabrina McGregor,72,179222,Inner Peace,1/26/2022,0.127,0.00488,-35.14,0.0478,0.977,0.828,0.115,0.136,146.626,3,calm
+7mmhIxGPMPFCBzfN6M9QXp,Omsluten,Mossfrid,48,201333,Omsluten,1/26/2022,0.15,0.0319,-30.039,0.0376,0.978,0.956,0.0968,0.0365,138.612,4,calm
+7AhaQkDR4GybH4rXn26lhn,Flotante,Kaua Correia,42,160500,Flotante,2/21/2020,0.217,0.0056,-34.847,0.0409,0.989,0.88,0.115,0.127,74.131,1,calm
+63m3GgctZMJNw9DAWoPZho,Pour tout ce que nous savons,Les Agathes,41,183496,Pour tout ce que nous savons,2/11/2021,0.0972,0.0265,-28.659,0.0426,0.955,0.916,0.112,0.0644,77.027,4,calm
+0KCrx98nbNZoy4y0GYA4l1,In the deep,Moon Swan,45,176750,In the deep,1/30/2022,0.119,0.0447,-31.947,0.0338,0.924,0.718,0.126,0.0598,77.366,4,calm
+4AyYtj639eTCj84hyaee28,After The Rain,Giovanna Gallo,43,160000,After The Rain,1/30/2022,0.212,0.0367,-29.034,0.046,0.983,0.869,0.0945,0.161,73.599,1,calm
+164x1gQ85r1dijA3p784It,Downtime In The Deep,Enchanted Candlestick,40,146000,Downtime In The Deep,1/30/2022,0.225,0.0425,-29.566,0.0404,0.943,0.851,0.124,0.135,140.723,5,calm
+6qU5ggMJaYOItNCsUIGeyP,Paralyzed,Phabels,42,141750,Paralyzed,10/23/2020,0.241,0.0374,-26.723,0.0355,0.89,0.861,0.123,0.0529,79.078,1,calm
+5uDs595iEmAkqkNfzGB6cl,Cloudy Mountains,Wolf Keller,47,159632,Cloudy Mountains,6/7/2021,0.195,0.00938,-25.442,0.0377,0.982,0.909,0.0919,0.0464,67.629,3,calm
+7tN9gRPc8eYR9mS5cQsV0M,Sarek,Laponia,54,130250,Sarek,9/6/2019,0.27,0.0181,-28.839,0.0372,0.986,0.939,0.127,0.102,61.539,4,calm
+4wDO6MjP0OoVxwHVizSBip,Timeless,Cristoforo Giordano,48,178500,Hourglass,3/4/2022,0.212,0.00772,-33.872,0.0369,0.986,0.872,0.116,0.144,62.863,3,calm
+2Jr8bmTiSIKWvn3OpTyN9s,Summer Memories,Gavin Luke,58,167921,Summer Memories,12/6/2019,0.269,0.0155,-26.36,0.032,0.974,0.925,0.11,0.24,65.363,4,calm
+1gWYsSqPShi9oTU04dAofI,Evening Song,Alexander Sterling,52,198221,Evening Song,4/1/2021,0.0657,0.00229,-32.86,0.0474,0.979,0.948,0.114,0.0575,67.585,3,calm
+7fjl8fmaUdRWNstdzGHCeF,Fermez vos yeux,Matilda Charpie,46,154000,Fermez vos yeux,10/25/2019,0.243,0.00604,-31.018,0.0405,0.995,0.972,0.159,0.0672,134.33,4,calm
+5QfENz96Rk140fmTccgCPa,All Is Well Now,Roger Reuse,45,128291,All Is Well Now,4/2/2019,0.37,0.00271,-26.981,0.0477,0.994,0.927,0.124,0.245,69.348,4,calm
+3nq5cRQENEy6gZGwhlpdPz,Comtemplating Still,Bree Arnold,44,100472,Comtemplating Still,9/12/2020,0.327,0.0111,-31.644,0.0585,0.992,0.939,0.0904,0.249,126.712,1,calm
+12ooNhX345euVylX3PLe8f,Majestic,Rainbow Rise,42,231000,Majestic,8/25/2020,0.369,0.0895,-22.954,0.043,0.759,0.88,0.0977,0.0585,119.796,4,calm
+2ga17EkepbRILT5nX2sqz3,Del Sankt,Omnium Tal,40,186591,Del Sankt,11/12/2020,0.192,0.00491,-36.191,0.0397,0.989,0.966,0.0764,0.0599,112.385,4,calm
+2qIW959qt0als3uu3gtjwB,Elusive,Elysha Iman,40,135617,Elusive,12/25/2020,0.238,0.0281,-27.183,0.0314,0.988,0.952,0.105,0.0397,72.255,4,calm
+5lLjOkaJ7pqx2qOS7bN22M,Pragmatique,Sabrina Austin,46,120636,Pragmatique,8/21/2020,0.456,0.0422,-22.88,0.0306,0.992,0.892,0.108,0.476,93.713,4,calm
+0p1dvFjInHmk6nUparv5dk,m4a,Blue Arch,40,142030,m4a,11/10/2020,0.24,0.00335,-32.028,0.0462,0.987,0.832,0.125,0.177,74.774,4,calm
+6G9CeRGryVV0ZX60fkMEeO,Moments,Mindland,52,199000,Moments,9/20/2020,0.101,0.0168,-29.655,0.0394,0.99,0.964,0.0856,0.0947,179.112,4,calm
+4ilZS94Ju9fdhWbI6wvbHX,Truce,Cooper Sams,40,174798,Paradise & Truce,7/7/2021,0.674,0.0392,-20.822,0.0532,0.986,0.93,0.0876,0.113,79.934,4,calm
+0BtJKY7UaAtw4ViVQJHOHI,Resurrection,Reinhard Krause,45,120395,Eternity,11/26/2021,0.284,0.00419,-32.385,0.0381,0.994,0.927,0.0857,0.169,67.919,4,calm
+2UXQhAcmJXiDShegqfyBa7,Rearview Mirror,Angelo Garnier,54,194000,Rearview Mirror,9/4/2021,0.167,0.0447,-30.333,0.0381,0.976,0.949,0.0911,0.148,73.248,5,calm
+5uig3Oq5R05OuOAERGKnlu,Ainda Ontem,Leonidas Myaló,40,145115,Ainda Ontem,6/25/2021,0.299,0.0197,-24.204,0.0339,0.993,0.929,0.0891,0.052,71.776,5,calm
+0CMcbkaWuxxnfyaqjZWWGv,The Grass,Brandon Cason,46,157000,The Grass,7/2/2021,0.302,0.00576,-28.756,0.0397,0.993,0.972,0.0949,0.103,86.209,3,calm
+70mDYH59Vd9ipZFg7BmLvk,Gentle Night,Selma Ström,41,172581,Golden Hour,1/17/2021,0.33,0.0106,-27.938,0.0393,0.968,0.859,0.0912,0.0375,76.695,3,calm
+2uefuYyOh0LTfrMcuvl2ID,Bocks,Granite Stone,43,133502,Bocks,12/1/2021,0.2,0.016,-32.321,0.0374,0.986,0.853,0.0976,0.11,71.043,3,calm
+537FP4rNU5SILZ5uWF2zDi,Papperssvalan,Norröga,45,153000,Papperssvalan,5/30/2021,0.148,0.00253,-31.178,0.0464,0.988,0.89,0.0983,0.17,72.495,1,calm
+1Ix5PP41jAMMeVHXpoSOv0,Waiting,Dian Giles,47,180500,Waiting,1/15/2021,0.0771,0.00362,-32.278,0.0515,0.809,0.946,0.112,0.214,172.013,5,calm
+4G5VeedjbIEbvNP45vxBvJ,Molecules,Lectus,50,157368,Atoms,9/28/2021,0.119,0.0319,-29.867,0.033,0.988,0.932,0.109,0.128,77.69,3,calm
+3ZAlpXJWeKniBrqSMffs0j,Persistence,Johann Eder,54,166487,Persistence,9/9/2020,0.11,0.0185,-27.874,0.0396,0.973,0.915,0.112,0.0449,65.591,4,calm
+0xCCENWuCBpUqk2xqsB4tU,Black Light,Leon White,49,197252,Black Light,6/21/2021,0.0933,0.00785,-30.492,0.0495,0.986,0.909,0.118,0.0605,61.328,4,calm
+05iwmG7u1JEo0MMZ2XEoIq,Grateful,NREM,43,191304,Goodnight,5/27/2020,0.408,0.0241,-31.974,0.04,0.992,0.959,0.111,0.0373,138.066,4,calm
+7eIMlUAfuTjZaxXyWXfaV9,Pretty Flower,Infinite Nite,42,166636,Pretty Flower,5/31/2020,0.472,0.116,-20.321,0.0355,0.949,0.95,0.109,0.0622,110.055,3,calm
+2WsGdaZkFsUSrpn4QVWcI1,Hush,Arden Brooks,40,170583,Quietude,3/3/2021,0.308,0.00529,-28.77,0.0507,0.984,0.933,0.105,0.172,107.067,1,calm
+4iRBjXN9x4UdOrT9c6sSsL,Night Light,Phoenomenatic,42,150199,Night Light,12/18/2020,0.0756,0.0458,-24.092,0.0394,0.989,0.924,0.105,0.0461,61.5,3,calm
+7x8dZcTysEL2ugS7Gj7eMJ,Calm,Shibuki,43,217430,Calm,10/22/2020,0.575,0.0368,-24.991,0.0346,0.981,0.915,0.0937,0.0549,109.983,4,calm
+2vVbuQJCiq6MfvmcQil2oW,Storytelling,Paul Dennehy,42,284000,Storytelling,8/28/2020,0.406,0.00425,-29.243,0.0654,0.994,0.926,0.0811,0.133,66.927,4,calm
+2dxQ8RJA85bwrG6QFkYaRc,Flowing Leaves,Benjamin Martins,47,179455,Flowing Leaves,8/26/2020,0.172,0.0862,-24.361,0.0327,0.684,0.979,0.187,0.143,78.283,1,calm
+2WlKoxl8hJiuOgKolOH3WR,Space And Time,Lake Geneva,45,145898,Space And Time,3/11/2021,0.214,0.0658,-27.872,0.0331,0.645,0.901,0.111,0.0393,89.698,3,calm
+6pJ0Pp4wUKqtxU1E5Ssf5j,Thaka,Ammachi,41,200956,Thaka,9/23/2020,0.211,0.0782,-23.305,0.0391,0.936,0.951,0.108,0.0397,69.595,1,calm
+44GNDx5mPRKiwSLjJAe5Yg,Finding Solitude,Miesha Berens,44,153124,Finding Solitude,7/15/2021,0.193,0.00211,-36.763,0.0387,0.993,0.922,0.142,0.0396,67.095,3,calm
+013eYaVKpTVsX41dEPSFt8,Patience,Augusta Winslow,42,183659,Patience,6/22/2020,0.329,0.00259,-26.036,0.0417,0.986,0.954,0.0853,0.226,70.588,4,calm
+4CK6vuYb4BaaQ2oYbkASuB,Calm,Henrik Janson,45,109733,Calm,4/1/2020,0.278,0.0775,-25.094,0.0558,0.989,0.915,0.11,0.408,163.522,3,calm
+3KXdTDD6oRPF1v54HF4kGB,Pink Moon,Day Sun Day,45,176000,Pink Moon,4/11/2020,0.37,0.0256,-26.019,0.0349,0.929,0.827,0.0995,0.0903,180.006,4,calm
+1XjmvMlHQeXqXqbIiphr7L,Pensamiento (Variacion 1),Night Effects,43,102570,Night Effects,9/20/2019,0.282,0.0129,-31.82,0.0312,0.91,0.891,0.102,0.0721,78.384,5,calm
+6JVIfxPhQXAyPcA2Ro94HX,Sunbleached Memory,Toledo Rains,46,155352,Sunbleached Memory,3/29/2019,0.354,0.104,-25.589,0.0353,0.645,0.781,0.111,0.0655,138.066,4,calm
+041EqVueOI4pszWGJfKerh,City Lights,Oliver Évilo,44,126750,City Lights,10/9/2019,0.184,0.0143,-31.729,0.039,0.987,0.869,0.0921,0.138,173.026,5,calm
+4FqRXEGuyM0YfpdtvecUgv,My Paradise,Clay Edwards,41,207592,My Paradise,8/27/2020,0.187,0.0405,-27.446,0.0406,0.986,0.859,0.0765,0.0522,63.65,4,calm
+5PcP4bmY5dSL9jfWhTVVjB,On a Clear Day,Rannar Sillard,44,119946,Weightless Again,9/6/2019,0.341,0.00736,-22.127,0.0436,0.982,0.937,0.108,0.0377,77.256,5,calm
+3IkUhd8j1QVMUGAaMGKN4F,Pensamiento (Variacion 3),Night Effects,40,105984,Night Effects,9/20/2019,0.328,0.0101,-36.358,0.0351,0.88,0.921,0.0865,0.076,59.452,4,calm
+0H9ObVXY0RvFsXqdFDAdyp,Sugar High,Vanessa Sky,41,209057,Sugar High,4/23/2020,0.215,0.00638,-27.63,0.0392,0.979,0.824,0.164,0.0409,68.256,5,calm
+3i066yEKcUByD71IIhr8f5,Dromen over jou,Niel Hupkes,40,232750,Dromen over jou,3/6/2020,0.195,0.0086,-33.831,0.0402,0.993,0.773,0.113,0.0716,71.76,3,calm
+5efmTcG1xyKUGP6UMBx6x3,I Will Wait,Alina Linnéa,47,126669,I Will Wait,3/29/2020,0.309,0.0416,-27.055,0.0393,0.995,0.933,0.0765,0.0412,179.491,3,calm
+3T8EFeyuU6WEKgF4tpggDd,Alteration For Life,Penny Layn,42,166800,Days of Tomorrow,4/13/2020,0.227,0.00664,-26.545,0.0347,0.996,0.891,0.171,0.138,72.391,4,calm
+72qpJcGJO8yGMDoJpKsMBQ,Sweet Gesture,Bruno Joel,44,154421,By Your Side,3/9/2020,0.524,0.0294,-26.546,0.0767,0.995,0.955,0.0973,0.503,128.127,4,calm
+2ozO03f0aVld5piFvRTN9i,Lake Huron,DEX 1200,42,195312,Austafjord / Lake Huron,6/5/2020,0.144,0.049,-20.423,0.0409,0.983,0.938,0.0959,0.0666,66.888,3,calm
+5crvLtcVtQ0OYW3QtGpWcG,White Light,Leon White,44,185188,Living Memories,3/23/2020,0.227,0.00935,-28.841,0.0369,0.991,0.914,0.108,0.125,98.708,4,calm
+0m3sUxYwx3DRzB291geuJR,Ein neuer Tag,Lina Amsler,55,176371,Ein neuer Tag,9/5/2021,0.249,0.0801,-31.11,0.0377,0.913,0.886,0.144,0.0778,68.063,4,calm
+1JFb0Na5vJFckCPOmrxPXR,State of Tranquility,Johann Eder,42,248253,Gratitude,5/18/2020,0.123,0.0202,-30.344,0.0359,0.968,0.87,0.0847,0.0388,68.339,4,calm
+1IP6Rxvohb7Sv6c7eqCzx8,The Dusk,Zoe Connelly,41,160851,The Dusk,3/10/2020,0.41,0.0505,-22.943,0.039,0.954,0.905,0.129,0.148,120.331,3,calm
+3f1RNPAuQptCLaZ17CEHZo,Watching Traffic,The Flashbulb,44,170000,Compositions for Piano,4/2/2015,0.291,0.0366,-28.232,0.0433,0.987,0.915,0.104,0.158,201.604,4,calm
+0RIJAaogvQkeFuZVPhYlma,Atmos Eleven,Atmos 11,44,227668,World of Wonders,1/29/2020,0.174,0.00449,-37.192,0.0387,0.99,0.934,0.0848,0.0581,67.42,5,calm
+2apnPHVAbn0ny2K8RowbpN,Moving Towards Fine,Amaranth Cove,46,194250,Envision,1/3/2020,0.298,0.0749,-20.644,0.0341,0.986,0.911,0.117,0.268,70.604,3,calm
+1Wfu5TKZ6B6B7rkpIEmrUE,Peace Within,Vincent Fanguro,43,228038,Nocturne,11/21/2019,0.284,0.00434,-28.528,0.0444,0.992,0.905,0.138,0.159,68.313,3,calm
+4hDxgtDNwOscsG2X8kks6W,Absolutely Still,William Francisco,53,161454,Absolutely Still,7/14/2021,0.172,0.0722,-29.547,0.0393,0.961,0.92,0.107,0.0562,75.086,5,calm
+1skdG0IokRBAJGHylNqMck,Giant,Oliver Évilo,47,155000,Jupiter Sunrise,10/29/2019,0.223,0.00293,-40.279,0.04,0.987,0.938,0.0948,0.375,59.193,4,calm
+6ZWGu34UE99YEf0fRDtVy3,Catch Me When I Fall,Minnie Delarosa,46,152000,Catch Me When I Fall,4/24/2020,0.167,0.00482,-34.359,0.0414,0.989,0.864,0.0992,0.139,67.277,4,calm
+1BYHA0Mfycu07N6t8lQnpW,Simplicity,Beau Deval,43,219250,The Gift,5/1/2020,0.406,0.02,-28.028,0.0485,0.995,0.902,0.125,0.182,62.345,4,calm
+0qXXvOL6Ujkboy0u6QHCam,Unwritten Thoughts,Pim Miles,41,208222,Escape,5/6/2020,0.353,0.0576,-26.601,0.0322,0.981,0.803,0.089,0.0743,66.613,5,calm
+1rkonLSBTFJhP5bMGaRjUS,Terai-Duar,Taj Mendel,43,251268,Terai-Duar,5/18/2020,0.47,0.0194,-26.012,0.0362,0.989,0.948,0.203,0.139,91.99,4,calm
+19ilGQQEukiGNg4XSC5JbN,Conscience,Kotono Tanaka,42,248500,Conscience,5/15/2020,0.157,0.011,-26.573,0.0395,0.974,0.901,0.0977,0.0508,69.002,4,calm
+1cFNjRpfevyUzmUnyHLPfe,Origins of Light,Night Poets,41,198856,Parts Unknown,1/13/2020,0.355,0.00344,-30.403,0.0406,0.995,0.944,0.0708,0.265,160.063,3,calm
+6yUBEKkhH5z29iiszOQBSa,Diversity,Arush Mandal,41,183686,Diversity,2/24/2020,0.192,0.0268,-27.812,0.0365,0.963,0.912,0.104,0.0778,78.601,4,calm
+45We1ecGx6GcCNJWiQywxA,Muddus,Laponia,45,128250,Muddus,5/1/2020,0.28,0.0528,-28.338,0.0397,0.982,0.951,0.0916,0.328,98.725,3,calm
+6ibcCbsk0xLgLzU5iWgUhf,Kaprifol,Folksaga,42,269124,Kaprifol,7/10/2020,0.274,0.00514,-32.217,0.0402,0.989,0.936,0.106,0.0398,63.381,4,calm
+5GBUaaYqPzsuqSQvwvD46g,St Albans,Upsilon,40,167500,St Albans,6/12/2020,0.488,0.031,-26.096,0.0382,0.988,0.905,0.0841,0.0755,127.138,4,calm
+5R6uVJy58OxgyA0BQbY7Tk,To Me,Michel Landau,47,128084,You Are A Flower,2/25/2020,0.322,0.0028,-34.659,0.0445,0.995,0.922,0.114,0.265,63.034,4,calm
+3ciGnLsselzhecVZZiHzfZ,Salve,Ferdinando Zetticci,48,170124,Salve,3/27/2020,0.107,0.0125,-31.826,0.0376,0.995,0.959,0.116,0.0671,90.673,3,calm
+1WLZuGNHUN8H8ylUbJNO1q,The Butterfly Effect,Mjuk,45,175500,The Butterfly Effect,3/13/2020,0.0938,0.0237,-30.634,0.0391,0.96,0.928,0.131,0.139,78.203,4,calm
+7dgNKgQTOXvDyL4oX1xrZ3,anhelo,Ezechiel Almonte,44,212874,anhelo,8/24/2019,0.364,0.0186,-29.644,0.0467,0.98,0.912,0.102,0.0403,128.533,4,calm
+6DkUtEi0XgqV8LmnbDVpna,Purple Sunrise,IFEELU,48,177352,Purple Sunrise,1/22/2020,0.349,0.127,-20.43,0.0401,0.945,0.834,0.106,0.0574,67.981,4,calm
+6vrsJ91kWmaAvVgeUJoiDp,Marché St Quentin,Marcel Leblanc,42,185850,Au Calme,1/22/2020,0.351,0.129,-20.754,0.0305,0.865,0.943,0.112,0.0676,68.004,3,calm
+4H4Y6nk96QwY5tuHmiR98R,Harmonic Motion,Fleurs de Son,38,209454,Harmonic Motion,1/17/2020,0.0936,0.0697,-27.077,0.0372,0.972,0.915,0.0984,0.111,62.749,3,calm
+0PWTD37PzDoCU9CunHUokE,Waiting For The Moment,Ronald Sims,39,204439,Waiting For The Moment,1/26/2020,0.386,0.00157,-39.417,0.0336,0.994,0.917,0.101,0.162,59.866,4,calm
+1Hwlo5bLrQ4Xppr7UuSL4I,Valerian,Francesca Caroléo,43,169500,Lunaria,6/14/2019,0.423,0.00976,-27.805,0.0398,0.99,0.869,0.0833,0.119,112.569,3,calm
+5I3JZ3zvxKQMdp9rEcGkiR,Pads of Redemption,Masala Roo,51,168536,Pads of Redemption,11/14/2018,0.274,0.0417,-23.499,0.034,0.902,0.903,0.112,0.0613,43.513,4,calm
+5NOXtK6OWi7TDRU5TenMRX,luna,Beau Deval,43,166750,ambrosia,7/28/2019,0.514,0.0134,-24.76,0.0367,0.984,0.893,0.109,0.111,74.01,4,calm
+6iVbAwerjjEoH5NnEfFkkn,Departing,Hilma,45,130000,Departing,10/25/2019,0.328,0.0384,-26.294,0.055,0.988,0.935,0.108,0.0382,71.707,3,calm
+5hAsWMGQXBjDjYMoIlP9Ak,Soft Night,Elskavon,56,155250,Traditions & Traitors,8/10/2018,0.249,0.00248,-30.501,0.036,0.994,0.931,0.118,0.0788,73.601,4,calm
+7B3JZiCROLf0isTxxTs2bL,Doze,Judithe Abelsen,46,202750,Doze,12/27/2019,0.187,0.00503,-33.496,0.0402,0.995,0.968,0.105,0.106,63.709,4,calm
+0e5hI6tWwk5ntTtGa0OYNG,Dreams,Light & Sound,42,196200,Dreams,11/20/2019,0.159,0.0732,-23.812,0.0397,0.89,0.917,0.109,0.0364,133.718,4,calm
+6zO5kSbABJPDnMTMkbRGsG,Fireplace,Sam Sandro,43,160909,Ballroom,11/15/2019,0.728,0.019,-23.986,0.0385,0.985,0.911,0.11,0.0379,110.008,3,calm
+71V9ODRY7LPvkwg5HBfRxJ,Sama,Dalkhan Panova,38,149108,Sama,2/25/2021,0.312,0.0159,-29.348,0.0408,0.987,0.929,0.107,0.0633,74.583,4,calm
+7JDULs0oIly6dVLDZLUNkd,Hush,Luna Meguise,46,148249,Hush,4/4/2019,0.266,0.00118,-26.652,0.0507,0.979,0.948,0.106,0.461,72.466,4,calm
+6wsmXduFN4XMJ7ZwfEX52T,Believer,Above & Beyond,43,131826,Flow State,7/19/2019,0.495,0.152,-19.255,0.0286,0.942,0.964,0.173,0.0985,96.992,3,calm
+0Tan0vrdENegJ15DutFCxT,Serenity,Songs Of,38,165600,Symmetry,11/28/2019,0.536,0.0184,-21.366,0.0321,0.994,0.946,0.0912,0.0399,50.012,4,calm
+6ageUeraq8yY687IBlpeEF,Sueño (nos vemos mañana),Artura Ponce Valles,42,191000,Sueño (nos vemos mañana),11/29/2019,0.223,0.00737,-32.812,0.0353,0.995,0.89,0.0788,0.103,66.173,4,calm
+4UlarjdicLUPbdssOxWbYX,Lily's Cradle,Benette,44,161266,Lily's Cradle,5/13/2019,0.368,0.00892,-29.555,0.05,0.99,0.911,0.102,0.287,63.639,3,calm
+5sL1zebMXrBymyK6STo7n6,Sunyata,Sureborn,39,253207,Sunyata,5/29/2020,0.299,0.11,-21.916,0.0347,0.959,0.861,0.105,0.0394,77.83,3,calm
+07KyFspZCxCatWgaXoPlXg,Desiderium,Christine Papst,39,144000,Desiderium,6/7/2019,0.167,0.019,-31.662,0.0393,0.98,0.898,0.11,0.118,70.822,4,calm
+2OaoXYurShXZuFU5hmUva6,The Garden,Vita Menzer,44,147430,The Garden,5/17/2019,0.505,0.0191,-27.918,0.0476,0.994,0.947,0.108,0.263,75.254,3,calm
+3XUoK60Lyhtf9qyqJrppKq,Nysnö,Folksaga,46,156750,Nysnö,10/11/2019,0.301,0.0194,-26.948,0.0401,0.966,0.927,0.0988,0.059,112.158,4,calm
+1jb2tLUKTYvgMmwixWgNhz,The Inner Landscape,René Sturgess,40,175355,The Inner Landscape,8/8/2019,0.484,0.0569,-28.078,0.0328,0.983,0.868,0.0965,0.103,75.947,4,calm
+197gAis0L7q9xIFreP0cGA,Love to Give,Evelyn Haidu,39,197369,The Window,5/29/2019,0.346,0.0238,-29.356,0.104,0.994,0.96,0.0669,0.14,85.706,4,calm
+4tJLqa4zHZmoBrkdZu2IFY,Quando sorridi,Vala Capon,42,123000,Quando sorridi,3/31/2019,0.405,0.0302,-23.423,0.0369,0.995,0.855,0.0721,0.313,74.418,3,calm
+0mDOLrtw3BiHeGfv4J0KA2,Simple Gestures,Yonder Dale,43,178335,Eternal Slumber,11/8/2019,0.139,0.105,-20.55,0.0358,0.921,0.952,0.0816,0.175,72.13,5,calm
+7DwWJ7pMpFV6gok50clx3F,Repose,Ebb & Flod,43,213823,Nautilus,11/1/2019,0.305,0.105,-17.5,0.0338,0.945,0.924,0.0918,0.079,138.146,4,calm
+3mT4rBTlHe90bcKv7Vq38T,Thoughts about the Past,Elm Lake,44,164500,Elm Lake,11/1/2019,0.222,0.0367,-31.576,0.034,0.572,0.787,0.108,0.155,63.543,4,calm
+6uQzZwosuNDHx0V4gMXH8r,Gratitude,Stone Desert,39,157384,Gratitude,10/11/2019,0.655,0.195,-21.906,0.0357,0.978,0.896,0.0688,0.62,130.041,3,calm
+2WiuZ3Hn1qqvAoX7CUSfnm,Grain Of Sand,Sol Aurora,41,174359,Grain Of Sand,10/2/2019,0.249,0.122,-19.248,0.0291,0.878,0.866,0.0787,0.0595,69.988,4,calm
+5MIyzgrAUZ5TryLLF30hcY,Origami,Berlioz,46,106050,Origami,2/10/2019,0.388,0.00584,-26.36,0.0457,0.995,0.684,0.103,0.344,137.497,4,calm
+1aa3A3F6b5FZFtXAhtrybK,Time Travel,Antologie,48,184642,Time Travel,12/14/2018,0.12,0.0585,-27.623,0.0383,0.696,0.939,0.11,0.0397,78.662,5,calm
+6oJIMUBDopuFljMNBFrq9Z,Progress,Ever So Blue,53,138629,Fragment,7/26/2019,0.268,0.0234,-27.141,0.0487,0.995,0.929,0.0975,0.0382,99.734,4,calm
+658ysPC6WdtiRSQjiv2AJZ,Piano Eléctrico,Rancul,44,105626,Rancul,7/5/2019,0.532,0.204,-19.805,0.0477,0.851,0.96,0.108,0.0399,120.09,3,calm
+2QuojUtKiQ7l8ZQMDelt3s,Coralia,Arlette Leduc,43,197000,Coralia,4/21/2019,0.172,0.0223,-30.281,0.0395,0.993,0.937,0.0959,0.0381,71.379,4,calm
+6nx6oC4HgnZOxC4dgsPiIU,Falling Stars,Delle Alpi,52,158423,Falling Stars,9/12/2019,0.261,0.0257,-25.711,0.0406,0.956,0.878,0.111,0.0795,72.323,5,calm
+60nhoUdtsUq4FOwts7B2bM,In Bloom,Zoé de Vera,43,179086,In Bloom,2/10/2019,0.637,0.0812,-23.06,0.0374,0.99,0.908,0.087,0.213,109.965,4,calm
+54wC2ics8RCpQGYoB516Qs,While You Were Sleeping,Vincent & A Secret,45,105577,P.S. I'm Still Here,7/7/2016,0.207,0.0246,-30.335,0.0476,0.95,0.93,0.105,0.0426,74.184,4,calm
+4TD21HmrfSXDEKnlxPBGXl,London Berceuse,Rand Aldo,38,242528,Nocturne in Green,12/6/2019,0.277,0.0698,-20.013,0.0357,0.903,0.863,0.104,0.0381,115.948,4,calm
+0TkOLQj4kru49NI1N27pFr,Light of The Moon,Naturally Recurring,45,226666,Light of The Moon,10/29/2019,0.14,0.0257,-30.579,0.0436,0.973,0.919,0.0937,0.0824,78.872,3,calm
+1IdZJSn4MgU8nGWVQGm25D,For now,Leah Maur,44,161312,For now,8/16/2019,0.203,0.00541,-32.599,0.0382,0.981,0.902,0.111,0.0511,69.264,3,calm
+1onEytWdEeDCZoyF8VOOA9,Eudoxie,Irizarry Barraza,47,213500,Eudoxie,4/21/2019,0.176,0.0226,-24.974,0.0379,0.973,0.85,0.109,0.0373,68.663,4,calm
+5iLY3nwMD7WIm9p8q5tpWm,at peace,Matti Aalto,38,154500,at peace,4/5/2019,0.458,0.00226,-30.34,0.0569,0.995,0.934,0.122,0.522,67.598,3,calm
+3CkHOquzU3g6ekoYiuo5Fo,No me despiertes,Artura Ponce Valles,50,187250,No me despiertes,6/22/2019,0.203,0.00588,-34.66,0.0391,0.99,0.829,0.118,0.0418,69.468,4,calm
+72mDETn3Ba8yVewAcqnlqQ,Lyrebird,Keira Conlon,51,153500,Lyrebird,6/14/2019,0.232,0.00449,-34.69,0.0375,0.994,0.852,0.0705,0.0988,73.356,4,calm
+5awyHvXpb5txqlRuqUiHAl,The Edge of Love,Dawn Huntley,48,122892,The Edge of Love,9/29/2018,0.404,0.0138,-27.567,0.0482,0.994,0.945,0.114,0.35,77.621,4,calm
+2T6wyxLBkQ4Y2ZjTbpuYfr,Dream Voucher,Rannar Sillard,44,155039,Dream Voucher,1/25/2019,0.302,0.101,-19.705,0.0378,0.943,0.886,0.107,0.213,106.904,3,calm
+3KZzw77XIluygnZ8cwouMA,Parc Fermé,Antoine Minot,37,152826,Parc Fermé,4/19/2019,0.424,0.0199,-24.639,0.0458,0.991,0.96,0.177,0.196,117.477,4,calm
+7mi1e5svarnTtOklda5gIl,Le Menuet,Gwen Bellinger,38,120048,Le Menuet,5/7/2019,0.46,0.184,-25.017,0.0478,0.978,0.954,0.106,0.182,66.714,4,calm
+6MVRkDFvBxnYsnXUpxeLu5,Flowering sky,Jen Libby,38,140740,Flowering sky,6/30/2019,0.349,0.00444,-25.592,0.036,0.988,0.973,0.115,0.045,67.231,4,calm
+4Ck1myMt261ophVYeSOC84,Maroon Lake,Lundegard,42,170721,Outings,4/11/2019,0.449,0.0768,-21.836,0.0377,0.936,0.936,0.1,0.0376,71.32,4,calm
+7giuPZOPDPkpNOeVjC56rm,Wishes,Arush Mandal,40,184196,Higher States,6/14/2019,0.182,0.048,-23.557,0.0369,0.95,0.839,0.103,0.0561,140.532,3,calm
+0w1kQy9x8W7yA299gFLhLn,Harmonious,Samira Tesfay,44,236750,Harmonious,5/25/2019,0.204,0.0113,-31.284,0.0433,0.973,0.854,0.111,0.111,78.134,3,calm
+09z4NnaPxtbPsMoKHDaoIy,Zhenya,LOVIS,42,202945,Zhenya,5/10/2019,0.231,0.00747,-28.716,0.0438,0.99,0.873,0.109,0.0355,74.029,1,calm
+4vKfeLftDJXcbaZyA6ftvZ,Secrets,Astron,38,175483,"Sound Therapy Ambient Compilation, Vol. 1",11/27/2017,0.418,0.649,-8.347,0.0397,0.747,0.944,0.0684,0.0678,185.987,4,calm

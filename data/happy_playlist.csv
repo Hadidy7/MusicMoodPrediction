@@ -1,0 +1,1001 @@
+id,name,artist,popularity,duration_ms,album,release_date,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,mood
+5u4hhtZ7f4rWkMZEZcTKrH,Relax My Eyes,ANOTR,74,192150,Relax My Eyes,11/4/2022,0.747,0.616,-9.76,0.0324,0.176,0.116,0.143,0.908,131.975,4,happy
+2cSdAkzAf2T4j4aLvx4LLz,Baby Girl,Disco Lines,78,111074,Baby Girl,6/15/2022,0.73,0.907,-3.72,0.0606,0.0921,0.114,0.23,0.249,120.968,4,happy
+39JofJHEtg8I4fSyo7Imft,B.O.T.A. (Baddest Of Them All) - Edit,Eliza Rose,82,226626,B.O.T.A. (Baddest Of Them All),8/12/2022,0.736,0.906,-7.589,0.048,0.164,0.585,0.106,0.698,137.001,4,happy
+2sLVs5iX0osogh4jcsAJkv,Danielle (smile on my face),Fred again..,68,201230,Danielle (smile on my face),9/14/2022,0.678,0.931,-5.813,0.0867,0.00159,0.0275,0.091,0.346,130.021,4,happy
+40SBS57su9xLiE1WqkXOVr,Afraid To Feel,LF SYSTEM,81,177524,Afraid To Feel,5/2/2022,0.578,0.912,-3.929,0.114,0.0166,0.00362,0.273,0.68,127.87,4,happy
+3nEHrvNNtgLv9rneTAYVr4,Heaven Takes You Home (feat. Connie Constance),Swedish House Mafia,78,214071,Paradise Again,4/15/2022,0.665,0.738,-5.931,0.0379,0.0124,0.00598,0.0923,0.0389,125.037,4,happy
+7MIhUdNJtaOnDmC5nBC1fb,Deep Down (feat. Never Dull),Alok,82,165752,Deep Down (feat. Never Dull),6/17/2022,0.687,0.818,-4.221,0.0778,0.0112,0,0.248,0.886,125.952,4,happy
+4iAADGCKIR9GkLGvAHfZUS,Beat Goes On (Rhythm to the Brain),Campbell,68,133212,Beat Goes On (Rhythm to the Brain),10/7/2022,0.821,0.781,-4.465,0.0397,0.00563,0.0191,0.0403,0.434,137.017,4,happy
+587xXusqiMW9gSXkNK8Zxf,What A Life (feat. Stevie Appleton),John Summit,68,171547,What A Life (feat. Stevie Appleton),7/29/2022,0.677,0.732,-5.028,0.031,0.0113,0.227,0.0978,0.242,126.018,4,happy
+0hJfuyUwtEYMlGgvr3nzz9,Serotonin Moonbeams,The Blessed Madonna,67,289471,Serotonin Moonbeams,11/11/2022,0.817,0.876,-7.485,0.046,0.0332,0.199,0.412,0.671,131.022,4,happy
+4CUX44NA1CPEzd0ibMLQsL,Make Me Feel Good,Belters Only,68,197472,Make Me Feel Good,11/26/2021,0.773,0.74,-8.169,0.0386,0.0627,0.00183,0.0829,0.504,124.014,4,happy
+46E2xeKBLrxS8hJ37Gq35G,Billie (loving arms),Fred again..,65,217265,Billie (loving arms),8/31/2021,0.648,0.775,-4.798,0.0694,0.0561,0,0.444,0.371,128.072,4,happy
+0KG7XrgM20KEmJrKsyFDAm,Let You Go,Diplo,61,234374,Diplo,3/4/2022,0.584,0.955,-4.197,0.0507,0.101,0.00243,0.092,0.486,128.04,4,happy
+1bgKMxPQU7JIZEhNsM1vFs,Words (feat. Zara Larsson),Alesso,82,142677,Words (feat. Zara Larsson),4/22/2022,0.739,0.586,-5.079,0.0472,0.0245,0.000252,0.308,0.444,124.026,4,happy
+2LxdNADWier3MKTei8FbOY,I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir),Oliver Heldens,73,157205,I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir),5/6/2022,0.686,0.892,-3.186,0.0498,0.0577,7.11E-06,0.0838,0.752,126.03,4,happy
+0L3XCv9i9IHs8cJEVhsJ3J,More Than A Woman - SG's Paradise Edit,Bee Gees,70,357936,More Than A Woman (SG's Paradise Edit),6/25/2021,0.679,0.762,-4.253,0.0316,0.00469,0.23,0.0446,0.511,105.407,4,happy
+0W1jh3ExLv0nMvvmNJOBxh,How Long Have You Been Away?,kryptogram,50,208568,How Long Have You Been Away?,1/15/2021,0.806,0.753,-6.247,0.0534,0.031,0.5,0.0545,0.846,122.99,4,happy
+5OLSGox6JVpAyEQuoSYRcs,Better Than This,John Summit,67,188160,Better Than This,5/28/2021,0.673,0.839,-6.787,0.0373,0.0177,0.416,0.126,0.24,125.03,4,happy
+05QGJav2nGJ9qdQ3vG9A9t,Ask Me,Duck Sauce,60,193795,Ask Me / Mesmerize,3/5/2021,0.803,0.935,-4.915,0.032,0.0145,0.191,0.296,0.738,124.008,4,happy
+5Zn95uMcSkg22ScxTEVmRz,The Hard Way,PNAU,65,183925,The Hard Way,3/10/2023,0.691,0.906,-4.459,0.169,0.072,0,0.297,0.653,119.985,4,happy
+7uGpUhy4uf2UrHH7TyhM6C,Happy Music,Supershy,63,232625,Happy Music / Something on My Mind,4/8/2022,0.777,0.737,-5.86,0.0351,0.0421,0.379,0.0265,0.891,123.993,4,happy
+2keTABWAcdVZxJ6j8iEy83,Just Can't Get Enough,Channel Tres,52,303124,Just Can't Get Enough,7/21/2022,0.758,0.873,-5.7,0.0595,0.0294,5.33E-05,0.747,0.579,121.003,4,happy
+1ap4zdsBydWPSXJqDBqtNL,Like You Do,D.O.D,68,152224,Like You Do,9/30/2022,0.69,0.847,-4.565,0.0374,0.0145,0.041,0.0777,0.49,124.015,4,happy
+1RF02Cf80mTaeNXG2P2boR,21 Reasons (feat. Ella Henderson),Nathan Dawe,81,155253,21 Reasons (feat. Ella Henderson),4/29/2022,0.621,0.785,-4.499,0.11,0.0165,5.92E-06,0.0512,0.779,123.96,4,happy
+3JlHRjPt2TNB9h7VFf0im2,Weekends,Jonas Blue,78,127003,Weekends,2/3/2023,0.571,0.937,-3.365,0.033,0.0337,3.71E-05,0.212,0.607,148.979,4,happy
+1Rnx52PUuhrLrj306hOZHb,Can't Get You out of My Head - Peggy Gou’s Midnight Remix,Kylie Minogue,63,271240,Can't Get You out of My Head (Peggy Gou’s Midnight Remix),5/19/2022,0.687,0.924,-7.324,0.0361,0.0707,0.228,0.046,0.931,126.018,4,happy
+3sa06xVNmLLYIxdNNmVQN8,Where Did You Go? (feat. MNEK),Jax Jones,80,177689,Where Did You Go (feat. MNEK),2/4/2022,0.763,0.782,-4.541,0.0346,0.182,7.08E-06,0.293,0.502,127.034,4,happy
+3FN7IJMnUMWZXDw08ix3ot,Stop This Flame - Celeste x MK,Celeste,64,203946,Stop This Flame (Celeste x MK),6/25/2021,0.692,0.846,-5.72,0.0559,0.0194,2.91E-05,0.324,0.827,124.007,4,happy
+5MnmuLgPmsAFkmG5n85cna,Better (feat. Teddy Swims),MK,66,182462,Better (feat. Teddy Swims),7/15/2022,0.624,0.966,-3.155,0.041,0.0729,4.84E-06,0.181,0.758,124.984,4,happy
+5krhFNgUcYHwXlNPJJYzFM,Tell Me Something Good,Ewan McVicar,65,249678,Tell Me Something Good,6/25/2021,0.812,0.796,-10.548,0.0356,0.00826,0.921,0.365,0.961,125.976,4,happy
+5jOhS3S7vTj9yQ4UmEk8qj,The Music Began To Play,Mark Knight,63,145984,The Music Began To Play,8/12/2022,0.738,0.936,-3.451,0.219,0.00151,0.707,0.617,0.27,127.022,4,happy
+5zA3gMIFlgnhNQj39GcTqE,Set Me Free,D.O.D,67,180638,Set Me Free,1/6/2023,0.683,0.977,-2.582,0.106,0.00372,0.0109,0.166,0.884,129.996,4,happy
+4qtdkdTY1t3RmlmSbWykzR,Stay the Night,Sigala,71,171954,Stay the Night,5/20/2022,0.636,0.936,-2.65,0.0729,0.177,0,0.0879,0.415,124.034,4,happy
+1GL7vwDnPqCnJ2xGNxNLwG,These Nights,Loud Luxury,71,132417,These Nights,7/8/2022,0.643,0.714,-5.504,0.0486,0.00444,2.85E-06,0.146,0.205,120.027,4,happy
+5OlgbvkngYf6dibaafcqcO,Let You Do This (with Buy Now),Salvatore Ganacci,59,202281,Let You Do This,9/15/2022,0.747,0.712,-5.73,0.0651,0.0576,0.172,0.0833,0.327,124.008,4,happy
+17E3lZxFJnO49Gb0tdgVn0,Joy,salute,57,281381,Joy,9/17/2021,0.663,0.971,-3.014,0.0771,0.0204,0.00379,0.0669,0.683,132.049,4,happy
+3yZsBXwiQkqLjnWYip17Uu,Doses & Mimosas (Vintage Culture & Zerky Remix) - Radio Edit,Vintage Culture,61,229586,Doses & Mimosas (Vintage Culture & Zerky Remix) [Radio Edit],3/12/2021,0.782,0.728,-6.568,0.146,0.00245,7.90E-05,0.241,0.602,122.035,4,happy
+5PY9fTLp4MPXsbeRouS8gd,More Love,Noizu,61,191612,More Love,7/29/2022,0.572,0.951,-4.566,0.0504,0.00373,0.0529,0.318,0.276,123.984,4,happy
+1BMFet4vUoOgpLYIl3kVMQ,Coma Cat - Purple Disco Machine Re-Work,Tensnake,63,208544,Coma Cat (Purple Disco Machine Re-Work),9/30/2022,0.653,0.978,-4.868,0.0589,0.0151,0.714,0.309,0.756,122.017,4,happy
+50ZFpw2wS6ERvLmW8TINhq,Beg for You (feat. Rina Sawayama),Charli XCX,66,168053,Beg For You (feat. Rina Sawayama),1/27/2022,0.788,0.945,-5.091,0.0599,0.223,2.97E-06,0.115,0.466,128.036,4,happy
+5kVXjAxYDkN57tZQi0JKya,You've Got To Let Go If You Want To Be Free,Disclosure,58,253786,You've Got To Let Go If You Want To Be Free,1/28/2022,0.658,0.908,-8.071,0.186,0.0335,0.0198,0.221,0.45,123.92,4,happy
+2BoPkeahovHxCSfmmlEl26,Let Me Love U,Baauer,58,189506,Let Me Love U,8/4/2022,0.725,0.824,-6.398,0.0445,0.00527,0.655,0.924,0.598,124.049,4,happy
+7cujJQPxdHeDz5mKLmv0bu,Something About Your Love,SG Lewis,57,323109,Missing You / Something About Your Love,7/7/2022,0.587,0.826,-5.728,0.148,0.0134,0.000131,0.236,0.274,122.02,4,happy
+2gTF3yPxvDpW2EAYbOVeIt,JOY (God Only Knows),Joy Anonymous,60,266906,JOY (God Only Knows),12/23/2022,0.48,0.952,-3.643,0.246,0.0966,0.0286,0.215,0.634,131.956,4,happy
+28pQcTJag5xFasUq2fw9PK,Shades Of Love (feat. The Joy),The Blessed Madonna,66,203520,Shades Of Love (feat. The Joy),2/22/2023,0.65,0.801,-5.624,0.0764,0.0257,0.00239,0.0942,0.605,125.008,4,happy
+2hLczPN5CH5qhc6J4WBJHs,My Feelings For You - Mark Knight Remix,Avicii,66,224515,My Feelings For You (Mark Knight Remix),7/15/2022,0.728,0.95,-4.216,0.0977,0.0055,0.00386,0.33,0.812,124.003,4,happy
+3oyBjanJeqPz5cOMDedCyl,You Know What I Need,PNAU,60,170000,You Know What I Need,12/2/2022,0.775,0.896,-3.445,0.0901,0.017,0,0.0492,0.86,109.929,4,happy
+0QZyAYqpbsfnBfZ4vMRSVd,Wings (I Won't Let You Down),Armand Van Helden,68,171904,Wings (I Won't Let You Down),12/2/2022,0.692,0.856,-2.963,0.0351,0.0746,1.15E-05,0.153,0.963,125.99,3,happy
+21H0pUV2uPIPcFnFhgTBjo,Woke Up in Love,Kygo,75,216873,Woke Up in Love,9/9/2022,0.643,0.585,-5.994,0.0369,0.225,0,0.0927,0.188,106.015,4,happy
+4xWyU0pUsm25vh4v4omUkC,Shackles (Praise You),MALARKEY,66,140018,Shackles (Praise You),1/7/2021,0.657,0.816,-4.819,0.168,0.101,0,0.137,0.584,120.092,4,happy
+0JpEMzTHbt2zBIXrntrXzG,Young Right Now,Robin Schulz,72,186140,Young Right Now,11/12/2021,0.539,0.708,-6.189,0.0976,0.0129,0,0.14,0.381,123.039,4,happy
+7g7OshelYRRnOSEMmisJVI,Clap Your Hands,Kungs,70,189880,Clap Your Hands,2/18/2022,0.878,0.875,-4.923,0.0658,0.0507,3.42E-05,0.356,0.84,124.006,4,happy
+7sMYJtxTHZKCDr48rAoA4J,Wake Up! (feat. Kaleta),Purple Disco Machine,63,232745,Wake Up! (feat. Kaleta),6/3/2022,0.75,0.85,-5.925,0.0501,0.0451,0.00351,0.559,0.877,122.04,4,happy
+6zSpb8dQRaw0M1dK8PBwQz,Cold Heart - PNAU Remix,Elton John,86,202735,Cold Heart (PNAU Remix),8/13/2021,0.796,0.798,-6.312,0.0317,0.034,4.19E-05,0.0952,0.942,116.032,4,happy
+6a8LfgC5aAaHNhsQcGQY1r,Antibodies - LP Giobbi Remix,Tensnake,64,312226,Antibodies,7/2/2021,0.61,0.765,-4.914,0.172,0.175,1.05E-06,0.0914,0.243,125.028,4,happy
+1h4zfNDe8UapUvTuaDsTuM,Good Feeling,Duvall,59,169440,Good Feeling,3/11/2022,0.693,0.845,-3.27,0.0348,0.0127,1.84E-06,0.169,0.498,125.009,4,happy
+1TytykMo9zFzNdRbqTxfep,Feels This Good,Sigala,71,190609,Every Cloud - Silver Linings,3/2/2023,0.629,0.917,-2.095,0.0964,0.0273,0,0.521,0.627,124.024,4,happy
+4IPATLSUoEdsmqwxwNjr4g,CLASH - Edit,The Blaze,55,210773,CLASH,2/15/2023,0.533,0.716,-9.718,0.0573,0.00243,0.227,0.391,0.38,120.058,4,happy
+5kyJ6sznnWACqHbw65p34Q,Summer In New York,Sofi Tukker,69,158549,WET TENNIS,4/29/2022,0.706,0.77,-6.224,0.0653,0.397,1.84E-05,0.209,0.967,117.075,4,happy
+7l0LomcCS4l0VIn34sBhdD,Lightning To Strike (feat. Nathan Nicholson),J. Worra,47,178721,Lightning To Strike (feat. Nathan Nicholson),10/28/2022,0.648,0.843,-6.695,0.033,0.0567,0.0723,0.152,0.745,124.996,4,happy
+3uO4nLDiJMH2DkixEFcHIN,Get Up,Eats Everything,57,186862,Get Up,2/10/2023,0.51,0.833,-3.857,0.0602,0.00224,0.768,0.0483,0.701,126.978,4,happy
+0yM2YvOGR3cBIoWBeFdtmS,Enjoy Your Life,Romy,65,240053,Enjoy Your Life,4/11/2023,0.674,0.924,-4.943,0.102,0.0143,6.09E-06,0.216,0.811,123.04,4,happy
+1BXAyGazbybUVNQ0VmGsdl,Free Yourself,Jessie Ware,63,234493,Free Yourself,7/19/2022,0.688,0.91,-4.496,0.0456,0.00286,1.07E-05,0.129,0.77,119.024,4,happy
+3D9VUBpdUvau3tMgH3P5Tk,Dopamine,Purple Disco Machine,59,216770,Exotica,10/15/2021,0.69,0.805,-5.395,0.124,0.053,0,0.188,0.874,117.985,4,happy
+4RAR8g8fZNB106ezUurnE0,Dancing Feet (feat. DNCE),Kygo,74,215203,Dancing Feet (feat. DNCE),2/25/2022,0.75,0.797,-4.826,0.118,0.293,0,0.392,0.523,105.949,4,happy
+3adJKRdGrvuuuibXlDc6Sq,Moon Groove,Noizu,50,169218,Moon Groove,6/17/2022,0.784,0.878,-4.847,0.0572,0.00572,0.388,0.628,0.491,127.973,4,happy
+2c0dsTO43eKPOjdNvcgkkj,Not Alone,Don Diablo,61,160869,Not Alone,1/27/2023,0.601,0.832,-5.471,0.139,0.0284,0,0.477,0.409,138.061,4,happy
+4UQy41kC5LjzwQuiuWOpwA,Starlight (Keep Me Afloat),Martin Garrix,62,202670,Starlight (Keep Me Afloat),4/15/2022,0.558,0.715,-5.231,0.0375,0.0667,0,0.097,0.297,127.001,4,happy
+7dk9EBvTbbKBbFxjCAJpwK,Hear Me Say,Jonas Blue,66,190772,Hear Me Say,5/28/2021,0.697,0.836,-5.005,0.0437,0.133,4.46E-06,0.0754,0.631,121.977,4,happy
+2tMIzKu3vXQzvbDShxjbmu,Suenos Bravos,Bodysync,55,210440,Radio Active,4/15/2022,0.764,0.654,-8.372,0.0385,0.205,0.386,0.148,0.579,120.036,4,happy
+2KN5wY5R4gXbka8wB2kXh8,Be My One,Sonny Fodera,60,142334,Wide Awake (Deluxe),4/8/2022,0.666,0.906,-4.938,0.0446,0.0196,0.000346,0.0947,0.659,120.94,4,happy
+6iZ2inFhxOuHKxOlTwwhZq,Next To You (feat. Kane Brown),Loud Luxury,68,161344,Next To You (feat. Kane Brown),2/24/2023,0.737,0.837,-6.448,0.054,0.223,0,0.159,0.575,118.998,4,happy
+5w7sO0tWXMmctwKnJZu24v,Deja Vu,Oliver Heldens,59,198703,Deja Vu,12/3/2021,0.87,0.532,-7.101,0.0951,0.127,8.65E-05,0.112,0.358,121.986,4,happy
+4WIaDYUIlXsHi4yMF596aI,About Damn Time - Purple Disco Machine Remix,Lizzo,68,218476,About Damn Time (Purple Disco Machine Remix),5/18/2022,0.8,0.771,-6.638,0.123,0.0531,0,0.229,0.886,118.991,4,happy
+5d3Wbdgw3zIf8B5eGXznLL,Pyramids,Otto Knows,61,232682,Pyramids,3/11/2022,0.692,0.845,-5.928,0.0543,0.0116,0.0639,0.35,0.158,123.014,4,happy
+3By9IFm4E2BvKQygT04O8g,So What (feat. A R I Z O N A),Louis The Child,56,177476,So What (feat. A R I Z O N A),4/30/2021,0.799,0.791,-5.173,0.109,0.3,0.00089,0.104,0.651,119.993,4,happy
+1SldN7GTd0ADTjspv96wCl,Loved By U,TOKiMONSTA,60,207813,Loved By U,4/12/2022,0.58,0.895,-5.224,0.0396,0.099,0.0117,0.0911,0.356,116.953,4,happy
+3LEgGAl9zLcQWGTp7ptqtQ,Don’t Wake Me Up,Jonas Blue,75,188894,Don’t Wake Me Up,1/7/2022,0.621,0.747,-5.084,0.0337,0.222,0.000194,0.147,0.426,124.015,4,happy
+5FDdviWQzhw7NWH2TiDl9d,Closer (feat. Lilly Ahlberg),Sonny Fodera,54,169901,Closer (feat. Lilly Ahlberg),4/30/2021,0.7,0.782,-4.631,0.0542,0.449,0,0.143,0.68,124.969,4,happy
+5ozhK7GvUKSNSr1LrclYM2,Forever And A Day - Diplo Remix,LP Giobbi,57,218053,Forever And A Day (Diplo Remix),10/25/2022,0.755,0.896,-7.18,0.119,0.0024,0.701,0.101,0.267,124.999,4,happy
+6bp0sJ0l3Ab3ZU0aktsYCf,Sun Will Shine,Robin Schulz,69,201700,Sun Will Shine,7/29/2022,0.534,0.714,-6.347,0.0629,0.00633,0,0.0879,0.415,125.99,4,happy
+6VpRQDOM7nQ6viuVUSXWGn,We Will Meet Again,San Holo,57,201199,We Will Meet Again,6/1/2022,0.401,0.786,-6.455,0.055,0.367,0.0065,0.134,0.264,134.87,4,happy
+0DfQV2Ri0l83o7Nbzm45vQ,DNA,Craig David,60,177213,DNA,7/29/2022,0.672,0.881,-3.142,0.0447,0.0588,0,0.406,0.68,122.012,4,happy
+0vR2rIVORmgeKiGIgNT0fV,By Your Side (feat. Tom Grennan),Calvin Harris,72,189671,By Your Side (feat. Tom Grennan),6/4/2021,0.733,0.96,-3.597,0.0295,0.0514,0.00199,0.287,0.811,124.01,4,happy
+20b1ZBMGOZjuGvNFncIIP7,Time to Groove (feat. Nonô),Majestic,64,146848,Time to Groove (feat. Nonô),4/22/2022,0.624,0.94,-3.671,0.163,0.000983,0.00409,0.313,0.882,128.014,4,happy
+6oELcspL4BONtElLhJfBPI,Night Feels,AR/CO,62,171448,Night Feels,9/16/2022,0.737,0.682,-4.2,0.0383,0.0714,0.00916,0.158,0.393,126.028,4,happy
+4KqA0GwEKbc96WyfIZn3SV,Those Eyes,ARTY,64,162786,Those Eyes,10/29/2021,0.727,0.822,-4.481,0.0471,0.0698,0.000175,0.408,0.855,118.092,4,happy
+19awxNpyrGWGkM6wT6ULEi,Journey (Take Me Where You Wanna),Don Diablo,60,193548,Journey (Take Me Where You Wanna),11/25/2022,0.67,0.73,-4.677,0.145,0.0742,0.00104,0.145,0.367,123.978,4,happy
+5ugYo7xM632grP29JqjxZa,Lose Control,220 KID,58,152068,Lose Control,9/23/2022,0.474,0.777,-6.516,0.0639,0.138,0.00367,0.313,0.8,121.941,4,happy
+3D3fw7H4zK3S6prSBncAkt,Fever,Lewis Thompson,57,146692,Fever,4/20/2023,0.699,0.785,-5.082,0.264,0.0184,0.0289,0.104,0.642,126.106,4,happy
+7hmdTvWQgw2p8aG26MIdCO,Good Feeling (feat. Rhys Lewis),Bakermat,67,214942,Good Feeling (feat. Rhys Lewis),3/24/2023,0.641,0.788,-5.817,0.05,0.149,0,0.0943,0.782,147.947,4,happy
+7quS3s6bqzPmXRnDU5FeNa,Get Up,Keys N Krates,52,183934,Get Up,11/16/2022,0.903,0.628,-5.811,0.182,0.00575,0.0273,0.0746,0.475,121.979,4,happy
+5B1JcoxYjVjRNt2ZJyraJT,Lights Up (feat. Channel Tres) - Myd Remix,Flight Facilities,50,215765,Lights Up (feat. Channel Tres) [Myd Remix],6/25/2021,0.833,0.623,-7.451,0.122,0.00186,0.0119,0.275,0.643,118.036,4,happy
+7kG1Lv9NFFtvvUeyYHLG7R,All Day (feat. Nonô),Welshy,60,182653,All Day (feat. Nonô),3/4/2022,0.713,0.81,-5.108,0.0457,0.115,0,0.0527,0.747,124.036,4,happy
+3kyskiCpYM2ALQUSEShFMY,Sinner,LP Giobbi,55,238357,Sinner,3/11/2022,0.721,0.78,-6.935,0.0403,0.0455,0.083,0.138,0.725,126.974,4,happy
+6oYXbji1rn7U6bFuNYekpQ,Run,Becky Hill,70,188731,Run,2/18/2022,0.601,0.879,-2.673,0.0353,0.0313,0,0.0793,0.589,124.013,4,happy
+0KU8W0lHfsNlH7lfV1dz29,Gratitude,Above & Beyond,56,233619,Gratitude,4/14/2022,0.521,0.927,-4.63,0.036,0.00307,0.0138,0.125,0.0429,128.05,4,happy
+5wM6LOw2U6XeIFHfsgI6wU,Love You Back,Madeon,57,214103,Love You Back,4/27/2022,0.511,0.718,-7.46,0.0367,0.00454,9.61E-05,0.0913,0.274,106.016,4,happy
+342xhiMfFuR0zXbG35VIjy,Straight Up Relaxin' (feat. Cosmo's Midnight),Yung Bae,50,242847,Straight Up Relaxin' (feat. Cosmo's Midnight),12/2/2021,0.674,0.667,-7.212,0.3,0.0677,3.67E-06,0.125,0.715,110.004,4,happy
+1mpD4bXO4r3xilu12Kaf5Q,It's Quiet Now (feat. Dope Earth Alien),Honey Dijon,54,182750,Black Girl Magic,11/18/2022,0.703,0.818,-7.905,0.037,0.000569,0.0792,0.0964,0.63,123.009,4,happy
+1QuoMcTglBzFIsPwiXHNQQ,Your Light,GRiZ,50,237600,Your Light,9/7/2022,0.618,0.956,-3.062,0.0435,0.0205,0.33,0.219,0.772,100.02,4,happy
+2syb6g2gf1rj50CovNjtI6,Chucks,Mi Casa,47,169538,Chucks,3/26/2021,0.737,0.805,-4.955,0.0505,0.0728,0.000198,0.163,0.482,124.015,4,happy
+6y6xhAgZjvxy5kR5rigpY3,Chasing Stars (feat. James Bay),Alesso,67,170457,Chasing Stars (feat. James Bay),8/20/2021,0.594,0.64,-6.865,0.033,0.0169,0,0.135,0.492,92.871,4,happy
+7t7ozrjWAqQPyvBZPoVbdQ,Say It To Me,Otto Knows,55,242076,Say It To Me,4/14/2023,0.687,0.939,-5.836,0.114,0.0399,0.0275,0.0793,0.301,130.037,4,happy
+0ZNail0sBLDyANc8rboHhs,We Give Thee Honor,Floorplan,52,191820,We Give Thee Honor / Makes Me Wanna,2/10/2023,0.584,0.937,-4.137,0.044,0.000176,0.124,0.135,0.606,124.952,4,happy
+1cVOEbvsf7N9Su4kZXFcYB,Stargazing,Monocule,59,239736,Stargazing,9/23/2022,0.614,0.837,-6.504,0.0397,0.0266,0.0631,0.136,0.0524,122.958,4,happy
+6wnzt59p7i8cAyuWl1avwr,If We’ll Ever Be Remembered,Martin Garrix,57,210505,If We’ll Ever Be Remembered,4/29/2022,0.502,0.554,-5.788,0.0317,0.0353,0,0.62,0.512,125.786,4,happy
+2w1rG2MPE4vF77znvevuz5,Who Do You Love,ARTY,64,208253,Who Do You Love,2/25/2022,0.537,0.964,-2.677,0.0552,0.018,0.00138,0.16,0.509,125.992,4,happy
+3ng7epefERNazaZkkbwLdq,Another Life (feat. FLETCHER & Josh Golden),Surf Mesa,66,162954,Another Life,8/27/2021,0.648,0.724,-5.189,0.0263,0.0198,0,0.15,0.382,125.014,4,happy
+7KTcpv7wPJ4r6lR5SLzurh,Reaching Out,Dillon Francis,51,134584,Reaching Out,8/20/2021,0.782,0.748,-4.32,0.0523,0.0629,0,0.1,0.571,123.937,4,happy
+2OGcwhOAldo9aiDwBnXMfc,Special Thing,Gilligan Moss,58,297583,Gilligan Moss,4/9/2021,0.655,0.904,-5.881,0.0414,0.0289,0.143,0.141,0.632,125.028,4,happy
+3wfNiPBrzDwuanE75Ar6pS,Anywhere With You,AFROJACK,68,158807,Anywhere With You,12/17/2021,0.596,0.743,-4.149,0.0302,0.0696,2.37E-06,0.202,0.531,125.883,4,happy
+3qiC3jOnRNvOxD4m0erBRs,High Heels - Party Down Under - Sam Feldt vs. Flo Rida,Flo Rida,62,134745,High Heels - Party Down Under (Sam Feldt vs. Flo Rida),2/2/2023,0.865,0.752,-6.565,0.053,0.0409,0,0.185,0.922,117.981,4,happy
+0qLCGr3tEqsvk5FfHU2XqV,Tears For Later,Don Diablo,53,166736,Tears For Later,7/30/2021,0.633,0.866,-3.694,0.149,0.0246,0.001,0.0904,0.161,95.059,4,happy
+1dBpg8a8jwAkaSbROiehr9,The Spirit,Bakermat,49,135865,The Spirit,6/25/2021,0.894,0.548,-7.216,0.179,0.0104,0.592,0.098,0.802,119.998,4,happy
+7quk6gEs1XOu8LOO6iaDZJ,Good Time,Jodie Harsh,58,161068,Good Time,2/18/2022,0.72,0.908,-3.467,0.0745,0.00133,0.00716,0.378,0.916,127.896,4,happy
+40U8KhwvDcaoBFYV4hKfRn,Carry Us,LP Giobbi,53,238264,Carry Us,6/11/2021,0.728,0.947,-4.22,0.0828,0.0177,0.00254,0.0987,0.553,125.874,4,happy
+0KF938333oCvIXDxe72K44,You're Free,Icona Pop,63,167298,You're Free,6/17/2022,0.639,0.878,-4.041,0.091,0.00937,7.31E-06,0.115,0.842,124.994,4,happy
+4R4gOp9ybG85RqbrY7JELc,Feels Like Love (feat. MIYA MIYA),Syn Cole,62,169672,Feels Like Love (feat. MIYA MIYA),5/14/2021,0.728,0.657,-5.329,0.042,0.0696,3.41E-06,0.0855,0.772,122.079,4,happy
+4MyPLcBTpqfXZJKcUhMXOg,Set You Free,Lucas & Steve,58,169523,Set You Free,1/28/2022,0.554,0.93,-4.646,0.0768,0.0024,0.535,0.4,0.431,126.015,4,happy
+67khZBWjxlHg85xcwdySjS,I Got A Feeling,Felix Jaehn,62,144136,I Got A Feeling,8/20/2021,0.6,0.845,-3.695,0.042,0.0238,0,0.434,0.378,125.027,4,happy
+3NQ2JBHK5OAzblu8z5KUVj,Wounded,Ferry Corsten,57,191718,Wounded,2/25/2022,0.702,0.731,-5.193,0.0556,0.0148,0.00022,0.249,0.541,125.034,4,happy
+3ddJUAVAo7b1AnNWi7jtZX,Rise Again,Adelphi Music Factory,48,183112,Rise Again,8/19/2022,0.778,0.942,-4.239,0.174,0.0111,0.177,0.342,0.851,125.962,4,happy
+67uiBfnqH39zmGWU63NxhS,Temptation,Bakermat,64,192614,Temptation,3/25/2022,0.831,0.632,-5.727,0.0421,0.00838,0.00247,0.0962,0.419,120.01,4,happy
+2gZwBmkSmsVfEPFWGuWTDk,Best Is Yet To Come (with Kyle Reynolds),Gryffin,61,215201,Best Is Yet To Come (with Kyle Reynolds),6/2/2021,0.569,0.85,-3.914,0.0369,0.0148,0,0.245,0.551,122.042,4,happy
+1c5sVhqoQvLHTXTYJTb98i,Midnight Rapture,Anabel Englund,54,197648,Midnight Rapture,9/17/2021,0.689,0.897,-6.703,0.0436,0.00074,0.0017,0.224,0.33,117.984,4,happy
+5XPo15e5ICs6NvSMn44pTF,Malibu,Virginia To Vegas,62,148822,Malibu,3/19/2021,0.657,0.653,-8.525,0.0258,0.0568,0.000142,0.321,0.624,111.974,4,happy
+2yCyr5ZJHDm9CzpPRdduJ9,Higher Love,Ali Story,52,238306,Higher Love,7/23/2021,0.56,0.867,-5.483,0.226,0.0371,0,0.494,0.493,123.902,4,happy
+6p8uRRGziFLcA3QDvWxEPM,Heaven,Dimitri Vegas & Like Mike,67,178294,Heaven,4/29/2022,0.716,0.853,-3.254,0.03,0.00812,0.000268,0.154,0.593,124.014,4,happy
+6VcpaoEQRxc9wrAtYBqKwz,Payback (feat. Icona Pop),Cheat Codes,56,203411,Payback (feat. Icona Pop),3/4/2022,0.672,0.8,-4.919,0.0372,0.113,0.000302,0.132,0.8,118.013,4,happy
+7qhFWlQpahKJT9LcL6qTH4,Disco Inferno,Syzz,61,131474,Disco Inferno,4/8/2022,0.764,0.84,-4.311,0.0596,0.00834,0.0777,0.0911,0.67,126.03,4,happy
+4XP2xY8tUYed1cceuh24Q8,Bedroom Eyes (feat. Studio Killers),The Knocks,56,178420,Bedroom Eyes (feat. Studio Killers),6/25/2021,0.651,0.786,-3.725,0.0761,0.0035,6.99E-05,0.179,0.414,109.019,4,happy
+21lbj2ezsvMg0XoeBL49bw,Everything’s Gonna Be Alright,Mark Knight,57,213387,Untold Business,6/25/2021,0.61,0.933,-3.599,0.075,0.0102,0,0.823,0.679,123.997,4,happy
+1OU3OPHczBcfFU8cDzSzKT,The Best,Hook N Sling,57,158354,The Best,4/30/2021,0.813,0.848,-4.582,0.0534,0.0453,1.51E-05,0.0696,0.603,123.978,4,happy
+5EO3XfmUHzdeGq3XCue8YP,Keep On Rising,Big Gigantic,52,207696,Keep On Rising,4/26/2022,0.618,0.76,-7.466,0.172,0.0111,1.27E-05,0.368,0.571,119.996,4,happy
+132fXaozCi3EKmNgTnWmiW,O Retha,LP Giobbi,51,228407,O Retha,10/8/2021,0.703,0.968,-2.851,0.0619,0.0124,0.442,0.0461,0.499,123.988,4,happy
+2WJVFqVQ3ivhAoAQWzEzeL,Starstruck,Years & Years,59,207755,Starstruck,4/8/2021,0.555,0.879,-2.484,0.0983,0.011,0,0.298,0.691,113.852,4,happy
+0kCDVx0CUreSrv87CUt6fY,Can't Stay Away,Darin,52,180157,Can't Stay Away,5/3/2022,0.703,0.86,-4.049,0.0961,0.131,2.04E-06,0.102,0.749,118.763,4,happy
+3pBv3LfvfPft2TqHleqKHo,Call On Me (feat. Georgia Ku),Sam Feldt,65,192000,Call On Me (feat. Georgia Ku),10/15/2021,0.662,0.794,-4.239,0.0533,0.171,0,0.0883,0.641,104.951,4,happy
+326yOKaTPs91elL1KW794F,Life's Too Short,Two Friends,64,211010,Life's Too Short,12/3/2021,0.648,0.795,-5.67,0.0433,0.0275,0,0.113,0.364,100.032,4,happy
+102rhgJ5PEFt62e0PumSF2,Shadow,Syn Cole,68,166572,Shadow,8/26/2022,0.786,0.718,-6.292,0.04,0.00519,0.000977,0.127,0.525,123.951,4,happy
+7IhWJM8cN04zRQ2PNM91xc,Stay Mine,Timmy Trumpet,57,178010,Stay Mine,4/2/2021,0.756,0.892,-4.361,0.0399,0.0671,0.000139,0.0798,0.362,124.05,4,happy
+4z2ZZU3skkejktx83PbKiR,You Make Me Feel,Solardo,59,203909,You Make Me Feel,5/27/2022,0.601,0.947,-6.398,0.0468,0.00322,0.000584,0.236,0.669,132.987,4,happy
+2ntTfXxuIi3jlePOKSz26N,Risk It All,Ella Henderson,65,178064,Risk It All,8/20/2021,0.706,0.914,-5.668,0.0615,0.19,0,0.0886,0.299,124.03,4,happy
+4peF3yGZAZfeOFDahi6Ig5,Take Me To The Sunshine (feat. BullySongs),Matoma,60,177560,Take Me To The Sunshine (feat. BullySongs),2/4/2022,0.686,0.814,-6.122,0.036,0.00896,0.000196,0.187,0.48,123.002,4,happy
+3008zmJyaNEFbGEYNTg4mk,Do You Want It Right Now (Siedah Garrett vs. Eden Prince),Siedah Garrett,57,161471,Do You Want It Right Now (Siedah Garrett vs. Eden Prince),3/5/2021,0.307,0.961,-5.6,0.0588,0.0013,0.00474,0.514,0.463,122.263,4,happy
+6aEtOtuVYBDfR07qJm8wB3,ME WITHOUT U,Kaleena Zanders,57,156312,ME WITHOUT U,8/26/2022,0.713,0.906,-2.299,0.14,0.0176,6.31E-05,0.168,0.733,124.033,4,happy
+4lq3wubv9kXqwAOiO7jNON,Waste of Time,Kaivon,51,226875,Waste of Time,11/30/2022,0.62,0.806,-2.087,0.0506,0.00207,5.18E-06,0.197,0.364,128.028,4,happy
+5Yg3kRGlB8UB6Sa8Fq4njc,What It Feels Like,Navos,58,146512,What It Feels Like,4/8/2022,0.631,0.841,-4.284,0.0434,0.0306,0.00049,0.157,0.366,124.998,4,happy
+5WwnSIlom58yAxG4j2EVRK,When I'm Alone,GoldFish,47,200200,When I'm Alone,4/28/2023,0.615,0.572,-6.115,0.0362,0.0187,1.25E-05,0.707,0.354,126.138,4,happy
+2z9iuAxKv4TTeCrPAxxKg9,Love Lost,Mac Miller,77,162875,"I Love Life, Thank You",7/22/2022,0.735,0.812,-4.417,0.151,0.528,0,0.186,0.584,109.829,4,happy
+6UN73IYd0hZxLi8wFPMQij,Players,Coi Leray,92,139560,Players,11/30/2022,0.954,0.516,-5.817,0.16,0.03,7.54E-06,0.0504,0.624,105.001,4,happy
+4qzEjmuz380jeiBJp31oDY,Chemical,Post Malone,77,184004,Chemical,4/14/2023,0.48,0.895,-4.872,0.0426,0.00183,0,0.111,0.356,169.945,4,happy
+1XuushYZmiAuKpPYTj7p3v,Shut Me Up,Nicky Youre,73,141218,Shut Me Up,2/24/2023,0.623,0.641,-3.987,0.0462,0.0841,1.09E-06,0.06,0.735,185.888,4,happy
+6f5ExP43esnvdKPddwKXJH,Better Days (NEIKED x Mae Muller x Polo G),NEIKED,79,160656,Better Days (NEIKED x Mae Muller x Polo G),9/24/2021,0.717,0.671,-5.077,0.0337,0.0018,2.54E-06,0.0921,0.699,110.054,4,happy
+1tNJrcVe6gwLEiZCtprs1u,3 Nights,Dominic Fike,76,177666,"Don't Forget About Me, Demos",10/16/2018,0.815,0.518,-6.594,0.0897,0.223,0,0.104,0.877,151.891,4,happy
+3UZDl7g2r84o1b5marUjfK,My Stupid Heart,Walk Off the Earth,74,160866,My Stupid Heart,1/27/2023,0.745,0.681,-7.91,0.0361,0.0696,0,0.164,0.613,115,4,happy
+7fYRg3CEbk6rNCuzNzMT06,Potion (with Dua Lipa & Young Thug),Calvin Harris,73,214459,Potion (with Dua Lipa & Young Thug),5/27/2022,0.824,0.697,-4.869,0.0473,0.158,4.11E-05,0.077,0.757,99.988,4,happy
+2Yer0p7uB2lVBUAtANuuQp,Magic In The Hamptons (feat. Lil Yachty),Social House,75,164640,Magic In The Hamptons (feat. Lil Yachty),6/8/2018,0.769,0.479,-5.339,0.0385,0.66,0,0.0914,0.803,96.051,4,happy
+4cacyP5c3PMlfnyjpg13xW,Betty (Get Money),Yung Gravy,75,146470,Betty (Get Money),6/10/2022,0.723,0.772,-6.784,0.0792,0.00524,1.15E-05,0.367,0.58,102.004,4,happy
+0rc1HCVoReqzzXF9jssqZk,Special (feat. SZA),Lizzo,77,174748,Special (feat. SZA),2/9/2023,0.464,0.724,-5.019,0.0705,0.0188,0,0.679,0.303,82.526,4,happy
+57Hk0AE5OhgXrPWZOhipHt,Ayo Girl (Fayahh Beat) [feat. Rema],Robinson,66,165215,Ayo Girl (Fayahh Beat) [feat. Rema],3/15/2022,0.647,0.766,-4.803,0.0389,0.00702,0,0.096,0.55,95.016,4,happy
+1G9hDB1bmxz131N9svQ8pY,Satellite,Khalid,70,186514,Satellite,9/23/2022,0.741,0.73,-7.07,0.0349,0.0279,0.000264,0.0851,0.725,124.001,4,happy
+7kOletJ0Q5H4MWe7cfeZXP,Alone (with Nicki Minaj),Kim Petras,80,185113,Alone,4/21/2023,0.681,0.513,-6.643,0.0388,0.069,0,0.125,0.167,136.985,4,happy
+7AVyve7cFYTd51ha5i9kE2,Down Under (feat. Colin Hay),Luude,69,158774,Down Under (feat. Colin Hay),11/19/2021,0.308,0.861,-4.112,0.172,0.012,0.00103,0.277,0.0386,171.966,4,happy
+3Z7CaxQkqbIs1rewKi6v4W,Hot In It,Tiësto,78,129817,Hot In It,6/30/2022,0.748,0.841,-5.08,0.177,0.00445,1.33E-06,0.0413,0.717,123.045,4,happy
+0cgy8EueqwMuYzOZrW5vPB,C'est La Vie (with bbno$ & Rich Brian),Yung Gravy,69,160161,C'est La Vie,9/23/2022,0.888,0.778,-3.671,0.0945,0.0566,0,0.0653,0.774,142.128,4,happy
+4iJyoBOLtHqaGxP12qzhQI,Peaches (feat. Daniel Caesar & Giveon),Justin Bieber,84,198081,Justice,3/19/2021,0.677,0.696,-6.181,0.119,0.321,0,0.42,0.464,90.03,4,happy
+10xV5l9nhLvFpR8mqzs0bL,Numb,Marshmello,83,155588,Numb,6/10/2022,0.912,0.774,-4.673,0.0455,0.121,0.0127,0.101,0.632,119.966,4,happy
+1JUtrCqYzJ80tcAzMbCvir,Lottery (feat. LU KALA),Latto,77,186761,Lottery (feat. LU KALA),2/17/2023,0.792,0.874,-2.966,0.0852,0.0158,0.000365,0.071,0.934,113.969,4,happy
+14Bcv6siTBPw3TlP84dasC,Holiday,KSI,62,193733,All Over The Place (Platinum VIP Edition),7/15/2021,0.356,0.684,-7.347,0.0878,0.152,0,0.101,0.347,87.188,4,happy
+6AGOKlMZWLCaEJGnaROtF9,Put Your Records On,Ritt Momney,76,210463,Put Your Records On,4/24/2020,0.399,0.491,-10.778,0.0538,0.0563,0.00089,0.11,0.151,91.066,4,happy
+748mdHapucXQri7IAO8yFK,Kiss Me More (feat. SZA),Doja Cat,80,208866,Kiss Me More (feat. SZA),4/9/2021,0.762,0.701,-3.541,0.0286,0.235,0.000158,0.123,0.742,110.968,4,happy
+7mFj0LlWtEJaEigguaWqYh,Sweetest Pie,Megan Thee Stallion,75,201334,Sweetest Pie,3/11/2022,0.814,0.628,-7.178,0.221,0.167,0,0.101,0.677,123.977,4,happy
+6jg5SRvdGxvJ0DzNV0UqEK,Please Don't Go,Mike Posner,68,196813,31 Minutes to Takeoff,8/9/2010,0.699,0.882,-3.896,0.0311,0.00296,0.0544,0.13,0.657,120.016,4,happy
+6maTPqynTmrkWIralgGaoP,If We Ever Broke Up,Mae Stephens,88,142758,If We Ever Broke Up,2/10/2023,0.898,0.732,-3.982,0.0427,0.621,1.29E-05,0.0908,0.96,115.955,4,happy
+0fVDu1evgjX9CFD0cmuRrM,last day on earth,Tai Verdes,65,172755,last day on earth,1/13/2022,0.494,0.553,-5.57,0.197,0.413,4.17E-05,0.218,0.359,82.061,4,happy
+4laAKIq9ZxBCwf99rauPYb,Remember,Becky Hill,78,160766,Remember,6/18/2021,0.612,0.862,-2.903,0.037,0.041,0,0.0907,0.354,123.849,4,happy
+3BKD1PwArikchz2Zrlp1qi,Baby Don't Hurt Me,David Guetta,88,140017,Baby Don't Hurt Me,4/6/2023,0.602,0.91,-3.404,0.0308,0.00126,0.000174,0.12,0.228,127.944,4,happy
+4cG7HUWYHBV6R6tHn1gxrl,Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,Riton,81,169153,Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit],1/15/2021,0.824,0.862,-3.424,0.126,0.0076,0.000132,0.303,0.801,122.98,4,happy
+3lUQpvfWFcxZC3RYAVGE7F,I Feel Good,Pink Sweat$,67,136058,I Feel Good,10/15/2021,0.803,0.75,-4.67,0.0551,0.0233,3.87E-05,0.045,0.628,106,4,happy
+4q05KbxYZ5JdkmrletgPjF,Whistle (feat. Calum Scott),Jax Jones,81,181957,Whistle (feat. Calum Scott),2/10/2023,0.701,0.88,-4.56,0.0358,0.182,7.33E-06,0.0649,0.623,124.039,4,happy
+1D2ZNECRd7KIlA4pyOUGsv,What Would You Do?,Joel Corry,71,174215,What Would You Do?,3/18/2022,0.687,0.895,-2.983,0.0474,0.149,0.00592,0.121,0.686,124.041,4,happy
+5f1joOtoMeyppIcJGZQvqJ,Be Like That - feat. Swae Lee & Khalid,Kane Brown,72,191406,Be Like That (feat. Swae Lee & Khalid),7/10/2020,0.727,0.626,-8.415,0.0726,0.0469,2.58E-05,0.126,0.322,86.97,4,happy
+1sx0XsWUusUoPstbvokZjP,AOK,Tai Verdes,76,173640,TV,5/20/2021,0.731,0.626,-6.919,0.0805,0.125,0,0.183,0.862,82.488,4,happy
+2CJc3U1pViZ5E44pA0f2YI,Common (with Big Sean),Quinn XCII,54,159322,Common,9/23/2022,0.785,0.563,-5.864,0.0405,0.194,0,0.28,0.691,94.046,4,happy
+1WCEAGGRD066z2Q89ObXTq,Crazy What Love Can Do,David Guetta,82,169756,Crazy What Love Can Do,4/8/2022,0.601,0.713,-3.758,0.0449,0.0282,0,0.158,0.464,122.872,4,happy
+1RaF9xwakfao1RRknWyYB5,4runner,Brenn!,71,265453,4runner,4/28/2023,0.792,0.518,-10.519,0.0847,0.326,0.000182,0.406,0.512,128.025,4,happy
+4h9wh7iOZ0GGn8QVp4RAOB,I Ain't Worried,OneRepublic,93,148485,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",5/13/2022,0.704,0.797,-5.927,0.0475,0.0826,0.000745,0.0546,0.825,139.994,4,happy
+5fwSHlTEWpluwOM0Sxnh5k,Pepas,Farruko,84,287120,Pepas,6/24/2021,0.762,0.766,-3.955,0.0343,0.00776,6.98E-05,0.128,0.442,130.001,4,happy
+0e8nrvls4Qqv5Rfa2UhqmO,THATS WHAT I WANT,Lil Nas X,84,143901,MONTERO,9/17/2021,0.737,0.846,-4.51,0.22,0.00614,0,0.0486,0.546,87.981,4,happy
+6Dy1jexKYriXAVG6evyUTJ,OUT OUT (feat. Charli XCX & Saweetie),Joel Corry,79,162603,OUT OUT (feat. Charli XCX & Saweetie),8/13/2021,0.787,0.833,-4.403,0.0478,0.018,0.00747,0.0374,0.796,123.97,4,happy
+3i0FkJYlU4MFfYkjFHXXAM,I'm Not Here To Make Friends,Sam Smith,82,229604,Gloria,1/27/2023,0.698,0.895,-4.439,0.0628,0.172,1.45E-05,0.409,0.838,114.914,4,happy
+1yHVHoz6Ny29gbbWJYVnFt,Heaven,Niall Horan,87,186043,Heaven,2/17/2023,0.571,0.761,-3.485,0.0261,0.0708,0,0.331,0.681,91.991,4,happy
+4uUG5RXrOk84mYEfFvj3cK,I'm Good (Blue),David Guetta,94,175238,I'm Good (Blue),8/26/2022,0.561,0.965,-3.673,0.0343,0.00383,7.07E-06,0.371,0.304,128.04,4,happy
+7jvCeWOSnJs2N3spqobWnO,Skate,Bruno Mars,72,203122,An Evening With Silk Sonic,11/11/2021,0.708,0.598,-8.365,0.0291,0.037,0,0.17,0.698,112.027,4,happy
+404b6bC4GIxPsNssJmfC1f,pogo,bbno$,59,207360,pogo,6/24/2022,0.729,0.973,-2.761,0.0759,0.0424,0.205,0.333,0.687,124.957,4,happy
+4ja2gzrNh9VNigzoXfmbwD,Mariposa,Peach Tree Rascals,72,210000,Mariposa,8/28/2019,0.676,0.525,-5.88,0.028,0.617,0,0.356,0.421,112.011,4,happy
+3GYlQmwfBDo7imFyGPhrl7,Say My Name,Dimitri Vegas & Like Mike,67,159535,Say My Name,7/24/2020,0.729,0.788,-4.832,0.0908,0.0703,0,0.115,0.857,118.039,4,happy
+6FvSS3Goz7OC8oCC2eWqe8,Jalebi Baby (Tesher x Jason Derulo),Tesher,72,169154,Jalebi Baby (Tesher x Jason Derulo),5/28/2021,0.691,0.829,-7.179,0.0412,0.0289,0,0.254,0.866,93.059,4,happy
+1SC5rEoYDGUK4NfG82494W,MONTERO (Call Me By Your Name),Lil Nas X,81,137704,MONTERO,9/17/2021,0.593,0.503,-6.725,0.22,0.293,0,0.405,0.71,178.781,4,happy
+7y3c1oJMY1CwwtOZ84Qovu,Hallucination,Regard,72,174794,Hallucination,2/18/2022,0.687,0.788,-5.142,0.0352,0.0121,0,0.358,0.669,123.02,4,happy
+3ddNKnYpVx0uI8vcwbTQ5Y,Sheesh!,Surfaces,60,148846,Sheesh!,8/20/2021,0.743,0.832,-3.937,0.0611,0.161,0,0.0925,0.801,149.951,4,happy
+7FjZU7XFs7P9jHI9Z0yRhK,So Close,NOTD,70,190302,So Close (feat. Georgia Ku),11/2/2018,0.7,0.872,-5.896,0.0666,0.121,7.08E-06,0.103,0.761,125.03,4,happy
+2rmwqU7yzTvzkiaRV53DpT,2 Be Loved (Am I Ready),Lizzo,81,187107,Special,7/15/2022,0.721,0.769,-4.111,0.105,0.0922,0,0.0817,0.915,155.932,4,happy
+6cx06DFPPHchuUAcTxznu9,Head & Heart (feat. MNEK),Joel Corry,80,166028,Head & Heart (feat. MNEK),7/3/2020,0.734,0.874,-3.158,0.0662,0.168,1.14E-05,0.0489,0.905,122.953,4,happy
+72yP0DUlWPyH8P7IoxskwN,Hold Me Closer,Elton John,81,202245,Hold Me Closer,8/26/2022,0.667,0.75,-4.602,0.0906,0.0746,0.000198,0.197,0.486,126.041,4,happy
+78zWCikDMYzFpXAdqANPrD,3 outfits,Tai Verdes,52,210866,3 outfits,3/25/2022,0.65,0.88,-4.292,0.15,0.145,0.00223,0.351,0.648,176.017,4,happy
+5Ne1q9Hv3l2NHBA3Agt8WT,Wave of You,Surfaces,67,213842,Wave of You,4/9/2021,0.695,0.656,-6.038,0.0489,0.057,0,0.267,0.346,90.986,4,happy
+6hH6QJ9ZAO0Z6m7PfvLoXW,CHICKEN TERIYAKI,ROSALÍA,70,122226,MOTOMAMI,3/18/2022,0.788,0.4,-6.454,0.115,0.454,0.000141,0.0686,0.558,97.936,4,happy
+4QjVfuu7om31HBan0jlX4p,Don't Call Me Up,Mabel,58,178480,Don't Call Me Up,1/18/2019,0.674,0.881,-2.853,0.147,0.296,3.01E-06,0.0793,0.234,98.994,4,happy
+0NmuYnjETG3u3qx0OmEJev,Lil Bit,Nelly,70,195962,Lil Bit,10/23/2020,0.707,0.689,-7.097,0.0387,0.0255,0,0.383,0.41,119.987,4,happy
+5u1n1kITHCxxp8twBcZxWy,Holy (feat. Chance The Rapper),Justin Bieber,73,212093,Holy,9/18/2020,0.673,0.704,-8.056,0.36,0.196,0,0.0898,0.372,86.919,4,happy
+2SUxn2O9NHL6GHGQFgwCY0,2step,Ed Sheeran,74,153626,=,10/29/2021,0.763,0.661,-5.592,0.056,0.169,0,0.117,0.632,95.002,4,happy
+5RVjB86R02f47lCZSPFOzj,Damn (You’ve Got Me Saying),Galantis,65,195268,Damn (You’ve Got Me Saying),11/11/2022,0.665,0.843,-3.347,0.0354,0.0654,0,0.268,0.845,122.029,4,happy
+5KCbr5ndeby4y4ggthdiAb,Wonder,Shawn Mendes,72,172692,Wonder,10/2/2020,0.333,0.637,-4.904,0.0581,0.131,1.80E-05,0.149,0.132,139.898,4,happy
+3DmW6y7wTEYHJZlLo1r6XJ,Shower,Becky G,79,206166,Shower,4/23/2014,0.699,0.529,-7.548,0.0487,0.0317,3.59E-05,0.285,0.121,119.987,4,happy
+31qCy5ZaophVA81wtlwLc4,Anyone,Justin Bieber,74,190779,Anyone,1/1/2021,0.686,0.538,-8.026,0.0345,0.181,3.13E-06,0.113,0.584,115.884,4,happy
+0VjIjW4GlUZAMYd2vXMi3b,Blinding Lights,The Weeknd,92,200040,After Hours,3/20/2020,0.514,0.73,-5.934,0.0598,0.00146,9.54E-05,0.0897,0.334,171.005,4,happy
+173ff06by7Ujur3An4cHWf,Slidin' (feat. Kodak Black),Jason Derulo,59,156300,Slidin' (feat. Kodak Black),5/19/2022,0.695,0.884,-1.953,0.172,0.106,0,0.134,0.803,100.088,4,happy
+5LYMamLv12UPbemOaTPyeV,Music For a Sushi Restaurant,Harry Styles,82,193813,Harry's House,5/20/2022,0.72,0.715,-4.652,0.04,0.258,0.0568,0.107,0.357,107.041,4,happy
+4GSDkZt7GcmzBWmsMcpaVO,Dancing In The Moonlight (feat. NEIMY),Jubël,76,164009,Dancing In The Moonlight (feat. NEIMY),6/22/2018,0.659,0.615,-5.865,0.0644,0.27,0,0.187,0.193,119.843,4,happy
+51Of5p3lKZeOg6itfs4og4,Lovefool,twocolors,71,190487,Lovefool,5/8/2020,0.677,0.766,-6.896,0.0568,0.0219,6.81E-06,0.129,0.198,123.062,4,happy
+27u7t9d7ZQoyjsCROHuZJ3,Tick Tock (feat. 24kGoldn),Clean Bandit,71,178373,Tick Tock (feat. 24kGoldn),8/21/2020,0.779,0.705,-3.895,0.0344,0.369,7.91E-06,0.124,0.946,101.022,4,happy
+16Fxe5DvEXRxQwcorFyaIO,I'm So Happy (with BENEE),Jeremy Zucker,63,173365,I'm So Happy,9/16/2022,0.846,0.434,-7.118,0.118,0.642,0,0.197,0.681,132.899,4,happy
+1xyz2xqqpnhT3k1ApFPu6S,Trompeta,Willy William,62,168704,Trompeta,2/18/2022,0.64,0.862,-3.865,0.0319,0.0157,0.113,0.273,0.366,128.034,4,happy
+3FN3jsZTdt5sU6NRcIgUKK,Radio,Sigala,67,195262,Radio,1/6/2023,0.737,0.866,-4.749,0.0415,0.0431,0.000143,0.099,0.868,126.019,4,happy
+1G2J5KdJxNH6Sd0wEclV0P,How We Do It (feat. Pia Mia),Sean Paul,48,182672,How We Do It,3/10/2022,0.623,0.818,-3.623,0.529,0.143,0,0.232,0.729,130.655,5,happy
+4NexTaCZZ7Ehnf03A6SVjt,Dandelion,Galantis,65,140011,Dandelion,1/8/2021,0.8,0.66,-4.903,0.158,0.158,0.02,0.14,0.634,117.923,4,happy
+0gCNs3jCCDhObAK0MRghtv,Catching Feelings (feat. SIX60),Drax Project,59,218854,Drax Project,9/27/2019,0.396,0.521,-5.877,0.101,0.605,0,0.157,0.34,175.558,4,happy
+6pb5DtlAeG95dNQLHiArRU,Rock My Body,R3HAB,64,137419,Rock My Body (with INNA & Sash!),4/28/2023,0.662,0.821,-4.103,0.13,0.202,0,0.522,0.47,124.077,4,happy
+1PckUlxKqWQs3RlWXVBLw3,About Damn Time,Lizzo,82,191822,About Damn Time,4/14/2022,0.836,0.743,-6.305,0.0656,0.0995,0,0.335,0.722,108.966,4,happy
+4evmHXcjt3bTUHD1cvny97,Beautiful People (feat. Khalid),Ed Sheeran,74,197866,Beautiful People (feat. Khalid),6/28/2019,0.64,0.648,-8.113,0.187,0.124,0,0.0802,0.548,92.977,4,happy
+3UEOT0hD60yGB1OMWJxLQ8,people pleaser,Cat Burns,75,146654,people pleaser / sleep at night,10/7/2022,0.692,0.758,-3.453,0.0522,0.158,0,0.0774,0.701,94.058,4,happy
+3eJH2nAjvNXdmPfBkALiPZ,Acapulco,Jason Derulo,80,139672,Acapulco,9/3/2021,0.774,0.792,-4.021,0.0523,0.051,0,0.155,0.507,122.062,4,happy
+0zbzrhfVS9S2TszW3wLQZ7,September Song,JP Cooper,71,220290,Raised Under Grey Skies (Deluxe),10/6/2017,0.614,0.615,-6.7,0.0444,0.054,0,0.0921,0.374,95.941,4,happy
+0z8hI3OPS8ADPWtoCjjLl6,Summer of Love (Shawn Mendes & Tainy),Shawn Mendes,79,184104,Summer Of Love,8/20/2021,0.776,0.808,-4.501,0.117,0.0297,0.000127,0.103,0.494,123.988,4,happy
+5iE3eUH2WGCXcE2xr6DEmU,Waffle House,Jonas Brothers,81,145440,Waffle House,4/7/2023,0.729,0.763,-4.407,0.0363,0.033,1.00E-06,0.192,0.864,126.002,4,happy
+737gzPI5VAmgUGWiJ9yXuu,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",Sofía Reyes,68,201526,Mal De Amores,2/10/2022,0.792,0.895,-3.112,0.0587,0.165,0,0.0501,0.793,94.968,4,happy
+5ri4zqtWhG07hIuNNDWP76,Fly Away,Tones And I,68,178156,Fly Away,11/13/2020,0.806,0.513,-6.208,0.0685,0.217,0,0.217,0.503,124.988,4,happy
+4nfyxpiejEPrUHLnejED7i,SAD B!TCH,Anne-Marie,69,132794,SAD B!TCH,2/3/2023,0.544,0.692,-3.207,0.155,0.296,0,0.131,0.618,193.954,4,happy
+2oejEp50ZzPuQTQ6v54Evp,Call You Mine,The Chainsmokers,73,217640,World War Joy,12/6/2019,0.585,0.696,-5.6,0.0307,0.204,0,0.344,0.522,104.01,4,happy
+3SawmGBjjq8EOYZJV11cJm,Only Wanna Be With You - Pokémon 25 Version,Post Malone,67,241360,Only Wanna Be With You (Pokémon 25 Version),2/25/2021,0.47,0.709,-4.563,0.0299,0.00124,0.00121,0.302,0.247,98.036,4,happy
+14ngWWxvUSnIMXgF6rzSk1,Head Shoulders Knees & Toes (feat. Norma Jean Martine),Ofenbach,57,156960,Head Shoulders Knees & Toes (feat. Norma Jean Martine),5/8/2020,0.798,0.828,-5.36,0.193,0.0247,2.55E-06,0.121,0.6,124.962,4,happy
+4l61TlfmTwxt7PdzEe28rz,Wings,Jonas Brothers,75,118993,Wings,2/24/2023,0.371,0.714,-5.455,0.145,0.127,0,0.12,0.325,181.367,3,happy
+2MlOUXmcofMackX3bxfSwi,Jerusalema (feat. Nomcebo Zikode),Master KG,74,342612,Jerusalema,1/24/2020,0.88,0.483,-7.012,0.0505,0.0185,8.68E-06,0.0607,0.827,124.009,4,happy
+6FuGJB290AQMAHTfjOYVaK,"Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",24kGoldn,69,192745,"Mood (Remix) feat. Justin Bieber, J Balvin & iann dior",11/6/2020,0.721,0.745,-3.508,0.0366,0.151,1.24E-06,0.372,0.699,90.988,4,happy
+1zi7xx7UVEFkmKfv06H8x0,One Dance,Drake,87,173986,Views,5/6/2016,0.792,0.625,-5.609,0.0536,0.00776,0.0018,0.329,0.37,103.967,4,happy
+3NZJlJemX3mzjf56MqC5ML,Forever,Chris Brown,78,278573,Forever,4/29/2008,0.672,0.82,-4.456,0.0459,0.0368,0.000188,0.184,0.438,120.005,4,happy
+1AWQoqb9bSvzTjaLralEkT,Rock Your Body,Justin Timberlake,78,267266,Justified,11/4/2002,0.892,0.714,-6.055,0.141,0.201,0.000234,0.0521,0.817,100.972,4,happy
+4kWO6O1BUXcZmaxitpVUwp,Jackie Chan,Tiësto,72,215759,Jackie Chan,5/18/2018,0.747,0.834,-2.867,0.045,0.374,0,0.0586,0.687,128.005,4,happy
+2bJvI42r8EF3wxjOuDav4r,Time of Our Lives,Pitbull,82,229360,Globalization,11/21/2014,0.721,0.802,-5.797,0.0583,0.0921,0,0.694,0.724,124.022,4,happy
+7ef4DlsgrMEH11cDZd32M6,One Kiss (with Dua Lipa),Calvin Harris,87,214846,One Kiss (with Dua Lipa),4/6/2018,0.791,0.862,-3.24,0.11,0.037,2.19E-05,0.0814,0.592,123.994,4,happy
+4TsmezEQVSZNNPv5RJ65Ov,Pon de Replay,Rihanna,81,246960,Music Of The Sun,8/29/2005,0.779,0.64,-8.415,0.159,0.000155,0.00077,0.101,0.498,99.019,4,happy
+4E5P1XyAFtrjpiIxkydly4,Replay,Iyaz,78,182306,Replay,8/18/2009,0.706,0.751,-6.323,0.0708,0.173,0,0.168,0.195,91.031,4,happy
+1hGy2eLcmC8eKx7qr1tOqx,Beautiful Girls,Sean Kingston,79,225373,Beautiful Girls,7/23/2007,0.762,0.661,-6.075,0.0687,0.15,0,0.256,0.769,130.009,4,happy
+190jyVPHYjAqEaOGmMzdyk,Beauty And A Beat,Justin Bieber,77,227986,Believe (Deluxe Edition),6/15/2012,0.602,0.843,-4.831,0.0593,0.000688,5.27E-05,0.0682,0.526,128.003,4,happy
+6cmm1LMvZdB5zsCwX5BjqE,Down,Jay Sean,79,212506,All Or Nothing,1/1/2009,0.727,0.68,-4.498,0.0286,0.0101,0,0.0821,0.728,132.012,4,happy
+6Wtc1K3dvTIEsWU3rSIZXn,Feel So Close - Radio Edit,Calvin Harris,53,207880,Feel So Close,8/19/2011,0.7,0.923,-2.85,0.0324,0.000927,0.00826,0.0966,0.904,127.952,4,happy
+2VOomzT6VavJOGBeySqaMc,Disturbia,Rihanna,80,238626,Good Girl Gone Bad: Reloaded,6/2/2008,0.707,0.813,-4.515,0.0571,0.0863,0,0.168,0.722,124.921,4,happy
+1DFD5Fotzgn6yYXkYsKiGs,Piece Of Your Heart,MEDUZA,77,152913,Piece Of Your Heart,2/1/2019,0.677,0.744,-6.806,0.0295,0.0404,0.00016,0.074,0.631,124.08,4,happy
+4QNpBfC0zvjKqPJcyqBy9W,"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",Pitbull,83,252306,Planet Pit (Deluxe Version),6/17/2011,0.671,0.939,-3.206,0.161,0.191,0,0.298,0.53,129.024,4,happy
+4Bd7WFT93cRqlfyGi6eK93,Lush Life,Zara Larsson,44,201122,So Good,3/17/2017,0.694,0.712,-3.923,0.046,0.132,0,0.211,0.799,98.023,4,happy
+3AeicLnm55RqcXGBKYQolM,King,Years & Years,72,215360,Communion (Deluxe),7/10/2015,0.56,0.857,-4.145,0.0384,0.0594,0,0.381,0.432,119.975,4,happy
+7yq4Qj7cqayVTp3FF9CWbm,Riptide,Vance Joy,85,204280,Dream Your Life Away,9/8/2014,0.484,0.731,-6.694,0.0379,0.431,0,0.151,0.51,101.654,4,happy
+0ByMNEPAPpOR5H69DVrTNy,Don't Stop The Music,Rihanna,82,267080,Good Girl Gone Bad: Reloaded,6/2/2008,0.835,0.669,-5.582,0.0643,0.0336,6.92E-05,0.0535,0.542,122.668,4,happy
+0azC730Exh71aQlOt9Zj3y,This Is What You Came For,Calvin Harris,84,222160,This Is What You Came For,4/29/2016,0.631,0.927,-2.787,0.0332,0.199,0.119,0.148,0.465,123.962,4,happy
+3w3y8KPTfNeOKPiqUTakBh,Locked out of Heaven,Bruno Mars,88,233478,Unorthodox Jukebox,12/7/2012,0.726,0.698,-4.165,0.0431,0.049,0,0.309,0.867,143.994,4,happy
+1Cv1YLb4q0RzL6pybtaMLo,Sunday Best,Surfaces,77,158571,Where the Light Is,1/6/2019,0.878,0.525,-6.832,0.0578,0.183,0,0.0714,0.694,112.022,4,happy
+5nujrmhLynf4yMoMtj8AQF,Levitating (feat. DaBaby),Dua Lipa,84,203064,Future Nostalgia,3/27/2020,0.702,0.825,-3.787,0.0601,0.00883,0,0.0674,0.915,102.977,4,happy
+3iIESzXI8WPwf8YGWOTWTc,You Make Me Feel... (feat. Sabi),Cobra Starship,40,215693,You Make Me Feel... (feat. Sabi),10/21/2011,0.668,0.857,-2.944,0.0535,0.0191,6.71E-06,0.0385,0.748,131.959,4,happy
+22skzmqfdWrjJylampe0kt,Can't Hold Us (feat. Ray Dalton),Macklemore & Ryan Lewis,84,258431,The Heist,10/9/2012,0.633,0.927,-4.468,0.0839,0.0267,0,0.0986,0.88,146.097,4,happy
+0U10zFw4GlBacOy9VDGfGL,We Found Love,Rihanna,82,215226,Talk That Talk,11/19/2011,0.735,0.766,-4.485,0.0383,0.025,0.00138,0.108,0.6,127.985,4,happy
+3c8iiZGfEammKJuWTErE5x,Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson),Felix Jaehn,74,186146,I,2/16/2018,0.778,0.566,-6.959,0.0311,0.672,0.000197,0.0698,0.479,117.971,4,happy
+4356Typ82hUiFAynbLYbPn,DJ Got Us Fallin' In Love (feat. Pitbull),Usher,81,220800,Raymond v Raymond (Expanded Edition),3/30/2010,0.663,0.861,-3.398,0.109,0.0338,0,0.082,0.654,119.963,4,happy
+5u5MpBnvJejW9dHPrfWEXZ,Superstar,Jamelia,70,215480,Thank You,6/30/2003,0.801,0.645,-6.93,0.0356,0.046,0,0.0357,0.824,110.011,4,happy
+2PpruBYCo4H7WOBJ7Q2EwM,Hey Ya!,Outkast,83,235213,Speakerboxxx/The Love Below,2003,0.727,0.974,-2.261,0.0664,0.103,0.000532,0.174,0.965,79.526,4,happy
+5tf1VVWniHgryyumXyJM7w,Sugar (feat. Francesco Yates),Robin Schulz,78,219043,Sugar,9/25/2015,0.636,0.815,-5.098,0.0581,0.0185,0,0.163,0.636,123.063,4,happy
+1SN1vSPsr4V4tIUTR3s8YW,Fast Car,Jonas Blue,75,212424,Blue,11/9/2018,0.672,0.578,-6.621,0.0569,0.469,0,0.312,0.548,113.945,4,happy
+3fVnlF4pGqWI9flVENcT28,Wildest Dreams,Taylor Swift,81,220440,1989,1/1/2014,0.553,0.664,-7.417,0.0741,0.0709,0.0056,0.106,0.467,140.06,4,happy
+4Lvc9SbPc0svm9TEoMgFzB,SexyBack (feat. Timbaland),Justin Timberlake,58,242800,FutureSex/LoveSounds Deluxe Edition,9/13/2006,0.967,0.599,-5.659,0.0706,0.0679,0,0.0526,0.964,117,4,happy
+0C4ejWmOTMv8vuYj85mf8m,S&M,Rihanna,74,243533,Loud,11/16/2010,0.767,0.682,-5.02,0.042,0.0113,0.00016,0.104,0.833,127.975,4,happy
+2M9ULmQwTaTGmAdXaXpfz5,Billionaire (feat. Bruno Mars),Travie McCoy,73,211160,Billionaire (feat. Bruno Mars),3/9/2010,0.633,0.673,-6.403,0.258,0.297,0,0.206,0.659,86.776,4,happy
+3s4U7OHV7gnj42VV72eSZ6,Rather Be (feat. Jess Glynne),Clean Bandit,74,227833,Rather Be (feat. Jess Glynne),1/17/2014,0.799,0.586,-6.735,0.0377,0.162,2.03E-06,0.193,0.549,120.97,4,happy
+1NpW5kyvO4XrNJ3rnfcNy3,Wild Ones (feat. Sia),Flo Rida,80,232946,Wild Ones,6/22/2012,0.608,0.86,-5.324,0.0554,0.0991,0,0.262,0.437,127.075,4,happy
+3ZFTkvIE7kyPt6Nu3PEa7V,Hips Don't Lie (feat. Wyclef Jean),Shakira,86,218093,"Oral Fixation, Vol. 2 (Expanded Edition)",11/28/2005,0.778,0.824,-5.892,0.0707,0.284,0,0.405,0.758,100.024,4,happy
+2Foc5Q5nqNiosCNqttzHof,Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],Daft Punk,82,248413,Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers],4/19/2013,0.794,0.811,-8.966,0.038,0.0426,1.07E-06,0.101,0.862,116.047,4,happy
+6nek1Nin9q48AVZcWs9e9D,Paradise,Coldplay,85,278719,Mylo Xyloto,10/24/2011,0.449,0.585,-6.761,0.0268,0.0509,8.75E-05,0.0833,0.212,139.631,4,happy
+7Feaw9WAEREY0DUOSXJLOM,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Martin Garrix,75,163804,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),4/25/2019,0.661,0.723,-6.976,0.0566,0.179,1.23E-05,0.14,0.316,113.778,4,happy
+1xNcBAoUw8Hz6LqK2jt4Ff,Call on Me - Radio Mix,Eric Prydz,76,171360,Call on Me (Radio Mix),9/10/2004,0.597,0.837,-6.518,0.375,0.00427,0.00115,0.839,0.447,126.342,4,happy
+3E7ZwUMJFqpsDOJzEkBrQ7,Can't Get You out of My Head,Kylie Minogue,76,230640,Fever,10/1/2001,0.766,0.563,-7.516,0.0339,0.0263,0.683,0.115,0.964,126.007,4,happy
+10AsRVRdU07cMAFHeGYO3c,Solo Dance,Martin Jensen,70,174933,Solo Dance,11/4/2016,0.746,0.846,-2.432,0.048,0.0485,0,0.195,0.403,114.955,4,happy
+55h7vJchibLdUkxdlX3fK7,Treasure,Bruno Mars,81,178560,Unorthodox Jukebox,12/7/2012,0.874,0.692,-5.28,0.0431,0.0412,7.24E-05,0.324,0.937,116.017,4,happy
+63CSozvYUEudPp12679UVF,Don't Worry (with Ray Dalton) - Radio Edit,Madcon,72,214789,Don't Worry (feat. Ray Dalton),4/10/2015,0.811,0.699,-5.211,0.114,0.0726,1.38E-06,0.148,0.733,122.987,4,happy
+6ebkx7Q5tTxrCxKq4GYj0Y,Club Can't Handle Me (feat. David Guetta),Flo Rida,78,234560,Only One Flo (Part 1),11/24/2010,0.616,0.869,-3.911,0.0327,0.0283,0,0.064,0.473,127.966,4,happy
+3AVXwaOGCEL8cmBecfcsFJ,Light Switch,Charlie Puth,68,187703,Light Switch (Instrumental),1/19/2022,0.69,0.626,-5.693,0.306,0.105,0.000335,0.0881,0.912,184.009,4,happy
+1dzQoRqT5ucxXVaAhTcT0J,Just Dance,Lady Gaga,81,241933,The Fame,1/1/2008,0.822,0.739,-4.541,0.0311,0.0264,4.26E-05,0.181,0.745,118.992,4,happy
+3oHNJECGN3bBoGXejlw2b1,Last Friday Night (T.G.I.F.),Katy Perry,77,230733,Teenage Dream,8/24/2010,0.652,0.812,-3.797,0.0409,0.00125,3.01E-05,0.667,0.72,126.023,4,happy
+3Fzlg5r1IjhLk2qRw667od,Dancing in the Moonlight,Toploader,79,232693,Onka's Big Moka,2000,0.632,0.856,-3.463,0.0348,0.0624,0,0.347,0.867,119.397,4,happy
+1A8j067qyiNwQnZT0bzUpZ,This Girl (Kungs Vs. Cookin' On 3 Burners),Kungs,78,195546,Layers,11/4/2016,0.792,0.717,-4.759,0.0393,0.0927,3.59E-05,0.226,0.466,121.985,4,happy
+2LEF1A8DOZ9wRYikWgVlZ8,Good Feeling,Flo Rida,78,248133,Wild Ones,6/22/2012,0.706,0.89,-4.444,0.0688,0.0588,0.00286,0.306,0.684,128.011,4,happy
+6tS3XVuOyu10897O3ae7bi,California Gurls,Katy Perry,76,234653,Teenage Dream: The Complete Confection,3/12/2012,0.791,0.754,-3.729,0.0569,0.00446,0,0.163,0.425,125.014,4,happy
+3E7dfMvvCLUddWissuqMwr,Party In The U.S.A.,Miley Cyrus,83,202066,The Time Of Our Lives (International Version),1/1/2009,0.652,0.698,-4.667,0.042,0.00112,0.000115,0.0886,0.47,96.021,4,happy
+71R6zJsrF3ffc3TBFHfivX,Bumpy Ride,Mohombi,72,224720,MoveMeant (International),1/1/2010,0.706,0.842,-4.628,0.038,0.0476,0,0.134,0.818,104.958,4,happy
+2CEgGE6aESpnmtfiZwYlbV,Dynamite,Taio Cruz,82,202613,The Rokstarr Hits Collection,1/1/2010,0.751,0.783,-3.724,0.0859,0.00379,0,0.036,0.816,119.975,4,happy
+4DX82Vc8qAH4jJPvKxvwg6,Move Your Feet,Junior Senior,69,181826,D-D-Don't Don't Stop the Beat,4/3/2002,0.747,0.904,-2.623,0.0803,0.046,0.106,0.203,0.846,118.877,4,happy
+3bC1ahPIYt1btJzSSEyyrF,Whistle,Flo Rida,80,224653,Wild Ones,6/22/2012,0.747,0.937,-5.746,0.0453,0.0208,0,0.29,0.739,103.976,4,happy
+6FE2iI43OZnszFLuLtvvmg,Classic,MKTO,82,175426,MKTO,2012,0.72,0.791,-4.689,0.124,0.0384,0,0.157,0.756,102.071,4,happy
+5X8kkUaUlAyAUr9TYqDFTH,All For You,Janet Jackson,65,329933,All For You,1/1/2001,0.753,0.934,-3.011,0.0736,0.0174,0.065,0.128,0.73,113.525,3,happy
+2lnzGkdtDj5mtlcOW2yRtG,"Whenever, Wherever",Shakira,83,196160,Laundry Service,11/13/2001,0.794,0.832,-4.862,0.0407,0.237,1.14E-05,0.203,0.871,107.657,4,happy
+48td6xvpokdYwvbl3JIiXP,Love Never Felt So Good,Michael Jackson,71,246026,XSCAPE,5/9/2014,0.775,0.719,-6.212,0.0435,0.132,1.79E-06,0.0662,0.712,117.513,4,happy
+1mea3bSkSGXuIRvnydlB5b,Viva La Vida,Coldplay,87,242373,Viva La Vida or Death and All His Friends,5/26/2008,0.486,0.617,-7.115,0.0287,0.0954,3.23E-06,0.109,0.417,138.015,4,happy
+6Knv6wdA0luoMUuuoYi2i1,My House,Flo Rida,78,192190,My House,4/7/2015,0.688,0.702,-4.792,0.0499,0.0215,0,0.128,0.74,94.006,4,happy
+5NDUXbMwcnTQp66tI2zcdR,Fresh Eyes,Andy Grammer,70,198001,The Good Parts,12/1/2017,0.828,0.56,-6.685,0.0327,0.548,3.66E-05,0.15,0.872,122.054,4,happy
+6fQcqEcXfnY0L6VwS0c3gT,Cheerleader (Felix Jaehn Remix) - Radio Edit,OMI,59,180021,Cheerleader (Felix Jaehn Remix Radio Edit),12/2/2014,0.827,0.576,-7.774,0.0372,0.184,0.029,0.0656,0.41,118.04,4,happy
+4kLLWz7srcuLKA7Et40PQR,I Gotta Feeling,Black Eyed Peas,83,289133,THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version],1/1/2009,0.743,0.766,-6.375,0.0265,0.0873,0,0.509,0.61,127.96,4,happy
+47Slg6LuqLaX0VodpSCvPt,Just the Way You Are,Bruno Mars,81,220734,Doo-Wops & Hooligans,10/5/2010,0.635,0.841,-5.379,0.0422,0.0134,0,0.0622,0.424,109.021,4,happy
+0Hf4aIJpsN4Os2f0y0VqWl,Feel This Moment (feat. Christina Aguilera),Pitbull,79,229506,Global Warming: Meltdown (Deluxe Version),2012,0.673,0.758,-3.632,0.158,0.039,0,0.341,0.542,135.956,4,happy
+619bJQ9uDi8dnXzLebFI7y,When Love Takes Over (feat. Kelly Rowland),David Guetta,62,189000,When Love Takes Over,4/17/2009,0.658,0.863,-4.64,0.0255,0.0144,0.000193,0.2,0.496,129.972,4,happy
+7jEyX4bqaCSdMN4D4JNnVj,Mama,Jonas Blue,75,184133,Blue,11/9/2018,0.738,0.794,-4.118,0.0416,0.101,0,0.0533,0.566,104.014,4,happy
+0FDzzruyVECATHXKHFs9eJ,A Sky Full of Stars,Coldplay,85,267866,Ghost Stories,5/19/2014,0.545,0.675,-6.474,0.0279,0.00617,0.00197,0.209,0.162,124.97,4,happy
+5RzFJd6W40SDTyZkX6xx45,I Know You Want Me (Calle Ocho),Pitbull,69,237120,Pitbull Starring In Rebelution,8/31/2009,0.82,0.731,-6.02,0.159,0.0133,1.94E-05,0.131,0.793,127.076,4,happy
+5yDL13y5giogKs2fSNf7sj,Glad You Came,The Wanted,79,197935,Battleground (Deluxe Edition),1/1/2011,0.722,0.851,-3.873,0.0639,0.0319,0,0.108,0.452,126.885,4,happy
+6UelLqGlWMcVH1E5c4H7lY,Watermelon Sugar,Harry Styles,89,174000,Fine Line,12/13/2019,0.548,0.816,-4.209,0.0465,0.122,0,0.335,0.557,95.39,4,happy
+7gBj0VgcuAgkXkiRRYvSmK,Stay (feat. Maty Noyes),Kygo,61,239465,Stay (feat. Maty Noyes),12/4/2015,0.648,0.736,-7.948,0.0385,0.0444,0.000137,0.171,0.378,103.027,4,happy
+2tpWsVSb9UEmDRxAl1zhX1,Counting Stars,OneRepublic,85,257265,Native,1/1/2013,0.664,0.705,-4.972,0.0382,0.0654,0,0.118,0.477,122.016,4,happy
+5ZSl6gDoV6bPPxzmLeneV9,Rise,Jonas Blue,74,194407,Blue,11/9/2018,0.687,0.785,-4.65,0.0333,0.327,0,0.203,0.655,106.046,4,happy
+3DGar7krWlmrXRFHBcQF6z,Whenever (feat. Conor Maynard),Kris Kross Amsterdam,62,163636,Whenever (feat. Conor Maynard),6/22/2018,0.734,0.765,-5.562,0.0621,0.151,0,0.231,0.518,109.989,4,happy
+0ct6r3EGTcMLPtrXHDvVjc,The Nights,Avicii,87,176658,The Days / Nights,1/1/2014,0.527,0.835,-5.298,0.0433,0.0166,0,0.249,0.654,125.983,4,happy
+6oJ6le65B3SEqPwMRNXWjY,Higher Love,Kygo,77,228267,Higher Love,6/28/2019,0.693,0.678,-7.159,0.0324,0.0151,5.71E-06,0.101,0.404,103.952,4,happy
+5s7xgzXtmY4gMjeSlgisjy,Easy Love,Sigala,67,229813,Brighter Days,9/28/2018,0.68,0.942,-4.208,0.0631,0.175,0.0013,0.117,0.647,123.976,4,happy
+6ECp64rv50XVz93WvxXMGF,This Love,Maroon 5,81,206200,Songs About Jane: 10th Anniversary Edition,2002,0.712,0.862,-4.612,0.0378,0.0525,0,0.093,0.809,95.051,4,happy
+3TRFq09DUgYj1mug6RRqJW,Lot to Learn,Luke Christopher,60,248337,TMRW,9/11/2015,0.405,0.846,-3.57,0.195,0.0948,0,0.0666,0.602,82.232,4,happy
+6OtCIsQZ64Vs1EbzztvAv4,Good Life,OneRepublic,74,253306,Waking Up,1/1/2009,0.634,0.69,-7.804,0.052,0.0771,0,0.132,0.645,94.988,4,happy
+0DiDStADDVh3SvAsoJAFMk,Only Human,Jonas Brothers,72,183000,Happiness Begins,6/7/2019,0.795,0.496,-5.883,0.0722,0.108,0,0.0645,0.874,94.01,4,happy
+2ixsaeFioXJmMgkkbd4uj1,Budapest,George Ezra,81,200733,Wanted on Voyage (Expanded Edition),6/30/2014,0.717,0.455,-8.303,0.0276,0.0846,0,0.11,0.389,127.812,4,happy
+3hDFOFjGIFwlSmCO6b39M4,Perfect Strangers,Jonas Blue,50,196613,Perfect Strangers,6/3/2016,0.73,0.861,-4.1,0.0451,0.39,0,0.213,0.704,117.965,4,happy
+3TahdwXB4gJRWVAI00Ejqa,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",Maroon 5,67,201493,Hands All Over (Revised Asia Standard Version),2010,0.722,0.761,-4.459,0.0475,0.0117,0,0.315,0.624,128.044,4,happy
+1pXrR5Y9OgcIV2JEAl2lCB,I Kissed A Girl,Katy Perry,73,179640,One Of The Boys,6/17/2008,0.699,0.76,-3.173,0.0677,0.00223,0,0.132,0.696,129.996,4,happy
+2nx86MrPkXWQctveAEFJBf,Turn Around - Radio Edit,Phats & Small,58,212146,Turn Around - Single,3/22/2000,0.797,0.752,-7.343,0.128,0.0135,0.00496,0.264,0.801,131.932,4,happy
+7HacCTm33hZYYN8DXpCYuG,I Like It,Enrique Iglesias,65,231373,Euphoria,2010,0.648,0.942,-2.881,0.0878,0.021,0,0.0594,0.73,129.007,4,happy
+7wMq5n8mYSKlQIGECKUgTX,Hall of Fame (feat. will.i.am),The Script,81,202533,#3 Deluxe Version,9/10/2012,0.421,0.873,-4.343,0.0564,0.0654,0,0.123,0.629,84.786,4,happy
+6KgBpzTuTRPebChN0VTyzV,Good as Hell,Lizzo,76,159735,Cuz I Love You (Super Deluxe),4/17/2019,0.682,0.919,-3.18,0.0875,0.256,0,0.442,0.535,95.982,4,happy
+1peT7rhuRsVvJVSSd0iXXp,Beautiful Girls,Sean Kingston,52,241666,Pure... 2000s Party,8/29/2014,0.543,0.642,-6.533,0.0888,0.137,0,0.243,0.749,117.923,4,happy
+7JJmb5XwzOO8jgpou264Ml,There's Nothing Holdin' Me Back,Shawn Mendes,87,199440,Illuminate (Deluxe),4/20/2017,0.866,0.813,-4.063,0.0554,0.38,0,0.0779,0.969,121.998,4,happy
+7KM7AeGDIWKxrMN7E4ljRA,Shine,Years & Years,59,255506,Communion (Deluxe),7/10/2015,0.667,0.716,-5.21,0.0349,0.189,0,0.104,0.493,108.002,4,happy
+6WrI0LAC5M1Rw2MnX2ZvEg,Don't Start Now,Dua Lipa,79,183290,Don't Start Now,10/31/2019,0.794,0.793,-4.521,0.0842,0.0125,0,0.0952,0.677,123.941,4,happy
+6DvgsZ0NiEPV9qYM931T1F,Telephone,Lady Gaga,60,220626,The Fame Monster (International Deluxe),11/18/2009,0.825,0.832,-5.853,0.0403,0.00587,0.000789,0.114,0.713,122.021,4,happy
+0n4bITAu0Y0nigrz3MFJMb,Blurred Lines,Robin Thicke,77,263826,Blurred Lines (Deluxe),1/1/2013,0.853,0.599,-4.756,0.0411,0.00334,7.93E-06,0.0759,0.843,119.993,4,happy
+01kVVoJQuWVqaOvRgRztJD,Sing Hallelujah!,Dr. Alban,70,240933,One Love,5/4/1992,0.759,0.822,-7.268,0.0367,0.00136,0.0171,0.131,0.94,124.713,4,happy
+7mitXLIMCflkhZiD34uEQI,Party Rock Anthem,LMFAO,75,262146,Sorry For Party Rocking,1/1/2011,0.751,0.736,-4.168,0.156,0.0206,0,0.265,0.352,130.014,4,happy
+6HZ9VeI5IRFCNQLXhpF4bq,I Love It (feat. Charli XCX),Icona Pop,72,157152,THIS IS... ICONA POP,8/27/2013,0.711,0.906,-2.671,0.0284,0.00952,1.64E-05,0.153,0.824,125.916,4,happy
+1CQ2cMfrmFM1YdfmjENKVE,She Looks So Perfect,5 Seconds of Summer,75,202496,5 Seconds Of Summer,6/27/2014,0.494,0.951,-4.237,0.132,0.000569,0,0.327,0.441,160.025,4,happy
+0KAiuUOrLTIkzkpfpn9jb9,Drive By,Train,79,195973,California 37,4/17/2012,0.765,0.837,-3.113,0.032,0.00107,1.06E-05,0.0801,0.721,122.028,4,happy
+1ZlHr9FYHT7YTbXCoxPq5C,Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground),Shakira,72,201773,Summer Party Anthems,4/14/2023,0.697,0.91,-3.92,0.247,0.00271,0,0.147,0.623,127.031,4,happy
+3HVWdVOQ0ZA45FuZGSfvns,I Don't Care (with Justin Bieber),Ed Sheeran,77,219946,I Don't Care (with Justin Bieber),5/10/2019,0.798,0.675,-5.041,0.0442,0.0912,0,0.0894,0.842,101.956,4,happy
+6s8nHXTJVqFjXE4yVZPDHR,Troublemaker (feat. Flo Rida),Olly Murs,76,185586,Right Place Right Time (Expanded Edition),11/26/2012,0.762,0.863,-3.689,0.0561,0.015,0,0.125,0.965,106.012,4,happy
+4fwbGKNExPtPHbor1TBSY4,Unconditionally,Katy Perry,61,228878,PRISM (Deluxe),10/18/2013,0.397,0.725,-4.862,0.043,0.00266,0,0.208,0.358,128.861,4,happy
+1QV6tiMFM6fSOKOGLMHYYg,Poker Face,Lady Gaga,82,237200,The Fame,1/1/2008,0.851,0.806,-4.62,0.0787,0.118,1.64E-06,0.121,0.787,118.999,4,happy
+6SKwQghsR8AISlxhcwyA9R,Marry You,Bruno Mars,78,230192,Doo-Wops & Hooligans,10/5/2010,0.621,0.82,-4.865,0.0367,0.332,0,0.104,0.452,144.905,4,happy
+6FRLCMO5TUHTexlWo8ym1W,Girls Like You (feat. Cardi B) - Cardi B Version,Maroon 5,68,235545,Girls Like You (feat. Cardi B),5/30/2018,0.851,0.541,-6.825,0.0505,0.568,0,0.13,0.448,124.959,4,happy
+3NuK5xMlSlB6K2Qp16zf3h,Solo (feat. Demi Lovato),Clean Bandit,67,222706,What Is Love? (Deluxe Edition),11/30/2018,0.74,0.622,-4.608,0.0446,0.0357,4.85E-05,0.356,0.556,104.966,4,happy
+0sUyqewVzwv0e5tK3hS6vJ,Don't Be so Hard on Yourself,Jess Glynne,65,211460,I Cry When I Laugh,2015,0.571,0.815,-3.267,0.0321,0.0608,0,0.163,0.664,120.008,4,happy
+2fQxE0jVrjNMT9oJAXtSJR,Domino,Jessie J,75,231840,Who You Are (Platinum Edition),1/1/2011,0.758,0.557,-4.568,0.034,0.0117,0,0.0418,0.781,126.986,4,happy
+4ofwffwvvnbSkrMSCKQDaC,Shotgun,George Ezra,79,201287,Staying at Tamara's,3/23/2018,0.673,0.735,-4.733,0.0457,0.286,0,0.242,0.754,115.744,4,happy
+3cHyrEgdyYRjgJKSOiOtcS,Timber (feat. Ke$ha),Pitbull,83,204160,Global Warming: Meltdown (Deluxe Version),2012,0.581,0.963,-4.087,0.0981,0.0295,0,0.139,0.788,129.992,4,happy
+0NMUFQdEFjftg0BQnyZCsh,Love at First Sight,Kylie Minogue,58,238266,Fever,10/1/2001,0.603,0.774,-6.066,0.0428,0.0288,0.051,0.0533,0.48,124.994,4,happy
+2uBQlIpLDTR8zbCjxtqOJ7,Summer Air,ItaloBrothers,50,183587,Summer Air,9/30/2016,0.755,0.751,-4.034,0.0748,0.0635,0,0.0812,0.491,102.002,4,happy
+7M13FwBAKWNa2jqcZeUhL6,Love Generation - Radio Edit,Bob Sinclar,69,204798,Love Generation (Radio Edit),6/20/2005,0.723,0.872,-3.617,0.0586,0.192,0.000154,0.0814,0.544,128.038,4,happy
+6splO3UF8hSmK33y5fJTNk,Lay It All on Me (feat. Ed Sheeran),Rudimental,58,242440,We the Generation,10/2/2015,0.669,0.747,-7.108,0.0428,0.141,0,0.185,0.483,122.531,4,happy
+2yd5ZA1q3w6jdE03eVrGHU,Ai Se Eu Te Pego - Ao Vivo,Michel Teló,1,166439,Ai Se Eu Te Pego (Ao Vivo),6/3/2011,0.645,0.854,-5.394,0.0673,0.0251,0,0.161,0.829,96.087,4,happy
+386RUes7n1uM1yfzgeUuwp,The Lazy Song,Bruno Mars,79,189109,Doo-Wops & Hooligans,10/5/2010,0.794,0.711,-5.124,0.0699,0.3,0,0.0955,0.955,174.915,4,happy
+1Cq23W4ZxHTY8QbP40qjEc,All I Wanna Do,Martin Jensen,51,194360,All I Wanna Do,4/8/2016,0.728,0.794,-3.992,0.0635,0.148,0,0.0688,0.523,112.071,4,happy
+213x4gsFDm04hSqIUkg88w,On Top Of The World,Imagine Dragons,78,192280,Night Visions,9/4/2012,0.631,0.924,-5.589,0.146,0.0841,3.59E-06,0.084,0.755,100.045,4,happy
+7M9XTtbz6qDg7LqYJ7OpJB,Real Love,Clean Bandit,54,219691,Real Love,10/6/2014,0.63,0.848,-4.592,0.0428,0.0834,4.34E-06,0.205,0.551,124.987,4,happy
+2le9fblYnfoLr9dkZIsJUa,"Baby, I Love Your Way",Big Mountain,67,249520,Unity,7/19/1994,0.651,0.747,-7.269,0.0699,0.0528,0,0.207,0.776,147.518,4,happy
+1D4PL9B8gOg78jiHg3FvBb,Love Story,Taylor Swift,78,236266,Fearless (Big Machine Radio Release Special),11/11/2008,0.617,0.741,-3.97,0.0311,0.131,0,0.0772,0.306,118.984,4,happy
+0HPD5WQqrq7wPWR7P7Dw1i,TiK ToK,Kesha,83,199693,Animal (Expanded Edition),1/1/2010,0.755,0.837,-2.718,0.142,0.0991,0,0.289,0.714,120.028,4,happy
+4NSW0Km5ZG60L8FthUebPJ,What I Like About You (feat. Theresa Rex),Jonas Blue,64,220396,What I Like About You (feat. Theresa Rex),3/22/2019,0.46,0.8,-3.584,0.05,0.289,6.16E-06,0.121,0.553,102.46,4,happy
+557un1HgwYMuqfWGSTmnxw,Single Ladies (Put a Ring on It),Beyoncé,69,192586,I AM...SASHA FIERCE - Platinum Edition,2008,0.426,0.584,-5.293,0.296,0.0383,0,0.192,0.272,193.438,4,happy
+3ldG6XCLDXxWg1N6XhrSKo,Shy Guy,Diana King,62,258560,Tougher Than Love,4/14/1995,0.714,0.825,-5.447,0.0751,0.0128,0.000569,0.049,0.751,94.074,4,happy
+1rfofaqEpACxVEHIZBJe6W,Havana (feat. Young Thug),Camila Cabello,81,217306,Camila,1/12/2018,0.765,0.523,-4.333,0.03,0.184,3.56E-05,0.132,0.394,104.988,4,happy
+5lSOVaPDk7x9Ey6c9DqGZx,Sweet Harmony,The Beloved,64,301466,Conscience,1993,0.573,0.837,-8.352,0.0337,0.0144,0.0889,0.0544,0.796,101.59,4,happy
+0Oe49j06Bjrxs8PltuVeaW,On The Floor - Radio Edit,Jennifer Lopez,74,230906,On The Floor,1/1/2011,0.758,0.686,-6.346,0.0792,0.0848,0.00127,0.142,0.444,130.007,4,happy
+6Qn5zhYkTa37e91HC1D7lb,Whatever It Takes,Imagine Dragons,82,201240,Evolve,6/23/2017,0.672,0.655,-5.021,0.0311,0.0362,0,0.117,0.556,134.945,4,happy
+4rV3AYCf4BBBCkIpyLPwUP,Dreams,Gabrielle,64,222773,Find Your Way,1/1/1993,0.751,0.467,-13.652,0.036,0.173,0,0.217,0.568,98.783,4,happy
+0TK2YIli7K1leLovkQiNik,Señorita,Shawn Mendes,80,190960,Señorita,6/21/2019,0.759,0.54,-6.039,0.0287,0.037,0,0.0945,0.75,116.947,4,happy
+76hfruVvmfQbw0eYn1nmeC,Cake By The Ocean,DNCE,82,219146,DNCE,11/18/2016,0.774,0.753,-5.446,0.0517,0.152,0,0.0371,0.896,119.002,4,happy
+07Oz5StQ7GRoygNLaXs2pd,Good as Hell (feat. Ariana Grande) - Remix,Lizzo,65,159011,Good as Hell (feat. Ariana Grande) [Remix],2016,0.668,0.892,-3.001,0.0645,0.298,0,0.735,0.478,95.927,4,happy
+22vgEDb5hykfaTwLuskFGD,Sucker,Jonas Brothers,82,181026,Happiness Begins,6/7/2019,0.842,0.734,-5.065,0.0588,0.0427,0,0.106,0.952,137.958,4,happy
+1SssFw74DdHVjRa6ADggdD,Sweat (A La La La La Long),Inner Circle,73,227067,Blazzin' Fire,12/14/2010,0.787,0.728,-7.705,0.218,0.0124,0,0.157,0.94,173.026,4,happy
+7aQjPecQdIuNd1sz3KCDhD,Lovefool,The Cardigans,78,193953,First Band On The Moon (Remastered),1/1/1996,0.704,0.636,-6.029,0.0252,0.0344,0,0.35,0.89,111.845,4,happy
+0O6u0VJ46W86TxN9wgyqDj,I Like You (A Happier Song) (with Doja Cat),Post Malone,87,192840,Twelve Carat Toothache,6/3/2022,0.733,0.67,-6.009,0.0751,0.121,0,0.121,0.472,100.964,4,happy
+3IHaiorYWOcr8Kzs85PWF7,CUFF IT,Beyoncé,66,225388,RENAISSANCE,7/29/2022,0.745,0.729,-5.573,0.221,0.0558,0,0.0589,0.629,115.028,4,happy
+42QLP7Z6KvkOV7vYr8RaLD,Softest Touch,Khalid,74,164282,Softest Touch,3/31/2023,0.809,0.631,-7.099,0.0423,0.0659,0.00142,0.134,0.753,107.05,4,happy
+0WtM2NBVQNNJLh6scP13H8,Calm Down (with Selena Gomez),Rema,95,239317,Calm Down (with Selena Gomez),8/25/2022,0.801,0.806,-5.206,0.0381,0.382,0.000669,0.114,0.802,106.999,4,happy
+5lHxARJJrZc3ss4ZVmGWfz,Big Energy,Latto,64,173182,Big Energy,9/24/2021,0.935,0.81,-3.838,0.117,0.0401,0,0.349,0.787,106.028,4,happy
+1l4iQsOZ5sOXZPMQLvouaB,Coast (feat. Anderson .Paak),Hailee Steinfeld,76,166720,Coast,7/29/2022,0.701,0.875,-4.1,0.0757,0.0262,7.32E-06,0.137,0.84,111.976,4,happy
+6dgUya35uo964z7GZXM07g,Nonsense,Sabrina Carpenter,89,163648,emails i can't send,7/15/2022,0.74,0.697,-4.912,0.034,0.0268,0,0.224,0.732,138.992,4,happy
+3uUuGVFu1V7jTQL60S1r8z,Where Are You Now,Lost Frequencies,87,148197,Where Are You Now,7/30/2021,0.671,0.636,-8.117,0.103,0.515,0.000411,0.172,0.262,120.966,4,happy
+3USxtqRwSYz57Ewm6wWRMp,Heat Waves,Glass Animals,89,238805,Dreamland,8/7/2020,0.761,0.525,-6.9,0.0944,0.44,6.70E-06,0.0921,0.531,80.87,4,happy
+2eAvDnpXP5W0cVtiI0PUxV,Dandelions,Ruth B.,90,233720,Safe Haven,5/5/2017,0.609,0.692,-2.958,0.0259,0.0157,0,0.0864,0.454,116.959,3,happy
+1Y3LN4zO1Edc2EluIoSPJN,Until I Found You (with Em Beihold) - Em Beihold Version,Stephen Sanchez,93,176440,Until I Found You (Em Beihold Version),4/22/2022,0.551,0.55,-5.339,0.0286,0.777,0,0.202,0.342,101.19,3,happy
+5jQI2r1RdgtuT8S3iG8zFC,Lavender Haze,Taylor Swift,89,202395,Midnights,10/21/2022,0.733,0.436,-10.489,0.08,0.258,0.000573,0.157,0.0976,96.985,4,happy
+37BZB0z9T8Xu7U3e65qxFy,Save Your Tears (with Ariana Grande) (Remix),The Weeknd,83,191013,Save Your Tears (Remix),4/23/2021,0.65,0.825,-4.645,0.0325,0.0215,2.44E-05,0.0936,0.593,118.091,4,happy
+1qEmFfgcLObUfQm0j1W2CK,Late Night Talking,Harry Styles,88,177954,Harry's House,5/20/2022,0.714,0.728,-4.595,0.0468,0.298,0,0.106,0.901,114.996,4,happy
+463CkQjx2Zk1yXoBuierM9,Levitating (feat. DaBaby),Dua Lipa,76,203064,Levitating (feat. DaBaby),10/1/2020,0.702,0.825,-3.787,0.0601,0.00883,0,0.0674,0.915,102.977,4,happy
+4h4QlmocP3IuwYEj2j14p8,Sunroof,Nicky Youre,88,163025,Sunroof,12/3/2021,0.768,0.714,-5.11,0.0401,0.352,0,0.15,0.842,131.443,4,happy
+2GiJYvgVaD2HtM8GqD9EgQ,Electric Love,BØRNS,82,218106,Dopamine,10/16/2015,0.611,0.797,-7.627,0.0533,0.00543,0.00137,0.26,0.518,120.041,4,happy
+0yLdNVWF3Srea0uzk55zFn,Flowers,Miley Cyrus,98,200454,Flowers,1/13/2023,0.707,0.681,-4.325,0.0668,0.0632,5.15E-06,0.0322,0.646,117.999,4,happy
+5zFglKYiknIxks8geR8rcL,Beautiful Mistakes (feat. Megan Thee Stallion),Maroon 5,80,227395,JORDI (Deluxe),6/11/2021,0.713,0.676,-5.483,0.027,0.0377,0,0.154,0.721,99.048,4,happy
+4LRPiXqCikLlN15c3yImP7,As It Was,Harry Styles,92,167303,As It Was,3/31/2022,0.52,0.731,-5.338,0.0557,0.342,0.00101,0.311,0.662,173.93,4,happy
+5HCyWlXZPP0y6Gqq8TgA20,STAY (with Justin Bieber),The Kid LAROI,87,141805,STAY (with Justin Bieber),7/9/2021,0.591,0.764,-5.484,0.0483,0.0383,0,0.103,0.478,169.928,4,happy
+7eQHxigpuDJjCG50JyzU8v,Butterflies,MAX,73,191250,Butterflies,6/25/2021,0.7,0.613,-4.041,0.0408,0.385,0,0.0887,0.42,88.084,4,happy
+52Rfxu5AUNMV1qhhC2ZCkb,Meltdown,Niall Horan,78,153037,Meltdown,4/28/2023,0.493,0.855,-4.029,0.0967,0.00673,0,0.38,0.754,179.039,4,happy
+76OGwb5RA9h4FxQPT33ekc,SNAP,Rosa Linn,90,179551,SNAP,3/19/2022,0.565,0.636,-8.198,0.0638,0.107,9.90E-06,0.447,0.525,170.01,4,happy
+28a0aMV1OKoyNiCJuNsWrY,That’s Not How This Works (feat. Dan + Shay),Charlie Puth,81,165619,That’s Not How This Works (feat. Dan + Shay),3/31/2023,0.584,0.576,-4.557,0.0519,0.507,0,0.212,0.432,170.026,4,happy
+5iFwAOB2TFkPJk8sMlxP8g,Make You Mine,PUBLIC,77,232906,Make You Mine,8/9/2019,0.606,0.799,-4.452,0.0261,0.0128,0,0.15,0.638,103.014,4,happy
+1jEBSDN5vYViJQr78W7jr2,Light Switch,Charlie Puth,81,187703,CHARLIE,10/6/2022,0.689,0.627,-5.692,0.308,0.105,0.000321,0.0905,0.905,184.008,4,happy
+4FWbsd91QSvgr1dSWwW51e,TRUSTFALL,P!nk,83,237200,TRUSTFALL,1/27/2023,0.636,0.888,-3.889,0.0945,0.00162,0.000216,0.147,0.25,122.032,4,happy
+3BLWGYOcy1svvsBByeFxLh,Wonder Woman,John Legend,68,168562,LEGEND,9/9/2022,0.628,0.476,-4.947,0.0352,0.417,0,0.121,0.336,147.915,4,happy
+2zBDKzqa6sdxeI0fC6OWIC,Fly Away,Tones And I,72,178156,Welcome To The Madhouse,7/16/2021,0.806,0.513,-6.208,0.0685,0.217,0,0.217,0.503,124.988,4,happy
+54ipXppHLA8U4yqpOFTUhr,Bones,Imagine Dragons,87,165264,Mercury - Acts 1 & 2,7/1/2022,0.772,0.75,-3.67,0.0455,0.0201,0,0.074,0.587,114.061,4,happy
+1imMjt1YGNebtrtTAprKV7,Love Again,Dua Lipa,66,258004,Future Nostalgia,3/27/2020,0.659,0.667,-4.668,0.0339,0.00173,2.85E-05,0.1,0.468,115.982,4,happy
+5C8ySsx3AT121g24uYR823,NO BAD DAYS (feat. Collett),Macklemore,74,173453,BEN,3/3/2023,0.769,0.858,-6.01,0.15,0.117,0.0186,0.157,0.86,160.049,4,happy
+2f0pn9DkEJwAzXApnFh5cr,Someone To You,BANNERS,77,219801,Where The Shadow Ends,10/4/2019,0.52,0.903,-5.497,0.042,0.00517,0,0.254,0.652,74.988,4,happy
+69ZzhvHnSSnzMO8SMYEJWb,Mother,Meghan Trainor,81,147481,Takin' It Back (Deluxe),3/10/2023,0.751,0.661,-6.131,0.0871,0.124,0,0.456,0.761,120.052,4,happy
+4N5s8lPTsjI9EGP7K4SXzB,Green Green Grass,George Ezra,83,167613,Gold Rush Kid,6/10/2022,0.685,0.738,-4.413,0.0595,0.0695,0,0.128,0.8,112.972,4,happy
+78q4ESvMkPVJzHAV11LAGE,Little Bit of Love,Tom Grennan,65,226268,Little Bit of Love (Acoustic),1/29/2021,0.689,0.706,-4.48,0.0312,0.0833,0,0.105,0.623,106.52,4,happy
+0mBP9X2gPCuapvpZ7TGDk3,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,82,154486,Left and Right (Feat. Jung Kook of BTS),6/24/2022,0.881,0.592,-4.898,0.0324,0.619,1.32E-05,0.0901,0.719,101.058,4,happy
+0QBzMgT7NIeoCYy3sJCof1,Bam Bam (feat. Ed Sheeran),Camila Cabello,82,206070,Bam Bam (feat. Ed Sheeran),3/4/2022,0.756,0.697,-6.377,0.0401,0.182,0,0.333,0.956,94.996,4,happy
+4zrKN5Sv8JS5mqnbVcsul7,Celestial,Ed Sheeran,83,209026,Celestial,9/29/2022,0.574,0.852,-1.248,0.0397,0.0529,0,0.161,0.501,123.038,4,happy
+4qu63nuBpdn0qHUHuObEj1,Leave Before You Love Me (with Jonas Brothers),Marshmello,84,154983,Leave Before You Love Me,5/21/2021,0.721,0.738,-4.77,0.0403,0.00226,4.41E-06,0.118,0.637,119.976,4,happy
+68EkhVWIeULhHxcbi1QhzK,World's Smallest Violin,AJR,76,180746,OK ORCHESTRA,3/26/2021,0.68,0.697,-7.01,0.0484,0.121,0,0.661,0.684,116.033,4,happy
+0QHEIqNKsMoOY5urbzN48u,Made You Look,Meghan Trainor,90,134256,Takin' It Back,10/21/2022,0.838,0.525,-3.562,0.0665,0.345,1.92E-06,0.0771,0.884,144.981,4,happy
+3o9kpgkIcffx0iSwxhuNI2,Numb Little Bug,Em Beihold,76,169237,Numb Little Bug,1/28/2022,0.742,0.527,-6.892,0.0769,0.327,0,0.25,0.638,84.974,4,happy
+4svaKoxMMP7ImmKrD5hfQu,Victoria's Secret,Jax,76,176124,Victoria’s Secret,6/30/2022,0.586,0.556,-7.639,0.0592,0.00655,0,0.0836,0.517,167.018,4,happy
+6w8ZPYdnGajyfPddTWdthN,Can I Get It,Adele,74,210384,30,11/19/2021,0.703,0.68,-6.118,0.0431,0.0171,0,0.178,0.536,97.985,4,happy
+5r43qanLhUCdBj8HN3fa6B,Sunshine,OneRepublic,82,163854,Sunshine,11/10/2021,0.697,0.875,-4.621,0.034,0.137,0,0.28,0.774,140.069,4,happy
+50nfwKoDiSYg8zOCREWAm5,Shivers,Ed Sheeran,87,207853,=,10/29/2021,0.788,0.859,-2.724,0.0856,0.281,0,0.0424,0.822,141.02,4,happy
+5c6lM2zjAF6MFoD8C1hiBr,Clarity,Vance Joy,67,227240,Clarity,4/6/2022,0.552,0.873,-6.065,0.0464,0.00137,0.000273,0.0966,0.62,125.059,4,happy
+5902W4uHWzhtOff1UK7the,When I’m Gone (with Katy Perry),Alesso,78,161266,When I’m Gone (with Katy Perry),12/29/2021,0.685,0.886,-4.179,0.034,0.028,0,0.481,0.615,125.034,4,happy
+6sZo5nJIsFWXefRCCexpx0,Never Gonna Not Dance Again,P!nk,77,225789,Never Gonna Not Dance Again,11/4/2022,0.668,0.802,-4.005,0.0917,0.0273,0,0.163,0.769,113.796,4,happy
+1yvMUkIOTeUNtNWlWRgANS,Unstoppable,Sia,83,217746,This Is Acting (Deluxe Version),10/21/2016,0.468,0.779,-4.839,0.0779,0.112,0.000373,0.101,0.26,173.799,4,happy
+0Bm2kjXM4w6JlwS6jpTmfO,Don't I Make It Look Easy,Meghan Trainor,68,154888,Don't I Make It Look Easy,9/9/2022,0.628,0.742,-4.51,0.0668,0.0624,0,0.274,0.829,148.756,4,happy
+2xPV95cfbyusygMTxpa3SW,You,Dan + Shay,69,196253,Good Things,8/13/2021,0.544,0.572,-6.205,0.0319,0.118,0,0.234,0.52,169.885,4,happy
+3FeVmId7tL5YN8B7R3imoM,My Universe,Coldplay,83,228000,My Universe,9/24/2021,0.588,0.701,-6.39,0.0402,0.00813,0,0.2,0.443,104.988,4,happy
+4xYlpJPENfM4DT0rUYFqSP,I Feel Like Dancing,Jason Mraz,68,218701,I Feel Like Dancing,2/15/2023,0.812,0.706,-6.054,0.0709,0.0412,0,0.107,0.621,112.002,4,happy
+4Hn4zAkBUaNnT8m9p7cYaf,Joy,Andy Grammer,66,193621,Joy,1/28/2022,0.675,0.793,-6,0.157,0.108,0,0.103,0.233,111.907,4,happy
+6QzARXbdztTRu42kQigY96,Home Cookin' - Remastered 1999/Rudy Van Gelder Edition,Horace Silver,43,388160,The Stylings Of Silver (The Rudy Van Gelder Edition),1/1/2002,0.616,0.33,-12.076,0.0469,0.582,0,0.122,0.571,143.57,4,happy
+4n5AUkvieP9NglLITjihFH,Barefoot Sunday Blues,Cannonball Adderley Quartet,42,423133,Cannonball Takes Charge,8/1/1959,0.524,0.323,-11.33,0.0333,0.805,0.00783,0.142,0.422,132.977,4,happy
+211mkZYf9YaQhlev1Vze5F,Bang Bang,Dizzy Gillespie,51,183333,Talkin' Verve,5/23/1997,0.788,0.533,-10.645,0.0467,0.644,0.00189,0.0646,0.629,134.644,4,happy
+5UI9nSnk8k5e6oMcGK55tt,Used To Be Duke,Johnny Hodges,42,439880,Used To Be Duke,1/1/2009,0.559,0.623,-10.468,0.0866,0.383,0.0543,0.0958,0.776,98.101,4,happy
+6xtHD6E7iIyRCopIsTzW0U,Lester Leaps In,Sonny Stitt,41,381346,Now!,1/1/1963,0.544,0.277,-16.318,0.0664,0.697,0.00295,0.0817,0.705,92.324,4,happy
+1VXvuU6StB2FGbiqixiwN5,Bo-Fill - Rudy Van Gelder 24Bit Mastering,Clifford Jordan,40,356746,Blowing In From Chicago,1/1/2003,0.535,0.382,-10.61,0.0408,0.679,0.0002,0.103,0.814,87.795,4,happy
+4lQGjcuX6xblZPrVbsga6l,Rigor Mortez - Rudy Van Gelder 24-Bit Mastering/2003 Remaster,Blue Mitchell,39,381893,Boss Horn (Remastered),1/1/2005,0.564,0.554,-10.158,0.0369,0.732,0.000174,0.113,0.835,91.785,4,happy
+2yVOF2movPBYvUt1vdpv5k,Tippin' - Remastered 2000/Rudy Van Gelder Edition,Horace Silver Quintet,39,372080,Six Pieces Of Silver,1/1/2000,0.634,0.73,-6.743,0.0365,0.838,0.688,0.313,0.882,104.324,4,happy
+6nXk6cBsgoyvNePVb8sdvt,Lou's Blues,Lou Donaldson,43,224266,Quartet / Quintet / Sextet,5/24/1957,0.567,0.563,-6.882,0.0378,0.734,0.000115,0.061,0.702,131.587,4,happy
+3Bj1fTJC5zIqAUybuCyRl2,Hot Mallets,Lionel Hampton,42,136746,"The Complete Victor Lionel Hampton Sessions, Vol. 2",4/14/2007,0.755,0.557,-10.753,0.0299,0.58,0.573,0.0676,0.96,122.733,4,happy
+1FMO9vqWdCvuRaO6CBelP5,Blues for Barry Harris,"Lafayette Harris, Jr.",38,303293,You Can't Lose with the Blues,11/1/2019,0.412,0.392,-15.504,0.0435,0.446,0.198,0.116,0.663,171.961,4,happy
+0CaMKN4Fu6WKHBW38JazrY,Play Ray,Lou Donaldson,42,331333,Blues Walk,1958,0.704,0.214,-17.339,0.0617,0.787,0.00209,0.0923,0.664,77.52,4,happy
+6mBbcbDpY47Yp6PGTBwKBE,Perhaps,Aaron Goldberg,39,317439,The Now,1/20/2015,0.414,0.334,-18.067,0.0451,0.662,0.786,0.124,0.452,101.915,4,happy
+5beii4gDylW7eFnWJ1uZaH,"Just You, Just Me",Lester Young,39,457933,The President Plays With The Oscar Peterson Trio,6/2/1959,0.62,0.278,-16.68,0.0757,0.938,0.916,0.134,0.65,120.781,4,happy
+6xFh3v76Pv1Ucqf4xAT2bY,O Mama Enit - Rudy Van Gelder 24-Bit Mastering/2003 Remaster,Blue Mitchell,38,334253,Boss Horn (Remastered),1/1/2005,0.661,0.503,-10.363,0.0453,0.649,0.0409,0.0737,0.811,103.859,4,happy
+33gArMdTPHENYZFGLyGDXg,The Lion's Roar - Remastered,Leo Parker,36,294906,Rollin' With Leo (Remastered),1/1/2009,0.554,0.659,-7.827,0.0502,0.542,0,0.101,0.799,99.993,4,happy
+6dr3C76wvbQJty7WvNG7tG,The Call,Jacky Terrasson,38,243127,The Call,8/30/2019,0.525,0.335,-15.751,0.0335,0.566,0.837,0.0931,0.285,106.444,4,happy
+6DLfsQt62XFWihmhU5NDo5,Händelse,Förnuft och Känsla,35,279974,Händelse,6/6/2020,0.637,0.335,-16.119,0.0443,0.541,0.782,0.0977,0.853,91.941,4,happy
+4RLNFZ5CHaLH1URS90ycgP,I'll Remember April,Sonny Stitt,35,281093,Sonny Stitt Sits In With The Oscar Peterson Trio,1/1/2008,0.552,0.422,-13.381,0.0427,0.401,5.89E-06,0.226,0.643,111.08,4,happy
+1f7EWS1kruAco1sc1W614Q,With A Song In My Heart - Remastered 1998,Sonny Clark,39,475293,Sonny's Crib,1/1/1998,0.52,0.492,-8.791,0.0425,0.656,0.000111,0.279,0.811,76.95,4,happy
+3WJpTTRFQr46ZF2Td29bTj,Tariff - Rudy Van Gelder Edition/2006 Digital Remaster,Thad Jones,35,330120,Detroit-New York Junction,1/1/2007,0.641,0.465,-7.357,0.0382,0.769,0.0736,0.0826,0.594,97.211,4,happy
+0UgG6ZQ46DjB6V55pWZLfw,Edda,Lee Morgan,35,439773,The Rumproller,1/1/1965,0.445,0.534,-10.365,0.044,0.68,0.0794,0.0922,0.592,65.017,4,happy
+1m6xA6Yvt2miUOJtLLlviD,Move,Art Pepper,37,205506,Art Pepper + Eleven: Modern Jazz Classics,1/1/1959,0.592,0.533,-10.052,0.0732,0.565,0.00163,0.0889,0.797,123.321,4,happy
+1NkCYPvbK6YVCoGp3GGtQ8,Camptown Races,Dave Brubeck,34,117493,The Very Best,8/25/2000,0.531,0.34,-18.227,0.0558,0.213,0.384,0.108,0.649,134.832,4,happy
+2Z7Z8BDwjZQeYuzwe3LdOp,The Cape Verdean Blues - Rudy Van Gelder Edition / 2003 Remastered,Horace Silver Quintet,38,299746,The Cape Verdean Blues,1/1/2004,0.704,0.76,-8.944,0.035,0.673,0.781,0.143,0.967,135.282,4,happy
+03wsijXCWgrIjGaPHy3sTe,Star Eyes,Tina Brooks,36,495666,Minor Move (Expanded Edition),1/1/1980,0.527,0.343,-11.202,0.0534,0.738,6.69E-06,0.183,0.715,89.342,4,happy
+7pzhoKl2D6oRVU6C7ZDqjR,Things Ain't What They Used To Be,Paul Gonsalves,35,283160,Tell It The Way It Is,9/24/1963,0.578,0.451,-10.049,0.0375,0.548,0.685,0.11,0.708,122.503,4,happy
+5Q9XLLVex1yZ0Heo2SVhMI,Lion's Den - Rudy Van Gelder Edition/2007 Remaster,Kenny Drew,35,293106,Undercurrent (Rudy Van Gelder Edition/2007 Remaster),12/11/1960,0.587,0.552,-7.797,0.0304,0.592,0.000173,0.0822,0.449,106.801,4,happy
+3tj4JjIIW5gaQ6yi6Qmr9j,Opus De Funk,Art Pepper,39,192493,Art Pepper + Eleven: Modern Jazz Classics,1/1/1959,0.601,0.51,-10.058,0.0648,0.735,0.29,0.0878,0.836,98.991,4,happy
+2MZBVXviBSBenB8AnmsMXi,Flight of the Foo Birds,Count Basie,40,204733,The Atomic Mr Basie,1958,0.623,0.544,-8.821,0.0361,0.655,0.0584,0.198,0.807,96.235,4,happy
+5rcEapnWT4NrPSFT5co106,Greasy,Jackie McLean,35,445426,New Soil,1/1/1989,0.62,0.324,-14.199,0.0606,0.682,0.00108,0.112,0.596,78.89,4,happy
+4bSS0sl1sSGTpR79V11EWW,Down Home,Jutta Hipp,34,403000,Jutta Hipp With Zoot Sims (Expanded Edition),1957,0.626,0.368,-11.044,0.0399,0.755,2.78E-05,0.134,0.843,126.757,4,happy
+5oqwrfp20RBYMMGQbulPkN,Iron Square Serenade,Musicmusicmusic,33,222386,What's a Good Boss Anyway,10/6/2006,0.321,0.603,-8.572,0.0265,0.651,0.826,0.153,0.522,79.683,4,happy
+1YwL0oRz2KmlNcO2ahQWOn,Stompin' At The Savoy,Red Garland,50,189240,Red Garland's Piano,1957,0.641,0.329,-13.487,0.036,0.87,0.521,0.15,0.781,107.375,4,happy
+36FSengmFZRJNe0xaY1GGA,Happy and the Fall,Magnus Öström,34,335560,Searching for Jupiter,8/30/2013,0.487,0.609,-14.573,0.0271,0.522,0.861,0.12,0.529,91.677,4,happy
+253d4aC4Tj6HBzA8mfwcbm,A Little Evil,Seamus Blake,33,331093,Let's Call the Whole Thing Off,6/17/2016,0.603,0.427,-11.434,0.0328,0.704,0.0263,0.0676,0.627,128.363,4,happy
+43n3LROB96YF1AA6luCAbs,On a Clear Day,Filip Ekestubbe Trio,34,360680,On a Clear Day,10/14/2018,0.623,0.401,-11.914,0.0287,0.794,0.872,0.154,0.543,104.256,4,happy
+1vk8IJceUSsnEycyXnLHr4,Sunday Mornin',Coleman Hawkins,42,390173,Soul,1/1/1958,0.5,0.474,-13.42,0.0391,0.537,0.0275,0.346,0.754,98.283,4,happy
+77tXih9Z5Jid24z21GOJE5,This Here,Bobby Timmons,49,212200,This Here Is Bobby Timmons,1/1/1992,0.546,0.488,-16.926,0.0282,0.862,0.929,0.131,0.783,95.377,3,happy
+11oZK9EdlMVLqVIIxkUFVx,The Shape of Blue,Gathering in Jazz,46,197665,Stardust,2/7/2020,0.613,0.357,-10.35,0.0452,0.841,0.447,0.11,0.71,80.871,3,happy
+3hQw2tdAeD9v94KJyFChKB,Friends,Brad Mehldau Trio,37,495360,Seymour Reads the Constitution!,5/5/2018,0.453,0.313,-15.476,0.036,0.714,0.805,0.107,0.404,124.846,3,happy
+2ssA3VT7tzLDtF1wKgouiX,"Smile, Stacey - Remastered",Stanley Turrentine,33,486573,That's Where It's At,1/1/2005,0.54,0.554,-8.107,0.0476,0.516,0,0.0326,0.65,113.651,4,happy
+0Z0qsQffWPOQ8fTbZDKnGn,The Head,Blue Mitchell,32,268520,Blue Soul [Keepnews Collection],1/1/2008,0.557,0.565,-11.06,0.0426,0.658,0.109,0.141,0.828,119.461,4,happy
+3yBMrd3smS55EY9jbuvnjv,CRAZY WITCH GAME,Kresten Osgood,32,192226,Kresten Osgood Quintet Plays Jazz,11/30/2018,0.541,0.503,-10.796,0.0378,0.629,0.034,0.089,0.642,108.527,4,happy
+3OF48WGuSdJnJjgn2V1M4H,Konrads Hopp Om Livet,Atomic,32,589053,Bikini Tapes,2005,0.456,0.544,-8.923,0.0795,0.357,0.771,0.145,0.404,120.438,4,happy
+4on3eMnc3jPhCUgBfG694n,The Good Life,Charlie Haden,32,282373,Quartet West,1/1/1987,0.616,0.253,-19.339,0.0662,0.098,4.97E-05,0.252,0.406,110.425,4,happy
+4tJb85eDxIIm2frcwb8PAG,Mack The Knife,Oscar Peterson Trio,38,315893,Oscar Peterson Trio Plus One,1/1/1964,0.697,0.324,-13.328,0.0401,0.715,0.000763,0.0823,0.667,96.446,4,happy
+2TYYqUZF8AnpjlJhCLHXIQ,Moving Up,Wynton Kelly Trio,35,232213,It's All Right!,1/1/1964,0.482,0.263,-19.361,0.0406,0.915,0.306,0.0697,0.776,128.097,4,happy
+2N4oRvZUu8RWkjdBjLQJKt,Jump Up,Lou Donaldson,32,397160,LD+3,10/1/1959,0.512,0.37,-15.272,0.0465,0.599,3.09E-05,0.102,0.695,130.846,4,happy
+11yFXAL7mtcXaEz8CnumIq,I Wish I Knew,Blue Mitchell,38,266666,Blue's Moods,1/1/1994,0.547,0.287,-14.983,0.0621,0.763,0.144,0.176,0.598,106.843,4,happy
+7hkaJ4CZ3LIDjCVFXAp6N6,That Old Black Magic,Denis Solee,32,265093,That Old Black Magic,1998,0.568,0.418,-9.218,0.0298,0.762,0.882,0.096,0.576,92.956,4,happy
+15NISV4mN1WTF1vHxdRrAD,Three Little Words,Benny Golson,32,281040,Turning Point,1/1/2005,0.55,0.298,-16.391,0.0472,0.894,0.854,0.0686,0.701,138.129,4,happy
+25scgTXCu6BVxDoBcz7uLA,When You're Smiling,Lee Konitz Quartet,33,226346,Tranquility,1/1/1957,0.549,0.148,-16.769,0.0487,0.909,0.213,0.135,0.519,103.44,4,happy
+795N79I1xfTR1FnfL7J8pp,Just Friends,Massimo Faraò,35,320226,Barcode,8/16/2019,0.59,0.266,-15.681,0.0556,0.831,0.889,0.131,0.44,114.448,4,happy
+1uJgfVUbZ6DtDMHENnPT11,Billy Boy,Red Garland,33,380400,Red Garland Revisited!,1/1/1998,0.698,0.351,-14.244,0.0401,0.67,0.769,0.0958,0.625,112.019,4,happy
+1kWrVpHACTz4Cy4OS7BaAi,The Magilla,Stanley Turrentine,29,364626,The Spoiler,1/1/1996,0.468,0.612,-9.747,0.0328,0.302,0.00021,0.124,0.799,108.136,4,happy
+4WrFf0DMuq3LbpOf20wkVP,If This Isn't Love,Cannonball Adderley Quartet,32,332266,Cannonball Takes Charge,8/1/1959,0.436,0.63,-7.274,0.0378,0.749,0.000826,0.0693,0.788,149.041,4,happy
+16rC6JrsasyG7p3MjbEFgR,Honeysuckle Rose,Benny Carter,40,230813,Further Definitions,3/1/1962,0.569,0.601,-10.154,0.0901,0.412,0.0139,0.2,0.785,118.412,4,happy
+3Nyx99YpA8OEL6XVAgU6gZ,Keepin' It Real,Bobby Watson,31,428333,Keepin' It Real,6/26/2020,0.481,0.678,-8.01,0.033,0.211,0.0096,0.0869,0.723,131.557,4,happy
+5jRb2jFB8ZG9qwgGQDSL3g,Drum One,Paul Bley,32,142280,Paul Bley,1/1/1954,0.439,0.533,-11.973,0.0485,0.951,0.947,0.209,0.806,110.133,4,happy
+1jWOaHSKT7CUcBuLdIcOTp,Cannonball,Cannonball Adderley,45,254800,"Julian ""Cannonball"" Adderley",1/1/1955,0.612,0.604,-6.306,0.0364,0.77,0.695,0.162,0.924,109.86,4,happy
+67cJY01l5qsL6ckW0OgyHK,The Critic's Choice,Oliver Nelson,37,139133,More Blues And The Abstract Truth,3/10/1997,0.58,0.73,-9.654,0.0431,0.457,0.0013,0.101,0.877,95.725,4,happy
+4XcLH3IOkmdqFriZJW2HEU,If I Love Again,Clifford Brown,33,203973,Study In Brown,1/1/1955,0.552,0.69,-9.203,0.045,0.604,0.0976,0.24,0.948,128.789,4,happy
+64UJdbSWjE1iS5pWhP8m1f,The Song Is You,Cannonball Adderley,34,253133,"Julian ""Cannonball"" Adderley",1/1/1955,0.566,0.54,-5.056,0.0322,0.786,0.781,0.365,0.552,91.69,4,happy
+76oiXjka5OXZJ4eqSQIDfY,I'll Close My Eyes,Blue Mitchell,41,353800,Blue's Moods,1/1/1994,0.508,0.424,-13.079,0.0364,0.727,0.0022,0.084,0.566,105.343,4,happy
+0QTq57fazdnHads8lz3G9G,Dardanella,Emmet Cohen,44,324696,Future Stride,1/29/2021,0.405,0.354,-14.391,0.0354,0.828,0.816,0.104,0.256,142.061,4,happy
+1TGyRyiXEM1X6kwbr16xtW,Newark News,Peter Bernstein,33,308480,What Comes Next,10/16/2020,0.493,0.478,-11.766,0.0389,0.873,0.875,0.0823,0.739,95.714,4,happy
+2wo3fkK3ZtUZrm9MvElyhv,Move,Lou Donaldson,33,353106,Blues Walk,1958,0.655,0.328,-16.858,0.0481,0.802,3.95E-05,0.103,0.869,144.7,4,happy
+5qn65mOhrCccPUbb18OOeL,Sweetnin',Coleman Hawkins,30,410733,Soul,1/1/1958,0.429,0.608,-12.121,0.0393,0.476,0.000212,0.117,0.676,141.683,4,happy
+4CkdTvoBBvdSv5aAryGT3i,Limehouse Blues,The Cannonball Adderley Quintet,33,280226,Cannonball Adderley Quintet In Chicago,2/3/1959,0.422,0.506,-12.187,0.0498,0.728,6.24E-05,0.0945,0.699,160.672,4,happy
+5uubONzRpbCDvVK8q5WhTI,Crazy Rhythm,Benny Carter,38,204173,Further Definitions,3/1/1962,0.634,0.613,-9.502,0.0514,0.271,0.356,0.107,0.838,118.89,4,happy
+6dNNF5G1fQOYbFlHXIqWtI,Metamorphosis - Remastered 1999/Rudy Van Gelder Edition,Horace Silver,30,438293,The Stylings Of Silver (The Rudy Van Gelder Edition),1/1/2002,0.528,0.409,-12.898,0.0387,0.746,0.0417,0.0943,0.704,106.207,4,happy
+3QZUeCYGIMvoOohTDGaqSp,Lovely to Look At - Remastered 2020,Erroll Garner,37,156734,Gershwin & Kern (Octave Remastered Series),6/12/2020,0.488,0.43,-11.371,0.0352,0.822,0.836,0.184,0.587,106.711,4,happy
+5eLkBcO6S7bgwA5YPeHEpW,West Indian Flower,Snorre Kirk,34,291106,West Indian Flower,10/18/2019,0.623,0.251,-14.517,0.0499,0.78,0.00976,0.0873,0.694,109.317,5,happy
+3p4C7vCwkqOD3bSlh96pls,I Got Rhythm,Sonny Stitt,37,187213,The Hard Swing,1/1/1960,0.65,0.371,-11.64,0.0591,0.76,0.0389,0.159,0.745,142.988,4,happy
+1g9PELc5ZHk5kpSYo141AM,Cotton Tail,Benny Carter,31,264920,Further Definitions,3/1/1962,0.615,0.583,-9.083,0.0443,0.774,0.29,0.0665,0.882,121.936,4,happy
+377ALnPexo1VGmD8dqHRXl,Stolen Sweets,Stanley Turrentine,30,372600,Comin' Your Way,10/2/1987,0.451,0.414,-10.857,0.0355,0.712,9.33E-05,0.0821,0.764,165.617,4,happy
+7FoszDSSSG1bFxDl6QDZ0l,Will You Still Be Mine?,Massimo Faraò,40,353280,A Drums Comes True,8/24/2020,0.458,0.402,-15.809,0.0383,0.245,0.68,0.129,0.78,143.823,4,happy
+6CuppdxxPFj7v81NCHfaJa,K.D.'s Motion - Rudy Van Gelder Edition/2007 Digital Remaster,Kenny Dorham,33,328600,Afro-Cuban (Rudy Van Gelder Edition),1/1/2007,0.614,0.498,-7.163,0.0428,0.564,0.00319,0.112,0.677,89.112,4,happy
+66OY61byAl0G6vOXHzFKzB,Rockin' In Rhythm,Clark Terry,31,279600,The Happy Horns Of Clark Terry,1964,0.479,0.433,-9.954,0.041,0.451,1.22E-05,0.159,0.715,167.98,4,happy
+32MKpR61rfKGivn5K7V7wG,Faith,Art Blakey,31,223493,'S Make It,1/1/1964,0.606,0.561,-8.842,0.0411,0.206,0.59,0.234,0.728,97.048,4,happy
+72dRQ0TXjgpKfSL5MXYXnj,Around the World,Lucas Figueiredo Santana,29,469546,Around the World,4/2/2021,0.56,0.559,-8.081,0.0407,0.796,0.685,0.256,0.676,128.136,4,happy
+4SK4XpzqomNOm2RkscCk5D,Anything Goes,Stan Getz,42,219266,Getz Meets Mulligan In Hi-Fi,11/1/1957,0.479,0.495,-11.239,0.042,0.619,7.93E-05,0.203,0.766,131.647,4,happy
+18OCB6x3sj2wTSxsoabG71,If I Love Again,Lou Donaldson,30,160733,Quartet / Quintet / Sextet,5/24/1957,0.495,0.729,-6.356,0.0303,0.799,0.00149,0.194,0.789,120.99,3,happy
+5gDN0WkOb7g6MtTGIlw6Mt,Ear Conditioning,Warne Marsh,29,315293,Jazz Of Two Cities,1/1/1957,0.51,0.336,-13.137,0.0448,0.705,3.00E-06,0.358,0.681,122.412,3,happy
+1BunZU5dA3yusmUd6iqUhc,Two Bass Hit,Philly Joe Jones,29,275600,Philly Joe's Beat,1960,0.502,0.594,-11.391,0.0848,0.466,1.87E-06,0.158,0.799,127.879,4,happy
+2ezZJ2KVatSh0m0ioXwtcv,The Preacher,Art Blakey,28,258186,BD Music & Cabu Present Art Blakey,5/25/2010,0.464,0.301,-12.217,0.0462,0.87,0.792,0.0765,0.645,185.545,4,happy
+2MYRUIraCra1ZrIqQRL8GY,Amanecer Contigo,Dafnis Prieto Sextet,29,381060,Amanecer Contigo,9/18/2020,0.528,0.7,-9.43,0.0305,0.522,0.417,0.122,0.672,126.214,4,happy
+2cOSF20k8VkEoXllO0PsbG,Four Brothers,Art Pepper,47,178533,Art Pepper + Eleven: Modern Jazz Classics,1/1/1959,0.492,0.583,-9.927,0.19,0.673,2.38E-06,0.201,0.798,73.64,4,happy
+1PA0tI1YObjGqpTKgKoUJP,Au Privave,Sonny Stitt,29,238333,Sonny Stitt Sits In With The Oscar Peterson Trio,1/1/1959,0.49,0.476,-13.224,0.0365,0.696,0.00953,0.148,0.778,134.826,4,happy
+5JnVSvNTtEPLe2xM1EvXGs,Wonder Why,"Lafayette Harris, Jr.",44,315586,You Can't Lose with the Blues,11/1/2019,0.484,0.278,-17.089,0.037,0.672,0.362,0.0923,0.362,145.351,4,happy
+1ntx4SY3tRDuEzid4sRFjA,Libra,Orrin Evans,30,354106,The Magic of Now,7/23/2021,0.414,0.552,-11.25,0.0283,0.686,0.223,0.127,0.291,109.328,4,happy
+7xM0zRlSfbnHHq16CoN9ye,On The Second Day,Jørgen Emborg,41,272794,On the Second Day,9/18/2020,0.524,0.608,-10.14,0.0356,0.235,0.724,0.0595,0.633,115.161,4,happy
+6XbnOMT8ZYQtombZHv6fDp,Running,Jørgen Emborg,34,349061,Swan Songs,10/16/2020,0.609,0.654,-10.006,0.0338,0.157,0.721,0.0658,0.764,105.11,4,happy
+6saSpp7UZUXltPD6OYGn9u,Trouble Maker,Lucas Figueiredo Santana,42,407333,Trouble Maker,2/19/2021,0.698,0.469,-8.68,0.0511,0.838,0.63,0.0814,0.575,96.273,4,happy
+6NWgoWAfcICQZdQRqAQnlc,Cliff Craft,Cliff Jordan,28,390866,Cliff Craft,12/1/1957,0.579,0.529,-10.219,0.052,0.823,0.737,0.278,0.685,118.929,4,happy
+1mtO7k5FGRjlJmrM9nf5GH,The Chant (Live 1960),Cannonball Adderley,26,542533,Live in Paris,1960,0.459,0.641,-7.519,0.0724,0.408,0,0.742,0.691,167.438,4,happy
+1w8AuoB6mjP8MsnHRoDSkW,Jakob’s Happy Song,Simon Westman Trio,46,332391,Stay a While,5/23/2020,0.384,0.39,-17.377,0.0275,0.84,0.899,0.102,0.687,105.386,4,happy
+6mLWHZHMceU8qX8uQx8k8M,Feeling,Hegge,31,406213,Feeling,5/21/2020,0.325,0.581,-7.304,0.0358,0.557,0.577,0.0714,0.743,203.994,3,happy
+1x217IcZCRrvizzbwgPg6H,The People In Nassau,Blue Mitchell,34,339266,Heads Up!,12/8/1968,0.688,0.552,-9.313,0.0359,0.689,0.194,0.0853,0.892,110.082,4,happy
+3NbAsIxDL0fVgNuCLD152P,"Dolly Suite, Op. 56: I. Berceuse",Gabriel Fauré,66,176518,Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus,1/1/2015,0.37,0.0076,-33.663,0.0384,0.995,0.91,0.0864,0.278,62.668,4,happy
+7EvIsrYg4q82QT6mBYut84,"The Nutcracker, Op. 71, TH.14 / Act 2: No. 12e Dance of the Reed Pipes",Pyotr Ilyich Tchaikovsky,5,133800,Tchaikovsky: Complete Ballets,1/1/2012,0.404,0.123,-26.939,0.0379,0.927,0.962,0.213,0.345,143.024,4,happy
+0c9YITBx27aVPVC7baiOmB,"Petite suite de concert, Op. 77: III. Un sonnet d'amour",Samuel Coleridge-Taylor,46,185400,"African Heritage Symphonic Series, Vol. 1",1/1/2000,0.0999,0.00994,-34.682,0.0437,0.902,0.121,0.13,0.0614,70.667,3,happy
+19SN5mb0gs0ze9PYBIVANZ,Copland: Appalachian Spring: VII. Doppio movimento (Variations on a Shaker Hymn - Simple Gifts),Aaron Copland,47,181200,Road Trip,10/3/2014,0.207,0.102,-17.365,0.0384,0.974,0.542,0.104,0.303,82.319,4,happy
+6Ye4niSXscwpj4smkb5ioO,"Symphony No. 6 in F Major, Op. 68, ""Pastorale"": I. Allegro ma non troppo, ""Awakening of cheerful feelings on arriving in the countryside""",Ludwig van Beethoven,55,711626,"Beethoven for Three: Symphony No. 6 ""Pastorale"" and Op. 1, No. 3",11/11/2022,0.367,0.0622,-23.054,0.0403,0.957,0.702,0.13,0.284,116.654,4,happy
+6IuHbYWV49tArCbHBgMHl7,Carmen Suite No. 1 (Arr. E. Guiraud): IV. Séguedille,Georges Bizet,60,121933,Bizet: Carmen & L'arlésienne Suites,10/13/2017,0.248,0.00674,-36.547,0.0417,0.952,0.271,0.155,0.185,176.236,3,happy
+5bmp5QR3Dwb5r9kgEX8kF3,"GoldBergHain (Quodlibet on ""Kraut und Rüben haben mich vertrieben"") for Violin & String Orchestra",Stephan Koncz,50,164973,"GoldBergHain (Quodlibet on ""Kraut und Rüben haben mich vertrieben"") for Violin & String Orchestra",9/25/2020,0.394,0.133,-19.88,0.0513,0.793,0.102,0.166,0.414,116.711,4,happy
+6e85fziCk6MwZUxWyG6Ijm,"Boccherini: String Quintet in E Major, Op. 13 No. 6, G. 282: III. Minuetto - Trio",Luigi Boccherini,51,237720,Mozart: Eine Kleine Nachtmusik etc.,1986,0.501,0.0358,-26.147,0.0293,0.961,0.58,0.142,0.43,85.189,4,happy
+5431KRbZtVF3tVgMR1lIYS,"An der schönen blauen Donau, Walzer, Op. 314",Johann Strauss II,44,622226,Neujahrskonzert 2020 / New Year's Concert 2020 / Concert du Nouvel An 2020,1/17/2020,0.207,0.0854,-19.104,0.042,0.976,0.923,0.0663,0.138,199.771,3,happy
+73p40DaAebttScQi46SEow,"Antiche Danze Ed Arie Per Liuto (Ancient Airs And Dances), P. 114: IV. Italiana",Ottorino Respighi,55,167800,Respighi: Piano Music,12/12/1997,0.299,0.0182,-35.321,0.0579,0.996,0.904,0.0681,0.338,196.847,4,happy
+3S9qdWjfdG7HYbJtiWRRHe,"3 Nouvelles etudes, Op. posth.: II. Etude No. 26 in A-Flat Major",Frédéric Chopin,49,151000,Chopin: Ballades / Fantaisie in F Minor / Galop Marquis,1/21/2000,0.211,0.00954,-36.692,0.0373,0.996,0.947,0.102,0.0844,74.137,4,happy
+2z7iDr3N4NbW4VmwpQWbTS,"Nonet in E-Flat Major, Op. 38: III. Scherzo. Vivace",Louise Farrenc,47,307893,Farrenc: Nonet - Clarinet Trio,10/26/2010,0.39,0.0462,-24.885,0.0429,0.976,0.624,0.0893,0.305,79.268,4,happy
+1CHswVnHopmeIly3bTSnmF,Merry-Go-Round of Life,Joe Hisaishi,59,164931,Merry-Go-Round of Life (from 'Howl’s Moving Castle'),3/31/2023,0.219,0.19,-15.089,0.0318,0.962,0.926,0.0986,0.106,89.305,4,happy
+6hIAiqwxWaqdCzm1KjxfGv,Il Tempo delle Cose,Alberto Giurioli,41,364400,Il Tempo delle Cose,6/10/2022,0.225,0.164,-16.979,0.035,0.863,0.908,0.0866,0.0704,127.497,4,happy
+4d0wc9bHOiCQXnuvrM8O7u,"Concerto a 5 in B flat, Op. 7, no.10 for Strings and Continuo: 3. Allegro",Tomaso Albinoni,49,96666,Albinoni: 12 Concerti Op. 7; 2 Sonatas Op. 2,8/17/1992,0.591,0.172,-18.634,0.0369,0.901,0.0873,0.101,0.797,107,4,happy
+0kvrJeJpdC3KEt1lenN42e,Concerto Magna Carta: III. Intense and energetic,John Brunning,39,400666,Concerto Magna Carta: III. Intense and energetic,5/13/2022,0.235,0.282,-13.895,0.0338,0.95,0.897,0.0996,0.3,75.504,4,happy
+5C9igd1gcJT8Z27V7W4zWU,"The Birds, P. 154: V. The Cuckoo (Il cuccù)",Ottorino Respighi,38,257000,Respighi: Werke für Streichorchester,1/1/1993,0.309,0.0289,-24.231,0.0486,0.958,0.126,0.278,0.1,118.06,4,happy
+3jLBuRxptJldqqWHpEPa3p,Open Strings,Kaiser Quartett,39,196962,Empire,3/10/2023,0.345,0.126,-15.954,0.0342,0.934,0.919,0.102,0.197,150.146,4,happy
+6mmbWSbU5FElQOocyktyUZ,La Gioconda / Act 3: Dance Of The Hours,Amilcare Ponchielli,49,162613,"Ballet Highlights - The Nutcracker, Romeo & Juliet, Swan Lake",1/1/2012,0.554,0.00763,-30.566,0.0502,0.915,0.00097,0.221,0.156,119.502,4,happy
+5Rv5xQDZcmAwg5rhxlLfcq,"Préludes / Book 1, L. 117: VIII. La fille aux cheveux de lin (Arr. Garrett / van der Heijden for Violin, Flute and Orchestra)",Claude Debussy,43,156720,"Debussy: Préludes / Book 1, L. 117: VIII. La fille aux cheveux de lin (Arr. Garrett / van der Heijden for Violin, Flute and Orchestra)",10/7/2022,0.215,0.275,-13.291,0.0395,0.918,0.000561,0.123,0.101,99.051,3,happy
+6GUGZQ7sYacEfhDc1wTvM1,Canarios,Gaspar Sanz,43,130960,Encuentro Sanz & Santa Cruz,1/1/1997,0.343,0.0797,-23.642,0.0425,0.988,0.894,0.118,0.735,102.849,3,happy
+7j35vJ1Bmge34dqUw5dRkN,"3 Concert Études, S. 144: No. 3 in D-Flat Major, ""un sospiro""",Franz Liszt,40,341133,"Liszt Complete Piano Music, Vol. 20: Gnomenreigen, Waldesrauschen & Études de concert",4/2/2004,0.241,0.0636,-24.722,0.0393,0.989,0.939,0.186,0.0338,68.613,4,happy
+4ToyjQYNLFxTCS72he3U6L,Kitsch-Musik: III. Allegretto,Valentin Silvestrov,44,182080,Silvestrov: Piano Music,4/2/2013,0.176,0.00252,-42.319,0.0434,0.995,0.967,0.092,0.158,65.101,5,happy
+7hgKSnMFBQ5LoP1uid5gjz,"Serenade for Strings in C, Op. 48: 2. Walzer: Moderato (Tempo di valse)",Pyotr Ilyich Tchaikovsky,26,220000,50 plus grandes Valses,1/1/2011,0.288,0.236,-16.844,0.0424,0.908,0.634,0.135,0.264,67.334,4,happy
+7iqFh7Vftu6YfwZCSekgtU,My Neighbour TOTORO,Joe Hisaishi,47,247173,Dream Songs: The Essential Joe Hisaishi,2/21/2020,0.177,0.295,-14.321,0.0378,0.771,0.752,0.0836,0.108,79.675,4,happy
+0zb4JRIEUPlMEmGMbQsY5E,"Oboe Concerto in C Major, K. 314: III. Rondo (Allegretto) - Cadenza: Randall Wolfgang",Wolfgang Amadeus Mozart,44,338093,Mozart: Horn Concertos Nos.2 & 3; Oboe Concerto; Bassoon Concerto,1/1/1988,0.548,0.136,-19.919,0.0425,0.966,0.91,0.0856,0.551,117.692,4,happy
+7pxqGPei7nWVt5t6b29WFz,"Concerto for 2 Mandolins, Strings and Continuo in G Major, RV. 532: III. Allegro",Antonio Vivaldi,39,232373,Vivaldi: Stravaganza – 55 Concertos,1/1/2012,0.553,0.209,-21.263,0.0427,0.752,0.277,0.108,0.772,143.22,3,happy
+79fyYG0pdMAkaut10Mlj41,"Les Patineurs, Waltz, Op. 183",Émile Waldteufel,40,452293,"Waldteufel: The Best of Emile Waldteufel, Vol. 1",6/30/1993,0.355,0.153,-18.326,0.0321,0.981,0.859,0.0553,0.206,99.312,4,happy
+5u0Z9njD1oVztIHNnV6wNO,"Antiche danze ed arie per liuto, Suite No. 1, P. 109: I. Balletto detto Il Conte Orlando",Ottorino Respighi,40,139826,Respighi: Antiche danze ed arie per liuto & Gli uccelli,8/5/2016,0.409,0.101,-20.765,0.0391,0.874,0.888,0.257,0.28,56.197,1,happy
+69pdJUsPHMFUXeF0dnrosd,Harp Concerto in A major: 3. Rondeau: Allegretto,Carl Ditters von Dittersdorf,38,237240,Harp Concertos,1/1/1997,0.603,0.127,-20.035,0.0315,0.985,0.932,0.088,0.368,97.063,4,happy
+3lfUv5v8yvrIUCViqSDVy3,"String Quintet in C Major, Op. 29: III. Scherzo (Allegro)",Ludwig van Beethoven,38,252411,"Beethoven: String Quintets Op. 29 and 104, Fugue Op. 137",1/10/2020,0.404,0.0899,-19.535,0.0558,0.913,0.594,0.0993,0.324,156.504,4,happy
+5NxgXaEt0t2K7sYvVo7q1u,Serenade in D Major: II. Scherzo. Allegro vivace,Dame Ethel Smyth,38,369333,Smyth: Orchestral Works,4/1/1996,0.276,0.0583,-24.634,0.0384,0.936,0.886,0.0629,0.104,148.498,4,happy
+1UTNZ9xdanKM24spfy2Fhb,"An die Musik, D. 547 - Arr. for Arpeggione and Piano",Franz Schubert,39,126053,"Schubert: Arpeggione, Sonatina & Lieder Transcriptions",9/20/2005,0.164,0.0259,-26.323,0.0447,0.987,0.922,0.0937,0.0773,90.752,5,happy
+2ml2xRwuFLv7NtDPzyssfL,"Widmung, Op. 25 No. 1",Robert Schumann,51,237960,Work - Schumann,1/25/2021,0.243,0.0325,-23.379,0.0454,0.992,0.879,0.108,0.0404,74.26,3,happy
+2WZNkbVqATzXscJ6VgYJeo,"Salut d'amour, Op. 12",Edward Elgar,52,174773,Under the Stars,9/19/2014,0.172,0.131,-21.663,0.0468,0.898,0.0392,0.131,0.0476,95.309,3,happy
+1WZ4Uto2DmKn2t9oZy2LiF,"Lucio Silla, K. 135: Overture, Pt. 1. Andante",Wolfgang Amadeus Mozart,36,167209,Classical Music for Studying,3/31/2017,0.22,0.0142,-32.146,0.047,0.839,0.296,0.148,0.108,150.615,1,happy
+3lQqKbNGT0tmrzfCAmjPOd,Les Beautés Du Diable,François Dompierre,39,195767,Infernal Violins,10/21/2003,0.368,0.108,-22.517,0.0384,0.935,0.64,0.102,0.553,132.419,4,happy
+6Teem6p2CvvB9HDr2MUBq4,The Lark Ascending: I. Andante sostenuto,Ralph Vaughan Williams,43,372840,Vaughan Williams: The Lark Ascending,10/7/2022,0.2,0.0783,-24.392,0.0596,0.933,0.165,0.111,0.0406,97.801,4,happy
+0rI1QQ8kMc7MH7LgnOPteX,The Waltzing Cat,Leroy Anderson,40,166546,The Waltzing Cat,2/14/2004,0.357,0.0663,-21.7,0.0415,0.983,0.68,0.0553,0.246,133.759,4,happy
+47kA4ykK0Rlwjf8oV2HMo7,amour,Jean-Michel Blais,55,277853,aubades,2/4/2022,0.175,0.212,-14.073,0.0374,0.85,0.86,0.0979,0.128,132.026,3,happy
+6S75SSomSfxCyJhDPoSsqP,African Suite: V. Akinla: Allegro non troppo,Fela Sowande,40,194173,"African Heritage Symphonic Series, Vol. 1",1/1/2000,0.505,0.0104,-38.317,0.0451,0.888,0.0081,0.105,0.366,130.482,4,happy
+04iUT8m1pjNkF950MjG1e6,"Dances in the Canebrakes (Arr. W.G. Still for Orchestra): No. 1, Nimble Feet",Florence Beatrice Price,40,155110,Project W: Works by Diverse Women Composers,3/8/2019,0.387,0.0755,-19.547,0.033,0.986,0.892,0.0863,0.299,88.273,4,happy
+0VEJTocBjyYNSOCndnTS2Z,"Trumpet Concerto in E Flat, H.VIIe/1: 3. Allegro",Joseph Haydn,34,266506,"Haydn, Hummel, Hertel & Stamitz Trumpet Concertos",1/1/1987,0.54,0.189,-19.016,0.0417,0.972,0.908,0.0499,0.51,138.606,4,happy
+0veVPDB3qEURlYHKgzlt87,"Serenade No. 2 in A Major, Op. 16: 2. Scherzo. Vivace",Johannes Brahms,36,163000,Brahms: Complete Symphonies & Concertos,1/1/2010,0.501,0.215,-18.74,0.0329,0.986,0.893,0.154,0.565,98.638,3,happy
+5Wawc2UZ2scEbF8sm8t5uq,"Concerto No. 4 in E-Flat Major, K.495: III. Rondo. Allegro Vivace",Wolfgang Amadeus Mozart,38,238264,Mozart: Horn Concertos 1-4,3/1/2019,0.417,0.126,-21.573,0.0474,0.993,0.899,0.109,0.517,121.678,4,happy
+3bN2YUUhmGlZaOVlysacUN,"Violin Concerto in B-Flat Major, Op. 10 No. 1: I. Allegro",Jean-Marie Leclair,38,299400,"Leclair: Violin Concertos, Vol. 2",1/3/2020,0.429,0.127,-21.746,0.0382,0.916,0.0133,0.108,0.46,99.016,4,happy
+6j9TguoEZb0cxR2RBfZKJG,Julie-O,Mark Summer,39,283306,Our Place,11/15/2019,0.449,0.137,-19.06,0.0544,0.97,0.935,0.111,0.426,80.472,4,happy
+2hEv9XOeDpFbiiNMUuB30I,Not enough memories,Flat Ruy,53,116400,Not enough memories,1/13/2023,0.791,0.354,-14.422,0.0646,0.73,0.716,0.103,0.558,83.078,4,happy
+6EmXNRPhpf4ZSqVXkJqUiH,bop,the origame,49,146086,bop,3/24/2023,0.804,0.325,-7.839,0.0828,0.591,0.86,0.106,0.813,92.033,4,happy
+7kwAL5UuICpQmqDZolVacx,Purple Plants,Etherie,47,136296,Purple Plants,3/31/2023,0.684,0.222,-14.83,0.0561,0.799,0.81,0.113,0.112,81.006,4,happy
+1qeK0BuNvrJHvivzN87hL9,20,Mounika.,42,186360,20,3/17/2023,0.917,0.174,-12.846,0.198,0.763,0.868,0.0903,0.234,90.002,4,happy
+2o4rAZiXnrgoxdKAPiJbpm,kaktus,archipelago beats,45,128695,kaktus,12/2/2022,0.885,0.409,-15.923,0.0511,0.522,0.854,0.0807,0.974,137.952,4,happy
+6YVIaAq88PGVOmfJ9nsYxP,bossa cut,Joey Silva,32,83625,bossa cut,3/31/2023,0.818,0.349,-17.573,0.177,0.199,0.862,0.108,0.975,135.861,4,happy
+6aNGqho5YSTVFtCj85GgfR,Coffee Wave,Lola,54,152000,Stuck In The Past,3/24/2023,0.885,0.462,-12.203,0.0439,0.736,0.868,0.112,0.872,119.99,4,happy
+75auF6xIkTmj6LRPr0VRqX,LzmD - Move On,LzmD,41,156878,Move On,3/2/2023,0.682,0.381,-15.28,0.079,0.55,0.877,0.0969,0.728,142.074,4,happy
+1QGdyJWTOW4hKngf9FuhZY,papagai,keseki,40,136467,Bossa Brazil,3/17/2023,0.447,0.494,-10.941,0.0526,0.293,0.941,0.116,0.575,173.277,4,happy
+6IoJ4Pttzc3DxFyZLWSjNj,Colours & Dust,Sonopad,45,272880,Colours & Dust,3/3/2023,0.657,0.564,-13.806,0.0423,0.87,0.912,0.111,0.166,105.003,4,happy
+4ZOUcA0HJ9QFWKKMDNWq7c,Lou Fai Cumbia,Ancestral Beats,29,156000,Lou Fai Cumbia,3/31/2023,0.786,0.249,-14.092,0.257,0.436,0.435,0.67,0.291,160.005,4,happy
+7CFOFPykUPagxBUwa7D0AQ,Arraial Da Ajuda,Estelas,43,165333,Arraial Da Ajuda,7/15/2022,0.728,0.642,-8.593,0.0743,0.572,0.845,0.272,0.838,89.977,4,happy
+4sXh3eo15M3C5TTPWzo52L,Home,Burrito Eats,50,147750,Home,3/31/2023,0.779,0.554,-3.604,0.0948,0.504,0.905,0.122,0.902,80.016,4,happy
+5XHdUoAA96TKnA4NObcGtj,Jazz Hands,Sloppy Jo,40,69374,Technological Jazz,3/13/2023,0.761,0.556,-9.293,0.0562,0.377,0.862,0.13,0.876,96.044,4,happy
+5ecjLNs1mY61pMIA4XQRut,nightfall,Antennaah,46,147082,nightfall,3/12/2023,0.821,0.369,-9.323,0.0752,0.776,0.912,0.101,0.718,135.93,4,happy
+7lS8JzmEblLIz2NEA2y9IY,Free Ride,Toronto 7s,28,152000,Free Ride,4/7/2023,0.725,0.285,-16.955,0.0465,0.566,0.92,0.112,0.119,89.999,4,happy
+7KpPlRp8jYjuuBtTTW4sSd,Body Movement,Left spectrum of the brain,28,132000,Body Movement,4/10/2023,0.789,0.389,-17.167,0.258,0.588,0.934,0.0893,0.625,160.043,4,happy
+6ueWeJJyq1rMkdNitaL7a6,Poetic Wax,Dusty Decks,44,143505,On the Keys of Steel,10/23/2020,0.707,0.506,-7.686,0.0624,0.415,0.916,0.118,0.894,193.982,4,happy
+69OKsm8bcjSqRcVr2QAvW9,Samba de orla,O F F,36,107417,Samba de orla,4/21/2023,0.825,0.492,-11.156,0.15,0.243,0.97,0.101,0.874,83.05,4,happy
+4HKdPsYjadAjbyExkfHckS,theory,Dean Bowser,38,180705,theory,4/14/2023,0.833,0.271,-10.017,0.0551,0.813,0.896,0.129,0.857,85,4,happy
+3uWz3YOFSLri0qCmiWCmzY,Open Mind,Sonopad,48,210531,Open Mind,2/17/2023,0.742,0.368,-17.248,0.0681,0.8,0.861,0.0907,0.229,114.003,4,happy
+563eOsTuwa7hZomJl7AI4A,Conant Gardens,Matt Large,39,162716,Conant Gardens,9/16/2022,0.77,0.62,-6.435,0.109,0.036,0.848,0.087,0.542,86.987,4,happy
+3JWHNLTvYVDDFkkVkeK5gP,Cerebral Hemispheres,Left spectrum of the brain,40,120000,Gatekeepers Between The Spinal,3/9/2023,0.661,0.28,-15.698,0.262,0.876,0.909,0.123,0.572,192.168,4,happy
+1mAcXjJI3LKcuPjVq5O8Ge,summer cloud,calima.wav,30,119478,summer cloud,4/21/2023,0.8,0.388,-10.156,0.0664,0.262,0.261,0.129,0.489,91.945,4,happy
+2YGfsqQHA203w8SlE6jUOR,Georgia Brown,your best friend jippy,42,110769,BEAT TAPE 38,3/7/2023,0.763,0.303,-13.684,0.0472,0.576,0.841,0.136,0.776,94.532,4,happy
+569xsJRzYIWE6u8X9gAQRp,Reeds,d'Addario,47,108828,Reeds,6/17/2022,0.786,0.233,-10.304,0.0475,0.724,0.926,0.112,0.229,79.956,4,happy
+02E0RZRcqKb2ga7wSSsT3a,Palm Trees,Kimmø,40,116280,Palm Trees,4/21/2023,0.812,0.379,-8.474,0.173,0.287,0.897,0.128,0.308,85.056,4,happy
+7JV0q80mvbiEUDGUFxE3J5,Opus 2,WillSum,43,120237,Opus 2,3/11/2022,0.491,0.501,-8.572,0.325,0.927,0.855,0.145,0.23,80.33,1,happy
+6loGdnZ9mZQvvjXdb7lsp3,Apples,Mokezi,27,109827,Apples,4/14/2023,0.659,0.451,-9.962,0.0843,0.222,0.46,0.398,0.168,175.975,4,happy
+5mldxUZ2V2dcqs5A1wecQC,Livingroom Diaries,lofighters,42,95567,Tremblin' Eyes,6/21/2020,0.47,0.417,-10.776,0.0422,0.659,0.269,0.511,0.348,96.288,4,happy
+2U93rBs3yVtgaXzsB0gvhr,Cool Stuff,Papier,45,147692,March,6/27/2021,0.623,0.19,-24.368,0.0538,0.886,0.93,0.172,0.253,78.014,4,happy
+65q3kfyuiECf7SyL4lL0oO,Sault,Hype Right,44,194861,Soft Lad,7/24/2021,0.796,0.411,-9.928,0.0366,0.936,0.915,0.122,0.337,81.01,4,happy
+29tQwha5pdWNZIbYAAo7AA,United We Belong,"Frankly, We Hold",42,122556,Open Skies,2/8/2021,0.769,0.179,-14.319,0.15,0.389,0.93,0.103,0.379,176.243,4,happy
+5zNXoNQMHEQYegSTnfn5Jo,Dimples,Le Pug,48,115058,Dimples,1/31/2021,0.828,0.407,-9.976,0.367,0.199,0.762,0.108,0.491,170.034,4,happy
+3WOVGisKBJAaab268pcVSw,Poetico,Smokestack,44,156000,Birdcage,1/10/2022,0.846,0.295,-14.342,0.0864,0.437,0.752,0.164,0.716,79.971,4,happy
+40gdXSYMmhTw2TvD8J1TdY,Sweet Taboo,Chapel Chill,43,141333,Sweet Taboo,2/15/2021,0.694,0.4,-5.946,0.0499,0.913,0.793,0.103,0.683,89.975,4,happy
+3Zg7CJ3QSfkT5JYnQgBfJD,slow breath,shamgang,40,128181,Moods 2020,1/1/2021,0.615,0.46,-6.088,0.0857,0.522,0.878,0.107,0.549,176.01,4,happy
+6S8JC8wqZjBSwKpMa16bZV,Hot Hot Stuff,Lofidelity Habanero,46,121562,Hot Hot Stuff,10/15/2021,0.8,0.236,-19.348,0.0589,0.75,0.913,0.0916,0.774,76.998,4,happy
+0f0KTERCQph6e37Yeb2VrW,Memoirs,Tino Tapes,39,135949,Memoirs,5/13/2022,0.647,0.189,-12.049,0.0688,0.897,0.943,0.16,0.326,79.03,4,happy
+0Pr5OKqzYKJZAJ5S8ARuCM,Move Your Hands,Dusty Decks,40,151250,Cut Corners,12/4/2020,0.621,0.519,-7.797,0.069,0.471,0.747,0.107,0.635,96.028,4,happy
+6QIipk6lLbSDVfkSCr2Gfp,restart,SLACER,39,102844,restart,6/18/2022,0.643,0.427,-13.179,0.122,0.844,0.887,0.112,0.556,84.059,4,happy
+5GzF6ghdv6Y3xJqqWITjYg,Bringing Sand To The Beach,Wax A Dizk,39,101333,Bringing Sand To The Beach,5/20/2022,0.754,0.466,-11.67,0.0343,0.0892,0.89,0.0798,0.725,90.001,4,happy
+55RpiZ4sQaEEbcGAOukL3S,Coral,Mwuah,40,153522,Coral,12/28/2020,0.68,0.541,-6.911,0.066,0.279,0.949,0.0995,0.0951,85.041,4,happy
+1xdSbbuFi2g5bpe01pBgQc,Lush 002,Ray Ford,39,174000,Lush 002,6/4/2021,0.673,0.339,-7.936,0.061,0.96,0.922,0.0851,0.212,79.988,4,happy
+3Xl7gON72joBquu8YJG8z9,Sentimental Mood,Crate Diggers,39,109500,Mixtape,1/10/2021,0.738,0.558,-12.088,0.0423,0.000663,0.163,0.17,0.601,80.03,4,happy
+7p00qzU7Rg9dHYn1dJ9nAr,Since Day One,huglord,40,150000,Since Day One,2/10/2021,0.759,0.483,-8.674,0.0616,0.168,0.942,0.301,0.336,79.991,4,happy
+1LpLdL8nYXqSwaGOcx1CDo,Falling Leaves,Major 7th,45,150743,Falling Leaves,4/1/2022,0.806,0.349,-8.597,0.0369,0.597,0.766,0.0936,0.561,75.039,4,happy
+5tiP9vXHi7Z12WkGyup8zV,Birch Sap,ULMÄR,46,157328,Beatology Vol. 1,7/4/2021,0.404,0.322,-16.105,0.282,0.901,0.92,0.249,0.358,68.665,4,happy
+3OzKdBTO77CznB7mmxWheV,Ballroom Samba,London Lighthouse,46,147445,Ballroom Samba,9/18/2022,0.828,0.342,-10.22,0.0789,0.36,0.742,0.176,0.888,145.987,4,happy
+0wmr45zDNsSMy9cRgddm4E,Can We Just Vibe?,Talented Mr Tipsy,46,164117,Can We Just Vibe?,10/29/2021,0.553,0.827,-7.83,0.0446,0.00993,0.844,0.173,0.821,170.021,4,happy
+5P4K1RXoqxuLalYxSQqgbA,Vague Action,K9 Division,46,110000,Zakky,3/3/2021,0.591,0.54,-13.829,0.0366,0.319,0.879,0.0848,0.565,95.987,4,happy
+3Gzs37SLuzINUby4IAD0Hs,Gelato 33,heroku,50,112460,Amnesia,7/4/2021,0.818,0.448,-9.342,0.161,0.786,0.919,0.0817,0.637,79.976,4,happy
+5mR1njp8a1rfU3b8BllWS9,Dirib Dirib,Linn Blink,38,104382,Dirib Dirib,6/10/2022,0.695,0.724,-9.426,0.0479,0.766,0.914,0.0932,0.919,159.584,4,happy
+74HsEuxWpgnH0osQ3LT7UP,Faster,LelleXCX,48,149268,Youth,7/4/2021,0.627,0.14,-16.782,0.0832,0.968,0.861,0.161,0.508,163.898,4,happy
+0csvQK4CkxifOBDs3rEHRu,Staycation,Ramsey Road,38,135574,Cats in the Alley,5/29/2022,0.765,0.328,-9.917,0.192,0.659,0.646,0.11,0.44,146.137,4,happy
+5eG41VMRPiEf4uIYGdXTc1,Beggin',Pjuck,37,141333,Beggin',5/24/2022,0.686,0.507,-6.631,0.0694,0.607,0.848,0.271,0.346,89.982,4,happy
+2Pb6ZuEm6FEfcGlqhHuqPN,contour,Tatami Construct,43,175135,Contour,6/28/2021,0.743,0.44,-14.213,0.0924,0.215,0.879,0.391,0.732,147.921,4,happy
+32j4lUE7CpoTIGUVM2ZN9n,Rugged Soul,Skeleton Panda,42,99375,Rugged Soul,3/13/2022,0.698,0.559,-15.42,0.0501,0.481,0.916,0.0902,0.962,159.95,4,happy
+0TisGOx1QUhgqRLRJntfwe,Saturday Bbq,Pat Kujala,43,146101,Saturday Bbq,10/15/2021,0.777,0.374,-11.997,0.067,0.869,0.922,0.119,0.529,150.046,4,happy
+69Go42QZw7dC2Ehl0pZhCi,Really Get Going,Steefann,47,155294,Really Get Going,10/15/2021,0.79,0.457,-16.482,0.0863,0.724,0.886,0.186,0.576,102.021,4,happy
+0myyZ5la6POCla0TiQAlJI,Sorbets,Robertson,46,120000,Reach Out,6/23/2021,0.534,0.36,-9.667,0.136,0.919,0.681,0.106,0.25,75.62,3,happy
+5dW5pzdqZZd9cnFi5hV18S,Catalangelo,Aberdeen/Stavanger,37,128684,Catalangelo,6/22/2021,0.663,0.527,-9.815,0.0376,0.0543,0.681,0.329,0.46,95.111,4,happy
+1gr9Risxpt6BfHdu5VxtAx,sunday am,SLKBTS,43,118513,sunday am,4/22/2021,0.718,0.646,-8.211,0.275,0.457,0.234,0.179,0.812,80.233,4,happy
+7sTB4R9y1hyAxxA2mixs3L,Summer Haze,Flimbo,39,104680,Summer Haze,2/18/2021,0.697,0.483,-6.563,0.0403,0.35,0.855,0.363,0.659,94,4,happy
+68kgY2W1t6P0UcRcwZH0OP,Streetlife,Dot One,45,91454,Streetlife,5/19/2021,0.726,0.607,-12.829,0.0878,0.783,0.903,0.0899,0.814,169.951,4,happy
+69oebUHeibzbgcD1MUsSsl,Night Blue Skies,Midnight Smoothie,47,128440,Night Blue Skies,6/20/2021,0.543,0.602,-10.862,0.0646,0.00768,0.867,0.191,0.527,84.985,4,happy
+7K6XMQzUNiLQ3NIhCqBwU4,Trip Vibe,Monzzune,42,134569,Go To Kaua'i,8/7/2021,0.649,0.11,-16.499,0.396,0.548,0.821,0.168,0.858,180.099,3,happy
+6uclwbIDxtwjnEOeLsIV7v,Amber Rhythm,Teddy Rose,36,130906,Amber Rhythm,12/18/2022,0.544,0.59,-16.824,0.0957,0.41,0.944,0.111,0.139,170.022,4,happy
+7hoffiDjviMT3MKHzRjJ8r,Siesta,Guzimi,48,124186,Siesta,12/23/2022,0.65,0.382,-8.843,0.213,0.852,0.579,0.107,0.444,172.025,4,happy
+3IvMz6gCLLdUHmTF9vUHU0,Bossy Bossa,Hi Hat Henry,40,87000,Soul Kitchen,11/9/2020,0.719,0.332,-9.41,0.071,0.0372,0.922,0.166,0.408,159.976,4,happy
+10yzr6JwWrvxVuJnFKSe6B,Ferrochrome,C-90,47,142392,Ferrochrome,9/11/2021,0.651,0.625,-10.125,0.0437,0.867,0.949,0.106,0.357,159.978,4,happy
+5ZbKZYQruUqEhs5tZH3yGe,Atomic Samba,Lofi Brazil,36,107368,Atomic Samba,1/20/2023,0.793,0.416,-11.908,0.0639,0.761,0.804,0.129,0.612,152.039,4,happy
+7kHjB7rQhNQOFwN3ERvTZU,Machado,Papi Churro,37,123859,Machado,1/16/2023,0.851,0.618,-7.554,0.087,0.675,0.808,0.0948,0.903,163.907,4,happy
+4UpTHGOZhLZaP5yTQ7yXDW,Let It Flow,Saiko,37,142588,Let It Flow,1/16/2023,0.516,0.423,-7.527,0.0398,0.188,0.916,0.134,0.224,84.974,4,happy
+66aAHaPEyb7JfrolIX5Qqw,Salt bossa,Rosemary beats,36,192666,Salt bossa,1/20/2023,0.787,0.442,-16.632,0.164,0.743,0.537,0.174,0.411,90.067,4,happy
+5ilT388QMDMs9K6zTTpZ50,standard,J0pie,36,143807,standard,1/20/2023,0.73,0.466,-13.884,0.0635,0.632,0.867,0.304,0.536,149.979,4,happy
+5TZjQUcJwhqlDfQ4BApbYy,bad habit,cingie,36,122949,bad habit,5/8/2021,0.901,0.352,-9.311,0.0735,0.961,0.582,0.117,0.387,120.122,4,happy
+2cXdC5qNqc5Gk0X6JtjUqH,Chips,Beat Oven,38,90666,Chips & Dip,10/28/2020,0.725,0.434,-8.768,0.192,0.0911,0.789,0.119,0.957,179.936,4,happy
+2XUJwfew9Dym5GGJx9iz3J,Calypso,Sloepoke,38,123375,Calypso,10/24/2022,0.563,0.702,-7.026,0.0517,0.709,0.853,0.253,0.686,79.972,4,happy
+5kh6cDKfut5E1J8mP8dX0Y,BEACH WAVES,Boshi,49,128000,BEACH WAVES,7/9/2021,0.604,0.197,-15.12,0.0469,0.934,0.935,0.108,0.243,89.889,4,happy
+3Xq6IMKkk7fVHQRkyo3ef8,Bike Ride,Guidolain beats,45,138139,Bike Ride,10/19/2022,0.902,0.397,-7.946,0.0601,0.00905,0.545,0.132,0.555,86.052,4,happy
+56K5DnvyPR7rXqFp8WJZIh,Crimson Sunset,Kind Puppy,45,128016,Crimson Sunset,12/16/2022,0.629,0.287,-12.641,0.0397,0.848,0.88,0.115,0.127,149.972,4,happy
+49u0JV9xCRqhRHLuqQ8ZRr,Hello Again,Living Room,36,113023,Hello Again,12/16/2022,0.656,0.421,-9.632,0.0496,0.207,0.937,0.107,0.569,86.016,4,happy
+5BtsFpx8uJJlP4jQZUXxvq,Summer Is Here,Lynde,37,103897,Summer Is Here,8/26/2022,0.734,0.433,-10.489,0.0492,0.416,0.789,0.169,0.421,170.006,4,happy
+3LM2Uk0tqmBNjZUTE4EWdn,Buenos Dias,Matt Large,36,228261,Buenos Dias,1/6/2023,0.911,0.51,-9.572,0.0662,0.0874,0.819,0.195,0.63,124.017,4,happy
+2Pv9IaeQwZvwhHNMtYhMbv,Alabaster Statuette,Tempelhof Sayonara,35,158500,Alabaster Statuette,1/6/2023,0.647,0.384,-11.273,0.0379,0.69,0.93,0.356,0.473,77.03,4,happy
+7d5KOapwEiUVGxa9fGOD8a,leave the lights on,Cyan_95,38,132517,leave the lights on,1/6/2023,0.797,0.237,-10.057,0.471,0.916,0.92,0.11,0.405,144.885,4,happy
+4suksbwXJA8hVjudRncmnD,White Lotus,Leave,49,101538,White Lotus,1/13/2023,0.607,0.354,-9.504,0.042,0.739,0.932,0.104,0.442,77.972,4,happy
+64tYpY0PiNzSvdhGxQ7JnW,Bow Down Jazz,Franky A,35,139089,Bow Down Jazz,1/13/2023,0.746,0.817,-4.158,0.119,0.175,0.791,0.111,0.926,169.993,4,happy
+1ELnNhmOONEEmyBFfUy6t5,KillMyEgo,HATAMITSUNAMI,35,166935,KillMyEgo,1/13/2023,0.767,0.417,-10.831,0.232,0.089,0.827,0.116,0.785,177.966,4,happy
+5PX7Dm06aZWobxsVimZ36X,Sand Between My Toes,Stekt,38,130392,Sand Between My Toes,1/8/2023,0.721,0.421,-13.624,0.0611,0.283,0.893,0.572,0.703,140.028,4,happy
+2OtSn8KFe1yhbOZhFAv4t9,Park Swing,Astairé,35,137884,Park Swing,1/1/2023,0.87,0.489,-6.642,0.148,0.689,0.899,0.102,0.507,78.008,4,happy
+3evjhgwpjWYwNWFom2wenu,a bright point of view,middt,41,121837,a bright point of view,1/12/2023,0.701,0.396,-9.67,0.0479,0.849,0.922,0.117,0.637,83.032,4,happy
+7lPfA852lwVhEn83P9CHag,Sophistiquée,paris91,41,111000,Sophistiquée,1/13/2023,0.612,0.572,-7.633,0.123,0.639,0.00632,0.121,0.682,79.579,4,happy
+6EsmgveEBmMecRo6ifHwnp,First Impressions,Sam Cross,45,145500,First Impressions,1/13/2023,0.682,0.463,-11.068,0.0687,0.582,0.91,0.116,0.693,80.023,4,happy
+7ilqawEgDbx8zVanjTqpMQ,Pincushion Island,2Shy,37,139756,Pincushion Island,10/28/2022,0.73,0.621,-6.726,0.124,0.698,0.871,0.194,0.346,82.003,4,happy
+0r1DmdncRC4AHRjFIZKwwn,Too Much Rain,Screen Jazzmaster,39,144000,Too Much Rain,9/30/2022,0.578,0.491,-10.362,0.0313,0.689,0.813,0.111,0.172,80.002,4,happy
+5Wubj5d5MvvWRBg8Zt47BC,Hang Loose,evans,43,106413,Hang Loose,4/13/2022,0.783,0.626,-10.836,0.109,0.247,0.847,0.115,0.688,169.972,4,happy
+4CAv2SgblWL9g2bf7Xft0W,Late Night Cruisin',Bcalm,39,97333,Late Night Cruisin',9/20/2021,0.709,0.328,-11.118,0.0491,0.897,0.926,0.363,0.319,90.004,4,happy
+62OND6iBr7fNqPE2E1MiIQ,Head High,Glimlip,36,157937,Head High,4/8/2022,0.652,0.414,-8.737,0.131,0.74,0.861,0.106,0.41,85.977,4,happy
+6jgIuOAJG4lD27tbuq5BHM,Stop By,Hz.,35,188571,Stop By,4/4/2022,0.719,0.251,-8.998,0.0419,0.592,0.917,0.106,0.282,84.013,4,happy
+3jPOhzt1Xy0lqq1iPm6nFJ,Bliss,Evil Needle,35,146500,College Music Presents: In The Loop,12/8/2022,0.664,0.422,-11.874,0.195,0.265,0.904,0.0843,0.356,84.831,4,happy
+4YdLAsEByw42cjUARHogL6,Somewhere in Rio,Vilgot,34,145144,Somewhere in Rio,12/2/2022,0.748,0.373,-6.692,0.095,0.247,0.849,0.192,0.561,160.033,4,happy
+2OAIFxaM3GIQS659wryfsp,jasmine tea,Rosemary beats,34,219750,jasmine tea,11/27/2022,0.798,0.217,-14.434,0.59,0.184,0.441,0.365,0.284,79.992,4,happy
+2WxAo6Xic91SwYC1ry2YBW,Thimbleberries,Tfrnzrl,34,153816,Thimbleberries,11/26/2022,0.749,0.66,-13.1,0.0529,0.461,0.936,0.719,0.444,155.996,4,happy
+56oS7XB5pke1NTbC5tRkIq,Pino Bay,PanCake,34,121971,Pino Bay,12/2/2022,0.776,0.557,-6.263,0.538,0.471,0.884,0.145,0.695,79.009,4,happy
+1IUT3BorvndecJgtcyMWPu,Na Bosana II,HVMZA XI,35,149647,Na Bosana II,3/31/2022,0.593,0.539,-8.59,0.0451,0.354,0.893,0.307,0.455,170.042,4,happy
+5iJePbYGvnp583umPcXfBW,Ainda,Epifania,35,186352,Ainda,9/20/2022,0.607,0.42,-7.843,0.0432,0.441,0.888,0.281,0.176,85.017,4,happy
+5GbOtXPKEyZsc7cAWTsr8z,Sons House,pucca,38,82682,Sons House,4/12/2022,0.714,0.358,-12.416,0.0444,0.236,0.702,0.109,0.146,82.007,4,happy
+4PDx95A1EalEnhMRHS7mdL,Sunset Cruise,brass.beats,38,144000,Sunset Cruise,7/8/2022,0.579,0.346,-10.477,0.0615,0.803,0.903,0.0942,0.426,74.838,4,happy
+5Ibf8LudLBf4RuuKjlCb1E,Ilha Grande,Hak Hyun Woo,34,139480,Ilha Grande,11/25/2022,0.585,0.541,-9.684,0.0401,0.412,0.597,0.174,0.933,77.029,4,happy
+3a6QJ1LliJ76QlldwAULQE,Beach Lunch,London-Seoul,34,137285,Beach Lunch,11/25/2022,0.821,0.438,-8.653,0.0834,0.211,0.842,0.122,0.855,140.016,4,happy
+5N5hbSkC5bykTudQmgE2BH,Sons de carrilhões,Gabriel Cavalcanti,39,98684,Sons de carrilhões,11/25/2022,0.742,0.399,-12.862,0.0516,0.841,0.943,0.0856,0.79,152.05,4,happy
+1MiNU5skQjRrPIc7WC77PT,Loose Waves,kanves,40,126233,Loose Waves,11/22/2022,0.611,0.297,-12.714,0.0368,0.895,0.92,0.0885,0.146,155.984,4,happy
+5RLcwTY0YKoYsobS6n5EG9,Malibu Dreams,Ben Jammin' Beats,34,168648,Malibu Dreams,11/21/2022,0.738,0.46,-14.875,0.0459,0.3,0.858,0.136,0.39,147.875,4,happy
+67mQ3ey8qs7870TnEe5OPr,Weekend In Rio,RejSende,44,151683,Weekend In Rio,11/16/2022,0.724,0.45,-10.78,0.0695,0.437,0.874,0.376,0.825,79.984,4,happy
+0CIkHeRy9TMRJXfplWRDf1,Comets,Korey Wade,44,150000,Silk,9/30/2022,0.754,0.378,-12.015,0.0518,0.697,0.883,0.687,0.74,87.977,4,happy
+1s6LKq5nOjmqY65VdrmUej,Dream On,Emapea,34,162461,Dream On,2/2/2022,0.641,0.65,-3.98,0.033,0.459,0.909,0.076,0.766,84.038,4,happy
+5GGVLyvFwH5iTjtGNxUjDY,Lo-Fi Carnival,Banco Swiss,34,208666,Lo-Fi Carnival,7/15/2022,0.802,0.706,-9.473,0.0878,0.326,0.904,0.115,0.744,89.99,4,happy
+5tjs8JIPAWEMXXt5WKSZbX,de la bell-mére,xOHARA,41,108250,de la bell-mére,7/15/2022,0.852,0.345,-13.822,0.202,0.735,0.928,0.0966,0.879,85.04,4,happy
+7sigACWgeejkcI9Q41FCue,Sunday Mornings,Lucid Keys,37,169473,Sunday Mornings,5/26/2022,0.706,0.252,-13.805,0.051,0.904,0.919,0.105,0.253,85.502,4,happy
+6uA5tWVvj13MGLNxhHGxhr,The Chillest,Chilou,46,151200,The Chillest,10/8/2021,0.667,0.652,-10.379,0.0476,0.513,0.815,0.117,0.514,149.995,4,happy
+5rk8yGrnwfEyLzxhjcrlmq,Light Of Day,Kewlie,39,138352,Light Of Day,9/1/2022,0.803,0.366,-9.189,0.0853,0.517,0.881,0.0936,0.36,92.974,4,happy
+0YMvwk402Q43UuHhIzUJDV,Brazilian Relaxation,Lobster Gibbs,34,123076,Brazilian Relaxation,9/12/2022,0.831,0.633,-10.559,0.0834,0.048,0.914,0.123,0.887,155.983,4,happy
+428XVwBl5Fb7INjU72Po14,Stressed Out,Thelonious Coltrane,34,130675,Stressed Out,9/16/2022,0.777,0.186,-13.206,0.0834,0.331,0.337,0.102,0.963,133.013,4,happy
+1zrrbPh20X2mZY74tgJ86s,Copacabana Days,Jazzinuf,41,155752,Copacabana Days,9/16/2022,0.722,0.572,-15.063,0.0535,0.0881,0.801,0.111,0.375,115.028,4,happy
+67p1eyYdwqs3d9CVZdSlzC,Unwind,Saib,37,252857,Unwind,9/16/2022,0.553,0.427,-11.839,0.0636,0.548,0.793,0.0776,0.207,112.002,4,happy
+17gYRqnp5Jbjd1JupM3T9P,Poolside,Wax A Dizk,34,79467,Poolside,9/11/2022,0.739,0.343,-12.056,0.139,0.918,0.905,0.133,0.58,80.046,4,happy
+1zYUBI0Rg2AKEwv0uglJW8,minor distance,SLKBTS,33,133150,minor distance,9/9/2022,0.782,0.443,-10.585,0.0973,0.157,0.884,0.102,0.215,72.993,4,happy
+1fhjWT1MnTzmVvVpOzkSJQ,Baller,Lil Gromit,34,127058,Baller,8/25/2022,0.845,0.296,-10.768,0.102,0.429,0.732,0.0946,0.343,100.969,4,happy
+0NhMR9KnMFwu0te2GSuW3Z,june days,Pleij,33,157037,june days,8/23/2022,0.825,0.348,-20.099,0.441,0.223,0.894,0.11,0.691,80.972,4,happy
+4DAkqKqpLl7KaFwQxxeHA0,Amor na Praia,De la Plante,33,144545,Amor na Praia,8/18/2022,0.748,0.427,-11.74,0.102,0.372,0.95,0.136,0.616,175.991,4,happy
+0VutyxcmjtC8Bs0QLcyIhb,bleep,tori yami,40,127663,bleep,8/19/2022,0.588,0.475,-9.816,0.0443,0.885,0.929,0.135,0.321,168.189,4,happy
+0EFgBCfmXaGqYEtEKKlUR5,Journey,Lushi,33,140785,Journey,8/19/2022,0.846,0.386,-12.356,0.0946,0.811,0.892,0.17,0.694,140.045,4,happy
+158kdVojsERlt5hDZrHbKX,Sailing,vhsgus,33,147933,Sailing,10/14/2022,0.625,0.406,-13.092,0.0536,0.853,0.863,0.103,0.249,80.026,4,happy
+6IfPYRbW6tJyCf2qtPBciO,Fruit Salad,homieunculus,33,162750,Fruit Salad,10/14/2022,0.793,0.588,-14.723,0.116,0.0251,0.911,0.105,0.922,156.889,4,happy
+5PSCnbrMwcLmal3eAIW0GB,Da Roberta,Dasunny,33,144615,Da Roberta,10/14/2022,0.711,0.399,-10.115,0.0989,0.618,0.854,0.0924,0.708,78.053,4,happy
+7Gob0f79Tu0ZmguwVXhMHP,feeling tropical,with_myself,33,129882,feeling tropical,10/14/2022,0.755,0.118,-13.9,0.127,0.671,0.305,0.106,0.403,92.017,4,happy
+75vajuZ3iErkeKUG8uXjlt,Bossin,ombinate,33,145500,Bossin,10/12/2022,0.797,0.456,-8.721,0.0679,0.816,0.868,0.104,0.579,80.003,4,happy
+75NF20zhwzBw4hzlTdXCiQ,go to gate,archipelago beats,38,149333,go to gate,10/9/2022,0.601,0.274,-13.141,0.0634,0.921,0.913,0.11,0.605,180.247,4,happy
+3R5mE5KAgvUGUy7q7Rbmas,La Hacienda,Chill&Go,35,117000,La Hacienda,10/6/2022,0.868,0.39,-12.23,0.186,0.835,0.769,0.111,0.564,92.016,4,happy
+20bxpthQ6s3G9OMJTVJZVA,Shaken Stir,Gregory David,33,193000,A Trip Downtown,11/11/2022,0.806,0.385,-10.076,0.0402,0.173,0.839,0.111,0.293,127.966,4,happy
+5Ej2qyQ2RnBVsdFDB5Uxo3,Cadillac,asanatobi,33,177926,Cadillac,11/11/2022,0.796,0.376,-11.123,0.365,0.889,0.643,0.0733,0.81,152.151,4,happy
+10lBc1KeRtJ8o7aqnaY68Z,Bossa novium,Sky Fi,32,142125,Bossa novium,11/5/2022,0.79,0.12,-20.559,0.0824,0.526,0.905,0.12,0.156,129.894,4,happy
+4LWlyRclaxRUscbVQQ3syw,a little bossa,Linearwave,34,80000,beat tape,11/10/2022,0.549,0.498,-13.445,0.106,0.924,0.937,0.0977,0.571,74.996,4,happy
+0y5PxI9uiVuh8DtueOvr75,Samba For You,Copacabana Lab,32,119268,Samba For You,11/3/2022,0.749,0.557,-9.278,0.093,0.297,0.0199,0.107,0.948,82.011,4,happy
+23rwFBqSEHcz1frkz2ezdE,Sunny Grooves,MujjO,33,177966,Sunny Grooves,11/4/2022,0.744,0.329,-12.167,0.0432,0.875,0.469,0.125,0.533,87.068,4,happy
+6k9RaYxMO9FnWu7oYLC1Fe,Bloody Mary,Roses,36,108571,Bloody Mary,11/9/2022,0.689,0.451,-11.333,0.0669,0.308,0.731,0.601,0.446,84.027,4,happy
+1UBz80xTEt0P3mSGmbwIlo,"Salzburg, Vienna, Bratislava",Arkadi Martinë,35,152392,"Salzburg, Vienna, Bratislava",11/4/2022,0.814,0.313,-13.831,0.0745,0.132,0.217,0.117,0.32,95.035,4,happy
+4jaabHRb9VW5OR0WAQB5JA,Avenue,Soulone Beats,35,139736,Avenue,11/8/2022,0.61,0.403,-10.965,0.035,0.049,0.942,0.139,0.275,151.953,4,happy
+4bURJNtMormiqKdJoq2vcu,Bossa De Flauta,Papi Churro,51,114418,Bossa De Flauta,11/4/2022,0.815,0.579,-7.366,0.277,0.34,0.89,0.14,0.881,85.947,4,happy
+5PVWIBum4skGcuHkI8bWKB,Train Tales,Tom Doolie,52,97747,Train Tales,11/4/2022,0.769,0.375,-13.436,0.161,0.615,0.871,0.111,0.513,81.015,4,happy
+5fwUgcNVOqWaAiO7q0m5S4,Mallorca,Carabide,38,115764,Mallorca,10/7/2022,0.748,0.405,-11.914,0.0785,0.676,0.935,0.0653,0.661,84.993,4,happy
+0uKr4tURNiLyOKFqsmKNx0,Amore,RejSende,41,186453,Amore,10/7/2022,0.748,0.655,-6.964,0.0322,0.566,0.859,0.276,0.71,109.996,4,happy
+3LEIN9DIPnYhJ5b1dNgVcC,Dope after 8 PM,Living Room,33,116346,Dope after 8 PM,10/5/2022,0.785,0.631,-7.595,0.0452,0.508,0.862,0.116,0.67,149.929,4,happy
+32HW7A2WIZlriOMIFXbfZB,Blue Vibe,Unbeat Ive,32,144800,Blue Vibe,10/7/2022,0.685,0.349,-11.848,0.0453,0.0924,0.873,0.123,0.881,74.961,4,happy
+1I5LzwQzflf3ZoNuIwLnBq,Alone Again,Aarly,32,144000,Alone Again,10/7/2022,0.65,0.257,-13.118,0.04,0.245,0.927,0.122,0.791,75.026,4,happy
+2zVJsiJGMW7mgHbKVlckX5,Dreamwalker,lowerkaze,32,180085,Dreamwalker,10/6/2022,0.672,0.576,-8.812,0.0582,0.602,0.928,0.234,0.551,87.966,4,happy
+5h5DvOnUWOBN6DQASLaaUv,Ordinary People,XX Tape Queen,32,101409,Ordinary People,10/2/2022,0.69,0.299,-11.594,0.0627,0.889,0.801,0.16,0.541,80.045,4,happy
+6Ags8HBI6GXgKzeR4iwrHz,buenos,Joey Silva,41,124800,buenos,8/26/2022,0.655,0.621,-13.083,0.0269,0.629,0.92,0.142,0.759,100.022,4,happy
+4Gs49fzepEtYLIlGDvHP7U,Mysteries,Guzimi,51,115662,Mysteries,4/7/2022,0.78,0.358,-10.988,0.0796,0.709,0.643,0.0976,0.382,82.985,4,happy
+77IvFp174yhWdvqwBYkphA,Caribs,Screen Jazzmaster,40,127228,Caribs,9/23/2021,0.767,0.685,-8.74,0.0518,0.531,0.849,0.0931,0.491,83,4,happy
+1d4ZvL8uuUPTEAnocC3zEa,strolling,!nvite,35,138875,strolling,6/20/2021,0.857,0.381,-12.755,0.192,0.666,0.0191,0.126,0.329,84.997,4,happy
+5awtju4msMy7Cyovaoxo7j,Pink,Tundra Beats,35,134526,Pink,9/3/2022,0.715,0.314,-14.827,0.0712,0.0361,0.946,0.113,0.563,156.953,4,happy
+633ujbcYBpqmST4Q72ZY2x,Bossa Du Soir,Ouska,32,120000,Bossa Du Soir,9/9/2022,0.738,0.175,-12.733,0.0439,0.866,0.728,0.112,0.444,88.98,4,happy
+382qYJNJg6Epz34w9Y0Iq3,Lazy Days,Harry Hawaii,36,145211,Lazy Days,9/9/2022,0.717,0.404,-6.304,0.0535,0.253,0.828,0.106,0.449,73.006,4,happy
+1lCFs0Id06HBlxjprXWR6J,Uncharted Waters,CMJ,39,138795,Uncharted Waters,9/7/2022,0.624,0.441,-13.761,0.0544,0.83,0.901,0.108,0.117,82.981,4,happy
+4yX9B5mcnnXhuQ684b6O0L,Spain,Vincent Rayn,33,160000,Spain,9/9/2022,0.604,0.298,-13.191,0.069,0.553,0.868,0.122,0.272,84.758,4,happy
+4FO8ygXmPAxWeU8xX0JiVT,Alter Witz,Hairklep,43,86158,Alter Witz,4/22/2021,0.851,0.237,-10.349,0.235,0.187,0.884,0.109,0.699,81.995,4,happy
+6boOSC8VmhBre8fg6sCnau,Secret Village,Sakloma24,34,112963,Secret Village of Chill,12/1/2020,0.774,0.187,-12.78,0.0697,0.8,0.888,0.195,0.46,84.991,4,happy
+5VktpwGshteKpO45NtZMAo,The Bottom Line,Talented Mr Tipsy,33,135000,The Bottom Line,1/20/2021,0.768,0.722,-6.038,0.229,0.107,0.257,0.311,0.58,79.973,4,happy
+7q6aQazraLUiuCUVkoYOb2,Momentum,Bat Bilger,32,128294,Momentum,1/20/2021,0.629,0.409,-9.009,0.0671,0.0769,0.854,0.0867,0.802,80.152,4,happy
+7AL8MZHzgxmnYsuiM2MsUZ,Boston City Hall,Ewert,32,171464,Boston City Hall,1/24/2021,0.76,0.452,-5.884,0.107,0.243,0.864,0.0944,0.205,89.977,4,happy
+3llezaxf0tOO3n0S81ZgDI,Funkophomatic,Hi Hat Henry,33,160941,Funkophomatic,1/24/2021,0.712,0.825,-9.328,0.123,0.575,0.843,0.151,0.761,84.974,4,happy
+1bqbXMB4sjKR5QEkZRAm2h,Boom Bap a Lula,Better Call Soul,33,164488,Boom Bap a Lula,1/20/2021,0.671,0.323,-10.097,0.0272,0.318,0.885,0.112,0.215,88.025,4,happy
+2kHDQldORUg2dYR1BOQlWc,Lab,Jon Droulis,33,141333,Lab,5/25/2021,0.346,0.417,-11.913,0.0361,0.567,0.856,0.122,0.317,90.038,4,happy
+54G7nglEzYJdrIfCcur3El,Chillin',Slacker Boy,41,128852,From Above,3/26/2021,0.729,0.636,-9.117,0.189,0.483,0.408,0.237,0.587,170.045,4,happy
+5Qnot7dFk2OguRXGOzG3rN,Lucy Goosey,Lofi Lucy,32,90000,Pink Lemonade,3/21/2022,0.485,0.323,-8.973,0.315,0.884,0.896,0.103,0.881,84.211,1,happy
+7uJKZCjiHRAde6xQm2Kx0Q,Royal Highness,Beat Oven,41,128729,Kid Tested & Mother Approved,3/14/2021,0.754,0.422,-12.66,0.294,0.0463,0.215,0.108,0.517,160.227,4,happy
+73yXOxZAK9FymtlXDfLVnR,Late Night Jam,Wasted Glitter,42,147000,Late Night Jam,10/18/2021,0.739,0.71,-7.269,0.0903,0.917,0.783,0.231,0.614,79.982,4,happy
+3sDROMtJXbaBbFag9akZLY,Sweet Morning,Ouska,34,160941,Sweet Morning,2/1/2022,0.602,0.323,-14.608,0.0865,0.906,0.91,0.111,0.302,84.989,4,happy
+3zwzd8lU5jBKn7cc6KySnC,dreams,tawnbei,39,75789,Tomorrow,4/8/2022,0.438,0.491,-9.323,0.137,0.749,0.000583,0.115,0.75,78.191,4,happy
+0eb3ipy85WFgCcV0JZFL7y,Sundown Avenue,Arc De Soleil,44,175215,Train of Liberation,10/22/2021,0.651,0.613,-7.47,0.0297,0.301,0.889,0.16,0.516,89.997,4,happy
+3umoNiC2gyJ4oaGj7t74Zk,Soft Slap,Dream Web,35,243577,Soft Slap,6/16/2021,0.713,0.161,-13.764,0.104,0.0425,0.886,0.0984,0.941,180.09,4,happy
+5hCXtdsOhwWCG6zX0ivfYg,Train Ride,High John,39,151000,High Jazz,8/16/2021,0.496,0.169,-19.157,0.348,0.511,0.88,0.135,0.515,91.335,4,happy
+7qGiqZXmt6ksGNtm36cTfX,Hectic As...,Move 78,50,199542,Follow the Earworm / Hectic As...,10/15/2021,0.635,0.503,-14.531,0.0353,0.838,0.926,0.0752,0.596,88.066,3,happy
+68LpjjFHicK5YIM5I5KMex,PALMTREES,Worldtraveller,34,130625,PALMTREES,9/10/2021,0.875,0.295,-13.702,0.202,0.835,0.898,0.112,0.73,96.005,4,happy
+4BfOkMlyoev0VEN5ClXMby,Morning Stretch,Timothy Infinite,48,144078,As The Sun Rises,4/1/2022,0.705,0.501,-8.953,0.288,0.453,0.0393,0.284,0.542,166.33,4,happy
+0n7UVP6hEStbS96Uugnyzs,The Pappas,High Low Row,34,224769,Abracadabra,5/28/2021,0.809,0.121,-13.459,0.428,0.94,0.883,0.141,0.343,87.017,4,happy
+5v4j4LiqW49SnYAwnJugw5,!Sunshine!,Camden Clown,49,183634,Seven Hours,10/19/2021,0.658,0.449,-14.113,0.0507,0.0522,0.87,0.103,0.628,82.034,4,happy
+53ycakt4shH4wnZveJnagh,bread & wine,Wibke Komi,44,116883,bread & wine,11/5/2021,0.687,0.254,-10.445,0.0426,0.904,0.938,0.0923,0.38,77.027,4,happy
+22JgzHfHyonKuvOSpvEKDz,Big Easy City,Simber,39,120000,Big Easy City,9/10/2021,0.587,0.483,-15.125,0.107,0.0887,0.535,0.195,0.456,85.763,4,happy
+4F1wJB60G4t7IVfRutfwY4,Downtown,Jack Dean,32,79080,Beat Tape 1,4/15/2022,0.507,0.428,-10.58,0.0279,0.257,0.699,0.125,0.487,85.028,5,happy
+7JnFdD5M4sKv4j26plgBPy,Chili is hot,Lofidelity Habanero,40,115263,Chili is hot,12/27/2021,0.607,0.228,-15.295,0.363,0.144,0.813,0.107,0.59,83.91,4,happy
+7Bw4rl2uucA5QvPeGYzuXe,Endless Lights,Beats by LOR,40,170904,Endless Lights,4/13/2022,0.66,0.483,-11.66,0.0343,0.441,0.856,0.2,0.197,80.044,4,happy
+0k1wqWrjOvG1xt9kMVQcKp,Matalí,Ruth de las Plantas,34,146331,Matalí,10/22/2021,0.768,0.76,-5.413,0.0469,0.533,0.25,0.366,0.393,82,4,happy
+2tZVe3idd7qbKHjUeUYbG2,Padron Peppers,Burrito Eats,35,142500,Padron Peppers,4/1/2022,0.551,0.439,-14.07,0.037,0.412,0.915,0.154,0.62,80.055,4,happy
+76cHnrbRZkkJzm6MbIrIHB,Vacation Days,Strehlow,40,138173,Vacation Days,4/6/2022,0.597,0.387,-14.251,0.0361,0.723,0.856,0.136,0.517,140.008,4,happy
+4aQ9wAM5HnKs3n5DtZQCpi,Rêverie,Saib,38,165000,Under The Stars,4/8/2022,0.662,0.344,-13.455,0.166,0.581,0.833,0.117,0.235,97.001,4,happy
+7C1RaJ1b2WKJZq9Bvrgctj,Low Key,Cloudchord,46,155090,"Koi Pond, Vol. 2",10/1/2021,0.759,0.582,-8.26,0.0901,0.575,0.6,0.133,0.539,88.396,4,happy
+3SPpqRQdEQAywU8fRKrWqx,Vacation,franz.,32,177427,Vacation,4/15/2022,0.661,0.462,-16.157,0.0424,0.123,0.921,0.0974,0.188,137.993,4,happy
+0Ef6Q0Cav49AL4xhPlXSZg,pinecone,MF Eistee,32,115200,anthology,11/11/2022,0.637,0.318,-13.182,0.0808,0.71,0.528,0.124,0.491,148.592,4,happy
+2NmdoCM6MIkKTKWYQaiZGc,Lifelike Figures,Multicolor Vowels,46,158117,Looking Up,1/10/2022,0.747,0.353,-10.369,0.089,0.269,0.742,0.116,0.819,85.001,4,happy
+29Piig79HQpigQuUtxshPv,A Few Days Ahead,uniqlesse,43,142318,A Few Days Ahead,1/7/2022,0.655,0.352,-13.251,0.0412,0.872,0.819,0.114,0.539,84.999,4,happy
+7AoMssgMP6vK7QPrKg4wkf,The Little Things,Headie Nines,32,149647,The Little Things,2/10/2021,0.798,0.642,-8.447,0.0698,0.95,0.867,0.126,0.262,169.956,4,happy
+51YRwAeesNlpvB5U51lZY7,Pear Pressure,Future of Lofi,32,142428,Future of Lofi Δ1,9/21/2021,0.481,0.291,-13.379,0.0273,0.608,0.921,0.108,0.244,77.056,4,happy
+2BDKKL4We7h8JwGk4NWpE5,So Seductive,Matt Large,32,192344,So Seductive,5/20/2022,0.556,0.557,-5.171,0.11,0.0687,0.805,0.151,0.536,191.796,4,happy
+69Q3BvKjpIeCJkCcvPxs7R,Fandango,MAGICMINT,45,127640,Fandango,10/31/2021,0.576,0.33,-12.071,0.238,0.445,0.81,0.106,0.37,63.935,4,happy
+1bFNVPttUZyzRxfsJAFkJx,Tokyo Trainspotting,Nathan Kawanishi,34,120769,Nostalgia,7/1/2022,0.595,0.526,-10.11,0.167,0.778,0.875,0.322,0.944,78.002,4,happy
+2znBuVaZLvA1Kn9xL5tVnT,Toucan,NOA NOA,34,214000,Toucan,10/20/2021,0.791,0.426,-8.35,0.0648,0.703,0.816,0.27,0.482,94.012,4,happy
+4ZXEWcotHFwFrQU0FXtjzN,ela é,n o r m a l,41,108007,ela é,4/8/2022,0.764,0.641,-11.479,0.136,0.557,0.824,0.226,0.495,79.997,4,happy
+5irlm4HR7wslp9BTuMlLQo,Something Has Happened,Jazzinuf,36,116593,Artifacts,4/8/2022,0.65,0.384,-12.918,0.0337,0.773,0.874,0.154,0.284,88.026,4,happy
+5XW0aneQhkAE93vrxvTDHx,I got to love you,Yankee Hart,32,132812,I got to love you,3/25/2022,0.567,0.366,-17.642,0.0603,0.96,0.952,0.479,0.625,76.876,4,happy
+1Q6Yq87dBVj1BYaiOsjKph,Where the Sun Lives,"Sarah, the Illstrumentalist",40,141064,Chillin In Cabo,8/13/2021,0.686,0.499,-10.212,0.0306,0.141,0.203,0.298,0.515,97.088,4,happy
+5YqgLosDBFzjeXUvNwCnQC,special,bird,34,146666,special,9/3/2021,0.745,0.514,-14.136,0.109,0.896,0.832,0.242,0.886,90.052,4,happy
+6qeMnGssbQmFZQ4NA9NPT2,Wonderland,So_nny,45,150000,Wonderland,7/2/2021,0.726,0.369,-10.117,0.049,0.841,0.84,0.138,0.726,80.018,4,happy
+4PqKF4AvWgQLDh7hUYdYtc,lustig,Izidore x,40,129000,lustig,7/2/2021,0.776,0.347,-11.312,0.0606,0.419,0.772,0.0606,0.225,149.899,4,happy
+2c6Si68uNJOXbWA4gFOo6p,Happy to See You,"Sarah, the Illstrumentalist",40,131734,Happy To See You,9/10/2021,0.686,0.628,-5.862,0.0361,0.164,0.209,0.111,0.8,89.409,4,happy
+5PXZzdz01lZXKw9ep65Mik,Space Girl,Anex Xi Ko,31,121894,Space Girl,6/11/2022,0.797,0.593,-8.658,0.0315,0.222,0.688,0.202,0.775,130.029,4,happy
+6mO1z3z7Np7JS87Gkiw7xM,While The Sun Goes Down,Soulone Beats,32,147692,While The Sun Goes Down,5/27/2022,0.589,0.294,-11.65,0.0603,0.356,0.898,0.147,0.597,156.113,4,happy
+6Puzyr6rxBYIjlKG5GTifj,Parallels,Joe Sunrise,32,158181,Parallels,5/27/2022,0.778,0.221,-13.734,0.0741,0.58,0.749,0.08,0.322,87.979,4,happy
+1SXSmGCjT0Ldw2KyssUHOd,summer nights,leicht.,32,150000,summer nights,5/24/2022,0.601,0.488,-11.73,0.0364,0.217,0.929,0.103,0.307,170.017,4,happy
+5FdgWHIy3LsIoRzCOJ4jg1,Nutmeg,spice rack,34,124090,flavors,2/15/2021,0.472,0.338,-13.968,0.0323,0.568,0.851,0.1,0.333,176.248,4,happy
+2oYlPGxZPPd6jer8rHO2mr,The Road is Winding,SLACER,40,147400,The Road is Winding,9/8/2021,0.729,0.387,-12.048,0.0633,0.495,0.801,0.13,0.452,150.01,4,happy
+0XjBGhw51yUMQMZ8ftgJdr,Rain On Me,Ninjasister,37,147529,Rain On Me,5/28/2021,0.62,0.281,-11.054,0.0566,0.807,0.938,0.116,0.238,170.034,4,happy
+5woq04bPb5fZ4bB8wfOkuC,Feeling Good,Leo Motta,33,156533,Feeling Good,8/19/2022,0.701,0.627,-11.95,0.154,0.24,0.522,0.154,0.773,162.033,3,happy
+493d6uVigrpHLvzElL5eEd,Smelling the Roses,middt,37,137285,Smelling the Roses,8/16/2022,0.849,0.555,-9.464,0.0973,0.89,0.345,0.13,0.643,140.032,4,happy
+3XLz7KN81rNRuBYws2Y1As,Sailing Ships,Strehlow,32,127297,Sailing Ships,8/19/2022,0.797,0.203,-20.078,0.179,0.772,0.686,0.308,0.78,147.99,4,happy
+0mPtM4eXcgUTcILbBaMOjK,Bossa Rosa,Miso Colt,31,180779,Bossa Rosa,8/12/2022,0.604,0.385,-13.758,0.0424,0.758,0.861,0.181,0.952,77.011,4,happy
+6czOmmPl8uI5uxQu3GEeLT,bossa high-level,endless beauty,31,102400,Bossa High-Level,8/13/2022,0.692,0.659,-10.081,0.0673,0.0375,0.871,0.0994,0.639,150.092,4,happy
+7EccAFIyTAXrxfvrkZdDNU,Sunny Walk,pipetiger,47,106830,Sunny Walk,8/15/2022,0.736,0.282,-11.269,0.077,0.874,0.949,0.087,0.234,89.946,4,happy
+2w9EnlbbEahdgm3ZNj758B,Aubade,Bastido,34,171870,Aubade,4/6/2022,0.889,0.26,-17.475,0.0921,0.9,0.874,0.108,0.828,122.999,4,happy
+3gH6U0EQHbFrCNebvbnk8Y,Mount Rakko,FloFilz,36,149800,Close Distance,4/8/2022,0.708,0.445,-10.654,0.0457,0.265,0.805,0.119,0.466,87.974,4,happy
+3QZV9urYHQWhedIpNw5sYz,Honeydew,DYVN,32,133374,Honeydew,6/17/2022,0.73,0.539,-9.111,0.146,0.687,0.27,0.107,0.223,87.022,4,happy
+18u4WwiGLzWT8xpLmUAHN7,ipanema,farewell,41,96442,viagem,7/26/2022,0.683,0.402,-8.706,0.114,0.163,0.882,0.116,0.891,80.028,4,happy
+29i0fM2WgShkB2lnb6GnBv,How About This,JazzyHan,41,111000,How About This,6/10/2022,0.531,0.531,-9.333,0.0329,0.818,0.841,0.164,0.286,80.049,4,happy
+7DAlxFXwgtXy7gaLWNOEII,candy,whknws.,31,85843,Ovrhaul,6/10/2022,0.754,0.479,-15.759,0.285,0.176,0.172,0.121,0.765,87.039,4,happy
+3lN0whHnarXeTmsRpJ1CsI,warm ocean,Hiest,31,116590,warm ocean,6/10/2022,0.507,0.379,-10.607,0.0951,0.892,0.804,0.385,0.152,82.026,4,happy
+5LZvWXagCJaMSTfJW9lOxR,wonderer,Jk Beatbook,31,149610,wonderer,6/14/2022,0.818,0.331,-11.755,0.394,0.925,0.931,0.069,0.828,76.92,4,happy
+53VTzwDAl6PD9T1hs4rFHH,Beijo Doce,Dawmata,31,124301,Beijo Doce,6/15/2022,0.767,0.463,-13.49,0.152,0.14,0.85,0.101,0.916,85.015,4,happy
+667UZer8DqG0zUgmaQd0mm,Orange Tree,Teo,31,160878,Orange Tree,6/10/2022,0.642,0.4,-13.813,0.045,0.557,0.853,0.114,0.328,75.029,4,happy
+7qhvsU1cjfjQjTRtuwxud4,Nightscape,Mr Beats Lofi,32,195333,Nightscape,6/8/2022,0.821,0.204,-12.482,0.126,0.57,0.9,0.0998,0.297,79.991,4,happy
+0OGA7zBgWPrd0FW6au6TVN,Dripht,BLVKSHP,32,187058,Dripht,6/7/2022,0.585,0.567,-6.56,0.0352,0.24,0.575,0.104,0.503,84.997,4,happy
+73fwCt5oobtmrRsUgGESNk,Spraytan,Chillide,39,120000,Spraytan,2/13/2022,0.667,0.268,-15.941,0.0587,0.877,0.864,0.11,0.468,183.868,4,happy
+2SEnMRBzVNrfraOxbFKI2Q,wolfram wonders,ideal form,40,108006,lightbulb,8/18/2021,0.708,0.328,-10.542,0.0991,0.654,0.0759,0.102,0.392,180.257,4,happy
+4XrZjM1DPZryBRSAMlBHvI,Strat Mode 5,trak-side,31,117600,Strat Mode 5,5/27/2022,0.66,0.56,-9.277,0.0457,0.322,0.898,0.115,0.293,75.022,4,happy
+1y2zDUWWkG4P97pDjWGrDi,The New Day,Jolly Jordan,41,164000,The New Day,2/13/2022,0.66,0.43,-8.103,0.0278,0.277,0.868,0.144,0.309,79.996,4,happy
+5X9jS1tU1Hv2yPh4dGC1HH,Caribbean Latte,Mister Decaf,39,138352,Caribbean Latte,8/11/2022,0.735,0.514,-10.429,0.0631,0.277,0.856,0.0929,0.622,170.109,4,happy
+2eMu2au8FVOaHemQfi7Sah,Afternoon Wind,Monocloud,31,124500,Afternoon Wind,8/12/2022,0.609,0.287,-16.175,0.0494,0.848,0.881,0.109,0.388,77.04,4,happy
+6bnhuU80WPonEPeS5Alskr,Agua Clara,SamuW,33,131803,Agua Clara,8/10/2022,0.829,0.528,-12.67,0.0946,0.498,0.858,0.112,0.696,122.051,4,happy
+39sl6VM6ITxPqSQYIHGrHn,Saudade,Sunsplash,31,158138,Saudade,8/5/2022,0.759,0.42,-12.519,0.0623,0.348,0.887,0.119,0.827,84.904,4,happy
+1HwtLXqKnJvKYrVRcXbdsl,gm baby,wallyPDF,32,123428,gm baby,6/10/2022,0.733,0.171,-19.591,0.0437,0.871,0.844,0.135,0.437,140.058,4,happy
+7bMYkOwd6CsjCRZKUroCeV,Thinking Out Loud,Soulone Beats,35,121462,Thinking Out Loud,7/15/2022,0.614,0.499,-9.742,0.0361,0.0169,0.207,0.384,0.326,81.998,4,happy
+6o47WpgYCPCk4bY6XaK2Vj,beach break,Tokoyo,31,128000,beach break,7/15/2022,0.84,0.465,-12.704,0.108,0.745,0.0812,0.103,0.811,90.002,4,happy
+6c6O3C07YbA6oSNSmQqkMB,Second Moon,iamalex,32,109343,Second Moon,7/14/2022,0.776,0.239,-8.428,0.0977,0.667,0.889,0.11,0.224,130.054,4,happy
+4iKXy98aDDZ1KqrU7PrAhB,clear blue sky,Hicut Lopass,31,124698,clear blue sky,7/10/2022,0.735,0.324,-12.177,0.0653,0.688,0.932,0.161,0.663,82.997,4,happy
+7dPy1jjF1wDcZGSdtNjAeO,Together We Rise,With All Respect,31,151110,Together We Rise,7/10/2022,0.695,0.504,-11.144,0.0674,0.375,0.928,0.123,0.261,84.984,4,happy
+1uqbepnCPGf5eZZFKDKvQG,High Coast Beat,Smartface,39,166170,Rhythmic Flows,7/8/2022,0.838,0.321,-12.505,0.0796,0.543,0.772,0.0788,0.514,92.419,4,happy
+2LTcqJRepokYQMofS53rjt,Soleil,Geezmo,32,112941,Soleil,7/1/2022,0.785,0.403,-16.464,0.0603,0.236,0.874,0.075,0.904,170.014,4,happy
+734VfOf0xOEHf4wV5RcIzz,Nazaré,Sports & Music,31,94430,Underwater Romance,7/1/2022,0.884,0.369,-14.902,0.0483,0.573,0.818,0.114,0.961,107.035,4,happy
+08K0FjEDRLXt3j1bjwTbcJ,Outer circles,hoodeeny,30,183837,Outer circles,7/15/2022,0.6,0.527,-9.422,0.0352,0.272,0.655,0.0966,0.141,172.002,4,happy
+4hCmMa1benzcqObgxDH2GU,Jovial,still yung,31,132272,Jovial,6/24/2022,0.677,0.354,-13.739,0.0377,0.6,0.844,0.109,0.259,82.534,3,happy
+0kzFqquPfU14JmkkUUHbX8,Crushin,The Man from Mexico,30,156000,La Muchacha Ochentas,6/22/2022,0.718,0.282,-14.008,0.0405,0.714,0.727,0.103,0.0688,80.012,4,happy
+6S1uhrWCT8WFV6z8f5P8Va,Papillon,Moodster,40,110571,Goodwill,8/17/2021,0.827,0.382,-13.004,0.0584,0.341,0.921,0.106,0.701,140.194,4,happy
+3BIigRWvCUldxIeQkzSEMa,Llama Drama,Jobii,40,127900,Llama Drama,10/8/2021,0.487,0.682,-6.373,0.075,0.369,0.566,0.134,0.446,173.985,3,happy
+6LnZKT2R1jhUTXgwUPldIr,Out Of Jazzizity,Savage Bops,33,141666,Out Of Jazzizity,10/8/2021,0.748,0.339,-5.753,0.0809,0.87,0.856,0.151,0.832,90.063,4,happy
+4W0IrD2VVLwxfsAgevJRgD,Two Track,Siesta Beats,40,128319,Two Track,10/11/2021,0.703,0.375,-13.361,0.0385,0.0502,0.694,0.102,0.676,87.988,4,happy
+5YAr1nEOeBQLsrqntj7Nyz,gin mood,yori yoi hi,40,160941,gin mood,7/25/2021,0.807,0.256,-20.061,0.0527,0.677,0.673,0.0896,0.576,98.99,4,happy
+24mMhupEYd9fMpKM60MjVp,Trumpet On The Street,Turn.,34,109333,Trumpet On The Street,4/1/2021,0.743,0.57,-6.629,0.0416,0.832,0.912,0.0968,0.223,90.042,4,happy
+2AXqiVRL9dhZ47IDPiGR6H,Samurai,Mr OCB,41,160975,Samurai,6/20/2021,0.558,0.227,-9.879,0.0804,0.447,0.844,0.102,0.261,116.28,3,happy
+5epIUCDbbOxNw24rB0YgrC,Riptide,Bambu,32,106829,Riptide,5/16/2022,0.539,0.491,-9.749,0.0418,0.405,0.851,0.215,0.186,80.407,4,happy
+3aRv7GiXgweb0sVd8Rzu5s,I Will Love You,Salon De Juego,30,113875,I Will Love You,5/13/2022,0.779,0.452,-10.373,0.0504,0.257,0.475,0.23,0.57,75.012,4,happy
+479ml65kpUENyze9msPNGX,Rich and Thick,spring gang,31,199947,Rich and Thick,5/13/2022,0.593,0.391,-6.688,0.385,0.492,0.89,0.112,0.516,170.024,4,happy
+3jZ6PpHPQuON6Bt2PYl7Vs,Set the Sky on Fire,Sunshine and Raindrops,39,142588,Set the Sky on Fire,6/27/2021,0.693,0.507,-10.679,0.077,0.719,0.772,0.0766,0.145,170.002,4,happy
+4O7Tbtvbf1U25lMhkBa2wd,Flavors of Oro,Aphid Friend,46,168000,Floaty Boi,1/10/2022,0.758,0.331,-12.932,0.0859,0.698,0.786,0.101,0.706,80.012,4,happy
+4FTWqP9PgQ24kmVctCWREf,Dust till Dawn,Dusty Decks,46,134000,Solid Centre,3/18/2022,0.747,0.571,-6.985,0.119,0.0264,0.888,0.102,0.71,89.96,4,happy
+3QGeVTGNN77x4oQcUneQp5,The Rooftop,Gregory David,44,212309,After Hours,6/25/2021,0.721,0.487,-9.519,0.144,0.671,0.855,0.23,0.537,78.055,4,happy
+590XubFrs3btVyMbHIBNul,Summer Through My Window,Tiny Anthem,30,165062,Summer Through My Window,8/5/2022,0.878,0.445,-13.268,0.0376,0.631,0.86,0.121,0.849,111.986,4,happy
+3Ls2JfT2cWABG0uTCJKoqJ,Picnic With A Tape Recorder,Goslow,33,156000,Picnic With A Tape Recorder,8/1/2022,0.73,0.546,-9.53,0.0849,0.899,0.898,0.104,0.0731,79.954,4,happy
+55vugGlZDrEgZVdg8MThGI,Poolside,Oaty.,32,150689,Poolside,8/1/2022,0.878,0.358,-13.613,0.393,0.633,0.907,0.244,0.695,154.031,4,happy
+6YgYLWehHMYQ0EYScrgcK3,Bossa,Karmawin,47,276705,Bossa,8/1/2022,0.734,0.206,-19.989,0.162,0.839,0.0971,0.0863,0.349,85.02,4,happy
+3zoZK3uNp9ckLJFNZcMXUx,Urban Roots,m.sorlii,30,90824,Urban Roots,8/5/2022,0.706,0.372,-10.405,0.113,0.228,0.833,0.123,0.618,172.027,4,happy
+0Dl6gERwFQMIEl2br6Dmcn,Lush Lush Lake,Supereffective,40,147562,Lush Lush Lake,7/29/2022,0.785,0.276,-10.876,0.364,0.189,0.884,0.11,0.808,160.099,4,happy
+6aqMX6fuByY91a282vtaCC,Puerto Rico,MC,30,212348,Puerto Rico,7/29/2022,0.589,0.619,-7.767,0.0414,0.16,0.925,0.379,0.385,176.049,4,happy
+2UgF2ERVFHWhFWcytlNO7G,Spiegelei,Spaze Windu,46,151004,Spiegelei,8/5/2022,0.782,0.561,-9.599,0.0589,0.454,0.805,0.106,0.299,90.012,4,happy
+56Bovd4TcOgv6LbVpSMgh8,Nine One Nine,"Sarah, the Illstrumentalist",33,136531,Carolina Sound,2/26/2021,0.647,0.638,-9.214,0.034,0.0287,0.933,0.105,0.199,93.969,4,happy
+2LWBOPGmgxCI9awFaBN5JL,Common Sunflower,Lekie Low,47,99317,Common Sunflower,7/4/2021,0.799,0.484,-8.4,0.0907,0.722,0.916,0.0903,0.552,87.02,4,happy
+4l9tBmE0kfF7pHQ0BavAGB,Buzz,Ritsou Lalai,47,154285,Buzz,10/17/2021,0.669,0.477,-9.158,0.124,0.574,0.897,0.164,0.122,83.73,4,happy
+2A56QOJvOGbcrj1HVmTtan,Tangerine Tanlines,Miso Colt,34,142321,Tangerine Tanlines,3/2/2021,0.632,0.522,-13.853,0.0567,0.976,0.918,0.421,0.775,167.965,4,happy
+6LodoJCkHdELJ4JHiDfMGz,Wanderlust,dogphase,32,141316,Wanderlust,5/26/2021,0.647,0.433,-15.193,0.047,0.631,0.892,0.114,0.451,170.005,4,happy
+05lQwU66a8f5YEfn86ODCF,Grand Ave,CMJ,32,101052,Grand Ave,6/3/2022,0.374,0.315,-11.068,0.377,0.759,0.019,0.07,0.481,165.711,3,happy
+06FHrzf7psD6ow7W4SH5Ks,Purrfect,Sloppy Jo,31,138957,Still Sloppy,6/6/2022,0.692,0.272,-13.139,0.0362,0.517,0.824,0.213,0.16,140.075,4,happy
+0VVkD4K9rMQtQYFdzKXMIv,Plastic Boys,Woozy Youngster,34,156000,The One Who Could,6/2/2022,0.684,0.304,-10.945,0.0587,0.569,0.913,0.322,0.56,80.008,3,happy
+7CzwNHiknbQ5p7IinDOYwU,Jukebox Dim,Talented Mr Tipsy,44,138352,Jukebox Dim,6/18/2021,0.689,0.343,-8.091,0.0522,0.831,0.928,0.131,0.263,84.984,4,happy
+2diMv8vVlQRyP9CA5PFI5s,Springboard Fun,Re-Lax & Re-Why'nd,31,144000,Springboard Fun,5/28/2021,0.673,0.341,-13.148,0.0738,0.644,0.85,0.108,0.637,169.903,4,happy
+4OY35K0SrR9HPqsEnAwt1b,brats,Satchel Kebab,39,164315,brats,6/22/2021,0.79,0.311,-9.712,0.186,0.441,0.832,0.116,0.139,146.033,4,happy
+04zAxdQmKHREESSIcHRF3K,words > numbers,Blue Boatz,41,176551,words > numbers,6/22/2021,0.785,0.476,-6.634,0.0522,0.18,0.894,0.121,0.544,86.979,4,happy
+1ljFw0Kwk2iYoQUeg5RAp1,iykyk,meadowzz,42,126760,gliding on vibes,6/10/2021,0.682,0.396,-10.108,0.044,0.414,0.771,0.62,0.236,141.971,4,happy
+3vkXcpV294D0mrLIz5k1nM,Mr Lonely,Giorgio Robertini,34,112941,Mr Lonely,5/24/2021,0.735,0.214,-13.231,0.0482,0.719,0.933,0.135,0.196,85.028,4,happy
+5LxIw6qz9tcKfw5r32koKX,Electric,Tuva Sersh,34,158297,Electric,3/9/2021,0.794,0.553,-5.234,0.0424,0.062,0.824,0.24,0.886,94.021,4,happy
+3bCFay2zoRA5h5pcTw5Yny,Blessed,Yasper,36,175389,Blessed,6/1/2022,0.636,0.516,-9.57,0.137,0.38,0.851,0.0659,0.562,82.69,4,happy
+6hMCtXfDIIrNscYtxSlvTT,Homonculus,You're Good,30,176169,Homonculus,5/27/2022,0.683,0.597,-8.228,0.0426,0.73,0.874,0.109,0.221,90.018,4,happy
+6o9mwul55Hxm88JVGCNDCo,The Sun's Out,"Sarah, the Illstrumentalist",31,131874,The Sun's Out,5/27/2022,0.707,0.327,-8.562,0.0621,0.288,0.06,0.109,0.244,82.155,4,happy
+58eukN93h5b7rBlbcR6owz,Trading Bikes,Ewert,31,177622,Trading Bikes,2/11/2021,0.822,0.459,-5.009,0.073,0.287,0.822,0.287,0.521,90.028,4,happy
+1mI09jvN78SzxAk3pvHmiD,Habana Vieja,Yumas,30,186000,¿Qué bolá?,5/11/2021,0.732,0.43,-12.924,0.0884,0.771,0.785,0.103,0.681,75.012,4,happy
+5I20Xa98Zm3YQlSfRQgwxt,millions,heading__,34,108007,outwards,6/3/2021,0.559,0.509,-11.03,0.0541,0.588,0.881,0.129,0.145,159.99,4,happy
+0DKAZKSWou9EgI184nwNxG,Coral Reef,Sweet Medicine,30,96010,Hawaii Tape 02,4/21/2022,0.652,0.053,-17.845,0.134,0.949,0.891,0.144,0.476,79.959,4,happy
+7LebLMIwvYvoWbBd9GYtxW,Red Dove,Greenland,31,122500,Red Dove,6/2/2021,0.72,0.533,-10.546,0.117,0.823,0.925,0.115,0.638,192.187,4,happy
+4Vs4uFcFIduQva6sfEIEqG,Uptown Buses,The Precocious Birds,30,177138,Good Morning,5/6/2021,0.913,0.387,-12.619,0.279,0.131,0.495,0.0917,0.677,90.016,4,happy
+2mRYo91e0IZu9HPPAIxVAq,Donde Estas?,Fallen Roses,32,124245,Donde Estas?,2/11/2022,0.55,0.473,-11.806,0.0522,0.664,0.872,0.143,0.242,85.081,4,happy
+4duI476FUu6iId8JOTOk8i,Hang On,Lazy Leopard,37,118604,Hang On,2/17/2021,0.772,0.368,-13.738,0.0633,0.187,0.88,0.108,0.379,85.998,4,happy
+7JlI1eHDw1XWFiMy3LKJ8b,Paint Drip,Dino P,32,106666,Paint Drip,5/25/2021,0.805,0.19,-12.977,0.136,0.876,0.955,0.0909,0.502,135.137,3,happy
+0Td7VHO3ojTr3VO8GJTqQh,No Problem Too Small,Ensidya,35,122727,No Problem Too Small,2/19/2021,0.847,0.455,-7.513,0.0438,0.215,0.903,0.0654,0.666,87.985,4,happy
+4DjiY0WodlXPtDEj2wYm2s,Mood Swing,Gxldxn Fxnch,32,151714,Mood Swing,7/27/2022,0.618,0.308,-14.361,0.043,0.684,0.918,0.121,0.711,140.001,4,happy
+0hvhmLGNOEy6qlNodaGTWX,Jonde,Melatone,48,167608,Jonde,7/29/2022,0.637,0.624,-7.022,0.083,0.817,0.126,0.464,0.541,150.067,4,happy
+3JuBTWJDNuiyfBCaZHUs2I,Joao,Teknicolores,30,141176,Joao,7/22/2022,0.733,0.536,-8.865,0.112,0.108,0.261,0.179,0.74,170.086,4,happy
+0cCzWMEaRgqnbOpNrnKoPD,Cream Sunset,RejSende,32,146830,Cream Sunset,7/22/2022,0.778,0.327,-8.632,0.0707,0.589,0.741,0.0856,0.303,84.999,4,happy
+58PSYdY0GFg0LFb2PxYk4T,Mannish Boy,Muddy Waters,64,321133,King Of The Electric Blues,1977,0.598,0.735,-10.882,0.0973,0.44,0.000215,0.681,0.615,111.129,3,happy
+1oT20g6f8rvymheUIdFr19,Pride and Joy,Stevie Ray Vaughan,53,219840,The Real Deal: Greatest Hits Volume 1,2006,0.426,0.693,-9.759,0.0377,0.0251,0.0065,0.101,0.751,126.804,4,happy
+2Mr1bGI2E10K7Mt1UJZ6Mw,Boom Boom,John Lee Hooker,62,152350,Burnin',1/1/1962,0.441,0.455,-14.207,0.0485,0.62,0.00187,0.135,0.918,160.9,4,happy
+5Oc0vLGWdEWeCqIU8zyELt,Hound Dog,Big Mama Thornton,57,181000,Ball n' Chain,1/1/1989,0.563,0.542,-10.862,0.0962,0.706,3.59E-05,0.355,0.785,133.285,4,happy
+0uGMmiAC2eLxS8o7rQj6ga,Mighty Love,The Mystix,0,227213,Mighty Love,5/5/2023,0.586,0.77,-5.996,0.0508,0.429,0.0994,0.37,0.654,119.986,4,happy
+5DxJfzKzdBFLu01SxGpnfg,Mustang Sally,Wilson Pickett,38,187826,The Very Best of Wilson Pickett,4/13/1993,0.76,0.522,-8.088,0.0348,0.0906,3.36E-06,0.174,0.551,109.741,4,happy
+3UUhqPn6LaEMrgOFgOPoSM,What'd I Say,King Curtis,0,202480,Soul Twist with King Curtis,1962,0.51,0.752,-11.126,0.055,0.87,7.87E-05,0.226,0.671,101.881,4,happy
+5jH6P7e6RUGZnFGTeq3pUe,For the Love of Money,The Black Keys,53,211200,Dropout Boogie,5/13/2022,0.571,0.626,-6.929,0.0372,0.174,0.0017,0.111,0.523,97.191,4,happy
+79w4w08Q8Rn9uu9bPO3OFr,Flying High,B.B. King,29,150616,Flying High,12/23/2022,0.658,0.488,-10.662,0.0422,0.815,0.602,0.0843,0.97,162.06,4,happy
+65VzqBb5ogD2xIFD8jetMG,Got My Mojo Working,Muddy Waters,50,173040,His Best 1956-1964 - The Chess 50th Anniversary Collection,5/20/1997,0.519,0.779,-9.159,0.0648,0.573,8.13E-05,0.286,0.888,113.487,4,happy
+2Qj1FilGsXITZbFVmVeoLy,I'm Tore Down,Freddie King,54,253333,Getting Ready... (World),1971,0.64,0.496,-11.124,0.0413,0.616,4.63E-05,0.183,0.954,116.632,4,happy
+2R7uUQ0Dehu80gsOcydQC9,Bo Diddley,Bo Diddley,53,149013,Bo Diddley,1/1/1958,0.809,0.701,-12.484,0.0574,0.176,0,0.184,0.563,105.696,4,happy
+1a8vVeidOsauNu6rQmHBRS,Killing Floor,Howlin' Wolf,51,172826,The Real Folk Blues,1/11/1966,0.721,0.62,-9.775,0.0326,0.379,4.31E-05,0.344,0.644,118.696,4,happy
+5iaBfR3xQnausmGgulSoJE,Move It On Over,George Thorogood & The Destroyers,53,260426,"Essential Recordings: One Bourbon, One Scotch, One Beer",1978,0.502,0.856,-8.183,0.0391,0.000185,0.00901,0.082,0.813,146.59,4,happy
+0ilZ3ymj1tmMcwGsrYpkfb,Put It,TrackTribe,30,210260,Put It,12/2/2022,0.464,0.936,-5.623,0.0605,0.0086,0.103,0.103,0.971,173.538,4,happy
+2bIfM0ZOF4gxK1BeqH3Djm,Why I Sing The Blues,B.B. King,54,517400,Live And Well,1/1/1969,0.792,0.495,-11.603,0.0527,0.239,0.00175,0.074,0.719,118.066,4,happy
+1pPrO5Lcx9UXNebcloGeHE,I Ain't Drunk - Remastered,Albert Collins,51,247400,Cold Snap (Remastered),9/1/1986,0.646,0.807,-5.87,0.132,0.149,0.000593,0.0639,0.786,125.516,4,happy
+4IwoEUzs5INGFAxFjSdztQ,I Shouldn't Care - Bonus Track,Connor Selby,30,219733,I Shouldn’t Care (Bonus Track),12/9/2022,0.39,0.544,-7.633,0.0319,0.00839,0.00304,0.2,0.663,176.89,3,happy
+5QHrCl8kOMIFOWYQQzHXFH,Nadine - Stereo Remix,Chuck Berry,53,169000,Rock 'N' Roll Rarities,1/1/1986,0.803,0.502,-11.86,0.0818,0.612,4.57E-06,0.0946,0.95,140.613,4,happy
+78dp9ik3tgXCVmbOoqo0YS,Leavin Trunk,Mick Kolassa,30,236693,I'm Just Getting Started!,7/15/2022,0.46,0.818,-6.426,0.255,0.595,0.497,0.0735,0.859,199.857,4,happy
+2JHVfdnXq3ITx5RxzjM2qf,662,"Christone ""Kingfish"" Ingram",48,197781,662,7/23/2021,0.484,0.94,-4.848,0.0786,0.0822,0.00272,0.101,0.819,157.905,4,happy
+4rXXgDpZw2k1yu0ZnWWqJL,That's What Love Will Make You Do,Marc Broussard,43,245173,That's What Love Will Make You Do,1/11/2023,0.652,0.838,-5.976,0.0459,0.0875,0.00187,0.0649,0.764,89.986,4,happy
+2Pnmd8q9aMbByETxKPHQHq,Bankman,Andrea and Mud,29,255285,Bankman,11/4/2022,0.555,0.709,-6.922,0.0455,0.0223,0.0881,0.0885,0.539,127.099,4,happy
+4DNlJnFb2AFE0GiZPW5t5O,Rocket 88 - Remastered,Jackie Brenston,28,166666,Rocket 88,5/13/2016,0.409,0.692,-4.276,0.0813,0.681,0.00173,0.117,0.742,152.711,4,happy
+0ndUl4xQ5DRt9yEVDV0I0s,Dirty Dog,Will Jacobs,30,222733,Goldfish Blues,11/25/2022,0.635,0.626,-8.952,0.0883,0.353,7.46E-05,0.114,0.835,119.295,4,happy
+4HEmPMRG1Mz4pYEpYbWTO0,You Can't Judge A Book By Its Cover,Bo Diddley,48,194853,The Chess Box,7/26/1990,0.847,0.322,-12.922,0.0546,0.239,0,0.0778,0.946,114.557,4,happy
+263Cy5o1XNpYrGAbmkf6hN,All Your Love (I Miss Loving),Otis Rush,31,159000,Otis Rush,1962,0.476,0.849,-3.546,0.0626,0.833,0.00234,0.258,0.616,128.041,4,happy
+3QhDPahbCLsXCNXwjrsySw,Pack Fair and Square,Smokestack Blues Band,35,196115,Down At The Railway,4/20/2022,0.358,0.87,-5.545,0.0544,0.273,0.000404,0.0554,0.872,201.712,4,happy
+6l7401iZemL0HxoIZollVi,Find the Truth (OurVinyl Sessions),The Sheepdogs,29,173674,The Sheepdogs | OurVinyl Sessions,3/21/2023,0.473,0.669,-7.067,0.041,0.00253,0.427,0.0823,0.609,81.406,4,happy
+1qpVyqeKgqLf6uaGSxnw5y,Safety First,Douglas Avery,22,290026,Take My Rider,11/11/2022,0.617,0.776,-7.473,0.0517,0.0771,4.26E-05,0.341,0.857,113.339,4,happy
+5jthNmPnbVPiEcO8JGgRsZ,Hate To See You Go,Little Walter,49,136013,Hate To See You Go,8/7/1969,0.583,0.482,-11.301,0.039,0.852,3.15E-06,0.11,0.903,186.137,4,happy
+0wrFuYDRBrcx4BHqLsnIcH,Proud Man's Blues (Radio Mix),L.A. Big Daddy's,36,207255,Proud Man's Blues (Radio Mix),7/5/2022,0.582,0.59,-7.343,0.036,0.0329,0,0.317,0.784,118.997,1,happy
+2oGjkwyqqZmp4BERyVekFI,Just Friends,Joe Flip,33,217213,Home Sweet Home,3/10/2023,0.525,0.777,-7.757,0.0376,0.0968,0.00333,0.222,0.877,159.194,4,happy
+5MbAKetPv91d2m1EwSyjpB,Pontiac Blues,The Cash Box Kings,24,117346,Oscar's Motel,3/17/2023,0.541,0.749,-3.952,0.117,0.203,0,0.0814,0.798,91.405,4,happy
+1Ufhe0CbCnDLC7LvycY4t4,Don't You Just Know It,"Huey ""Piano"" Smith",41,154440,This Is... Huey 'Piano' Smith,1/1/1998,0.763,0.866,-3.803,0.0855,0.713,8.67E-05,0.191,0.793,139.764,4,happy
+4r57hl0xZ4re7wldHUBvOq,I Got the Walkin' Blues,Shuggie Otis,25,141493,Shuggie's Boogie: Shuggie Otis Plays The Blues,5/10/1994,0.578,0.61,-10.486,0.0303,0.00938,0.000329,0.0682,0.896,111.892,4,happy
+5NjibvR60eqc5vyU6Zd3bW,One Day You're Gonna Get Lucky,Johnny Burgin,25,274146,No Border Blues,6/19/2020,0.47,0.97,-3.725,0.257,0.161,0.0417,0.0412,0.666,114.537,4,happy
+0SxiUVY0WZpZxghvz2aV1j,Footprints on My Floor,Hillfolk Noir,32,221489,Footprints on My Floor,1/20/2023,0.65,0.841,-7.981,0.028,0.272,0.139,0.0998,0.962,111.179,4,happy
+3k6KyWwZQCTfK4Hj9dDKRU,Don`t Care,The Bluetonics,26,204400,Don’t Care,12/2/2022,0.306,0.78,-5.504,0.0878,0.0788,0.342,0.371,0.539,79.148,4,happy
+1czJJMae1ctCi8pveMnimr,Shim Sham Shimmy,"Billy ""The Kid"" Emerson",2,144680,"Red Hot - The Sun Years, Plus",7/12/2013,0.734,0.656,-9.984,0.0756,0.701,0.0013,0.131,0.645,141.43,4,happy
+57W5o6ojTFtydDMZ0mDDB3,Juke,Little Walter,52,164893,The Essential Little Walter,6/8/1993,0.566,0.657,-10.33,0.0693,0.751,0.896,0.156,0.643,145.359,4,happy
+0s1KrZNQlczWBv2B6iBFuQ,Statesboro Blues,Sunjay,27,239826,Statesboro Blues,10/21/2022,0.582,0.847,-5.309,0.0486,0.38,3.17E-06,0.117,0.734,164.111,4,happy
+3zT8NlAm9BMoTPEY2e9tXy,Doggin Me Around,King Leo,17,206000,King Leo,4/14/2023,0.725,0.705,-8.238,0.0308,0.878,0.231,0.326,0.769,105.625,4,happy
+65oJF7sCSUj1Bzlox3lRdU,Fools for Love,Errol Linton,20,250750,No Entry,5/11/2020,0.298,0.77,-7.823,0.105,0.0895,0.175,0.314,0.555,154.878,4,happy
+5H28g1Be16hLJaz3RrWCpQ,Shake Your Hips - Single Version,Slim Harpo,47,149800,The Excello Singles Anthology,7/24/2003,0.746,0.418,-13.563,0.0708,0.984,0.0925,0.132,0.736,94.459,4,happy
+5yIBM92MXlHeCmAJabfx0s,Oscar's Motel,The Cash Box Kings,28,166946,Oscar's Motel,3/17/2023,0.313,0.886,-3.187,0.0671,0.664,1.90E-06,0.368,0.736,83.173,4,happy
+2r6Ve8kNEzqg3u45UL0muX,Big Chief - Remastered,Professor Longhair,49,194666,Crawfish Fiesta (Remastered with Bonus Track),1980,0.56,0.73,-5.69,0.0362,0.219,0.144,0.179,0.963,151.594,4,happy
+3E7U6OXYRiXzAr898yyP7G,Shake It Baby,Lightnin' Hopkins,36,295068,"Lightnin' Strikes, Volume 2",7/23/1965,0.523,0.511,-13.439,0.0371,0.921,0.194,0.0987,0.732,144.541,4,happy
+0FuaUNYkcuu8DyXm3UDxA0,Pony Boy,Jon Cleary,18,140502,So Swell,4/25/2023,0.879,0.578,-15.531,0.039,0.143,0.105,0.114,0.885,122.03,4,happy
+6pTovnxQRzYQ6DlJO18sGf,Choo Ma Gum,The Cinelli Brothers,28,260000,Choo Ma Gum,1/27/2020,0.427,0.888,-6.069,0.0978,0.306,0,0.308,0.687,80.393,4,happy
+3NRql0A1Ef4RCvT473iqgD,Hell N Back,Bakar,84,213573,Hell N Back,8/15/2019,0.584,0.684,-4.314,0.567,0.312,9.05E-05,0.112,0.72,210.164,4,happy
+4vHNeBWDQpVCmGbaccrRzi,Goodie Bag,Still Woozy,78,146390,Goodie Bag,11/5/2017,0.739,0.522,-12.304,0.151,0.821,0.00124,0.233,0.619,138.263,4,happy
+0xkSfBYxRMTLgrinRJlzfz,Next Exit,Vacations,66,201000,Next Exit,4/14/2023,0.456,0.775,-7.125,0.037,0.000313,0.823,0.674,0.793,80.026,4,happy
+3HlK8txWAdtKMrbsqX40pl,Freaking Out the Neighborhood,Mac DeMarco,77,173888,2,10/16/2012,0.565,0.832,-5.751,0.108,0.0638,0.0288,0.386,0.847,143.303,4,happy
+0KIpuVYhKUUUpjo6H5NvBY,After Midnight (feat. Clairo),Phoenix,70,188000,After Midnight (feat. Clairo),3/16/2023,0.639,0.82,-5.986,0.0322,0.0153,0.00405,0.309,0.667,100.013,4,happy
+0uI7yAKUf52Cn7y3sYyjiX,3 Nights,Dominic Fike,73,177666,"Don't Forget About Me, Demos",10/16/2018,0.815,0.518,-6.594,0.0897,0.223,0,0.104,0.877,151.891,4,happy
+0Mrm083tqUaTGUkiluSORf,Moonshine,Hippo Campus,60,240000,Moonshine,4/11/2023,0.51,0.934,-6.383,0.0406,0.218,0.00567,0.0747,0.74,156.861,4,happy
+7mcYosmfRFxXJN3hwwNXnL,Redlight (feat. Teezo Touchdown),BETWEEN FRIENDS,15,173720,Redlight (feat. Teezo Touchdown),5/5/2023,0.697,0.777,-5.914,0.117,0.256,0,0.202,0.353,136.111,4,happy
+7vAMRzLhIxvRGwmyKm3tlk,Out Of My League,Aidan Bissett,60,181135,Out Of My League,4/14/2023,0.541,0.744,-5.452,0.0346,0.0103,0,0.284,0.455,129.953,4,happy
+0O5q2h0kfQD6PixL7rCHuL,After The Earthquake,Alvvays,60,185276,Blue Rev,10/7/2022,0.321,0.901,-4.441,0.093,0.00856,8.80E-06,0.59,0.415,165.886,4,happy
+2LaHq6oy3DYrsmreXlmlwx,Dead,Quarters of Change,48,219984,Into The Rift,7/29/2022,0.658,0.791,-4.732,0.0979,0.00619,0,0.384,0.485,123.117,4,happy
+21lFRFkdf5sgITNZCDMeDq,Don't Fade Away,Beach Fossils,61,202621,Don't Fade Away,3/7/2023,0.639,0.87,-8.324,0.0284,0.000673,0.307,0.167,0.96,128.035,4,happy
+19OPH0JC2d7ZCxCK0l1xVE,Strawberry Daydream,Pacific Avenue,19,187228,Flowers,5/5/2023,0.17,0.867,-3.387,0.0788,0.00311,1.80E-06,0.739,0.365,161.923,4,happy
+5ftdTvmQjjsL23t7jxADfI,Brazil,Declan McKenna,64,252306,Brazil,12/4/2015,0.689,0.617,-5.196,0.029,0.0918,2.08E-05,0.0816,0.682,121.062,4,happy
+7uTqmYA0sSjmDVpQNGDz7j,Lots of Nothing (feat. BENEE),Spacey Jane,61,193836,Lots of Nothing (feat. BENEE),1/10/2023,0.551,0.865,-4.616,0.0406,0.000668,0,0.108,0.702,140.036,4,happy
+5r5cp9IpziiIsR6b93vcnQ,Walking On A Dream,Empire of the Sun,80,198440,Walking On A Dream (10th Anniversary Edition),10/3/2008,0.871,0.701,-5.594,0.0458,0.257,7.52E-06,0.0589,0.716,126.975,4,happy
+6K4t31amVTZDgR3sKmwUJJ,The Less I Know The Better,Tame Impala,86,216320,Currents,7/17/2015,0.64,0.74,-4.083,0.0284,0.0115,0.00678,0.167,0.785,116.879,4,happy
+1A3tuE6ti9qoZDwB3LB0t2,I Think I Like When It Rains,WILLIS,75,278293,Locals 2,6/12/2017,0.622,0.455,-7.116,0.0282,0.0401,0,0.0957,0.274,124.412,4,happy
+5UEZzRsrB4FKw1SIMoMD2y,The Sun,Myd,66,207373,Born a Loser,4/30/2021,0.773,0.586,-7.623,0.0311,0.752,0.762,0.0941,0.729,126.014,4,happy
+0VF7YLIxSQKyNiFL3X6MmN,Stargazing,The Neighbourhood,75,217026,Chip Chrome & The Mono-Tones (Deluxe),12/11/2020,0.512,0.483,-7.798,0.0298,0.00304,0.0011,0.12,0.367,160.009,4,happy
+0UV5zxRMz6AO4ZwUOZNIKI,Where'd All the Time Go?,Dr. Dog,78,234800,"Shame, Shame (Deluxe Edition)",11/2/2010,0.454,0.82,-4.193,0.0567,0.132,0.000969,0.115,0.575,166.303,4,happy
+1170VohRSx6GwE6QDCHPPH,Kilby Girl,The Backseat Lovers,78,282205,When We Were Friends,1/27/2019,0.329,0.444,-9.973,0.0417,0.0578,0.0352,0.113,0.225,162.279,4,happy
+0awZwmlC6pxH65KTZpadmX,Freakin' Out On the Interstate,Briston Maroney,71,251906,Freakin' Out On The Interstate (Acoustic Version [Live]),7/10/2020,0.45,0.794,-5.015,0.0538,0.388,0,0.303,0.362,143.861,4,happy
+64dLd6rVqDLtkXFYrEUHIU,New Gold (feat. Tame Impala and Bootie Brown),Gorillaz,73,215149,New Gold (feat. Tame Impala and Bootie Brown),8/31/2022,0.695,0.923,-3.93,0.0522,0.0425,0.0469,0.116,0.551,108.014,3,happy
+5J8ojwDIVnf6ZPwT8f32sQ,Go Boy,ODIE,60,176727,Go Boy,4/7/2023,0.575,0.476,-12.338,0.0287,0.296,0.037,0.164,0.0873,110.034,4,happy
+1gH1h30wkQdd9zhY3j7a8T,THE SHADE,Rex Orange County,82,181506,WHO CARES?,3/11/2022,0.898,0.509,-7.973,0.062,0.391,0,0.0876,0.727,119.869,4,happy
+61OJxhoY3Ix50rYVKo8zRK,Can I Call You Tonight?,Dayglow,79,278769,Fuzzybrain,11/14/2019,0.641,0.842,-7.27,0.0292,0.134,0.911,0.419,0.499,129.978,4,happy
+4YMc3A256xFBS0xcT77Qce,help herself,bbno$,67,188571,help herself,1/29/2021,0.607,0.851,-7.754,0.0364,0.623,0.351,0.107,0.479,168.049,4,happy
+2tznHmp70DxMyr2XhWLOW0,Cigarette Daydreams,Cage The Elephant,79,208760,Melophobia,10/8/2013,0.636,0.676,-3.442,0.0263,0.0807,0,0.0831,0.273,113.98,4,happy
+2iyWlA4yxOs2hWN3x6fa8g,Are You Bored Yet? (feat. Clairo),Wallows,49,178000,Scrawny / Are You Bored Yet?,2/18/2019,0.682,0.683,-6.444,0.0287,0.156,2.32E-05,0.273,0.64,120.023,4,happy
+5JWPUEov2wlX7c0jhYZpeB,Lost In Yesterday,Tame Impala,69,249586,The Slow Rush,2/14/2020,0.569,0.84,-4.123,0.118,0.0295,0.000118,0.0995,0.749,183.059,3,happy
+0R3TWpoxAhT3HDXM7tpRzS,Ghostride,Crumb,70,126120,Jinx,6/14/2019,0.665,0.351,-9.424,0.0276,0.516,0.819,0.109,0.451,87.057,4,happy
+2d3QlXE6FXFDeodiS66yjM,Weekend Friend,Goth Babe,70,209454,Weekend Friend,1/19/2019,0.409,0.594,-9.725,0.031,0.032,0.0391,0.0904,0.212,110.187,4,happy
+4RGWHfQeJftd5XrP8JUgFj,Metamodernity,Vansire,72,162663,Metamodernity,6/11/2019,0.823,0.544,-10.077,0.0358,0.389,0.165,0.108,0.826,121.968,4,happy
+0GO8y8jQk1PkHzS31d699N,Tongue Tied,GROUPLOVE,80,218013,Never Trust a Happy Song,9/2/2011,0.56,0.936,-5.835,0.0439,0.00847,0,0.161,0.371,112.96,4,happy
+2Lumsra3kuU61wXkEKzKaK,Disco,Surf Curse,71,152760,Disco,6/12/2019,0.473,0.621,-8.698,0.0291,0.0253,0.000366,0.19,0.782,173.083,4,happy
+4MXE6VCvTsQitHWrAxj7Kg,Maple Syrup,The Backseat Lovers,72,243529,When We Were Friends,1/27/2019,0.543,0.526,-9.703,0.0582,0.0447,0.0533,0.0778,0.384,153,3,happy
